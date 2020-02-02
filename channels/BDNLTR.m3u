@@ -1,909 +1,901 @@
 #EXTM3U
-#EXTINF:0,|DE|*****SKY DEUTSCHLAND*****|DE|
-http://185.23.213.162:8789/live/ania/ania/23779.m3u8
-#EXTINF:0,|DE| ARD
-http://185.23.213.162:8789/live/ania/ania/23778.m3u8
-#EXTINF:0,|DE| ZDF
-http://185.23.213.162:8789/live/ania/ania/23777.m3u8
+#EXTINF:0,|DE| ARD ALPHA HD
+http://iptv-luxe.com:8789/live/1212/1212/590.m3u8
+#EXTINF:0,|DE| ZDF HD
+http://iptv-luxe.com:8789/live/1212/1212/468.m3u8
 #EXTINF:0,|DE| PROSIEBEN
-http://185.23.213.162:8789/live/ania/ania/23776.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/471.m3u8
 #EXTINF:0,|DE| SAT 1 HD
-http://185.23.213.162:8789/live/ania/ania/23775.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/472.m3u8
 #EXTINF:0,|DE| RTL HD
-http://185.23.213.162:8789/live/ania/ania/23774.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/469.m3u8
 #EXTINF:0,|DE| RTL 2
-http://185.23.213.162:8789/live/ania/ania/23773.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/470.m3u8
 #EXTINF:0,|DE| RTL Nitro
-http://185.23.213.162:8789/live/ania/ania/23772.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1458.m3u8
 #EXTINF:0,|DE| RTL PLUS
-http://185.23.213.162:8789/live/ania/ania/23771.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1421.m3u8
 #EXTINF:0,|DE| RTL2 HD
-http://185.23.213.162:8789/live/ania/ania/23770.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1459.m3u8
 #EXTINF:0,|DE| SIXX HD
-http://185.23.213.162:8789/live/ania/ania/23769.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1993.m3u8
 #EXTINF:0,|DE| ARTE TV
-http://185.23.213.162:8789/live/ania/ania/23768.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/11874.m3u8
 #EXTINF:0,|DE| KABEL EINS
-http://185.23.213.162:8789/live/ania/ania/23767.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/474.m3u8
 #EXTINF:0,|DE| VOX
-http://185.23.213.162:8789/live/ania/ania/23766.m3u8
-#EXTINF:0,|DE| SUPER RTL
-http://185.23.213.162:8789/live/ania/ania/23765.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/473.m3u8
+#EXTINF:0,|DE| Super RTL
+http://iptv-luxe.com:8789/live/1212/1212/1999.m3u8
 #EXTINF:0,|DE| DAS ERSTE HD
-http://185.23.213.162:8789/live/ania/ania/23764.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/467.m3u8
 #EXTINF:0,|DE| PRO 7 MAXX
-http://185.23.213.162:8789/live/ania/ania/23763.m3u8
-#EXTINF:0,|DE| MUNCHEN TV
-http://185.23.213.162:8789/live/ania/ania/23761.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1460.m3u8
+#EXTINF:0,Virgin_Radio-TV
+http://iptv-luxe.com:8789/live/1212/1212/599.m3u8
+#EXTINF:0,|DE| ANIXE SERIE HD
+http://iptv-luxe.com:8789/live/1212/1212/594.m3u8
 #EXTINF:0,|DE| AXN HD
-http://185.23.213.162:8789/live/ania/ania/23760.m3u8
-#EXTINF:0,|DE| FOX-HD
-http://185.23.213.162:8789/live/ania/ania/23759.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/544.m3u8
+#EXTINF:0,|DE| FOX HD
+http://iptv-luxe.com:8789/live/1212/1212/550.m3u8
 #EXTINF:0,|DE| KINOWELT
-http://185.23.213.162:8789/live/ania/ania/23758.m3u8
-#EXTINF:0,|DE| ANIXE
-http://185.23.213.162:8789/live/ania/ania/23757.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1461.m3u8
+#EXTINF:0,|DE| ANIXE HD
+http://iptv-luxe.com:8789/live/1212/1212/592.m3u8
 #EXTINF:0,|DE| N-TV
-http://185.23.213.162:8789/live/ania/ania/23756.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/684.m3u8
 #EXTINF:0,|DE| ZDF INFO
-http://185.23.213.162:8789/live/ania/ania/23755.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/685.m3u8
 #EXTINF:0,|DE|*****KINO*****|DE|
-http://185.23.213.162:8789/live/ania/ania/23754.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/475.m3u8
 #EXTINF:0,|DE| SKY CINEMA HD
-http://185.23.213.162:8789/live/ania/ania/23753.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/745.m3u8
 #EXTINF:0,|DE| SKY CINEMA
-http://185.23.213.162:8789/live/ania/ania/23752.m3u8
-#EXTINF:0,|DE| SKY CINEMA  24 HD
-http://185.23.213.162:8789/live/ania/ania/23751.m3u8
-#EXTINF:0,|DE| SKY CINEMA 1 HD
-http://185.23.213.162:8789/live/ania/ania/23750.m3u8
-#EXTINF:0,|DE| SKY ACTION HD
-http://185.23.213.162:8789/live/ania/ania/23749.m3u8
-#EXTINF:0,|DE| SKY COMEDY HD
-http://185.23.213.162:8789/live/ania/ania/23746.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/476.m3u8
+#EXTINF:0,|DE| SKY CINEMA +24 HD
+http://iptv-luxe.com:8789/live/1212/1212/477.m3u8
+#EXTINF:0,|DE|SKY CINEMA+1HD
+http://iptv-luxe.com:8789/live/1212/1212/773.m3u8
+#EXTINF:0,|DE| SKY CINEMA ACTION HD
+http://iptv-luxe.com:8789/live/1212/1212/747.m3u8
+#EXTINF:0,|DE| SKY CINEMA ACTION
+http://iptv-luxe.com:8789/live/1212/1212/478.m3u8
+#EXTINF:0,AXN_ACTION.HD
+http://iptv-luxe.com:8789/live/1212/1212/746.m3u8
+#EXTINF:0,|DE| SKY CINEMA COMEDY HD
+http://iptv-luxe.com:8789/live/1212/1212/708.m3u8
 #EXTINF:0,|DE| SKY CINEMA FAMILY
-http://185.23.213.162:8789/live/ania/ania/23745.m3u8
-#EXTINF:0,|DE| MGM
-http://185.23.213.162:8789/live/ania/ania/23744.m3u8
-#EXTINF:0,|DE| SKY EMOTION HD
-http://185.23.213.162:8789/live/ania/ania/23743.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1994.m3u8
+#EXTINF:0,MGM_DE
+http://iptv-luxe.com:8789/live/1212/1212/710.m3u8
+#EXTINF:0,|DE| SKY CINEMA EMOTION HD
+http://iptv-luxe.com:8789/live/1212/1212/547.m3u8
 #EXTINF:0,|DE| SKY CINEMA HITS
-http://185.23.213.162:8789/live/ania/ania/23742.m3u8
-#EXTINF:0,|DE| SKY HITS HD
-http://185.23.213.162:8789/live/ania/ania/23741.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/709.m3u8
+#EXTINF:0,|DE| SKY CINEMA HITS HD
+http://iptv-luxe.com:8789/live/1212/1212/536.m3u8
 #EXTINF:0,|DE| UNIVERSAL HD
-http://185.23.213.162:8789/live/ania/ania/23740.m3u8
-#EXTINF:0,|DE| TNT FILM
-http://185.23.213.162:8789/live/ania/ania/23739.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9008.m3u8
+#EXTINF:0,|DE| TNT FILM FHD
+http://iptv-luxe.com:8789/live/1212/1212/548.m3u8
 #EXTINF:0,|DE| TNT COMEDY HD
-http://185.23.213.162:8789/live/ania/ania/23738.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/2000.m3u8
 #EXTINF:0,|DE| HEIMATKANAL
-http://185.23.213.162:8789/live/ania/ania/23737.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/6364.m3u8
 #EXTINF:0,|DE|*****PPV*****|DE|
-http://185.23.213.162:8789/live/ania/ania/23736.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/563.m3u8
 #EXTINF:0,|DE| SKY SELECT HD1
-http://185.23.213.162:8789/live/ania/ania/23735.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/554.m3u8
 #EXTINF:0,|DE| SKY SELECT HD2
-http://185.23.213.162:8789/live/ania/ania/23734.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/556.m3u8
 #EXTINF:0,|DE| SKY SELECT HD3
-http://185.23.213.162:8789/live/ania/ania/23733.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/557.m3u8
 #EXTINF:0,|DE| SKY SELECT HD4
-http://185.23.213.162:8789/live/ania/ania/23732.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/558.m3u8
 #EXTINF:0,|DE| SKY SELECT HD5
-http://185.23.213.162:8789/live/ania/ania/23731.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/560.m3u8
 #EXTINF:0,|DE| SKY SELECT HD6
-http://185.23.213.162:8789/live/ania/ania/23730.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/561.m3u8
 #EXTINF:0,|DE| SKY SELECT HD7
-http://185.23.213.162:8789/live/ania/ania/23729.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/562.m3u8
 #EXTINF:0,|DE| SKY SELECT HD8
-http://185.23.213.162:8789/live/ania/ania/23728.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/564.m3u8
 #EXTINF:0,|DE| SKY SELECT 9HD
-http://185.23.213.162:8789/live/ania/ania/23727.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/759.m3u8
 #EXTINF:0,|DE| SKY SELECT 10HD
-http://185.23.213.162:8789/live/ania/ania/23726.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/760.m3u8
 #EXTINF:0,|DE|*****UNTERHALTUNG*****|DE|
-http://185.23.213.162:8789/live/ania/ania/23725.m3u8
-#EXTINF:0,|DE| SKY 1HD
-http://185.23.213.162:8789/live/ania/ania/23724.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/559.m3u8
+#EXTINF:0,|DE| SKY ARTS FHD
+http://iptv-luxe.com:8789/live/1212/1212/1996.m3u8
 #EXTINF:0,|DE| SYFY HD
-http://185.23.213.162:8789/live/ania/ania/23723.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/742.m3u8
 #EXTINF:0,|DE| SYFY
-http://185.23.213.162:8789/live/ania/ania/23722.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1995.m3u8
 #EXTINF:0,|DE| E!
-http://185.23.213.162:8789/live/ania/ania/23721.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/2001.m3u8
 #EXTINF:0,|DE| TLC
-http://185.23.213.162:8789/live/ania/ania/23720.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/2141.m3u8
 #EXTINF:0,|DE| SKY ATLANTIC  HD
-http://185.23.213.162:8789/live/ania/ania/23719.m3u8
-#EXTINF:0,|DE| AXN
-http://185.23.213.162:8789/live/ania/ania/23717.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/537.m3u8
 #EXTINF:0,|DE| SKY KRIMI
-http://185.23.213.162:8789/live/ania/ania/23716.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9007.m3u8
 #EXTINF:0,|DE| 13TH STREET
-http://185.23.213.162:8789/live/ania/ania/23715.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/542.m3u8
 #EXTINF:0,|DE| 13TH STREET HD
-http://185.23.213.162:8789/live/ania/ania/23714.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/549.m3u8
 #EXTINF:0,|DE| TNT SERIES
-http://185.23.213.162:8789/live/ania/ania/23713.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/711.m3u8
 #EXTINF:0,|DE| SAT1 GOLD HD
-http://185.23.213.162:8789/live/ania/ania/23712.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9009.m3u8
 #EXTINF:0,|DE| RTL PASSION
-http://185.23.213.162:8789/live/ania/ania/23711.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/713.m3u8
 #EXTINF:0,|DE| RTL LIVING
-http://185.23.213.162:8789/live/ania/ania/23710.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/714.m3u8
 #EXTINF:0,|DE| RTL CRIME HD
-http://185.23.213.162:8789/live/ania/ania/23709.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/715.m3u8
 #EXTINF:0,|DE| ROMANCE TV
-http://185.23.213.162:8789/live/ania/ania/23708.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/712.m3u8
 #EXTINF:0,|DE|*****SPORT*****|DE|
-http://185.23.213.162:8789/live/ania/ania/23707.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/504.m3u8
 #EXTINF:0,|DE| SKY SPORT NEWS HD
-http://185.23.213.162:8789/live/ania/ania/23706.m3u8
-#EXTINF:0,|DE| SKY SPORT 1HD
-http://185.23.213.162:8789/live/ania/ania/23705.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/570.m3u8
+#EXTINF:0,|DE| SKY SPORT 1 FHD
+http://iptv-luxe.com:8789/live/1212/1212/17240.m3u8
+#EXTINF:0,|DE| SKY SPORT 1
+http://iptv-luxe.com:8789/live/1212/1212/505.m3u8
 #EXTINF:0,|DE|SKY SPORT 2
-http://185.23.213.162:8789/live/ania/ania/23702.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/506.m3u8
+#EXTINF:0,|DE|SKY SPORT 2HD
+http://iptv-luxe.com:8789/live/1212/1212/734.m3u8
 #EXTINF:0,|DE| SKY SPORT 3HD
-http://185.23.213.162:8789/live/ania/ania/23701.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9014.m3u8
 #EXTINF:0,|DE| SKY SPORT 4HD
-http://185.23.213.162:8789/live/ania/ania/23700.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9015.m3u8
 #EXTINF:0,|DE| SKY SPORT 5HD
-http://185.23.213.162:8789/live/ania/ania/23699.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9016.m3u8
 #EXTINF:0,|DE| SKY SPORT 6HD
-http://185.23.213.162:8789/live/ania/ania/23698.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9017.m3u8
 #EXTINF:0,|DE| SKY SPORT 7HD
-http://185.23.213.162:8789/live/ania/ania/23697.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9018.m3u8
 #EXTINF:0,|DE| SKY BUNDESLIGA 1HD
-http://185.23.213.162:8789/live/ania/ania/23696.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/432.m3u8
 #EXTINF:0,|DE| SKY BUNDESLIGA 2HD
-http://185.23.213.162:8789/live/ania/ania/23695.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/431.m3u8
 #EXTINF:0,|DE| SKY BUNDESLIGA 3HD
-http://185.23.213.162:8789/live/ania/ania/23694.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/430.m3u8
 #EXTINF:0,|DE| SKY BUNDESLIGA 4HD
-http://185.23.213.162:8789/live/ania/ania/23693.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9010.m3u8
 #EXTINF:0,|DE| SKY BUNDESLIGA 5HD
-http://185.23.213.162:8789/live/ania/ania/23692.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9011.m3u8
 #EXTINF:0,|DE| SKY BUNDESLIGA 6HD
-http://185.23.213.162:8789/live/ania/ania/23691.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9012.m3u8
 #EXTINF:0,|DE| SKY BUNDESLIGA 7HD
-http://185.23.213.162:8789/live/ania/ania/23690.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9013.m3u8
+#EXTINF:0,|DE| Telekom Fussball 1
+http://iptv-luxe.com:8789/live/1212/1212/30801.m3u8
+#EXTINF:0,|DE| Telekom Fussball 2
+http://iptv-luxe.com:8789/live/1212/1212/30802.m3u8
+#EXTINF:0,|DE| Telekom Fussball 3
+http://iptv-luxe.com:8789/live/1212/1212/30803.m3u8
+#EXTINF:0,|DE| Telekom Fussball 4
+http://iptv-luxe.com:8789/live/1212/1212/30804.m3u8
+#EXTINF:0,|DE| Telekom Fussball 5
+http://iptv-luxe.com:8789/live/1212/1212/30805.m3u8
+#EXTINF:0,|DE| Telekom Fussball 6
+http://iptv-luxe.com:8789/live/1212/1212/30806.m3u8
+#EXTINF:0,|DE| Telekom Fussball 7
+http://iptv-luxe.com:8789/live/1212/1212/30807.m3u8
+#EXTINF:0,|DE| Telekom Fussball 8
+http://iptv-luxe.com:8789/live/1212/1212/30808.m3u8
 #EXTINF:0,|DE| EUROSPORT 1 HD
-http://185.23.213.162:8789/live/ania/ania/23689.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/546.m3u8
 #EXTINF:0,|DE| EUROSPORT 2 HD
-http://185.23.213.162:8789/live/ania/ania/23688.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1462.m3u8
 #EXTINF:0,|DE| SPORT 1
-http://185.23.213.162:8789/live/ania/ania/23687.m3u8
-#EXTINF:0,|DE| SPORT 1   HD
-http://185.23.213.162:8789/live/ania/ania/23686.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1998.m3u8
+#EXTINF:0,|DE| SPORT 1+  HD
+http://iptv-luxe.com:8789/live/1212/1212/1997.m3u8
 #EXTINF:0,|DE| AUTO MOTOR SPORT
-http://185.23.213.162:8789/live/ania/ania/23685.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/717.m3u8
 #EXTINF:0,|DE|*****KULTUR*****|DE|
-http://185.23.213.162:8789/live/ania/ania/23684.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/540.m3u8
 #EXTINF:0,|DE| DISCOVERY HD
-http://185.23.213.162:8789/live/ania/ania/23683.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/552.m3u8
 #EXTINF:0,|DE| NATIONAL GEOGRAPHIC HD
-http://185.23.213.162:8789/live/ania/ania/23682.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/743.m3u8
 #EXTINF:0,|DE| ANIMAL PLANET HD
-http://185.23.213.162:8789/live/ania/ania/23681.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/538.m3u8
 #EXTINF:0,|DE| NAT GEO WILD HD
-http://185.23.213.162:8789/live/ania/ania/23680.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/543.m3u8
 #EXTINF:0,|DE| SKY ARTS HD
-http://185.23.213.162:8789/live/ania/ania/23679.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/744.m3u8
 #EXTINF:0,|DE|Sky_Discovery
-http://185.23.213.162:8789/live/ania/ania/23678.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/539.m3u8
 #EXTINF:0,|DE| DMAX HD
-http://185.23.213.162:8789/live/ania/ania/23677.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/555.m3u8
 #EXTINF:0,|DE| HISTORY HD
-http://185.23.213.162:8789/live/ania/ania/23676.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/545.m3u8
 #EXTINF:0,|DE| SPIEGEL GESCHICHTE
-http://185.23.213.162:8789/live/ania/ania/23675.m3u8
-#EXTINF:0,|DE| SPIEGEL TV WISSEN
-http://185.23.213.162:8789/live/ania/ania/23674.m3u8
-#EXTINF:0,|DE| A&E
-http://185.23.213.162:8789/live/ania/ania/23673.m3u8
-#EXTINF:0,|DE|*****NIEUWS*****|DE|
-http://185.23.213.162:8789/live/ania/ania/23672.m3u8
-#EXTINF:0,HSE24
-http://185.23.213.162:8789/live/ania/ania/23671.m3u8
-#EXTINF:0,|DE| DW
-http://185.23.213.162:8789/live/ania/ania/23670.m3u8
-#EXTINF:0,|DE| N24
-http://185.23.213.162:8789/live/ania/ania/23669.m3u8
-#EXTINF:0,|DE|AUSTRIA 24 TV
-http://185.23.213.162:8789/live/ania/ania/23668.m3u8
-#EXTINF:0,|DE|*****KINDER*****|DE|
-http://185.23.213.162:8789/live/ania/ania/23667.m3u8
-#EXTINF:0,|DE| DISNEY CINEMAGIC
-http://185.23.213.162:8789/live/ania/ania/23666.m3u8
-#EXTINF:0,|DE| DISNEY XD
-http://185.23.213.162:8789/live/ania/ania/23665.m3u8
-#EXTINF:0,|DE| JUNIOR
-http://185.23.213.162:8789/live/ania/ania/23664.m3u8
-#EXTINF:0,|DE| Nickelodeon
-http://185.23.213.162:8789/live/ania/ania/23663.m3u8
-#EXTINF:0,|DE| BOOMERANG
-http://185.23.213.162:8789/live/ania/ania/23662.m3u8
-#EXTINF:0,|DE|Cartoon-Network
-http://185.23.213.162:8789/live/ania/ania/23661.m3u8
-#EXTINF:0,|DE| DISNEY CHANNEL
-http://185.23.213.162:8789/live/ania/ania/23660.m3u8
-#EXTINF:0,|DE| DISNEY JUNIOR
-http://185.23.213.162:8789/live/ania/ania/23659.m3u8
-#EXTINF:0,|DE| KIKA HD
-http://185.23.213.162:8789/live/ania/ania/23658.m3u8
-#EXTINF:0,|NL| 192TV
-http://185.23.213.162:8789/live/ania/ania/42416.m3u8
-#EXTINF:0,|NL| 24 KITCHEN
-http://185.23.213.162:8789/live/ania/ania/42417.m3u8
-#EXTINF:0,|NL| ANIMAL PLANET
-http://185.23.213.162:8789/live/ania/ania/42418.m3u8
-#EXTINF:0,|NL| AT5
-http://185.23.213.162:8789/live/ania/ania/42419.m3u8
-#EXTINF:0,|NL| BOOMERANG
-http://185.23.213.162:8789/live/ania/ania/42420.m3u8
-#EXTINF:0,|NL| Canvas HD
-http://185.23.213.162:8789/live/ania/ania/42421.m3u8
-#EXTINF:0,|NL| CARTOON
-http://185.23.213.162:8789/live/ania/ania/42422.m3u8
-#EXTINF:0,|NL| CAZ
-http://185.23.213.162:8789/live/ania/ania/42423.m3u8
-#EXTINF:0,|NL| DISCOVERY INVESTIGATION
-http://185.23.213.162:8789/live/ania/ania/42424.m3u8
-#EXTINF:0,|NL| DISCOVERY SHOWCASE HD
-http://185.23.213.162:8789/live/ania/ania/42425.m3u8
-#EXTINF:0,|NL| DISNEY CHANNEL
-http://185.23.213.162:8789/live/ania/ania/42426.m3u8
-#EXTINF:0,|NL| een HD
-http://185.23.213.162:8789/live/ania/ania/42427.m3u8
-#EXTINF:0,|NL| EUROSPORT 1 HD
-http://185.23.213.162:8789/live/ania/ania/42428.m3u8
-#EXTINF:0,|NL| EUROSPORT 2 HD
-http://185.23.213.162:8789/live/ania/ania/42429.m3u8
-#EXTINF:0,|NL| FILM1 ACTION
-http://185.23.213.162:8789/live/ania/ania/42430.m3u8
-#EXTINF:0,|NL| FILM1 DRAMA HD
-http://185.23.213.162:8789/live/ania/ania/42431.m3u8
-#EXTINF:0,|NL| FILM1 FAMILY HD
-http://185.23.213.162:8789/live/ania/ania/42432.m3u8
-#EXTINF:0,|NL| FILM1 PREMIERE HD
-http://185.23.213.162:8789/live/ania/ania/42433.m3u8
-#EXTINF:0,|NL| Food NETWORK HD
-http://185.23.213.162:8789/live/ania/ania/42434.m3u8
-#EXTINF:0,|NL| FOX CHANNEL
-http://185.23.213.162:8789/live/ania/ania/42435.m3u8
-#EXTINF:0,|NL| FOX SPORTS EDL 1 HD
-http://185.23.213.162:8789/live/ania/ania/42436.m3u8
-#EXTINF:0,|NL| FOX SPORTS EDL 3 HD
-http://185.23.213.162:8789/live/ania/ania/42437.m3u8
-#EXTINF:0,|NL| KetOp12
-http://185.23.213.162:8789/live/ania/ania/42439.m3u8
-#EXTINF:0,|NL| L1MBURG
-http://185.23.213.162:8789/live/ania/ania/42440.m3u8
-#EXTINF:0,|NL| MTV Music 24
-http://185.23.213.162:8789/live/ania/ania/42441.m3u8
-#EXTINF:0,|NL| Nat Geo Wild HD
-http://185.23.213.162:8789/live/ania/ania/42442.m3u8
-#EXTINF:0,|NL| NET5 HD
-http://185.23.213.162:8789/live/ania/ania/42443.m3u8
-#EXTINF:0,|NL| NGC HD
-http://185.23.213.162:8789/live/ania/ania/42444.m3u8
-#EXTINF:0,|NL| KADET
-http://185.23.213.162:8789/live/ania/ania/42438.m3u8
-#EXTINF:0,|NL| NPO POLITIEK
-http://185.23.213.162:8789/live/ania/ania/42445.m3u8
-#EXTINF:0,|NL| NPO ZAPP XTRA/NPO BEST
-http://185.23.213.162:8789/live/ania/ania/42446.m3u8
-#EXTINF:0,|NL| NPO1 HD
-http://185.23.213.162:8789/live/ania/ania/42447.m3u8
-#EXTINF:0,|NL| NPO2 HD
-http://185.23.213.162:8789/live/ania/ania/42448.m3u8
-#EXTINF:0,|NL| NPO3 HD
-http://185.23.213.162:8789/live/ania/ania/42449.m3u8
-#EXTINF:0,|NL| Q2 HD
-http://185.23.213.162:8789/live/ania/ania/42450.m3u8
-#EXTINF:0,|NL| RTL CRIME
-http://185.23.213.162:8789/live/ania/ania/42451.m3u8
-#EXTINF:0,|NL| RTL LOUNGE
-http://185.23.213.162:8789/live/ania/ania/42452.m3u8
-#EXTINF:0,|NL| RTL Z
-http://185.23.213.162:8789/live/ania/ania/42453.m3u8
-#EXTINF:0,|NL| RTL5 HD
-http://185.23.213.162:8789/live/ania/ania/42455.m3u8
-#EXTINF:0,|NL| RTL7 HD
-http://185.23.213.162:8789/live/ania/ania/42456.m3u8
-#EXTINF:0,|NL| RTL8 HD
-http://185.23.213.162:8789/live/ania/ania/42457.m3u8
-#EXTINF:0,|NL| RTL4 HD
-http://185.23.213.162:8789/live/ania/ania/42454.m3u8
-#EXTINF:0,|NL| SBS6 HD
-http://185.23.213.162:8789/live/ania/ania/42458.m3u8
-#EXTINF:0,|NL| SBS9
-http://185.23.213.162:8789/live/ania/ania/42459.m3u8
-#EXTINF:0,|NL| TLC
-http://185.23.213.162:8789/live/ania/ania/42460.m3u8
-#EXTINF:0,|NL| TV ORANJE
-http://185.23.213.162:8789/live/ania/ania/42461.m3u8
-#EXTINF:0,|NL| Veronica/DisneyXD HD
-http://185.23.213.162:8789/live/ania/ania/42462.m3u8
-#EXTINF:0,|NL| VIJF
-http://185.23.213.162:8789/live/ania/ania/42464.m3u8
-#EXTINF:0,|NL| VTM HD
-http://185.23.213.162:8789/live/ania/ania/42466.m3u8
-#EXTINF:0,|NL| ZES ZES
-http://185.23.213.162:8789/live/ania/ania/42467.m3u8
-#EXTINF:0,|NL| ZIGGO SPORT GOLF
-http://185.23.213.162:8789/live/ania/ania/42468.m3u8
-#EXTINF:0,|NL| VIER HD
-http://185.23.213.162:8789/live/ania/ania/42463.m3u8
-#EXTINF:0,|NL| VITAYA
-http://185.23.213.162:8789/live/ania/ania/42465.m3u8
-#EXTINF:0,|NL| ZIGGO SPORT SELECT HD
-http://185.23.213.162:8789/live/ania/ania/42469.m3u8
-#EXTINF:0,|NL| ZIGGO SPORT VOETBAL
-http://185.23.213.162:8789/live/ania/ania/42470.m3u8
-#EXTINF:0,|NL| 192 TV
-http://185.23.213.162:8789/live/ania/ania/42471.m3u8
-#EXTINF:0,|NL| Animal Planet HD
-http://185.23.213.162:8789/live/ania/ania/42472.m3u8
-#EXTINF:0,|NL| At 5
-http://185.23.213.162:8789/live/ania/ania/42473.m3u8
-#EXTINF:0,|NL| Baby TV
-http://185.23.213.162:8789/live/ania/ania/42474.m3u8
-#EXTINF:0,|NL| Comedy Central
-http://185.23.213.162:8789/live/ania/ania/42475.m3u8
-#EXTINF:0,|NL| Comedy Central Extra
-http://185.23.213.162:8789/live/ania/ania/42476.m3u8
-#EXTINF:0,|NL| Comedy Central Family
-http://185.23.213.162:8789/live/ania/ania/42477.m3u8
-#EXTINF:0,|NL| Crime Investigation
-http://185.23.213.162:8789/live/ania/ania/42478.m3u8
-#EXTINF:0,|NL| DISCOVERY
-http://185.23.213.162:8789/live/ania/ania/42479.m3u8
-#EXTINF:0,|NL| DISCOVERY Investigation HD
-http://185.23.213.162:8789/live/ania/ania/42480.m3u8
-#EXTINF:0,|NL| DISCOVERY Science HD
-http://185.23.213.162:8789/live/ania/ania/42481.m3u8
-#EXTINF:0,|NL| DISCOVERY World
-http://185.23.213.162:8789/live/ania/ania/42482.m3u8
-#EXTINF:0,|NL| Disney Junior
-http://185.23.213.162:8789/live/ania/ania/42483.m3u8
-#EXTINF:0,|NL| E HD
-http://185.23.213.162:8789/live/ania/ania/42484.m3u8
-#EXTINF:0,|NL| Extreme Sport
-http://185.23.213.162:8789/live/ania/ania/42485.m3u8
-#EXTINF:0,|NL| Film 1 Action HD
-http://185.23.213.162:8789/live/ania/ania/42486.m3u8
-#EXTINF:0,|NL| Film 1 Drama HD
-http://185.23.213.162:8789/live/ania/ania/42487.m3u8
-#EXTINF:0,|NL| Film 1 Family HD
-http://185.23.213.162:8789/live/ania/ania/42488.m3u8
-#EXTINF:0,|NL| Film 1 Premiere HD
-http://185.23.213.162:8789/live/ania/ania/42489.m3u8
-#EXTINF:0,|NL| Food Network
-http://185.23.213.162:8789/live/ania/ania/42490.m3u8
-#EXTINF:0,|NL| Fox
-http://185.23.213.162:8789/live/ania/ania/42491.m3u8
-#EXTINF:0,|NL| Fox Sport 1 HD
-http://185.23.213.162:8789/live/ania/ania/42492.m3u8
-#EXTINF:0,|NL| Fox Sport 2 HD
-http://185.23.213.162:8789/live/ania/ania/42493.m3u8
-#EXTINF:0,|NL| Fox Sport 3 HD
-http://185.23.213.162:8789/live/ania/ania/42494.m3u8
-#EXTINF:0,|NL| Fox Sport 4 HD
-http://185.23.213.162:8789/live/ania/ania/42495.m3u8
-#EXTINF:0,|NL| Fox Sport 5 HD
-http://185.23.213.162:8789/live/ania/ania/42496.m3u8
-#EXTINF:0,|NL| Fox Sport 6 HD
-http://185.23.213.162:8789/live/ania/ania/42497.m3u8
-#EXTINF:0,|NL| Hbo 1 HD
-http://185.23.213.162:8789/live/ania/ania/42498.m3u8
-#EXTINF:0,|NL| Hbo 2
-http://185.23.213.162:8789/live/ania/ania/42499.m3u8
-#EXTINF:0,|NL| Hbo 3
-http://185.23.213.162:8789/live/ania/ania/42500.m3u8
-#EXTINF:0,|NL| History HD
-http://185.23.213.162:8789/live/ania/ania/42501.m3u8
-#EXTINF:0,|NL| Ketnet
-http://185.23.213.162:8789/live/ania/ania/42502.m3u8
-#EXTINF:0,|NL| Motor Sport
-http://185.23.213.162:8789/live/ania/ania/42505.m3u8
-#EXTINF:0,|NL| Mezzo
-http://185.23.213.162:8789/live/ania/ania/42504.m3u8
-#EXTINF:0,|NL| L1 Limburg
-http://185.23.213.162:8789/live/ania/ania/42503.m3u8
-#EXTINF:0,|NL| Mtv HD
-http://185.23.213.162:8789/live/ania/ania/42506.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/9019.m3u8
 #EXTINF:0,|NL| Net 5 HD
-http://185.23.213.162:8789/live/ania/ania/42507.m3u8
-#EXTINF:0,|NL| Ngc
-http://185.23.213.162:8789/live/ania/ania/42508.m3u8
-#EXTINF:0,|NL| Ngc Wild HD
-http://185.23.213.162:8789/live/ania/ania/42509.m3u8
-#EXTINF:0,|NL| Nick Junior
-http://185.23.213.162:8789/live/ania/ania/42510.m3u8
-#EXTINF:0,|NL| Nick Music
-http://185.23.213.162:8789/live/ania/ania/42511.m3u8
-#EXTINF:0,|NL| Nickelodeon
-http://185.23.213.162:8789/live/ania/ania/42512.m3u8
-#EXTINF:0,|NL| Nicktoons
-http://185.23.213.162:8789/live/ania/ania/42513.m3u8
-#EXTINF:0,|NL| Noord Holland TV
-http://185.23.213.162:8789/live/ania/ania/42514.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/26254.m3u8
+#EXTINF:0,|NL| NET5 HD
+http://iptv-luxe.com:8789/live/1212/1212/26192.m3u8
 #EXTINF:0,|NL| Npo 1 HD
-http://185.23.213.162:8789/live/ania/ania/42515.m3u8
-#EXTINF:0,|NL| Npo 2 HD
-http://185.23.213.162:8789/live/ania/ania/42516.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/26262.m3u8
 #EXTINF:0,|NL| Npo 3 HD
-http://185.23.213.162:8789/live/ania/ania/42517.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/26263.m3u8
 #EXTINF:0,|NL| Npo Cultura
-http://185.23.213.162:8789/live/ania/ania/42518.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/26264.m3u8
 #EXTINF:0,|NL| Npo Nieuws
-http://185.23.213.162:8789/live/ania/ania/42519.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/26265.m3u8
+#EXTINF:0,|NL| NPO POLITIEK
+http://iptv-luxe.com:8789/live/1212/1212/26194.m3u8
+#EXTINF:0,|NL| NPO ZAPP XTRA/NPO BEST
+http://iptv-luxe.com:8789/live/1212/1212/26195.m3u8
+#EXTINF:0,|NL| NPO1 HD
+http://iptv-luxe.com:8789/live/1212/1212/26196.m3u8
+#EXTINF:0,|NL| NPO2 HD
+http://iptv-luxe.com:8789/live/1212/1212/26197.m3u8
+#EXTINF:0,|NL| NPO3 HD
+http://iptv-luxe.com:8789/live/1212/1212/26198.m3u8
 #EXTINF:0,|NL| Omroep Brabant
-http://185.23.213.162:8789/live/ania/ania/42520.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/26266.m3u8
 #EXTINF:0,|NL| Omroep Flevoland
-http://185.23.213.162:8789/live/ania/ania/42521.m3u8
-#EXTINF:0,|NL| Omroep Zeeland
-http://185.23.213.162:8789/live/ania/ania/42523.m3u8
-#EXTINF:0,|NL| ONS
-http://185.23.213.162:8789/live/ania/ania/42524.m3u8
-#EXTINF:0,|NL| Rtl 4 HD
-http://185.23.213.162:8789/live/ania/ania/42525.m3u8
-#EXTINF:0,|NL| Rtl 5 HD
-http://185.23.213.162:8789/live/ania/ania/42526.m3u8
-#EXTINF:0,|NL| Rtl 7 HD
-http://185.23.213.162:8789/live/ania/ania/42527.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/26267.m3u8
 #EXTINF:0,|NL| Omroep Frysland
-http://185.23.213.162:8789/live/ania/ania/42522.m3u8
-#EXTINF:0,|NL| Rtl 8 HD
-http://185.23.213.162:8789/live/ania/ania/42528.m3u8
-#EXTINF:0,|NL| Rtl Telekids
-http://185.23.213.162:8789/live/ania/ania/42529.m3u8
-#EXTINF:0,|NL| Rtl Z HD
-http://185.23.213.162:8789/live/ania/ania/42530.m3u8
-#EXTINF:0,|NL| RTV Utrecht
-http://185.23.213.162:8789/live/ania/ania/42531.m3u8
-#EXTINF:0,|NL| Sbs 6 HD
-http://185.23.213.162:8789/live/ania/ania/42532.m3u8
-#EXTINF:0,|NL| Sbs 9 HD
-http://185.23.213.162:8789/live/ania/ania/42533.m3u8
-#EXTINF:0,|NL| Travel Channel HD
-http://185.23.213.162:8789/live/ania/ania/42534.m3u8
-#EXTINF:0,|NL| TV Drenthe
-http://185.23.213.162:8789/live/ania/ania/42535.m3u8
-#EXTINF:0,|NL| TV Gelderland
-http://185.23.213.162:8789/live/ania/ania/42536.m3u8
-#EXTINF:0,|NL| TV Noord
-http://185.23.213.162:8789/live/ania/ania/42537.m3u8
-#EXTINF:0,|NL| TV Oost
-http://185.23.213.162:8789/live/ania/ania/42538.m3u8
-#EXTINF:0,|NL| TV Rijnmond
-http://185.23.213.162:8789/live/ania/ania/42539.m3u8
-#EXTINF:0,|NL| TV West
-http://185.23.213.162:8789/live/ania/ania/42540.m3u8
-#EXTINF:0,|NL| Veronica/DisneyXD
-http://185.23.213.162:8789/live/ania/ania/42541.m3u8
-#EXTINF:0,|NL| Ziggo Sport Extra 1 HD
-http://185.23.213.162:8789/live/ania/ania/42542.m3u8
-#EXTINF:0,|NL| Ziggo Sport Extra 2 HD
-http://185.23.213.162:8789/live/ania/ania/42543.m3u8
-#EXTINF:0,|NL| Ziggo Sport Golf HD
-http://185.23.213.162:8789/live/ania/ania/42544.m3u8
-#EXTINF:0,|NL| Ziggo Sport HD
-http://185.23.213.162:8789/live/ania/ania/42545.m3u8
-#EXTINF:0,|NL| Ziggo Sport Racing HD
-http://185.23.213.162:8789/live/ania/ania/42546.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/26268.m3u8
+#EXTINF:0,|NL| Omroep Zeeland
+http://iptv-luxe.com:8789/live/1212/1212/26269.m3u8
+#EXTINF:0,|NL| ONS
+http://iptv-luxe.com:8789/live/1212/1212/26270.m3u8
+#EXTINF:0,|NL| Q2 HD
+http://iptv-luxe.com:8789/live/1212/1212/26199.m3u8
+#EXTINF:0,|NL| 192 TV
+http://iptv-luxe.com:8789/live/1212/1212/26219.m3u8
+#EXTINF:0,|NL| 192TV
+http://iptv-luxe.com:8789/live/1212/1212/26165.m3u8
+#EXTINF:0,|NL| NPO 2 HD
+http://iptv-luxe.com:8789/live/1212/1212/643.m3u8
+#EXTINF:0,|NL| RTL 7 HD
+http://iptv-luxe.com:8789/live/1212/1212/591.m3u8
+#EXTINF:0,|NL| At 5
+http://iptv-luxe.com:8789/live/1212/1212/26221.m3u8
+#EXTINF:0,|NL| AT5
+http://iptv-luxe.com:8789/live/1212/1212/26168.m3u8
+#EXTINF:0,|NL| CAZ
+http://iptv-luxe.com:8789/live/1212/1212/26172.m3u8
+#EXTINF:0,|NL|*****SPORT*****|NL|
+http://iptv-luxe.com:8789/live/1212/1212/2638.m3u8
+#EXTINF:0,|NL| FOX SPORTS EDL 1 HD
+http://iptv-luxe.com:8789/live/1212/1212/26185.m3u8
+#EXTINF:0,|NL| FOX SPORTS EDL 3 HD
+http://iptv-luxe.com:8789/live/1212/1212/26186.m3u8
+#EXTINF:0,|NL| Fox Sport 1 HD
+http://iptv-luxe.com:8789/live/1212/1212/26239.m3u8
+#EXTINF:0,|NL| Fox Sport 2 HD
+http://iptv-luxe.com:8789/live/1212/1212/26240.m3u8
+#EXTINF:0,|NL| Fox Sport 3 HD
+http://iptv-luxe.com:8789/live/1212/1212/26241.m3u8
+#EXTINF:0,|NL| Fox Sport 4 HD
+http://iptv-luxe.com:8789/live/1212/1212/26242.m3u8
+#EXTINF:0,|NL| Fox Sport 5 HD
+http://iptv-luxe.com:8789/live/1212/1212/26243.m3u8
+#EXTINF:0,|NL| Fox Sport 6 HD
+http://iptv-luxe.com:8789/live/1212/1212/26244.m3u8
 #EXTINF:0,|NL| Ziggo Sport Voetbal HD
-http://185.23.213.162:8789/live/ania/ania/42547.m3u8
-#EXTINF:0,|TR|*****GENEL*****|TR|
-http://185.23.213.162:8789/live/ania/ania/28651.m3u8
-#EXTINF:0,|TR| TRT 1 HD
-http://185.23.213.162:8789/live/ania/ania/28650.m3u8
-#EXTINF:0,|TR| TRT 1 SD
-http://185.23.213.162:8789/live/ania/ania/28649.m3u8
-#EXTINF:0,|TR| TRT WORLD
-http://185.23.213.162:8789/live/ania/ania/28648.m3u8
-#EXTINF:0,|TR| TRT AVAZ
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/3020
-#EXTINF:0,|TR| ATV HD
-http://185.23.213.162:8789/live/ania/ania/28646.m3u8
-#EXTINF:0,|TR| ATV SD
-http://185.23.213.162:8789/live/ania/ania/28645.m3u8
-#EXTINF:0,|TR| KANAL D HD
-http://185.23.213.162:8789/live/ania/ania/28644.m3u8
-#EXTINF:0,|TR| KANAL D SD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1424
-#EXTINF:0,|TR| KANAL7 HD
-http://185.23.213.162:8789/live/ania/ania/28642.m3u8
-#EXTINF:0,|TR| KANAL 7 SD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1289
-#EXTINF:0,|TR| STAR TV HD
-http://185.23.213.162:8789/live/ania/ania/28640.m3u8
-#EXTINF:0,|TR| STAR TV SD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1452
-#EXTINF:0,|TR| SHOW TV HD
-http://185.23.213.162:8789/live/ania/ania/28638.m3u8
-#EXTINF:0,|TR| SHOW TV HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1453
-#EXTINF:0,|TR| SHOW MAX
-http://185.23.213.162:8789/live/ania/ania/28636.m3u8
-#EXTINF:0,|TR| TV8 FHD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1422
-#EXTINF:0,|TR| TV8 SD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1422
-#EXTINF:0,|TR| TV8  HD
-http://185.23.213.162:8789/live/ania/ania/28633.m3u8
-#EXTINF:0,|TR| FOX TV HD
-http://185.23.213.162:8789/live/ania/ania/28632.m3u8
-#EXTINF:0,|TR| FOX TV SD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1423
-#EXTINF:0,|TR| FOX CRIME TV
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1265
-#EXTINF:0,|TR| FOX LIFE TV
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1264
-#EXTINF:0,|TR| BEYAZ TV HD
-http://185.23.213.162:8789/live/ania/ania/28628.m3u8
-#EXTINF:0,|TR| POWERTURK
-http://185.23.213.162:8789/live/ania/ania/28627.m3u8
-#EXTINF:0,|TR| A2
-http://185.23.213.162:8789/live/ania/ania/28626.m3u8
-#EXTINF:0,|TR| AKILLI TV
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1413
-#EXTINF:0,|TR| AV TV
-http://185.23.213.162:8789/live/ania/ania/28624.m3u8
-#EXTINF:0,|TR| FLASH TV
-http://185.23.213.162:8789/live/ania/ania/28623.m3u8
-#EXTINF:0,|TR| KANAL 24
-http://185.23.213.162:8789/live/ania/ania/28622.m3u8
-#EXTINF:0,|TR| 360 TV HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1288
-#EXTINF:0,|TR| FASHIONBOX HD
-http://185.23.213.162:8789/live/ania/ania/28619.m3u8
-#EXTINF:0,|TR| FASHION ONE TV
-http://185.23.213.162:8789/live/ania/ania/28620.m3u8
-#EXTINF:0,|TR| KANAL 26
-http://185.23.213.162:8789/live/ania/ania/28618.m3u8
-#EXTINF:0,|TR| KANAL 5
-http://185.23.213.162:8789/live/ania/ania/28617.m3u8
-#EXTINF:0,|TR| KANAL 7 AVRUPA
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1289
-#EXTINF:0,|TR| KANAL A
-http://185.23.213.162:8789/live/ania/ania/28615.m3u8
-#EXTINF:0,|TR| KANAL B
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1273
-#EXTINF:0,|TR| BENGUTURK
-http://185.23.213.162:8789/live/ania/ania/28613.m3u8
-#EXTINF:0,|TR| BEREKET TV
-http://185.23.213.162:8789/live/ania/ania/28612.m3u8
-#EXTINF:0,|TR| CEM TV
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1323
-#EXTINF:0,|TR| CIFTCI TV
-http://185.23.213.162:8789/live/ania/ania/28610.m3u8
-#EXTINF:0,|TR| DREAMTURK TV
-http://185.23.213.162:8789/live/ania/ania/28609.m3u8
-#EXTINF:0,|TR| DTX HD
-http://185.23.213.162:8789/live/ania/ania/28608.m3u8
-#EXTINF:0,|TR| FANATIK TV
-http://185.23.213.162:8789/live/ania/ania/28607.m3u8
-#EXTINF:0,|TR| FB TV
-http://185.23.213.162:8789/live/ania/ania/28606.m3u8
-#EXTINF:0,|TR| FIL TV
-http://185.23.213.162:8789/live/ania/ania/28605.m3u8
-#EXTINF:0,|TR| GS TV HD TR
-http://185.23.213.162:8789/live/ania/ania/28604.m3u8
-#EXTINF:0,|TR| IDMAN TV
-http://185.23.213.162:8789/live/ania/ania/28603.m3u8
-#EXTINF:0,|TR| IDX HD
-http://185.23.213.162:8789/live/ania/ania/28602.m3u8
-#EXTINF:0,|TR| IZ TV
-http://185.23.213.162:8789/live/ania/ania/28601.m3u8
-#EXTINF:0,|TR| KOY TV
-http://185.23.213.162:8789/live/ania/ania/28600.m3u8
-#EXTINF:0,|TR| LIVE RADYO TV
-http://185.23.213.162:8789/live/ania/ania/28599.m3u8
-#EXTINF:0,|TR| MELTEM TV HD
-http://185.23.213.162:8789/live/ania/ania/28598.m3u8
-#EXTINF:0,|TR| NUMBER1 TURK HD
-http://185.23.213.162:8789/live/ania/ania/28596.m3u8
-#EXTINF:0,|TR| PLANET MUTFAK
-http://185.23.213.162:8789/live/ania/ania/28595.m3u8
-#EXTINF:0,|TR| SKY360
-http://185.23.213.162:8789/live/ania/ania/28594.m3u8
-#EXTINF:0,|TR| TARIM TV
-http://185.23.213.162:8789/live/ania/ania/28593.m3u8
-#EXTINF:0,|TR| TAY TV
-http://185.23.213.162:8789/live/ania/ania/28592.m3u8
-#EXTINF:0,|TR| TGRT BELGESEL
-http://185.23.213.162:8789/live/ania/ania/28591.m3u8
-#EXTINF:0,|TR| TJK TV
-http://185.23.213.162:8789/live/ania/ania/28590.m3u8
-#EXTINF:0,|TR| TLC
-http://185.23.213.162:8789/live/ania/ania/28589.m3u8
-#EXTINF:0,|TR| TURKMAX GURME HD
-http://185.23.213.162:8789/live/ania/ania/28588.m3u8
-#EXTINF:0,|TR| TV 2
-http://185.23.213.162:8789/live/ania/ania/28587.m3u8
-#EXTINF:0,|TR| TV4
-http://185.23.213.162:8789/live/ania/ania/28586.m3u8
-#EXTINF:0,|TR| TVEM
-http://185.23.213.162:8789/live/ania/ania/28585.m3u8
-#EXTINF:0,|TR| ULKE TV HD
-http://185.23.213.162:8789/live/ania/ania/28584.m3u8
-#EXTINF:0,|TR| ULUSAL KANAL
-http://185.23.213.162:8789/live/ania/ania/28583.m3u8
-#EXTINF:0,|TR| YABAN TV
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1337
-#EXTINF:0,|TR| YAT TV
-http://185.23.213.162:8789/live/ania/ania/28581.m3u8
-#EXTINF:0,|TR| YOL TV
-http://185.23.213.162:8789/live/ania/ania/28580.m3u8
-#EXTINF:0,|TR| ZIRAAT TV
-http://185.23.213.162:8789/live/ania/ania/28579.m3u8
-#EXTINF:0,|TR|*******FILMER*******|TR|
-http://185.23.213.162:8789/live/ania/ania/28578.m3u8
-#EXTINF:0,|TR| beIN BOX OFFICE 1 HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1285
-#EXTINF:0,|TR| beIN BOX OFFICE 2 HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1284
-#EXTINF:0,|TR| beIN BOX OFFICE 3 HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1314
-#EXTINF:0,|TR| SINEMA TV HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1451
-#EXTINF:0,|TR| SINEMA TV 1001
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1448
-#EXTINF:0,|TR| SINEMA TV AKSIYON
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1446
-#EXTINF:0,|TR| SINEMA TV AILE
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1450
-#EXTINF:0,|TR| SINEMA TV 2 / DIZI TV
-http://185.23.213.162:8789/live/ania/ania/28570.m3u8
-#EXTINF:0,|TR| SINETIVI HD
-http://185.23.213.162:8789/live/ania/ania/28569.m3u8
-#EXTINF:0,|TR| SINETIVI 2 HD
-http://185.23.213.162:8789/live/ania/ania/28568.m3u8
-#EXTINF:0,|TR| SINETIVI ADRENANIL HD
-http://185.23.213.162:8789/live/ania/ania/28567.m3u8
-#EXTINF:0,|TR| CAPTAIN MOVIES 1
-http://185.23.213.162:8789/live/ania/ania/28566.m3u8
-#EXTINF:0,|TR| CAPTAIN MOVIES 2
-http://185.23.213.162:8789/live/ania/ania/28565.m3u8
-#EXTINF:0,|TR| CAPTAIN MOVIES 3
-http://185.23.213.162:8789/live/ania/ania/28564.m3u8
-#EXTINF:0,|TR| CAPTAIN MOVIES 4
-http://185.23.213.162:8789/live/ania/ania/28563.m3u8
-#EXTINF:0,|TR| CAPTAIN MOVIES 5
-http://185.23.213.162:8789/live/ania/ania/28562.m3u8
-#EXTINF:0,|TR| MOVIE SMART TURK HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1444
-#EXTINF:0,|TR| MOVIE SMART GOLD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1438
-#EXTINF:0,|TR| MOVIEMAX TURK HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1434
-#EXTINF:0,|TR| MOVIEMAX STAR
-http://185.23.213.162:8789/live/ania/ania/28559.m3u8
-#EXTINF:0,|TR| MOVISMART PREMIUM HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1443
-#EXTINF:0,|TR| FX HD
-http://185.23.213.162:8789/live/ania/ania/28556.m3u8
-#EXTINF:0,|TR| SONY COCUK
-http://185.23.213.162:8789/live/ania/ania/28555.m3u8
-#EXTINF:0,|TR| SONY TV
-http://185.23.213.162:8789/live/ania/ania/28554.m3u8
-#EXTINF:0,|TR| CINEMAX
-http://185.23.213.162:8789/live/ania/ania/28553.m3u8
-#EXTINF:0,|TR| FILMBOX HD ADRENALIN
-http://185.23.213.162:8789/live/ania/ania/28552.m3u8
-#EXTINF:0,|TR| FILMBOX HD AILE
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1394
-#EXTINF:0,|TR| FILMBOX HD AKSIYON
-http://185.23.213.162:8789/live/ania/ania/28550.m3u8
-#EXTINF:0,|TR| FILMBOX HD AKSIYON 2
-http://185.23.213.162:8789/live/ania/ania/28549.m3u8
-#EXTINF:0,|TR| FILMBOX HD ANIMASYON
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1393
-#EXTINF:0,|TR| FILMBOX HD BILIMKURGU
-http://185.23.213.162:8789/live/ania/ania/28547.m3u8
-#EXTINF:0,|TR| FILMBOX HD DRAM
-http://185.23.213.162:8789/live/ania/ania/28546.m3u8
-#EXTINF:0,|TR| FILMBOX HD FANTASTIK
-http://185.23.213.162:8789/live/ania/ania/28545.m3u8
-#EXTINF:0,|TR| FILMBOX HD GERMANY
-http://185.23.213.162:8789/live/ania/ania/28544.m3u8
-#EXTINF:0,|TR| FILMBOX HD KOMEDI
-http://185.23.213.162:8789/live/ania/ania/28543.m3u8
-#EXTINF:0,|TR| FILMBOX HD KORKU
-http://185.23.213.162:8789/live/ania/ania/28542.m3u8
-#EXTINF:0,|TR| FILMBOX HD PREMIER
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1386
-#EXTINF:0,|TR| FILMBOX HD TURK
-http://185.23.213.162:8789/live/ania/ania/28540.m3u8
-#EXTINF:0,|TR| FILMBOX HD YESILCAM
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1396
+http://iptv-luxe.com:8789/live/1212/1212/26290.m3u8
+#EXTINF:0,|NL| ZIGGO SPORT SELECT HD
+http://iptv-luxe.com:8789/live/1212/1212/26218.m3u8
+#EXTINF:0,|NL| ZIGGO SPORT EXTRA 2 HD
+http://iptv-luxe.com:8789/live/1212/1212/16664.m3u8
+#EXTINF:0,|NL| Ziggo Sport HD
+http://iptv-luxe.com:8789/live/1212/1212/26288.m3u8
+#EXTINF:0,|NL| ZIGGO SPORT GOLF
+http://iptv-luxe.com:8789/live/1212/1212/26217.m3u8
+#EXTINF:0,|NL| Ziggo Sport Golf HD
+http://iptv-luxe.com:8789/live/1212/1212/26287.m3u8
+#EXTINF:0,|NL| Ziggo Sport Racing HD
+http://iptv-luxe.com:8789/live/1212/1212/26289.m3u8
+#EXTINF:0,|NL| EUROSPORT 1 HD
+http://iptv-luxe.com:8789/live/1212/1212/26177.m3u8
+#EXTINF:0,|NL| EUROSPORT 2 HD
+http://iptv-luxe.com:8789/live/1212/1212/26178.m3u8
+#EXTINF:0,|NL| Extreme Sport
+http://iptv-luxe.com:8789/live/1212/1212/26232.m3u8
+#EXTINF:0,|NL| Comedy Central Extra
+http://iptv-luxe.com:8789/live/1212/1212/26223.m3u8
+#EXTINF:0,|NL| Comedy Central Family
+http://iptv-luxe.com:8789/live/1212/1212/26224.m3u8
+#EXTINF:0,|NL| DISNEY CHANNEL
+http://iptv-luxe.com:8789/live/1212/1212/26175.m3u8
+#EXTINF:0,|NL| Disney Junior
+http://iptv-luxe.com:8789/live/1212/1212/26230.m3u8
+#EXTINF:0,|NL| E HD
+http://iptv-luxe.com:8789/live/1212/1212/26231.m3u8
+#EXTINF:0,|NL| Fox
+http://iptv-luxe.com:8789/live/1212/1212/26238.m3u8
+#EXTINF:0,|NL| FOX CHANNEL
+http://iptv-luxe.com:8789/live/1212/1212/26184.m3u8
+#EXTINF:0,|NL| een HD
+http://iptv-luxe.com:8789/live/1212/1212/26176.m3u8
+#EXTINF:0,|NL|*****KINO*****|NL|
+http://iptv-luxe.com:8789/live/1212/1212/2637.m3u8
+#EXTINF:0,|NL| Film 1 Action HD
+http://iptv-luxe.com:8789/live/1212/1212/26233.m3u8
+#EXTINF:0,|NL| FILM1 ACTION
+http://iptv-luxe.com:8789/live/1212/1212/26179.m3u8
+#EXTINF:0,|NL| FILM1 PREMIERE HD
+http://iptv-luxe.com:8789/live/1212/1212/26182.m3u8
+#EXTINF:0,|NL| Film 1 Premiere HD
+http://iptv-luxe.com:8789/live/1212/1212/26236.m3u8
+#EXTINF:0,|NL| FILM1 DRAMA HD
+http://iptv-luxe.com:8789/live/1212/1212/26180.m3u8
+#EXTINF:0,|NL| Film 1 Drama HD
+http://iptv-luxe.com:8789/live/1212/1212/26234.m3u8
+#EXTINF:0,|NL| FILM1 FAMILY HD
+http://iptv-luxe.com:8789/live/1212/1212/26181.m3u8
+#EXTINF:0,|NL| Film 1 Family HD
+http://iptv-luxe.com:8789/live/1212/1212/26235.m3u8
+#EXTINF:0,|NL| Hbo 1 HD
+http://iptv-luxe.com:8789/live/1212/1212/26245.m3u8
+#EXTINF:0,|NL| Hbo 2
+http://iptv-luxe.com:8789/live/1212/1212/26246.m3u8
+#EXTINF:0,|NL| Hbo 3
+http://iptv-luxe.com:8789/live/1212/1212/26247.m3u8
+#EXTINF:0,|NL| Canvas HD
+http://iptv-luxe.com:8789/live/1212/1212/26170.m3u8
+#EXTINF:0,|NL|*****CULTUUR*****|NL|
+http://iptv-luxe.com:8789/live/1212/1212/2639.m3u8
+#EXTINF:0,|NL| Crime Investigation
+http://iptv-luxe.com:8789/live/1212/1212/26225.m3u8
+#EXTINF:0,|NL| DISCOVERY
+http://iptv-luxe.com:8789/live/1212/1212/26226.m3u8
+#EXTINF:0,|NL| DISCOVERY INVESTIGATION
+http://iptv-luxe.com:8789/live/1212/1212/26173.m3u8
+#EXTINF:0,|NL| DISCOVERY Investigation HD
+http://iptv-luxe.com:8789/live/1212/1212/26227.m3u8
+#EXTINF:0,|NL| DISCOVERY Science HD
+http://iptv-luxe.com:8789/live/1212/1212/26228.m3u8
+#EXTINF:0,|NL| DISCOVERY SHOWCASE HD
+http://iptv-luxe.com:8789/live/1212/1212/26174.m3u8
+#EXTINF:0,|NL| DISCOVERY World
+http://iptv-luxe.com:8789/live/1212/1212/26229.m3u8
+#EXTINF:0,|NL| Food Network
+http://iptv-luxe.com:8789/live/1212/1212/26237.m3u8
+#EXTINF:0,|NL| Food NETWORK HD
+http://iptv-luxe.com:8789/live/1212/1212/26183.m3u8
+#EXTINF:0,|NL| History HD
+http://iptv-luxe.com:8789/live/1212/1212/26248.m3u8
+#EXTINF:0,|NL| 24 KITCHEN
+http://iptv-luxe.com:8789/live/1212/1212/26166.m3u8
+#EXTINF:0,|NL| ANIMAL PLANET
+http://iptv-luxe.com:8789/live/1212/1212/26167.m3u8
+#EXTINF:0,|NL| Animal Planet HD
+http://iptv-luxe.com:8789/live/1212/1212/26220.m3u8
+#EXTINF:0,|NL| Ngc
+http://iptv-luxe.com:8789/live/1212/1212/26255.m3u8
+#EXTINF:0,|NL| NGC HD
+http://iptv-luxe.com:8789/live/1212/1212/26193.m3u8
+#EXTINF:0,|NL| Ngc Wild HD
+http://iptv-luxe.com:8789/live/1212/1212/26256.m3u8
+#EXTINF:0,|NL| Nick Junior
+http://iptv-luxe.com:8789/live/1212/1212/26257.m3u8
+#EXTINF:0,|NL| Nick Music
+http://iptv-luxe.com:8789/live/1212/1212/26258.m3u8
+#EXTINF:0,|NL| Nickelodeon
+http://iptv-luxe.com:8789/live/1212/1212/26259.m3u8
+#EXTINF:0,|NL| Nicktoons
+http://iptv-luxe.com:8789/live/1212/1212/26260.m3u8
+#EXTINF:0,|NL| Baby TV
+http://iptv-luxe.com:8789/live/1212/1212/26222.m3u8
+#EXTINF:0,|NL| BOOMERANG
+http://iptv-luxe.com:8789/live/1212/1212/26169.m3u8
+#EXTINF:0,|NL| CARTOON
+http://iptv-luxe.com:8789/live/1212/1212/26171.m3u8
+#EXTINF:0,|NL| KADET
+http://iptv-luxe.com:8789/live/1212/1212/26187.m3u8
+#EXTINF:0,|NL| Ketnet
+http://iptv-luxe.com:8789/live/1212/1212/26249.m3u8
+#EXTINF:0,|NL| KetOp12
+http://iptv-luxe.com:8789/live/1212/1212/26188.m3u8
+#EXTINF:0,|NL| L1 Limburg
+http://iptv-luxe.com:8789/live/1212/1212/26250.m3u8
+#EXTINF:0,|NL| L1MBURG
+http://iptv-luxe.com:8789/live/1212/1212/26189.m3u8
+#EXTINF:0,|NL| Mezzo
+http://iptv-luxe.com:8789/live/1212/1212/26251.m3u8
+#EXTINF:0,|NL| Mtv HD
+http://iptv-luxe.com:8789/live/1212/1212/26253.m3u8
+#EXTINF:0,|NL| MTV Music 24
+http://iptv-luxe.com:8789/live/1212/1212/26190.m3u8
+#EXTINF:0,|NL| Nat Geo Wild HD
+http://iptv-luxe.com:8789/live/1212/1212/26191.m3u8
+#EXTINF:0,|NL| Noord Holland TV
+http://iptv-luxe.com:8789/live/1212/1212/26261.m3u8
+#EXTINF:0,|NL| Rtl 4 HD
+http://iptv-luxe.com:8789/live/1212/1212/26271.m3u8
+#EXTINF:0,|NL| Rtl 5 HD
+http://iptv-luxe.com:8789/live/1212/1212/26272.m3u8
+#EXTINF:0,|NL| Rtl 8 HD
+http://iptv-luxe.com:8789/live/1212/1212/26273.m3u8
+#EXTINF:0,|NL| RTL CRIME
+http://iptv-luxe.com:8789/live/1212/1212/26200.m3u8
+#EXTINF:0,|NL| RTL LOUNGE
+http://iptv-luxe.com:8789/live/1212/1212/26201.m3u8
+#EXTINF:0,|NL| Rtl Telekids
+http://iptv-luxe.com:8789/live/1212/1212/26274.m3u8
+#EXTINF:0,|NL| RTL Z
+http://iptv-luxe.com:8789/live/1212/1212/26202.m3u8
+#EXTINF:0,|NL| Rtl Z HD
+http://iptv-luxe.com:8789/live/1212/1212/26275.m3u8
+#EXTINF:0,|NL| RTL4 HD
+http://iptv-luxe.com:8789/live/1212/1212/26203.m3u8
+#EXTINF:0,|NL| RTL5 HD
+http://iptv-luxe.com:8789/live/1212/1212/26204.m3u8
+#EXTINF:0,|NL| RTL7 HD
+http://iptv-luxe.com:8789/live/1212/1212/26205.m3u8
+#EXTINF:0,|NL| RTL8 HD
+http://iptv-luxe.com:8789/live/1212/1212/26206.m3u8
+#EXTINF:0,|NL| RTV Utrecht
+http://iptv-luxe.com:8789/live/1212/1212/26276.m3u8
+#EXTINF:0,|NL| Sbs 6 HD
+http://iptv-luxe.com:8789/live/1212/1212/26277.m3u8
+#EXTINF:0,|NL| Sbs 9 HD
+http://iptv-luxe.com:8789/live/1212/1212/26278.m3u8
+#EXTINF:0,|NL| SBS6 HD
+http://iptv-luxe.com:8789/live/1212/1212/26207.m3u8
+#EXTINF:0,|NL| SBS9
+http://iptv-luxe.com:8789/live/1212/1212/26208.m3u8
+#EXTINF:0,|NL| TLC
+http://iptv-luxe.com:8789/live/1212/1212/26209.m3u8
+#EXTINF:0,|NL| Travel Channel HD
+http://iptv-luxe.com:8789/live/1212/1212/26279.m3u8
+#EXTINF:0,|NL| TV Drenthe
+http://iptv-luxe.com:8789/live/1212/1212/26280.m3u8
+#EXTINF:0,|NL| TV Gelderland
+http://iptv-luxe.com:8789/live/1212/1212/26281.m3u8
+#EXTINF:0,|NL| TV Noord
+http://iptv-luxe.com:8789/live/1212/1212/26282.m3u8
+#EXTINF:0,|NL| TV Oost
+http://iptv-luxe.com:8789/live/1212/1212/26283.m3u8
+#EXTINF:0,|NL| TV ORANJE
+http://iptv-luxe.com:8789/live/1212/1212/26210.m3u8
+#EXTINF:0,|NL| TV Rijnmond
+http://iptv-luxe.com:8789/live/1212/1212/26284.m3u8
+#EXTINF:0,|NL| TV West
+http://iptv-luxe.com:8789/live/1212/1212/26285.m3u8
+#EXTINF:0,|NL| Veronica/DisneyXD
+http://iptv-luxe.com:8789/live/1212/1212/26286.m3u8
+#EXTINF:0,|NL| Veronica/DisneyXD HD
+http://iptv-luxe.com:8789/live/1212/1212/26211.m3u8
+#EXTINF:0,|NL| VIER HD
+http://iptv-luxe.com:8789/live/1212/1212/26212.m3u8
+#EXTINF:0,|NL| VIJF
+http://iptv-luxe.com:8789/live/1212/1212/26213.m3u8
+#EXTINF:0,|NL| VITAYA
+http://iptv-luxe.com:8789/live/1212/1212/26214.m3u8
+#EXTINF:0,|NL| VTM HD
+http://iptv-luxe.com:8789/live/1212/1212/26215.m3u8
+#EXTINF:0,|NL| ZES ZES
+http://iptv-luxe.com:8789/live/1212/1212/26216.m3u8
+#EXTINF:0,|NL|*****AMUSEMENT*****|NL|
+http://iptv-luxe.com:8789/live/1212/1212/2641.m3u8
+#EXTINF:0,|NL| COMEDY CENTRAL
+http://iptv-luxe.com:8789/live/1212/1212/588.m3u8
+#EXTINF:0,|NL|*****KINDEREN*****|NL|
+http://iptv-luxe.com:8789/live/1212/1212/2640.m3u8
 #EXTINF:0,|TR| GINX
-http://185.23.213.162:8789/live/ania/ania/1060.m3u8
-#EXTINF:0,|TR| HABERTURK HD
-http://185.23.213.162:8789/live/ania/ania/28454.m3u8
-#EXTINF:0,|TR| HISTORY HD
-http://185.23.213.162:8789/live/ania/ania/28488.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/1060.m3u8
+#EXTINF:0,|TR|*****GENEL*****|TR|
+http://iptv-luxe.com:8789/live/1212/1212/7869.m3u8
+#EXTINF:0,|TR| TRT 1 HD
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/3022
+#EXTINF:0,|TR| TRT 1 SD
+http://iptv-luxe.com:8789/live/1212/1212/13859.m3u8
+#EXTINF:0,|TR| TRT WORLD
+http://iptv-luxe.com:8789/live/1212/1212/13851.m3u8
+#EXTINF:0,|TR| TRT AVAZ
+http://iptv-luxe.com:8789/live/1212/1212/13858.m3u8
+#EXTINF:0,|TR| ATV HD
+http://iptv-luxe.com:8789/live/1212/1212/14009.m3u8
+#EXTINF:0,|TR| ATV SD
+http://iptv-luxe.com:8789/live/1212/1212/14008.m3u8
+#EXTINF:0,|TR| KANAL D HD
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1424
+#EXTINF:0,|TR| KANAL D SD
+http://iptv-luxe.com:8789/live/1212/1212/13936.m3u8
+#EXTINF:0,|TR| KANAL7 HD
+http://iptv-luxe.com:8789/live/1212/1212/13935.m3u8
+#EXTINF:0,|TR| KANAL 7 SD
+http://iptv-luxe.com:8789/live/1212/1212/13938.m3u8
+#EXTINF:0,|TR| STAR TV HD
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1452
+#EXTINF:0,|TR| STAR TV SD
+http://iptv-luxe.com:8789/live/1212/1212/13871.m3u8
+#EXTINF:0,|TR| SHOW TV HD
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1453
+#EXTINF:0,|TR| SHOW TV SD
+http://iptv-luxe.com:8789/live/1212/1212/13887.m3u8
+#EXTINF:0,|TR| SHOW MAX
+http://iptv-luxe.com:8789/live/1212/1212/13886.m3u8
+#EXTINF:0,|TR| TV8 HD
+http://iptv-luxe.com:8789/live/1212/1212/13847.m3u8
+#EXTINF:0,|TR| TV8 SD
+http://iptv-luxe.com:8789/live/1212/1212/13846.m3u8
+#EXTINF:0,|TR| TV8 5 HD
+http://iptv-luxe.com:8789/live/1212/1212/13845.m3u8
+#EXTINF:0,|TR| FOX TV HD
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1423
+#EXTINF:0,|TR| FOX TV SD
+http://iptv-luxe.com:8789/live/1212/1212/13949.m3u8
+#EXTINF:0,|TR| FOX CRIME TV
+http://iptv-luxe.com:8789/live/1212/1212/13952.m3u8
+#EXTINF:0,|TR| FOX LIFE TV
+http://iptv-luxe.com:8789/live/1212/1212/13951.m3u8
+#EXTINF:0,|TR| BEYAZ TV HD
+http://iptv-luxe.com:8789/live/1212/1212/13998.m3u8
+#EXTINF:0,|TR| POWERTURK
+http://iptv-luxe.com:8789/live/1212/1212/13910.m3u8
+#EXTINF:0,|TR| A2
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1421
+#EXTINF:0,|TR| AKILLI TV
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1413
+#EXTINF:0,|TR| AV TV
+http://iptv-luxe.com:8789/live/1212/1212/14007.m3u8
+#EXTINF:0,|TR| FLASH TV
+http://iptv-luxe.com:8789/live/1212/1212/13953.m3u8
+#EXTINF:0,|TR| KANAL 24
+http://iptv-luxe.com:8789/live/1212/1212/13939.m3u8
+#EXTINF:0,|TR| 360 TV HD
+http://iptv-luxe.com:8789/live/1212/1212/14015.m3u8
+#EXTINF:0,|TR| FASHION ONE TV
+http://iptv-luxe.com:8789/live/1212/1212/13971.m3u8
+#EXTINF:0,|TR| FASHIONBOX HD
+http://iptv-luxe.com:8789/live/1212/1212/13970.m3u8
+#EXTINF:0,|TR| KANAL 26
+http://iptv-luxe.com:8789/live/1212/1212/14020.m3u8
+#EXTINF:0,|TR| KANAL 5
+http://iptv-luxe.com:8789/live/1212/1212/14019.m3u8
+#EXTINF:0,|TR| KANAL 7 AVRUPA
+http://iptv-luxe.com:8789/live/1212/1212/14018.m3u8
+#EXTINF:0,|TR| KANAL A
+http://iptv-luxe.com:8789/live/1212/1212/14017.m3u8
+#EXTINF:0,|TR| KANAL B
+http://iptv-luxe.com:8789/live/1212/1212/14016.m3u8
+#EXTINF:0,|TR| BENGUTURK
+http://iptv-luxe.com:8789/live/1212/1212/14000.m3u8
+#EXTINF:0,|TR| BEREKET TV
+http://iptv-luxe.com:8789/live/1212/1212/13999.m3u8
+#EXTINF:0,|TR| CEM TV
+http://iptv-luxe.com:8789/live/1212/1212/13987.m3u8
+#EXTINF:0,|TR| CIFTCI TV
+http://iptv-luxe.com:8789/live/1212/1212/13986.m3u8
+#EXTINF:0,|TR| DREAMTURK TV
+http://iptv-luxe.com:8789/live/1212/1212/13977.m3u8
+#EXTINF:0,|TR| DTX HD
+http://iptv-luxe.com:8789/live/1212/1212/13976.m3u8
+#EXTINF:0,|TR| FANATIK TV
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1454
+#EXTINF:0,|TR| FB TV
+http://iptv-luxe.com:8789/live/1212/1212/14023.m3u8
+#EXTINF:0,|TR| FIL TV
+http://iptv-luxe.com:8789/live/1212/1212/13968.m3u8
+#EXTINF:0,|TR| GS TV HD TR
+http://iptv-luxe.com:8789/live/1212/1212/14022.m3u8
+#EXTINF:0,|TR| IDMAN TV
+http://iptv-luxe.com:8789/live/1212/1212/13942.m3u8
+#EXTINF:0,|TR| IDX HD
+http://iptv-luxe.com:8789/live/1212/1212/13941.m3u8
+#EXTINF:0,|TR| IZ TV
+http://iptv-luxe.com:8789/live/1212/1212/13940.m3u8
+#EXTINF:0,|TR| KOY TV
+http://iptv-luxe.com:8789/live/1212/1212/13933.m3u8
+#EXTINF:0,|TR| LIVE RADYO TV
+http://iptv-luxe.com:8789/live/1212/1212/13926.m3u8
+#EXTINF:0,|TR| MELTEM TV HD
+http://iptv-luxe.com:8789/live/1212/1212/13925.m3u8
+#EXTINF:0,|TR| NUMBER1 TURK HD
+http://iptv-luxe.com:8789/live/1212/1212/13913.m3u8
+#EXTINF:0,|TR| PLANET MUTFAK
+http://iptv-luxe.com:8789/live/1212/1212/13912.m3u8
+#EXTINF:0,|TR| SKY360
+http://iptv-luxe.com:8789/live/1212/1212/13877.m3u8
+#EXTINF:0,|TR| TARIM TV
+http://iptv-luxe.com:8789/live/1212/1212/13870.m3u8
+#EXTINF:0,|TR| TAY TV
+http://iptv-luxe.com:8789/live/1212/1212/13869.m3u8
+#EXTINF:0,|TR| TGRT BELGESEL
+http://iptv-luxe.com:8789/live/1212/1212/13868.m3u8
+#EXTINF:0,|TR| TJK TV
+http://iptv-luxe.com:8789/live/1212/1212/13862.m3u8
+#EXTINF:0,|TR| TLC
+http://iptv-luxe.com:8789/live/1212/1212/13861.m3u8
+#EXTINF:0,|TR| TURKMAX GURME HD
+http://iptv-luxe.com:8789/live/1212/1212/13850.m3u8
+#EXTINF:0,|TR| TV 2
+http://iptv-luxe.com:8789/live/1212/1212/13849.m3u8
+#EXTINF:0,|TR| TV4
+http://iptv-luxe.com:8789/live/1212/1212/13848.m3u8
+#EXTINF:0,|TR| TVEM
+http://iptv-luxe.com:8789/live/1212/1212/13844.m3u8
+#EXTINF:0,|TR| ULKE TV HD
+http://iptv-luxe.com:8789/live/1212/1212/13842.m3u8
+#EXTINF:0,|TR| ULUSAL KANAL
+http://iptv-luxe.com:8789/live/1212/1212/13841.m3u8
+#EXTINF:0,|TR| YABAN TV
+http://iptv-luxe.com:8789/live/1212/1212/13840.m3u8
+#EXTINF:0,|TR| YAT TV
+http://iptv-luxe.com:8789/live/1212/1212/13839.m3u8
+#EXTINF:0,|TR| YOL TV
+http://iptv-luxe.com:8789/live/1212/1212/13838.m3u8
+#EXTINF:0,|TR| ZIRAAT TV
+http://iptv-luxe.com:8789/live/1212/1212/13837.m3u8
+#EXTINF:0,|TR|*******FILMER*******|TR|
+http://iptv-luxe.com:8789/live/1212/1212/5043.m3u8
+#EXTINF:0,|TR| beIN BOX OFFICE 1 HD
+http://iptv-luxe.com:8789/live/1212/1212/13836.m3u8
+#EXTINF:0,|TR| beIN BOX OFFICE 2 HD
+http://iptv-luxe.com:8789/live/1212/1212/13835.m3u8
+#EXTINF:0,|TR| beIN BOX OFFICE 3 HD
+http://iptv-luxe.com:8789/live/1212/1212/13834.m3u8
+#EXTINF:0,|TR| SINEMA TV HD
+http://iptv-luxe.com:8789/live/1212/1212/13881.m3u8
+#EXTINF:0,|TR| SINEMA TV 1001
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1448
+#EXTINF:0,|TR| SINEMA TV AKSIYON
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1446
+#EXTINF:0,|TR| SINEMA TV AILE
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1450
+#EXTINF:0,|TR| SINEMA TV 2 / DIZI TV
+http://iptv-luxe.com:8789/live/1212/1212/13884.m3u8
+#EXTINF:0,|TR| SINETIVI HD
+http://dreamtv.info:2086/live/YOETURKYAUNASS/ZW1UKJlzQ8/16569.ts
+#EXTINF:0,|TR| SINETIVI 2 HD
+http://iptv-luxe.com:8789/live/1212/1212/13880.m3u8
+#EXTINF:0,|TR| SINETIVI ADRENANIL HD
+http://iptv-luxe.com:8789/live/1212/1212/13879.m3u8
+#EXTINF:0,|TR| CAPTAIN MOVIES 1
+http://iptv-luxe.com:8789/live/1212/1212/13993.m3u8
+#EXTINF:0,|TR| CAPTAIN MOVIES 2
+http://iptv-luxe.com:8789/live/1212/1212/13992.m3u8
+#EXTINF:0,|TR| CAPTAIN MOVIES 3
+http://iptv-luxe.com:8789/live/1212/1212/13991.m3u8
+#EXTINF:0,|TR| CAPTAIN MOVIES 4
+http://iptv-luxe.com:8789/live/1212/1212/13990.m3u8
+#EXTINF:0,|TR| CAPTAIN MOVIES 5
+http://iptv-luxe.com:8789/live/1212/1212/13989.m3u8
+#EXTINF:0,|TR| MOVIE SMART GOLD
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1438
+#EXTINF:0,|TR| MOVIE SMART TURK HD
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1444
+#EXTINF:0,|TR| MOVIEMAX STAR
+http://iptv-luxe.com:8789/live/1212/1212/14026.m3u8
+#EXTINF:0,|TR| MOVIEMAX TURK HD
+http://iptv-luxe.com:8789/live/1212/1212/14025.m3u8
+#EXTINF:0,|TR| MOVISMART PREMIUM HD
+http://iptv-luxe.com:8789/live/1212/1212/14024.m3u8
+#EXTINF:0,|TR| FX HD
+http://iptv-luxe.com:8789/live/1212/1212/13948.m3u8
+#EXTINF:0,|TR| SONY COCUK
+http://iptv-luxe.com:8789/live/1212/1212/13875.m3u8
+#EXTINF:0,|TR| SONY TV
+http://iptv-luxe.com:8789/live/1212/1212/13874.m3u8
+#EXTINF:0,|TR| CINEMAX
+http://iptv-luxe.com:8789/live/1212/1212/10486.m3u8
+#EXTINF:0,|TR| FILMBOX HD ADRENALIN
+http://iptv-luxe.com:8789/live/1212/1212/13967.m3u8
+#EXTINF:0,|TR| FILMBOX HD AILE
+http://iptv-luxe.com:8789/live/1212/1212/13966.m3u8
+#EXTINF:0,|TR| FILMBOX HD AKSIYON
+http://iptv-luxe.com:8789/live/1212/1212/13965.m3u8
+#EXTINF:0,|TR| FILMBOX HD AKSIYON 2
+http://iptv-luxe.com:8789/live/1212/1212/13964.m3u8
+#EXTINF:0,|TR| FILMBOX HD ANIMASYON
+http://iptv-luxe.com:8789/live/1212/1212/13963.m3u8
+#EXTINF:0,|TR| FILMBOX HD BILIMKURGU
+http://iptv-luxe.com:8789/live/1212/1212/13962.m3u8
+#EXTINF:0,|TR| FILMBOX HD DRAM
+http://iptv-luxe.com:8789/live/1212/1212/13961.m3u8
+#EXTINF:0,|TR| FILMBOX HD FANTASTIK
+http://iptv-luxe.com:8789/live/1212/1212/13960.m3u8
+#EXTINF:0,|TR| FILMBOX HD GERMANY
+http://iptv-luxe.com:8789/live/1212/1212/13959.m3u8
+#EXTINF:0,|TR| FILMBOX HD KOMEDI
+http://iptv-luxe.com:8789/live/1212/1212/13958.m3u8
+#EXTINF:0,|TR| FILMBOX HD KORKU
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1387
+#EXTINF:0,|TR| FILMBOX HD PREMIER
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1386
+#EXTINF:0,|TR| FILMBOX HD TURK
+http://iptv-luxe.com:8789/live/1212/1212/13955.m3u8
+#EXTINF:0,|TR| FILMBOX HD YESILCAM
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1385
 #EXTINF:0,|TR| SALON 1
-http://185.23.213.162:8789/live/ania/ania/28538.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13908.m3u8
 #EXTINF:0,|TR| SALON 2
-http://185.23.213.162:8789/live/ania/ania/28537.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13907.m3u8
 #EXTINF:0,|TR| SALON 3
-http://185.23.213.162:8789/live/ania/ania/28536.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13905.m3u8
 #EXTINF:0,|TR| SALON 4
-http://185.23.213.162:8789/live/ania/ania/28535.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13904.m3u8
 #EXTINF:0,|TR| SALON 5
-http://185.23.213.162:8789/live/ania/ania/28534.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13903.m3u8
 #EXTINF:0,|TR| SALON 6
-http://185.23.213.162:8789/live/ania/ania/28533.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13902.m3u8
 #EXTINF:0,|TR| SALON 7
-http://185.23.213.162:8789/live/ania/ania/28532.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13901.m3u8
 #EXTINF:0,|TR| SALON 8
-http://185.23.213.162:8789/live/ania/ania/28531.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13900.m3u8
 #EXTINF:0,|TR| SALON 9
-http://185.23.213.162:8789/live/ania/ania/28530.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13899.m3u8
 #EXTINF:0,|TR| SALON 10
-http://185.23.213.162:8789/live/ania/ania/28529.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13898.m3u8
 #EXTINF:0,|TR| SALON 11
-http://185.23.213.162:8789/live/ania/ania/28528.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13897.m3u8
 #EXTINF:0,|TR| SALON 12
-http://185.23.213.162:8789/live/ania/ania/28527.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13896.m3u8
 #EXTINF:0,|TR| SALON 13
-http://185.23.213.162:8789/live/ania/ania/28526.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13895.m3u8
 #EXTINF:0,|TR| SALON 14
-http://185.23.213.162:8789/live/ania/ania/28525.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13894.m3u8
 #EXTINF:0,|TR| SALON 15
-http://185.23.213.162:8789/live/ania/ania/28524.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13893.m3u8
 #EXTINF:0,|TR| SALON 16
-http://185.23.213.162:8789/live/ania/ania/28523.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13892.m3u8
 #EXTINF:0,|TR| SALON 17
-http://185.23.213.162:8789/live/ania/ania/28522.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13891.m3u8
 #EXTINF:0,|TR| SALON 18
-http://185.23.213.162:8789/live/ania/ania/28521.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13890.m3u8
 #EXTINF:0,|TR| SALON 19
-http://185.23.213.162:8789/live/ania/ania/28520.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13889.m3u8
 #EXTINF:0,|TR| SALON 20
-http://185.23.213.162:8789/live/ania/ania/28519.m3u8
-#EXTINF:0,|TR| TRT HABER
-http://185.23.213.162:8789/live/ania/ania/28450.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13906.m3u8
 #EXTINF:0,|TR|*******SPOR*******|TR|
-http://185.23.213.162:8789/live/ania/ania/28518.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/5042.m3u8
 #EXTINF:0,|TR| BEINSPORT 1 HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1459
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1459
 #EXTINF:0,|TR| BEINSPORT 2 HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1458
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1458
 #EXTINF:0,|TR| BEINSPORT 3 HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1457
-#EXTINF:0,|TR| TRT SPOR HD
-http://185.23.213.162:8789/live/ania/ania/28506.m3u8
-#EXTINF:0,|TR| TRT SPOR
-http://185.23.213.162:8789/live/ania/ania/28505.m3u8
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1457
 #EXTINF:0,|TR| BEINSPORT 4 HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1456
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1456
 #EXTINF:0,|TR| SMART SPOR 1
-http://185.23.213.162:8789/live/ania/ania/28513.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13876.m3u8
 #EXTINF:0,|TR| S-SPORT HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1460
+http://iptv-luxe.com:8789/live/1212/1212/13909.m3u8
 #EXTINF:0,|TR| SPORT TV
-http://185.23.213.162:8789/live/ania/ania/28511.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13873.m3u8
 #EXTINF:0,|TR| TIVIBU SPOR 1 HD
-http://185.23.213.162:8789/live/ania/ania/28510.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13866.m3u8
 #EXTINF:0,|TR| TIVIBU SPOR 2 HD
-http://185.23.213.162:8789/live/ania/ania/28509.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13865.m3u8
 #EXTINF:0,|TR| TIVIBU SPOR 3 HD
-http://185.23.213.162:8789/live/ania/ania/28508.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13864.m3u8
 #EXTINF:0,|TR| TIVIBU SPOR 4 HD
-http://185.23.213.162:8789/live/ania/ania/28507.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13863.m3u8
+#EXTINF:0,|TR| TRT SPOR HD
+http://iptv-luxe.com:8789/live/1212/1212/4796.m3u8
+#EXTINF:0,|TR| TRT SPOR
+http://iptv-luxe.com:8789/live/1212/1212/4797.m3u8
 #EXTINF:0,|TR| NTV SPOR HD
-http://185.23.213.162:8789/live/ania/ania/28504.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13914.m3u8
 #EXTINF:0,|TR| FENERBAHCE TV HD
-http://185.23.213.162:8789/live/ania/ania/28503.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13969.m3u8
 #EXTINF:0,|TR| GALATASARAY TV
-http://185.23.213.162:8789/live/ania/ania/28502.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13947.m3u8
 #EXTINF:0,|TR| BJK TV
-http://185.23.213.162:8789/live/ania/ania/28501.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13997.m3u8
 #EXTINF:0,|TR| BURSASPOR TV
-http://185.23.213.162:8789/live/ania/ania/28500.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13994.m3u8
 #EXTINF:0,|TR| A SPOR
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1342
+http://iptv-luxe.com:8789/live/1212/1212/14013.m3u8
 #EXTINF:0,|TR| EUROSPORT 1 HD
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1343
+http://iptv-luxe.com:8789/live/1212/1212/13974.m3u8
 #EXTINF:0,|TR| EUROSPORT 2 HD
-http://185.23.213.162:8789/live/ania/ania/28497.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13973.m3u8
 #EXTINF:0,|TR| NBA TV
-http://185.23.213.162:8789/live/ania/ania/28496.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13919.m3u8
 #EXTINF:0,|TR|*******KULTUR *******|TR|
-http://185.23.213.162:8789/live/ania/ania/28495.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/5044.m3u8
 #EXTINF:0,|TR| NATIONAL GEO PEOPLE HD
-http://185.23.213.162:8789/live/ania/ania/28494.m3u8
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1414
 #EXTINF:0,|TR| NATIONAL GEO WILD HD
-http://185.23.213.162:8789/live/ania/ania/28493.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13920.m3u8
 #EXTINF:0,|TR| NATIONAL GEO HD
-http://185.23.213.162:8789/live/ania/ania/28492.m3u8
-#EXTINF:0,|TR| DISCOVERY CHANNEL
-http://185.23.213.162:8789/live/ania/ania/28491.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13922.m3u8
+#EXTINF:0,|TR| DISCOVERY
+http://iptv-luxe.com:8789/live/1212/1212/13983.m3u8
 #EXTINF:0,|TR| DISCOVERY SIENCE HD
-http://185.23.213.162:8789/live/ania/ania/28490.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13981.m3u8
 #EXTINF:0,|TR| DISCOVERY SHOWCASE HD
-http://185.23.213.162:8789/live/ania/ania/28489.m3u8
-#EXTINF:0,|TR| HISTORY CHANNEL HD
-http://185.23.213.162:8789/live/ania/ania/28487.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13982.m3u8
+#EXTINF:0,|TR| HISTORY HD
+http://iptv-luxe.com:8789/live/1212/1212/13944.m3u8
+#EXTINF:0,|TR| HISTORY VIASAT HD
+http://iptv-luxe.com:8789/live/1212/1212/13943.m3u8
 #EXTINF:0,|TR| ANIMAL PLANET TR
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1279
+http://iptv-luxe.com:8789/live/1212/1212/14010.m3u8
 #EXTINF:0,|TR| BBC EARTH HD
-http://185.23.213.162:8789/live/ania/ania/28485.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/14005.m3u8
 #EXTINF:0,|TR| TRT BELGESEL
-http://185.23.213.162:8789/live/ania/ania/28484.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13857.m3u8
 #EXTINF:0,|TR| TRT DIYANET HD
-http://185.23.213.162:8789/live/ania/ania/28483.m3u8
-#EXTINF:0,|TR| PLANET TURK
-http://185.23.213.162:8789/live/ania/ania/28481.m3u8
-#EXTINF:0,|TR|*******MUZIK *******|TR|
-http://185.23.213.162:8789/live/ania/ania/28480.m3u8
-#EXTINF:0,|TR| NR1
-http://185.23.213.162:8789/live/ania/ania/28479.m3u8
-#EXTINF:0,|TR| KRAL FM
-http://185.23.213.162:8789/live/ania/ania/28477.m3u8
-#EXTINF:0,|TR| KRAL POP AKUSTIK
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1271
-#EXTINF:0,|TR| KRAL POP FM TV
-http://185.23.213.162:8789/live/ania/ania/28474.m3u8
-#EXTINF:0,|TR| KRAL POP TV
-http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1271
-#EXTINF:0,|TR| KRAL TV
-http://185.23.213.162:8789/live/ania/ania/28478.m3u8
-#EXTINF:0,|TR| KRAL WORLD TV
-http://185.23.213.162:8789/live/ania/ania/28473.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13855.m3u8
 #EXTINF:0,|TR| TRT MUZIK
-http://185.23.213.162:8789/live/ania/ania/28482.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13852.m3u8
+#EXTINF:0,|TR| PLANET TURK
+http://iptv-luxe.com:8789/live/1212/1212/13911.m3u8
+#EXTINF:0,|TR|*******MUZIK *******|TR|
+http://iptv-luxe.com:8789/live/1212/1212/14029.m3u8
+#EXTINF:0,|TR| NR1
+http://iptv-luxe.com:8789/live/1212/1212/13916.m3u8
+#EXTINF:0,|TR| KRAL TV
+http://iptv-luxe.com:8789/live/1212/1212/13928.m3u8
+#EXTINF:0,|TR| KRAL FM
+http://iptv-luxe.com:8789/live/1212/1212/13932.m3u8
+#EXTINF:0,|TR| KRAL POP AKUSTIK
+http://iptv-luxe.com:8789/live/1212/1212/13931.m3u8
+#EXTINF:0,|TR| KRAL POP TV
+http://iptv-luxe.com:8789/live/1212/1212/13929.m3u8
+#EXTINF:0,|TR| KRAL POP FM TV
+http://iptv-luxe.com:8789/live/1212/1212/13930.m3u8
+#EXTINF:0,|TR| KRAL WORLD TV
+http://iptv-luxe.com:8789/live/1212/1212/13927.m3u8
 #EXTINF:0,|TR|*******COCUK*******|TR|
-http://185.23.213.162:8789/live/ania/ania/28472.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/5041.m3u8
 #EXTINF:0,|TR| TRT COCUK
-http://185.23.213.162:8789/live/ania/ania/28471.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13856.m3u8
 #EXTINF:0,|TR| DISNEY CHANNEL
-http://185.23.213.162:8789/live/ania/ania/28470.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13980.m3u8
 #EXTINF:0,|TR| DISNEY XD
-http://185.23.213.162:8789/live/ania/ania/28469.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13978.m3u8
 #EXTINF:0,|TR| DISNEY JUNIOR HD
-http://185.23.213.162:8789/live/ania/ania/28468.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13979.m3u8
 #EXTINF:0,|TR| CARTOON NETWORK
-http://185.23.213.162:8789/live/ania/ania/28467.m3u8
-#EXTINF:0,|TR| MINIKA GO
-http://185.23.213.162:8789/live/ania/ania/28465.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13988.m3u8
 #EXTINF:0,|TR| MINIKA COCUK
-http://185.23.213.162:8789/live/ania/ania/28466.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13924.m3u8
+#EXTINF:0,|TR| MINIKA GO
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1268
 #EXTINF:0,|TR| BABY TV
-http://185.23.213.162:8789/live/ania/ania/28464.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/14006.m3u8
 #EXTINF:0,|TR| BOOMERANG HD
-http://185.23.213.162:8789/live/ania/ania/28463.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13995.m3u8
 #EXTINF:0,|TR| KIDZ/ANIMEZ HD
-http://185.23.213.162:8789/live/ania/ania/28462.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13934.m3u8
 #EXTINF:0,|TR| NICK JR
-http://185.23.213.162:8789/live/ania/ania/28461.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13917.m3u8
 #EXTINF:0,|TR| NICKELODEON HD
-http://185.23.213.162:8789/live/ania/ania/28460.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13918.m3u8
 #EXTINF:0,|TR|*******HABER*******|TR|
-http://185.23.213.162:8789/live/ania/ania/28459.m3u8
-#EXTINF:0,|TR| A HABER
-http://185.23.213.162:8789/live/ania/ania/28458.m3u8
-#EXTINF:0,|TR| BLOOMBERG HT HD
-http://185.23.213.162:8789/live/ania/ania/28457.m3u8
-#EXTINF:0,|TR| CNN TURK
-http://185.23.213.162:8789/live/ania/ania/28456.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/5045.m3u8
 #EXTINF:0,|TR| NTV HABER
-http://185.23.213.162:8789/live/ania/ania/28597.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13915.m3u8
+#EXTINF:0,|TR| A HABER
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1415
+#EXTINF:0,|TR| BLOOMBERG HT HD
+http://iptv-luxe.com:8789/live/1212/1212/13996.m3u8
+#EXTINF:0,|TR| CNN TURK
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/1418
 #EXTINF:0,|TR| DAVINCI LEARNING
-http://185.23.213.162:8789/live/ania/ania/28455.m3u8
-#EXTINF:0,|TR| EURONEWS HD
-http://185.23.213.162:8789/live/ania/ania/28449.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13984.m3u8
+#EXTINF:0,|TR| HABERTURK HD
+http://iptv-luxe.com:8789/live/1212/1212/13946.m3u8
 #EXTINF:0,|TR| SEMERKAND TV UHD
-http://185.23.213.162:8789/live/ania/ania/28453.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/14021.m3u8
 #EXTINF:0,|TR| TGRT HABER
-http://185.23.213.162:8789/live/ania/ania/28452.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13867.m3u8
 #EXTINF:0,|TR| TRT HABER HD
-http://185.23.213.162:8789/live/ania/ania/28451.m3u8
+http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/3021
+#EXTINF:0,|TR| TRT HABER
+http://iptv-luxe.com:8789/live/1212/1212/13854.m3u8
+#EXTINF:0,|TR| EURONEWS HD
+http://iptv-luxe.com:8789/live/1212/1212/13975.m3u8
 #EXTINF:0,|TR| HALK TV
-http://185.23.213.162:8789/live/ania/ania/28448.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13945.m3u8
 #EXTINF:0,|TR| TVNET
-http://185.23.213.162:8789/live/ania/ania/28447.m3u8
+http://iptv-luxe.com:8789/live/1212/1212/13843.m3u8
