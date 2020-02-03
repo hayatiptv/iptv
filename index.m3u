@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1,SiMSEK TV
-/channels/BDNLTR.m3u
+channels/BDNLTR.m3u
 #EXTINF:-1,Afghanistan
 channels/af.m3u
 #EXTINF:-1,Albania
