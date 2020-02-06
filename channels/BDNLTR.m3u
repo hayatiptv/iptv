@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,|DE|*****SKY DEUTSCHLAND*****|DE|
+http://iptv-luxe.com:8789/live/1212/1212/435.m3u8
 #EXTINF:0,|DE| ARD ALPHA HD
 http://iptv-luxe.com:8789/live/1212/1212/590.m3u8
 #EXTINF:0,|DE| ZDF HD
@@ -219,6 +221,38 @@ http://iptv-luxe.com:8789/live/1212/1212/555.m3u8
 http://iptv-luxe.com:8789/live/1212/1212/545.m3u8
 #EXTINF:0,|DE| SPIEGEL GESCHICHTE
 http://iptv-luxe.com:8789/live/1212/1212/9019.m3u8
+#EXTINF:0,|DE| SPIEGEL TV WISSEN
+http://iptv-luxe.com:8789/live/1212/1212/569.m3u8
+#EXTINF:0,|DE| A&E
+http://iptv-luxe.com:8789/live/1212/1212/568.m3u8
+#EXTINF:0,|DE|*****NIEUWS*****|DE|
+http://iptv-luxe.com:8789/live/1212/1212/572.m3u8
+#EXTINF:0,HSE24
+http://iptv-luxe.com:8789/live/1212/1212/595.m3u8
+#EXTINF:0,|DE|DW
+http://iptv-luxe.com:8789/live/1212/1212/573.m3u8
+#EXTINF:0,|DE| N24
+http://iptv-luxe.com:8789/live/1212/1212/574.m3u8
+#EXTINF:0,|DE| AUSTRIA-24.TV
+http://iptv-luxe.com:8789/live/1212/1212/593.m3u8
+#EXTINF:0,|DE|*****KINDER*****|DE|
+http://iptv-luxe.com:8789/live/1212/1212/565.m3u8
+#EXTINF:0,|DE| DISNEY CINEMAGIC HD
+http://iptv-luxe.com:8789/live/1212/1212/720.m3u8
+#EXTINF:0,|DE| DISNEY XD
+http://iptv-luxe.com:8789/live/1212/1212/719.m3u8
+#EXTINF:0,|DE| JUNIOR
+http://iptv-luxe.com:8789/live/1212/1212/718.m3u8
+#EXTINF:0,|DE|Nickelodeon
+http://iptv-luxe.com:8789/live/1212/1212/566.m3u8
+#EXTINF:0,|DE| BOOMERANG
+http://iptv-luxe.com:8789/live/1212/1212/1467.m3u8
+#EXTINF:0,|DE| CARTOON NETWORK
+http://iptv-luxe.com:8789/live/1212/1212/1466.m3u8
+#EXTINF:0,|DE| DISNEY CHANNEL
+http://iptv-luxe.com:8789/live/1212/1212/1465.m3u8
+#EXTINF:0,|DE| DISNEY JUNIOR
+http://iptv-luxe.com:8789/live/1212/1212/1463.m3u8
 #EXTINF:0,|NL| Net 5 HD
 http://iptv-luxe.com:8789/live/1212/1212/26254.m3u8
 #EXTINF:0,|NL| NET5 HD
@@ -487,8 +521,7 @@ http://iptv-luxe.com:8789/live/1212/1212/2641.m3u8
 http://iptv-luxe.com:8789/live/1212/1212/588.m3u8
 #EXTINF:0,|NL|*****KINDEREN*****|NL|
 http://iptv-luxe.com:8789/live/1212/1212/2640.m3u8
-#EXTINF:0,|TR| GINX
-http://iptv-luxe.com:8789/live/1212/1212/1060.m3u8
+
 #EXTINF:0,|TR|*****GENEL*****|TR|
 http://iptv-luxe.com:8789/live/1212/1212/7869.m3u8
 #EXTINF:0,|TR| TRT 1 HD
@@ -893,9 +926,3 @@ http://iptv-luxe.com:8789/live/1212/1212/13867.m3u8
 http://iptv8.premium-stv.com:2052/pro1turc/bhXdd32sd1g/3021
 #EXTINF:0,|TR| TRT HABER
 http://iptv-luxe.com:8789/live/1212/1212/13854.m3u8
-#EXTINF:0,|TR| EURONEWS HD
-http://iptv-luxe.com:8789/live/1212/1212/13975.m3u8
-#EXTINF:0,|TR| HALK TV
-http://iptv-luxe.com:8789/live/1212/1212/13945.m3u8
-#EXTINF:0,|TR| TVNET
-http://iptv-luxe.com:8789/live/1212/1212/13843.m3u8
