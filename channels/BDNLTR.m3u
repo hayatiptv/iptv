@@ -1,9 +1,14 @@
 #EXTM3U
-#EXTINF:0,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582946634/ei/6oRZXpmDHdCmgQfBy5W4BA/ip/86.91.26.231/id/WisZM9CMlTo.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRAIgG_ML2N2ofts0b1Ge2t7UM0i_UuIqbwteEJTWaZC6HMMCIGBuTgqELGZ1wDptiSJMDQrKa5U3RJ_DJkjxnKdeLIBC/file/index.m3u8
-#EXTINF:0,DW News Livestream | Latest news and breaking stories
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582946651/ei/-4RZXsnLMeOD6dsPhZWF8A4/ip/86.91.26.231/id/NvqKZHpKs-g.499/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIgQeP8pr4Iz3xMcxO5lhdtiMXyswucpkWb-YzyxLB5-UYCIQDewr3emRT62Ratk0J6rdjVml4Cy58laE8F8pq3xTE8cA%3D%3D/file/index.m3u8
-#EXTINF:0,Euronews English Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1582946658/ei/AoVZXvDeK4yZgQftw42gAg/ip/86.91.26.231/id/F-uW_IswLh8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/nl/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIgNFYrPyJm65E66T2mqkmE7NXl0dI5uu51lWWzMv2HukMCIQDk_uypqXKwYN-JcWPOGQI-EKO227Nf3X0WhMijVMlDMQ%3D%3D/file/index.m3u8
+#EXTINF:1422,- Update: 03.02.2020
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+#EXTINF:0,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1583207408/ei/kH9dXsPtEI20-gayhIiwAw/ip/86.91.26.231/id/WisZM9CMlTo.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIgOnD5HGTmR0tn1PGwnFz_iiFpo4Yrx04UClgcCMXoQUcCIQD0mvnqA0FFQ5vEXmHEzVratBuIdvesa-PtzcvfD0LSPQ%3D%3D/file/index.m3u8
+#EXTINF:0,DW News
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/watch?v=NvqKZHpKs-g
+#EXTINF:0,Euronews
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/watch?v=F-uW_IswLh8
 #EXTINF:0,France 24
 #EXTVLCOPT:network-caching=1000
 https://www.youtube.com/watch?v=6N0lbZr_wXs
@@ -13,7 +18,7 @@ https://www.youtube.com/watch?v=NvCSr7qzAAM
 #EXTINF:0,Sky News
 #EXTVLCOPT:network-caching=1000
 https://www.youtube.com/watch?v=9Auq9mYxFEE
-#EXTINF:1422,~ 24/7 Adult Swim ~
+#EXTINF:0,~ 24/7 Adult Swim ~
 #EXTVLCOPT:network-caching=1000
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 #EXTINF:0,Aqua Teen Hunger Force
@@ -100,9 +105,6 @@ http://45.92.69.76:8000/play/a03x
 #EXTINF:0,BBC World News (GB) (Opt-6)
 #EXTVLCOPT:network-caching=1000
 http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
-#EXTINF:0,BBC World News (GB) (Opt-7)
-#EXTVLCOPT:network-caching=1000
-http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:0,Bloomberg TV Asia (HK)
 #EXTVLCOPT:network-caching=1000
 http://45.126.83.51/uq2663/h/h03/index.m3u8
@@ -151,6 +153,9 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:0,DW (DE) (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://43.224.120.99:8080/dwenglish.m3u8
+#EXTINF:0,Euronews (FR)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:0,France 24 (FR) (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -280,9 +285,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/12
 #EXTINF:0,American Classic TV
 #EXTVLCOPT:network-caching=1000
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,American Heroes Channel
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2T8BDmA?.m3u8
 #EXTINF:0,American Horrors
 #EXTVLCOPT:network-caching=1000
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
@@ -295,9 +297,6 @@ https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000
 #EXTINF:0,Apple Sauce Network
 #EXTVLCOPT:network-caching=1000
 https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Aspire TV
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2waNiZc?.m3u8
 #EXTINF:0,Atlanta Channel
 #EXTVLCOPT:network-caching=1000
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
@@ -313,9 +312,6 @@ https://nrpus.bozztv.com/36bay2/gusa-autoplay/index.m3u8
 #EXTINF:0,Auto Play TV (Opt-2)
 #EXTVLCOPT:network-caching=1000
 https://nimble.dashstreams.net/onestudio/aptv/playlist.m3u8
-#EXTINF:0,AXS TV
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/3ajZGF3?.m3u8
 #EXTINF:0,Baeble Music Sessions (Opt-1)
 #EXTVLCOPT:network-caching=1000
 https://fluxustv.blogspot.com@bit.ly/BaebleMusic01?.m3u8
@@ -343,9 +339,6 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:0,Bek Sports West
 #EXTVLCOPT:network-caching=1000
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:0,BET Her
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/39l4ABe?.m3u8
 #EXTINF:0,BigLife TV
 #EXTVLCOPT:network-caching=1000
 http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
@@ -376,9 +369,6 @@ https://nrpus.bozztv.com/36bay2/gusa-btn/index.m3u8
 #EXTINF:0,Blush TV
 #EXTVLCOPT:network-caching=1000
 https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Boomerang
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/32yVChe?.m3u8
 #EXTINF:0,Buzzr
 #EXTVLCOPT:network-caching=1000
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
@@ -403,9 +393,6 @@ https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
 #EXTINF:0,Capitol Wrestling
 #EXTVLCOPT:network-caching=1000
 https://nrpus.bozztv.com/36bay2/gusa-capitolwrestling/index.m3u8
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2T5TE51?.m3u8
 #EXTINF:0,Cartoons 4U
 #EXTVLCOPT:network-caching=1000
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
@@ -442,9 +429,6 @@ https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 #EXTINF:0,Chef Roc Show
 #EXTVLCOPT:network-caching=1000
 https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/39aDoFh?.m3u8
 #EXTINF:0,Classic Arts Showcase
 #EXTVLCOPT:network-caching=1000
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
@@ -460,9 +444,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u
 #EXTINF:0,CMC-USA
 #EXTVLCOPT:network-caching=1000
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,CMT
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2Trhwif?.m3u8
 #EXTINF:0,CNBC
 #EXTVLCOPT:network-caching=1000
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
@@ -520,12 +501,6 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:0,Disney Channel (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:0,Disney Junior
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2TqIqH8?.m3u8
-#EXTINF:0,Disney XD
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2VCxglc?.m3u8
 #EXTINF:0,Ditty TV
 #EXTVLCOPT:network-caching=1000
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
@@ -631,9 +606,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 #EXTINF:0,Fox (WSVN)
 #EXTVLCOPT:network-caching=1000
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
-#EXTINF:0,Fox News Channel
+#EXTINF:0,Fox News Channel (No-Audio)
 #EXTVLCOPT:network-caching=1000
-http://ms-azure-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
+http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
 #EXTINF:0,Fox News Radio
 #EXTVLCOPT:network-caching=1000
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
@@ -670,12 +645,18 @@ https://nrpus.bozztv.com/36bay2/gusa-guidingstar/index.m3u8
 #EXTINF:0,Gusto TV
 #EXTVLCOPT:network-caching=1000
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+#EXTINF:0,Hallmark Channel
+#EXTVLCOPT:network-caching=1000
+https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
 #EXTINF:0,Hallmark Movies & Mysteries
 #EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/3ci8uwQ?.m3u8
+https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
 #EXTINF:0,HBCU Game Day
 #EXTVLCOPT:network-caching=1000
 https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
+#EXTINF:0,HDNet Movies
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/382H6Q8?.m3u8
 #EXTINF:0,Heartland
 #EXTVLCOPT:network-caching=1000
 https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
@@ -712,6 +693,9 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:0,IndieWave
 #EXTVLCOPT:network-caching=1000
 https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:0,InfoWars
+#EXTVLCOPT:network-caching=1000
+https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
 #EXTINF:0,Investment Pitch
 #EXTVLCOPT:network-caching=1000
 http://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8
@@ -774,12 +758,12 @@ https://nrpus.bozztv.com/36bay2/gusa-mwg/index.m3u8
 #EXTINF:0,Metro Cable Network
 #EXTVLCOPT:network-caching=1000
 http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
-#EXTINF:0,MGM
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2vrLZot?.m3u8
 #EXTINF:0,MGM Sci-Fi
 #EXTVLCOPT:network-caching=1000
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:0,MLB Network
+#EXTVLCOPT:network-caching=1000
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:0,Mo Laughter TV
 #EXTVLCOPT:network-caching=1000
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8?fluxustv.m3u8
@@ -855,12 +839,6 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv
 #EXTINF:0,Newsy 
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
-#EXTINF:0,Nick Jr.
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2TmYU37?.m3u8
-#EXTINF:0,Nickelodeon
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2TpAciE?.m3u8
 #EXTINF:0,Nothing Scripted
 #EXTVLCOPT:network-caching=1000
 http://30a-tv.com/NothingScripted.m3u8?fluxustv.m3u8
@@ -1005,9 +983,6 @@ https://vcnswee.teleosmedia.com/stream/swee/signmetv/seglist_720p.m3u8
 #EXTINF:0,Smithsonian Channel
 #EXTVLCOPT:network-caching=1000
 http://ms-azure-video.gslb.startimestv.com/live/SMITHSONIAN_CHANNEL_1166_500_480x360_662502/playlist.m3u8
-#EXTINF:0,Sony Movie Channel
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2uHTibq?.m3u8
 #EXTINF:0,Sports TV Plus
 #EXTVLCOPT:network-caching=1000
 https://nimble.dashstreams.net/onestudio/sportstvplus/playlist.m3u8
@@ -1068,10 +1043,10 @@ https://nrpus.bozztv.com/36bay2/gusa-thegrid/index.m3u8
 #EXTINF:0,The Outdoor Cooking Channel
 #EXTVLCOPT:network-caching=1000
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
-#EXTINF:0,The Pet Collective (Opt-1)
+#EXTINF:0,The Pet Collective 1
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
-#EXTINF:0,The Pet Collective (Opt-2)
+#EXTINF:0,The Pet Collective 2
 #EXTVLCOPT:network-caching=1000
 http://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 #EXTINF:0,The Titanic Channel
@@ -1215,6 +1190,93 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:0,Z Living (Opt-2)
 #EXTVLCOPT:network-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:0,~ USA Premium Channels ~
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/32PbdJN?.m3u8
+#EXTINF:0,American Heroes Channel
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2T8BDmA?.m3u8
+#EXTINF:0,Aspire TV
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2waNiZc?.m3u8
+#EXTINF:0,AXS TV
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/3ajZGF3?.m3u8
+#EXTINF:0,BET Her
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/39l4ABe?.m3u8
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/32yVChe?.m3u8
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2T5TE51?.m3u8
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/39aDoFh?.m3u8
+#EXTINF:0,CMT
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2Trhwif?.m3u8
+#EXTINF:0,Cooking Channel
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2TvbUDU?.m3u8
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2TqIqH8?.m3u8
+#EXTINF:0,Disney XD
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2VCxglc?.m3u8
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2I9KdLF?.m3u8
+#EXTINF:0,Hallmark Movies & Mysteries
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/3ci8uwQ?.m3u8
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2IegxwU?.m3u8
+#EXTINF:0,Logo TV
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2Tt4xgl?.m3u8
+#EXTINF:0,MTV 2
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/39b5EYD?.m3u8
+#EXTINF:0,MGM TV
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2vrLZot?.m3u8
+#EXTINF:0,Nick Jr.
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2TmYU37?.m3u8
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2TpAciE?.m3u8
+#EXTINF:0,Sony Movie Channel
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2uHTibq?.m3u8
+#EXTINF:0,Start TV
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2Ts3FIu?.m3u8
+#EXTINF:0,TBS
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2VAoB2V?.m3u8
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2PE7zwQ?.m3u8
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2VAoEvD?.m3u8
+#EXTINF:0,Travel Channel
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2uKe2zm?.m3u8
+#EXTINF:0,TV Land
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/3akgZWo?.m3u8
+#EXTINF:0,TV One
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/2I3LNOS?.m3u8
 #EXTINF:0,~ USA Public TV ~
 #EXTVLCOPT:network-caching=1000
 http://167.88.154.169/wnycfm-tunein
@@ -4185,7 +4247,7 @@ http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
 #EXTINF:0,Rai Gulp
 #EXTVLCOPT:network-caching=1000
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:0,Rai Movie
+#EXTINF:0,Rai Movie (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0,Rai News 24
@@ -10573,7 +10635,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunkl
 #EXTINF:0,Kan Educational
 #EXTVLCOPT:network-caching=1000
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:0,Keshet 12 (New!)
+#EXTINF:0,Keshet 12
 #EXTVLCOPT:network-caching=1000
 http://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av-p.m3u8
 #EXTINF:0,Knesset Channel (Opt-1)
@@ -10603,7 +10665,7 @@ http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21T
 #EXTINF:0,Shopping Channel (Opt-2)
 #EXTVLCOPT:network-caching=1000
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
-#EXTINF:0,Sport 5 (New!)
+#EXTINF:0,Sport 5
 #EXTVLCOPT:network-caching=1000
 https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8
 #EXTINF:0,~ Myanmar TV ~
