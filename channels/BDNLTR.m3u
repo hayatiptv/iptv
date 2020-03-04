@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:1422,- Update: 03.02.2020
+#EXTINF:0,- Update: 03.02.2020
 #EXTVLCOPT:network-caching=1000
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
-#EXTINF:0,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1583207408/ei/kH9dXsPtEI20-gayhIiwAw/ip/86.91.26.231/id/WisZM9CMlTo.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIgOnD5HGTmR0tn1PGwnFz_iiFpo4Yrx04UClgcCMXoQUcCIQD0mvnqA0FFQ5vEXmHEzVratBuIdvesa-PtzcvfD0LSPQ%3D%3D/file/index.m3u8
+#EXTINF:0,Al Jazeera
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/watch?v=WisZM9CMlTo
 #EXTINF:0,DW News
 #EXTVLCOPT:network-caching=1000
 https://www.youtube.com/watch?v=NvqKZHpKs-g
