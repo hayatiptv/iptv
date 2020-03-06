@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:0,- Update: 03.02.2020
+#EXTINF:1422,- Update: 03.05.2020
+#EXTVLCOPT:network-caching=1000
+https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+#EXTINF:0,~ 24/7 YouTube English ~
 #EXTVLCOPT:network-caching=1000
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 #EXTINF:0,Al Jazeera
@@ -608,7 +611,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 #EXTINF:0,Fox (WSVN)
 #EXTVLCOPT:network-caching=1000
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
-#EXTINF:0,Fox News Channel (No-Audio)
+#EXTINF:0,Fox News Channel (Opt-1)
+#EXTVLCOPT:network-caching=1000
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
+#EXTINF:0,Fox News Channel (Opt-2) (No-Audio)
 #EXTVLCOPT:network-caching=1000
 http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
 #EXTINF:0,Fox News Radio
@@ -1063,6 +1069,12 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 #EXTINF:0,TMZ
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0,TNT (Opt-1)
+#EXTVLCOPT:network-caching=1000
+http://cdnak8.cast4u.info/channels/2/10802.m3u8
+#EXTINF:0,TNT (Opt-2)
+#EXTVLCOPT:network-caching=1000
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
 #EXTINF:0,Travel 4U
 #EXTVLCOPT:network-caching=1000
 https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
@@ -1126,9 +1138,15 @@ http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:0,UN Web TV
 #EXTVLCOPT:network-caching=1000
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
+#EXTINF:0,Up TV
+#EXTVLCOPT:network-caching=1000
+http://line.protv.cc/VFS56PecA4/Z119vkc4Am/91881
 #EXTINF:0,Urban Music 4U
 #EXTVLCOPT:network-caching=1000
 https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
+#EXTINF:0,USA Network
+#EXTVLCOPT:network-caching=1000
+http://cdnak8.cast4u.info/channels/4/10804.m3u8
 #EXTINF:0,Vegas Stats
 #EXTVLCOPT:network-caching=1000
 https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8?fluxustv.m3u8
@@ -1192,93 +1210,6 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:0,Z Living (Opt-2)
 #EXTVLCOPT:network-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:0,~ USA Premium Channels ~
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
-#EXTINF:0,Animal Planet
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/32PbdJN?.m3u8
-#EXTINF:0,American Heroes Channel
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2T8BDmA?.m3u8
-#EXTINF:0,Aspire TV
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2waNiZc?.m3u8
-#EXTINF:0,AXS TV
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/3ajZGF3?.m3u8
-#EXTINF:0,BET Her
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/39l4ABe?.m3u8
-#EXTINF:0,Boomerang
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/32yVChe?.m3u8
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2T5TE51?.m3u8
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/39aDoFh?.m3u8
-#EXTINF:0,CMT
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2Trhwif?.m3u8
-#EXTINF:0,Cooking Channel
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2TvbUDU?.m3u8
-#EXTINF:0,Disney Junior
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2TqIqH8?.m3u8
-#EXTINF:0,Disney XD
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2VCxglc?.m3u8
-#EXTINF:0,FX
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2I9KdLF?.m3u8
-#EXTINF:0,Hallmark Movies & Mysteries
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/3ci8uwQ?.m3u8
-#EXTINF:0,HBO Family
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2IegxwU?.m3u8
-#EXTINF:0,Logo TV
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2Tt4xgl?.m3u8
-#EXTINF:0,MTV 2
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/39b5EYD?.m3u8
-#EXTINF:0,MGM TV
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2vrLZot?.m3u8
-#EXTINF:0,Nick Jr.
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2TmYU37?.m3u8
-#EXTINF:0,Nickelodeon
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2TpAciE?.m3u8
-#EXTINF:0,Sony Movie Channel
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2uHTibq?.m3u8
-#EXTINF:0,Start TV
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2Ts3FIu?.m3u8
-#EXTINF:0,TBS
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2VAoB2V?.m3u8
-#EXTINF:0,TCM
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2PE7zwQ?.m3u8
-#EXTINF:0,TNT
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2VAoEvD?.m3u8
-#EXTINF:0,Travel Channel
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2uKe2zm?.m3u8
-#EXTINF:0,TV Land
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/3akgZWo?.m3u8
-#EXTINF:0,TV One
-#EXTVLCOPT:network-caching=1000
-https://fluxustv.blogspot.com@bit.ly/2I3LNOS?.m3u8
 #EXTINF:0,~ USA Public TV ~
 #EXTVLCOPT:network-caching=1000
 http://167.88.154.169/wnycfm-tunein
@@ -4119,7 +4050,7 @@ http://dcunilive36-lh.akamaihd.net/i/dclive_1@662093/master.m3u8?fluxustv.m3u8
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,Otto Channel
 #EXTVLCOPT:network-caching=1000
-https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8?fluxustv.m3u8
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8
 #EXTINF:0,Otto FM TV
 #EXTVLCOPT:network-caching=1000
 http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8
@@ -6609,9 +6540,12 @@ http://v3.tustreaming.cl/tvautonoma/live1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,UESTV Los Lagos
 #EXTVLCOPT:network-caching=1000
 http://uestv.02.cl.cdnz.cl/uloslagos/live/playlist.m3u8
-#EXTINF:0,UTV San Clemente
+#EXTINF:0,UTV San Clemente (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,UTV San Clemente (Opt-2)
+#EXTVLCOPT:network-caching=1000
+https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
 #EXTINF:0,VC Online Santiago
 #EXTVLCOPT:network-caching=1000
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
@@ -9111,6 +9045,9 @@ http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
 #EXTINF:0,Viasat Nature (Dual)
 #EXTVLCOPT:network-caching=1000
 http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:0,VIP Serial
+#EXTVLCOPT:network-caching=1000
+http://fr01.spr24.net/109/index.m3u8?token=rCEqTFvRhtEvXt
 #EXTINF:0,Volgograd 24
 #EXTVLCOPT:network-caching=1000
 http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
@@ -9765,22 +9702,25 @@ rtmp://78.47.151.116/tilesport/movie1
 #EXTINF:0,Attica TV
 #EXTVLCOPT:network-caching=1000
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
-#EXTINF:0,Baraza TV Classic Hits (New!)
+#EXTINF:0,Baraza TV Classic Hits
 #EXTVLCOPT:network-caching=1000
-https://greekyoutube.eu:444/live/5e300ade5dadc/index.m3u8
-#EXTINF:0,Baraza TV Greek Hits (New!)
+https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+#EXTINF:0,Baraza TV Greek Hits (Opt-1)
 #EXTVLCOPT:network-caching=1000
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:0,Baraza TV Gold Hits (New!)
+#EXTINF:0,Baraza TV Greek Hits (Opt-2)
 #EXTVLCOPT:network-caching=1000
-https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0,Baraza TV Pop & Dance
+#EXTVLCOPT:network-caching=1000
+https://5cc309e93b721.streamlock.net:443/8452/8452/playlist.m3u8
 #EXTINF:0,Best TV
 #EXTVLCOPT:network-caching=1000
 https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:0,Cannali TV
 #EXTVLCOPT:network-caching=1000
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:0,Cartoon TV (New!)
+#EXTINF:0,Cartoon TV
 #EXTVLCOPT:network-caching=1000
 http://web.onair-radio.eu:1935/cartoon/cartoon/playlist.m3u8
 #EXTINF:0,Channel 9
@@ -11621,7 +11561,7 @@ http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/i
 #EXTINF:0,Ayeneh TV (US)
 #EXTVLCOPT:network-caching=1000
 https://2nbyjjx7y53k-hls-live.5centscdn.com/835/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:0,Azadi TV (New!)
+#EXTINF:0,Azadi TV
 #EXTVLCOPT:network-caching=1000
 https://5a3e964ed0b51.streamlock.net/w/azadah/chunklist_w1398305128.m3u8
 #EXTINF:0,BBC Farsi (GB)
@@ -11639,16 +11579,16 @@ http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
 #EXTINF:0,Ganj e Hozour (US) (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://topfi.fast.internapcdn.net/topfi/live_1/LowMobile/playlist.m3u8
-#EXTINF:0,GEM Bollywood (New!)
+#EXTINF:0,GEM Bollywood
 #EXTVLCOPT:network-caching=1000
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
-#EXTINF:0,GEM Classic (New!)
+#EXTINF:0,GEM Classic
 #EXTVLCOPT:network-caching=1000
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
-#EXTINF:0,GEM Series (New!)
+#EXTINF:0,GEM Series
 #EXTVLCOPT:network-caching=1000
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
-#EXTINF:0,GEM TV (New!)
+#EXTINF:0,GEM TV
 #EXTVLCOPT:network-caching=1000
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 #EXTINF:0,GHM TV (GB)
@@ -11657,7 +11597,7 @@ https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/7cc920348532e7cc63e15024f
 #EXTINF:0,GünAz TV Farsi (US)
 #EXTVLCOPT:network-caching=1000
 http://gtv.live.cdn.bitgravity.com/gtv/live/feed01
-#EXTINF:0,Health Media TV (New!)
+#EXTINF:0,Health Media TV
 #EXTVLCOPT:network-caching=1000
 https://livestream.5centscdn.com/cls092118/8f8400b79584fa2a1315aa5e7612d4f3.sdp/index.m3u8
 #EXTINF:0,Hopecity (GB)
@@ -11687,7 +11627,7 @@ https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:0,Iranian Cinema Channel
 #EXTVLCOPT:network-caching=1000
 https://mn-nl.mncdn.com/ezcdn_icc/icc_1/chunklist.m3u8
-#EXTINF:0,IRIB Amoozesh (New!)
+#EXTINF:0,IRIB Amoozesh
 #EXTVLCOPT:network-caching=1000
 https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,IRIB Nasim
@@ -11705,13 +11645,13 @@ https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,IRIB TV4
 #EXTVLCOPT:network-caching=1000
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0,IRIB TV3 (New!)
+#EXTINF:0,IRIB TV3
 #EXTVLCOPT:network-caching=1000
 https://livetv.persianleague.com/live/tv3/chunks.m3u8
 #EXTINF:0,IRIB TV5
 #EXTVLCOPT:network-caching=1000
 https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0,IRIB Varzesh (New!)
+#EXTINF:0,IRIB Varzesh
 #EXTVLCOPT:network-caching=1000
 https://livetv.persianleague.com/live/varzesh/chunks.m3u8
 #EXTINF:0,Kanal Yek (US) (Opt-1)
@@ -11726,7 +11666,7 @@ https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/192292e35fbe73f6d2b8d96bd
 #EXTINF:0,Manoto (GB)
 #EXTVLCOPT:network-caching=1000
 https://dzll8dnb13thz.cloudfront.net/live_1500.m3u8
-#EXTINF:0,Mifa (New!)
+#EXTINF:0,Mifa
 #EXTVLCOPT:network-caching=1000
 http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 #EXTINF:0,Mihan TV (US)
@@ -11735,7 +11675,7 @@ http://iptv.mihantv.com/live/playlist1/index.m3u8
 #EXTINF:0,MTC Melli TV (US)
 #EXTVLCOPT:network-caching=1000
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
-#EXTINF:0,Pars TV (New!)
+#EXTINF:0,Pars TV
 #EXTVLCOPT:network-caching=1000
 https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
 #EXTINF:0,ParsiLand TV (US)
@@ -11759,9 +11699,15 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist.m3u8
 #EXTINF:0,Rangarang TV (US)
 #EXTVLCOPT:network-caching=1000
 http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:0,River
+#EXTVLCOPT:network-caching=1000
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
 #EXTINF:0,Royal Time (US)
 #EXTVLCOPT:network-caching=1000
 http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
+#EXTINF:0,Rubix
+#EXTVLCOPT:network-caching=1000
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 #EXTINF:0,Simay-Azadi (GB)
 #EXTVLCOPT:network-caching=1000
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
@@ -12686,6 +12632,9 @@ https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:0,Almasirah Mubasher
 #EXTVLCOPT:network-caching=1000
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/chunklist.m3u8
+#EXTINF:0,Belqees TV
+#EXTVLCOPT:network-caching=1000
+http://217.182.137.206/sudan_drama.m3u8
 #EXTINF:0,Yemen TV
 #EXTVLCOPT:network-caching=1000
 https://mysisli.com/36bay2/gin/giniko_yementv_900kb_36bay2/index.m3u8
@@ -12968,6 +12917,12 @@ http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 #EXTINF:0,New Africa TV Hausa
 #EXTVLCOPT:network-caching=1000
 http://new.holol.com:1935/tayba/africah/playlist.m3u8
+#EXTINF:0,Sudan TV
+#EXTVLCOPT:network-caching=1000
+http://217.182.137.206/sudantv.m3u8
+#EXTINF:0,Sudania 24
+#EXTVLCOPT:network-caching=1000
+http://217.182.137.206/sudania24.m3u8
 #EXTINF:0,~ West Sahara TV ~
 #EXTVLCOPT:network-caching=1000
 http://www.lengua.com/anthems/WestSahara.mp3
