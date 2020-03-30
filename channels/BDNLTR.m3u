@@ -10233,3 +10233,426 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:0,TRT Turk
 #EXTVLCOPT:network-caching=1000
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,TR- SHOW TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1271.m3u8
+#EXTINF:-1,TR- Show max
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/6660.m3u8
+#EXTINF:-1,TR- Semerkand
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7111.m3u8
+#EXTINF:-1,TR- POWER TV HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1301.m3u8
+#EXTINF:-1,TR- POWER TURK
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1265.m3u8
+#EXTINF:-1,TR- STAR TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1267.m3u8
+#EXTINF:-1,TR- SINEMA TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1276.m3u8
+#EXTINF:-1,TR- SINEMA AKSIYON
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1297.m3u8
+#EXTINF:-1,TR- UçanKuş
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/6658.m3u8
+#EXTINF:-1,TR- TV8.5
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1294.m3u8
+#EXTINF:-1,TR- TV8
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1263.m3u8
+#EXTINF:-1,TR- AlTurkmania
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7227.m3u8
+#EXTINF:-1,TR- TRTCOCUK
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1254.m3u8
+#EXTINF:-1,TR- TRT1HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1252.m3u8
+#EXTINF:-1,TR- TRT sport
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/6653.m3u8
+#EXTINF:-1,TR- TRT BELGESEL
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/6655.m3u8
+#EXTINF:-1,TR- TRT MUZIK
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1303.m3u8
+#EXTINF:-1,TR- TRT HABER
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/6652.m3u8
+#EXTINF:-1,TR- TRT ARAP
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1253.m3u8
+#EXTINF:-1,TR- TLC
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1030.m3u8
+#EXTINF:-1,TR- ULKE
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1256.m3u8
+#EXTINF:-1,TR- Teve 2
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/6659.m3u8
+#EXTINF:-1,TR- S SPORT TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1284.m3u8
+#EXTINF:-1,TR- IZ TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1291.m3u8
+#EXTINF:-1,TR- Kanal D Euro
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1292.m3u8
+#EXTINF:-1,TR- Moviesmart ACTION
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1293.m3u8
+#EXTINF:-1,TR- NTV HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1300.m3u8
+#EXTINF:-1,TR- NR1 TURK
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1257.m3u8
+#EXTINF:-1,TR- nick JUNIOR
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1281.m3u8
+#EXTINF:-1,TR- National Geographic
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1270.m3u8
+#EXTINF:-1,TR- Nat Geo Wild
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1269.m3u8
+#EXTINF:-1,TR- Nat Geo People
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1268.m3u8
+#EXTINF:-1,TR- Moviesmart Premium
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1255.m3u8
+#EXTINF:-1,TR- Moviesmart GOLD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1287.m3u8
+#EXTINF:-1,TR- Moviesmart Platin
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1274.m3u8
+#EXTINF:-1,TR- Moviesmart Fest
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1296.m3u8
+#EXTINF:-1,TR- Moviesmart Family
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1289.m3u8
+#EXTINF:-1,TR- Minika COCUK
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1288.m3u8
+#EXTINF:-1,TR- Moviesmart CLASSIC
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7108.m3u8
+#EXTINF:-1,TR- YABAN
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7109.m3u8
+#EXTINF:-1,TR- KRAL pop
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/6662.m3u8
+#EXTINF:-1,TR- KRAL  TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1302.m3u8
+#EXTINF:-1,TR- Kanal D
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1273.m3u8
+#EXTINF:-1,TR- KANAL 7
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1272.m3u8
+#EXTINF:-1,TR- History
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1340.m3u8
+#EXTINF:-1,TR- GURME
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1298.m3u8
+#EXTINF:-1,TR- FOX
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1260.m3u8
+#EXTINF:-1,TR- TV8 INT
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1266.m3u8
+#EXTINF:-1,TR- Fb Tv
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7112.m3u8
+#EXTINF:-1,TR- Fanatik
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/6661.m3u8
+#EXTINF:-1,TR- Dream TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1286.m3u8
+#EXTINF:-1,TR- DREAM  TURK
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1282.m3u8
+#EXTINF:-1,TR- Dmax
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1031.m3u8
+#EXTINF:-1,TR- DISNEY JUNIOR
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1264.m3u8
+#EXTINF:-1,TR- Disney Channel
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1280.m3u8
+#EXTINF:-1,TR- DISCOVERY ID
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1261.m3u8
+#EXTINF:-1,TR- Discovery
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1285.m3u8
+#EXTINF:-1,TR- DA VINCI LEARNING HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1295.m3u8
+#EXTINF:-1,TR- CNN TR
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7110.m3u8
+#EXTINF:-1,TR- TGRT HABER
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/6657.m3u8
+#EXTINF:-1,TR- Cartoon Network
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1279.m3u8
+#EXTINF:-1,TR- Beyaz
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1275.m3u8
+#EXTINF:-1,TR- CBEEBIES
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1259.m3u8
+#EXTINF:-1,TR- BBC Earth
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1262.m3u8
+#EXTINF:-1,TR- Baby TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1277.m3u8
+#EXTINF:-1,TR- ATV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1258.m3u8
+#EXTINF:-1,TR- TJK
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1283.m3u8
+#EXTINF:-1,TR- A2
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1278.m3u8
+#EXTINF:-1,TR- a spor
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1032.m3u8
+#EXTINF:-1,TR- 360 Tv
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7107.m3u8
+#EXTINF:-1,TR-beINSPORT 1
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1027.m3u8
+#EXTINF:-1,TR-beINSPORT 2
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1028.m3u8
+#EXTINF:-1,TR-beINSPORT 3
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1029.m3u8
+#EXTINF:-1,TR- TGRT
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1304.m3u8
+#EXTINF:-1,[DE] A&E TV HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/889.m3u8
+#EXTINF:-1,[DE] Animal Planet HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1368.m3u8
+#EXTINF:-1,[DE] ANIXE
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/839.m3u8
+#EXTINF:-1,[DE] ARTE
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/842.m3u8
+#EXTINF:-1,[DE] Auto Motor Sport
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1689.m3u8
+#EXTINF:-1,[DE] AXN HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/910.m3u8
+#EXTINF:-1,[DE] Boomerang
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/877.m3u8
+#EXTINF:-1,[DE] Cartoon Network HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/878.m3u8
+#EXTINF:-1,[DE] Classica HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/883.m3u8
+#EXTINF:-1,[DE] DAS ERSTE
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/835.m3u8
+#EXTINF:-1,[DE] DAZN 1
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7126.m3u8
+#EXTINF:-1,[DE] DAZN 2
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7127.m3u8
+#EXTINF:-1,[DE] Phoenix
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1687.m3u8
+#EXTINF:-1,[DE] Discovery CHANNEL HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/890.m3u8
+#EXTINF:-1,[DE] Disney
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/876.m3u8
+#EXTINF:-1,[DE] DISNEY CINEMAGIC HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/909.m3u8
+#EXTINF:-1,[DE] DISNEY JUNIOR HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/872.m3u8
+#EXTINF:-1,[DE] DISNEY XD HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/873.m3u8
+#EXTINF:-1,[DE] DMAX HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/888.m3u8
+#EXTINF:-1,[DE] E Entertainm
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/903.m3u8
+#EXTINF:-1,[DE] EUROSPORT 1 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/899.m3u8
+#EXTINF:-1,[DE] EUROSPORT 2 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/900.m3u8
+#EXTINF:-1,[DE] Eurosport 2 HD Xtra
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1688.m3u8
+#EXTINF:-1,[DE] FOX HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/882.m3u8
+#EXTINF:-1,[DE] HISTORY CHANNEL HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/895.m3u8
+#EXTINF:-1,[DE] Junior HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/875.m3u8
+#EXTINF:-1,[DE] KABEL 1 CLASSIC
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7105.m3u8
+#EXTINF:-1,[DE] KABEL 1 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/855.m3u8
+#EXTINF:-1,[DE] KIKA HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/879.m3u8
+#EXTINF:-1,[DE] Motorvision
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/860.m3u8
+#EXTINF:-1,[DE] N24 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/859.m3u8
+#EXTINF:-1,[DE] NAT GEO WILD HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/893.m3u8
+#EXTINF:-1,[DE] National Geograph HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/892.m3u8
+#EXTINF:-1,[DE] NATIONAL GEOGRAPHICS PEOPLE HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/894.m3u8
+#EXTINF:-1,[DE] RTL PLUS
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/840.m3u8
+#EXTINF:-1,[DE] NICKLODEON HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/874.m3u8
+#EXTINF:-1,[DE] ORF 1 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/901.m3u8
+#EXTINF:-1,[DE] ORF 2 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/902.m3u8
+#EXTINF:-1,[DE] ORF 3 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/4890.m3u8
+#EXTINF:-1,[DE] ORF sport
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/4891.m3u8
+#EXTINF:-1,[DE] PRO 7 fun
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/3632.m3u8
+#EXTINF:-1,[DE] PRO 7 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/856.m3u8
+#EXTINF:-1,[DE] PRO 7 MAXX
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/857.m3u8
+#EXTINF:-1,[DE] ROMANCE TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/886.m3u8
+#EXTINF:-1,[DE] RTL 2 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/846.m3u8
+#EXTINF:-1,[DE] RTL Crime
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/848.m3u8
+#EXTINF:-1,[DE] RTL HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/845.m3u8
+#EXTINF:-1,[DE] RTL LIVING HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/850.m3u8
+#EXTINF:-1,[DE] Rtl Nitro
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/847.m3u8
+#EXTINF:-1,[DE] RTL PASSION
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/851.m3u8
+#EXTINF:-1,[DE] SAT 1 Emotions
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/854.m3u8
+#EXTINF:-1,[DE] Sat 1 Gold
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/844.m3u8
+#EXTINF:-1,[DE] SAT 1 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/843.m3u8
+#EXTINF:-1,[DE] SAT 3 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/853.m3u8
+#EXTINF:-1,[DE] SIXX HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/852.m3u8
+#EXTINF:-1,[DE] sky 1 germany
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1370.m3u8
+#EXTINF:-1,[DE] Sky Action
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/864.m3u8
+#EXTINF:-1,[DE] Sky Bundesliga 1
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1367.m3u8
+#EXTINF:-1,[DE] Sky Cinema
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/861.m3u8
+#EXTINF:-1,[DE] SKy CINEMA +1 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/862.m3u8
+#EXTINF:-1,[DE] Sky Cinema 1
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/908.m3u8
+#EXTINF:-1,[DE] Sky Cinema Emotion
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/867.m3u8
+#EXTINF:-1,[DE] Sky Cinema Family
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/863.m3u8
+#EXTINF:-1,[DE] SKY Cinema Hits
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/868.m3u8
+#EXTINF:-1,[DE] Sky Comedy
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/866.m3u8
+#EXTINF:-1,[DE] Sky Germany 13th Street HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/884.m3u8
+#EXTINF:-1,[DE] Sky Germany Atlantic
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/865.m3u8
+#EXTINF:-1,[DE] SKY KRIMI
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/870.m3u8
+#EXTINF:-1,[DE] Sky Nostalgie
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/869.m3u8
+#EXTINF:-1,[DE] SKY SPORT Austria
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/898.m3u8
+#EXTINF:-1,[DE] Sky Sports 1 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/896.m3u8
+#EXTINF:-1,[DE] Sky Sports 2 HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/897.m3u8
+#EXTINF:-1,[DE] Sky Sports News HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/911.m3u8
+#EXTINF:-1,[DE] Spiegel Geschichte HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/891.m3u8
+#EXTINF:-1,[DE] Servus
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/906.m3u8
+#EXTINF:-1,[DE] SRF 1
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/904.m3u8
+#EXTINF:-1,[DE] SRF INFO
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/7104.m3u8
+#EXTINF:-1,[DE] SRF ZWEI
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/905.m3u8
+#EXTINF:-1,[DE] SUPER RTL
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/849.m3u8
+#EXTINF:-1,[DE] SYFY HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/871.m3u8
+#EXTINF:-1,[DE] Tagesschau 24
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/3634.m3u8
+#EXTINF:-1,[DE] Tele 5
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/907.m3u8
+#EXTINF:-1,[DE] TLC HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/885.m3u8
+#EXTINF:-1,[DE] TNT COMEDY
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/841.m3u8
+#EXTINF:-1,[DE] TNT FILM
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/881.m3u8
+#EXTINF:-1,[DE] TNT SERIE
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/880.m3u8
+#EXTINF:-1,[DE] Universal Channel HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/887.m3u8
+#EXTINF:-1,[DE] VOX HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/858.m3u8
+#EXTINF:-1,[DE] ZDF HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/836.m3u8
+#EXTINF:-1,[DE] ZDF info HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/837.m3u8
+#EXTINF:-1,[DE] ZDF NEO HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/838.m3u8
+#EXTINF:-1,[DE] ZEE ONE
+#EXTINF:-1,NL-MEZZO
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/613.m3u8
+#EXTINF:-1,NL-VERONICA HD / DISNEY  XD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/586.m3u8
+#EXTINF:-1,NL-TLC
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/590.m3u8
+#EXTINF:-1,NL-SBS 9
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/585.m3u8
+#EXTINF:-1,NL-SBS 6
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/582.m3u8
+#EXTINF:-1,NL-NPO Nieuws
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1691.m3u8
+#EXTINF:-1,NL-RTL Telekids
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/591.m3u8
+#EXTINF:-1,NL-RTL Crime
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/589.m3u8
+#EXTINF:-1,NL-RTL 8
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/584.m3u8
+#EXTINF:-1,NL-RTL 7
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/583.m3u8
+#EXTINF:-1,NL-RTL 5
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/581.m3u8
+#EXTINF:-1,NL-RTL 4
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/580.m3u8
+#EXTINF:-1,NL-TV OOST
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/599.m3u8
+#EXTINF:-1,NL-Omroep BRABANT
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/607.m3u8
+#EXTINF:-1,NL-NPO 3
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/579.m3u8
+#EXTINF:-1,NL-NPO 2
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/578.m3u8
+#EXTINF:-1,NL-NPO 1
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/577.m3u8
+#EXTINF:-1,NL-Nickjr
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/596.m3u8
+#EXTINF:-1,NL-Nickelodeon
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/597.m3u8
+#EXTINF:-1,NL-NET 5
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/587.m3u8
+#EXTINF:-1,NL-National Geographic HD
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/603.m3u8
+#EXTINF:-1,NL-Nat geo wild
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/604.m3u8
+#EXTINF:-1,NL-Investigation Discovery
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/601.m3u8
+#EXTINF:-1,NL-Fox Sports 6
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/620.m3u8
+#EXTINF:-1,NL-Fox Sports 5
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/619.m3u8
+#EXTINF:-1,NL-Fox Sports 2
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/616.m3u8
+#EXTINF:-1,NL-Fox Sport 4
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/618.m3u8
+#EXTINF:-1,NL-Fox Sport 3
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/617.m3u8
+#EXTINF:-1,NL-Fox sport 1
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/615.m3u8
+#EXTINF:-1,NL-Fox
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/588.m3u8
+#EXTINF:-1,NL-Film1 Family
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/611.m3u8
+#EXTINF:-1,NL-Film1 drama
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/1690.m3u8
+#EXTINF:-1,NL-NPO Politiek
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/612.m3u8
+#EXTINF:-1,NL-Slam TV
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/609.m3u8
+#EXTINF:-1,NL-Film 1 Premiere
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/610.m3u8
+#EXTINF:-1,NL-Eurosport
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/614.m3u8
+#EXTINF:-1,NL-Disney jr
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/593.m3u8
+#EXTINF:-1,NL-Disney Channel
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/592.m3u8
+#EXTINF:-1,NL-Discovey
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/605.m3u8
+#EXTINF:-1,NL-XITE
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/602.m3u8
+#EXTINF:-1,NL-Comedy Central Extra
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/608.m3u8
+#EXTINF:-1,NL-Cartoon Network
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/594.m3u8
+#EXTINF:-1,NL-Boomerang
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/595.m3u8
+#EXTINF:-1,NL-BABY
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/606.m3u8
+#EXTINF:-1,NL-Animal Planet
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/600.m3u8
+#EXTINF:-1,NL-24 Kitchen
+http://o.ddns.me:31000/live/0034644400510/scEFNFZ4lm/598.m3u8
