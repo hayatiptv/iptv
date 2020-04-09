@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,- Update: 04.01.2020
+#EXTINF:0,- Update: 04.10.2020
 #EXTVLCOPT:network-caching=1000
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 #EXTINF:0,Al Jazeera
@@ -1975,28 +1975,28 @@ https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:0,~ Ireland TV ~
 #EXTVLCOPT:network-caching=1000
 http://www.lengua.com/anthems/Ireland.mp3
-#EXTINF:0,RTÉ 1
+#EXTINF:0,RTÃ‰ 1
 #EXTVLCOPT:network-caching=1000
 http://185.142.29.240:9981/stream/channelid/439248771
-#EXTINF:0,RTÉ 1 (+1)
+#EXTINF:0,RTÃ‰ 1 (+1)
 #EXTVLCOPT:network-caching=1000
 http://185.142.29.240:9981/stream/channelid/551870964
-#EXTINF:0,RTÉ 2
+#EXTINF:0,RTÃ‰ 2
 #EXTVLCOPT:network-caching=1000
 http://185.142.29.240:9981/stream/channelid/1021620325
-#EXTINF:0,RTÉ 2 (+1)
+#EXTINF:0,RTÃ‰ 2 (+1)
 #EXTVLCOPT:network-caching=1000
 http://185.142.29.240:9981/stream/channelid/1073142753
-#EXTINF:0,RTÉ Jr. (Opt-1)
+#EXTINF:0,RTÃ‰ Jr. (Opt-1)
 #EXTVLCOPT:network-caching=1000
 https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
-#EXTINF:0,RTÉ Jr. (Opt-2)
+#EXTINF:0,RTÃ‰ Jr. (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://185.142.29.240:9981/stream/channelid/1752912640
-#EXTINF:0,RTÉ News Now (Opt-1)
+#EXTINF:0,RTÃ‰ News Now (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:0,RTÉ News Now (Opt-2)
+#EXTINF:0,RTÃ‰ News Now (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://185.142.29.240:9981/stream/channelid/1288479484
 #EXTINF:0,TG4
@@ -2290,7 +2290,7 @@ https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:0,Berlin Metal TV
 #EXTVLCOPT:network-caching=1000
 http://autopilot.myowntv.org/content/33816/index.m3u8
-#EXTINF:0,BLK TV Hohenmölsen
+#EXTINF:0,BLK TV HohenmÃ¶lsen
 #EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
 #EXTINF:0,BR Worldwide
@@ -2491,7 +2491,7 @@ https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #EXTINF:0,Potsdam TV
 #EXTVLCOPT:network-caching=1000
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Punktum Südharz
+#EXTINF:0,Punktum SÃ¼dharz
 #EXTVLCOPT:network-caching=1000
 http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
 #EXTINF:0,QVC Deutschland
@@ -2548,7 +2548,7 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:0,Sonus FM TV
 #EXTVLCOPT:network-caching=1000
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:0,Südthüringer Regionalfernsehen
+#EXTINF:0,SÃ¼dthÃ¼ringer Regionalfernsehen
 #EXTVLCOPT:network-caching=1000
 http://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:0,SWR 3
@@ -2632,13 +2632,13 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:0,Go TV
 #EXTVLCOPT:network-caching=1000
 http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
-#EXTINF:0,Hitradio Ö3
+#EXTINF:0,Hitradio Ã–3
 #EXTVLCOPT:network-caching=1000
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:0,KroneHit TV
 #EXTVLCOPT:network-caching=1000
 http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
-#EXTINF:0,Ländle TV
+#EXTINF:0,LÃ¤ndle TV
 #EXTVLCOPT:network-caching=1000
 https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist_w364023246.m3u8
 #EXTINF:0,M4
@@ -3040,10 +3040,10 @@ https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6
 #EXTINF:0,TV 2 Play
 #EXTVLCOPT:network-caching=1000
 https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
-#EXTINF:0,TV 2 Øst
+#EXTINF:0,TV 2 Ã˜st
 #EXTVLCOPT:network-caching=1000
 http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/6000/t/-YKISZ71uQSojctuBa_EhQ/index-s32.m3u8
-#EXTINF:0,TV 2 Østjylland
+#EXTINF:0,TV 2 Ã˜stjylland
 #EXTVLCOPT:network-caching=1000
 https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
 #EXTINF:0,TV 2 Bornholm
@@ -3112,7 +3112,7 @@ http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
 #EXTINF:0,TV 4
 #EXTVLCOPT:network-caching=1000
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
-#EXTINF:0,Västmanlands TV
+#EXTINF:0,VÃ¤stmanlands TV
 #EXTVLCOPT:network-caching=1000
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:0,~ Belgium TV ~
@@ -3250,10 +3250,10 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:0,Canal J
 #EXTVLCOPT:network-caching=1000
 http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
-#EXTINF:0,CGTN Français (Opt-1)
+#EXTINF:0,CGTN FranÃ§ais (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://live.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:0,CGTN Français (Opt-2)
+#EXTINF:0,CGTN FranÃ§ais (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:0,Clubbing TV
@@ -4492,16 +4492,16 @@ http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,AXN
 #EXTVLCOPT:network-caching=1000
 http://94.61.44.29:3280/play/a01r/index.m3u8
-#EXTINF:0,Caça e Pesca
+#EXTINF:0,CaÃ§a e Pesca
 #EXTVLCOPT:network-caching=1000
 http://85.244.70.140:7000/play/a00p
-#EXTINF:0,Caçavision (Opt-1)
+#EXTINF:0,CaÃ§avision (Opt-1)
 #EXTVLCOPT:network-caching=1000
 https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8?fluxustv.m3u8
-#EXTINF:0,Caçavision (Opt-2)
+#EXTINF:0,CaÃ§avision (Opt-2)
 #EXTVLCOPT:network-caching=1000
 https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8?fluxustv.m3u8
-#EXTINF:0,Caçavision (Opt-3)
+#EXTINF:0,CaÃ§avision (Opt-3)
 #EXTVLCOPT:network-caching=1000
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8?fluxustv.m3u8
 #EXTINF:0,Canal 11
@@ -4615,7 +4615,7 @@ http://94.61.44.29:3280/play/a01w/index.m3u8
 #EXTINF:0,RTP 3
 #EXTVLCOPT:network-caching=1000
 http://94.61.44.29:3280/play/a01y/index.m3u8
-#EXTINF:0,RTP Açores
+#EXTINF:0,RTP AÃ§ores
 #EXTVLCOPT:network-caching=1000
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,RTP Africa
@@ -4684,13 +4684,13 @@ http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?fluxustv.m3u8
 #EXTINF:0,VH1
 #EXTVLCOPT:network-caching=1000
 http://94.61.44.29:3280/play/a02e/index.m3u8
-#EXTINF:0,~ Curaçao TV ~
+#EXTINF:0,~ CuraÃ§ao TV ~
 #EXTVLCOPT:network-caching=1000
 http://www.lengua.com/anthems/Curacao.mp3
 #EXTINF:0,Nos Pais TV
 #EXTVLCOPT:network-caching=1000
 https://558bd16067b67.streamlock.net/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w997519270_b2000000.m3u8
-#EXTINF:0,Tele Curaçao
+#EXTINF:0,Tele CuraÃ§ao
 #EXTVLCOPT:network-caching=1000
 http://api.streann.com:8080/loadbalancer-dev/services/public/channels/56992db2e4b045bf250ba13c/playlist.m3u8
 #EXTINF:0,TVCine Emotion
@@ -4933,7 +4933,7 @@ https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist_w600062362.m3
 #EXTINF:0,TV Panorama
 #EXTVLCOPT:network-caching=1000
 http://streaming03.zas.media:1935/panorama/panorama/chunklist_w425951872.m3u8?fluxustv.m3u8
-#EXTINF:0,TV Poços
+#EXTINF:0,TV PoÃ§os
 #EXTVLCOPT:network-caching=1000
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 #EXTINF:0,TV Rio Preto
@@ -5118,7 +5118,7 @@ http://liveingesta118.cdnmedia.tv//blautvlive/smil:blautv.smil/playlist.m3u8?flu
 #EXTINF:0,Canal Coin
 #EXTVLCOPT:network-caching=1000
 http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8?fluxustv.m3u8
-#EXTINF:0,Canal Doñana #EXTVLCOPT:network-caching=1000
+#EXTINF:0,Canal DoÃ±ana #EXTVLCOPT:network-caching=1000
 http://secure.todostreaming.es/live/disvision-alm.m3u8
 #EXTINF:0,Canal Extremadura
 #EXTVLCOPT:network-caching=1000
@@ -5637,7 +5637,7 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:0,RTVA (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://videos.rtva.ad:1935/live/web/playlist.m3u8
-#EXTINF:0,~ 24/7 YouTube en Español ~
+#EXTINF:0,~ 24/7 YouTube en EspaÃ±ol ~
 #EXTVLCOPT:network-caching=1000
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 #EXTINF:0,DW (DE)
@@ -5670,16 +5670,16 @@ https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000
 #EXTINF:0,Cartelera Hollywood (Dual)
 #EXTVLCOPT:network-caching=1000
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
-#EXTINF:0,CGTN Español (Opt-1)
+#EXTINF:0,CGTN EspaÃ±ol (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,CGTN Español (Opt-2)
+#EXTINF:0,CGTN EspaÃ±ol (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://livefr.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0,Discovery Science
 #EXTVLCOPT:network-caching=1000
 http://181.198.153.175:5003/play/a08d/index.m3u8
-#EXTINF:0,DW Español
+#EXTINF:0,DW EspaÃ±ol
 #EXTVLCOPT:network-caching=1000
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:0,ESPN (Opt-1)
@@ -5727,7 +5727,7 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:0,MTV
 #EXTVLCOPT:network-caching=1000
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-#EXTINF:0,RT Español
+#EXTINF:0,RT EspaÃ±ol
 #EXTVLCOPT:network-caching=1000
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 #EXTINF:0,TCM
@@ -6456,7 +6456,7 @@ http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8%20
 #EXTINF:0,VTV Aconcagua (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
-#EXTINF:0,VTV Viña del Mar
+#EXTINF:0,VTV ViÃ±a del Mar
 #EXTVLCOPT:network-caching=1000
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:0,ZP TV
@@ -6582,7 +6582,7 @@ https://rcnhd.cdn.net.co/live02/rcnhd2.m3u8?fluxustv.m3u8
 #EXTINF:0,Red Mas
 #EXTVLCOPT:network-caching=1000
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
-#EXTINF:0,Señal Colombia
+#EXTINF:0,SeÃ±al Colombia
 #EXTVLCOPT:network-caching=1000
 http://181.198.153.175:5006/play/a05j/index.m3u8
 #EXTINF:0,Son Popular
@@ -6897,7 +6897,7 @@ http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8?fluxustv.m3u8
 #EXTINF:0,Peravia Vision 8
 #EXTVLCOPT:network-caching=1000
 http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
-#EXTINF:0,Puñal TV
+#EXTINF:0,PuÃ±al TV
 #EXTVLCOPT:network-caching=1000
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:0,Ready TV
@@ -6966,7 +6966,7 @@ http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
 #EXTINF:0,Television del Este
 #EXTVLCOPT:network-caching=1000
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,TV Montaña 10
+#EXTINF:0,TV MontaÃ±a 10
 #EXTVLCOPT:network-caching=1000
 http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
 #EXTINF:0,TV Plata 3
@@ -7850,17 +7850,17 @@ https://nova-live.ssl.cdn.cra.cz/channels/mcri/playlist/cze/live_hq.m3u8
 #EXTINF:0,Nova Gold
 #EXTVLCOPT:network-caching=1000
 https://nova-live.ssl.cdn.cra.cz/channels/mcrh/playlist/cze/live_hq.m3u8
-#EXTINF:0,Ó#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Ã“#EXTVLCOPT:network-caching=1000
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:0,Ó#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Ã“#EXTVLCOPT:network-caching=1000
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8
-#EXTINF:0,Ó#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Ã“#EXTVLCOPT:network-caching=1000
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:0,Ó#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Ã“#EXTVLCOPT:network-caching=1000
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:0,Ó#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Ã“#EXTVLCOPT:network-caching=1000
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:0,Ó#EXTVLCOPT:network-caching=1000
+#EXTINF:0,Ã“#EXTVLCOPT:network-caching=1000
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:0,Polar TV
 #EXTVLCOPT:network-caching=1000
@@ -7896,7 +7896,7 @@ http://stream.redigy.cz:1934/tvm.flv
 #EXTINF:0,TV Natura
 #EXTVLCOPT:network-caching=1000
 http://media1.tvnatura.cz/live_out/1/live.m3u8
-#EXTINF:0,Východo#EXTVLCOPT:network-caching=1000
+#EXTINF:0,VÃ½chodo#EXTVLCOPT:network-caching=1000
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:0,~ Slovenia TV ~
 #EXTVLCOPT:network-caching=1000
@@ -8016,7 +8016,7 @@ http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 #EXTINF:0,Televizia OSEM (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0,Turzovská TV
+#EXTINF:0,TurzovskÃ¡ TV
 #EXTVLCOPT:network-caching=1000
 rtmp://s1.media-planet.sk:80/live/turzovka
 #EXTINF:0,TV Central Nitra
@@ -8208,7 +8208,7 @@ http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0,Fix TV (Opt-2)
 #EXTVLCOPT:network-caching=1000
 rtmp://video.fixhd.tv/fix/hd.stream
-#EXTINF:0,Füzesabony V
+#EXTINF:0,FÃ¼zesabony V
 #EXTVLCOPT:network-caching=1000
 https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
 #EXTINF:0,Hatoscsatorna
@@ -8229,10 +8229,10 @@ https://cloudfront63.lexanetwork.com:1440/hlsrelay016/hls/livestream.sdp.m3u8
 #EXTINF:0,Kecskemeti TV
 #EXTVLCOPT:network-caching=1000
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
-#EXTINF:0,Lovifogadás
+#EXTINF:0,LovifogadÃ¡s
 #EXTVLCOPT:network-caching=1000
 http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
-#EXTINF:0,Ózdi Városi TV
+#EXTINF:0,Ã“zdi VÃ¡rosi TV
 #EXTVLCOPT:network-caching=1000
 https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
 #EXTINF:0,StreamSport
@@ -8355,13 +8355,13 @@ http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.
 #EXTINF:0,86 Channel Surgut
 #EXTVLCOPT:network-caching=1000
 https://sitv.ru/hls/s861024.m3u8
-#EXTINF:0,360° (Opt-1)
+#EXTINF:0,360Â° (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
-#EXTINF:0,360° (Opt-2)
+#EXTINF:0,360Â° (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://video1.in-news.ru/360/index.m3u8
-#EXTINF:0,360° News
+#EXTINF:0,360Â° News
 #EXTVLCOPT:network-caching=1000
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
 #EXTINF:0,A1 Amedia TV
@@ -9293,7 +9293,7 @@ http://78.40.108.218/7channel/index.m3u8
 #EXTINF:0,Almaty TV
 #EXTVLCOPT:network-caching=1000
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:0,Aqtóbe
+#EXTINF:0,AqtÃ³be
 #EXTVLCOPT:network-caching=1000
 http://onrez.kaztrk.kz/regional/aktobetv/index.m3u8
 #EXTINF:0,Atameken Business
@@ -9918,16 +9918,16 @@ http://188.138.9.246/S2/HLS_LIVE/cnn_turk/index.m3u8
 #EXTINF:0,CNN Turk (Opt-5)
 #EXTVLCOPT:network-caching=1000
 http://212.224.80.91/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,CRI Türk (CN)
+#EXTINF:0,CRI TÃ¼rk (CN)
 #EXTVLCOPT:network-caching=1000
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
-#EXTINF:0,Çekmekoy Web TV
+#EXTINF:0,Ã‡ekmekoy Web TV
 #EXTVLCOPT:network-caching=1000
 http://live.wowzatv.net:1935/belediye/belediye/chunklist.m3u8
-#EXTINF:0,Çiftçi TV
+#EXTINF:0,Ã‡iftÃ§i TV
 #EXTVLCOPT:network-caching=1000
 http://stream.taksimbilisim.com:1935/ciftci/bant1/playlist.m3u8
-#EXTINF:0,Çorum TV 19
+#EXTINF:0,Ã‡orum TV 19
 #EXTVLCOPT:network-caching=1000
 http://stream.taksimbilisim.com:1935/crt/smil:crt.smil/playlist.m3u8
 #EXTINF:0,Dersim 62
@@ -10002,7 +10002,7 @@ http://178.211.51.4/hls/haberaks.m3u8
 #EXTINF:0,IBB TV
 #EXTVLCOPT:network-caching=1000
 rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
-#EXTINF:0,Içel TV Mersin
+#EXTINF:0,IÃ§el TV Mersin
 #EXTVLCOPT:network-caching=1000
 rtmp://stream.taksimbilisim.com/iceltv/bant1
 #EXTINF:0,Isparta TV
@@ -10095,7 +10095,7 @@ http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:0,KRAL World TV
 #EXTVLCOPT:network-caching=1000
 http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:0,Kudüs TV
+#EXTINF:0,KudÃ¼s TV
 #EXTVLCOPT:network-caching=1000
 http://yayin10.canliyayin.org/P981680400/kudustv/chunklist_w1008271460.m3u8
 #EXTINF:0,Line TV
@@ -10125,7 +10125,7 @@ http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist.m3u8
 #EXTINF:0,Meteoroloji TV
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/chunklist_b1500000.m3u8
-#EXTINF:0,Minika Çocuk
+#EXTINF:0,Minika Ã‡ocuk
 #EXTVLCOPT:network-caching=1000
 http://trkvz-m.ercdn.net/trkvz-temp/minikagococukm.m3u8
 #EXTINF:0,Minika GO
@@ -10161,7 +10161,7 @@ http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 #EXTINF:0,S Sport (New!)
 #EXTVLCOPT:network-caching=1000
 http://cstream9.com/hls/ssport_tr_si.m3u8
-#EXTINF:0,Satranç TV
+#EXTINF:0,SatranÃ§ TV
 #EXTVLCOPT:network-caching=1000
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:0,Show TV (Opt-1)
@@ -10215,7 +10215,7 @@ http://cstream9.com/hls/tivibuspor2_tr.m3u8
 #EXTINF:0,Tivibu Spor 3 (New!)
 #EXTVLCOPT:network-caching=1000
 http://cstream9.com/hls/tivibuspor3_tr.m3u8
-#EXTINF:0,Tivitürk TV
+#EXTINF:0,TivitÃ¼rk TV
 #EXTVLCOPT:network-caching=1000
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0,TJK TV
@@ -10239,7 +10239,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
 #EXTINF:0,TRT Belgesel
 #EXTVLCOPT:network-caching=1000
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:0,TRT Çocuk
+#EXTINF:0,TRT Ã‡ocuk
 #EXTVLCOPT:network-caching=1000
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0,TRT Haber
@@ -10257,7 +10257,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:0,TRT Turk
 #EXTVLCOPT:network-caching=1000
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:0,Türkiyem
+#EXTINF:0,TÃ¼rkiyem
 #EXTVLCOPT:network-caching=1000
 https://waw2.artiyerelmedya.net/turkiyemtv/bant1/chunklist_w114827257.m3u8
 #EXTINF:0,Tuzla Web TV 
@@ -10278,7 +10278,7 @@ http://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/playlist.m3u8
 #EXTINF:0,TV 41
 #EXTVLCOPT:network-caching=1000
 http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/chunklist.m3u8
-#EXTINF:0,UçanKu#EXTVLCOPT:network-caching=1000
+#EXTINF:0,UÃ§anKu#EXTVLCOPT:network-caching=1000
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:0,Vuslat TV (Opt-1)
 #EXTVLCOPT:network-caching=1000
@@ -10318,7 +10318,7 @@ http://217.174.225.146/legacyhls/ch005_400/index.m3u8
 #EXTINF:0,Turkmen Sport
 #EXTVLCOPT:network-caching=1000
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:0,Türkmenistan TV
+#EXTINF:0,TÃ¼rkmenistan TV
 #EXTVLCOPT:network-caching=1000
 http://alpha.tv.online.tm/hls/ch007_400/index.m3u8
 #EXTINF:0,Ya#EXTVLCOPT:network-caching=1000
@@ -10371,7 +10371,7 @@ http://streams2.livetv.az/azerbaijan/space_stream/playlist.m3u8
 #EXTINF:0,Turan TV
 #EXTVLCOPT:network-caching=1000
 http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
-#EXTINF:0,Ümid TV
+#EXTINF:0,Ãœmid TV
 #EXTVLCOPT:network-caching=1000
 http://win26.yayin.com.tr/umudtv/smil:umudtv.smil/chunklist.m3u8
 #EXTINF:0,X#EXTVLCOPT:network-caching=1000
@@ -10415,10 +10415,10 @@ http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
 #EXTINF:0,KurdMax Music
 #EXTVLCOPT:network-caching=1000
 http://31.14.40.139:1935/music/livestream/playlist.m3u8
-#EXTINF:0,Kurdmax Pepûle (Opt-1)
+#EXTINF:0,Kurdmax PepÃ»le (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
-#EXTINF:0,Kurdmax Pepûle (Opt-2)
+#EXTINF:0,Kurdmax PepÃ»le (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
 #EXTINF:0,Kurdmax Show
@@ -10427,7 +10427,7 @@ http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
 #EXTINF:0,Kurdsat
 #EXTVLCOPT:network-caching=1000
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/playlist.m3u8
-#EXTINF:0,Med Muzîk
+#EXTINF:0,Med MuzÃ®k
 #EXTVLCOPT:network-caching=1000
 http://137.74.205.201/live3/mm-3mbps.m3u8
 #EXTINF:0,NRT
@@ -11222,7 +11222,7 @@ http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:0,Surya Samachar
 #EXTVLCOPT:network-caching=1000
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
-#EXTINF:0,Suvarna News 24×7 (New!)
+#EXTINF:0,Suvarna News 24Ã—7 (New!)
 #EXTVLCOPT:network-caching=1000
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #EXTINF:0,Swaraj Express SMBC
@@ -11495,7 +11495,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 #EXTINF:0,GHM TV (GB)
 #EXTVLCOPT:network-caching=1000
 https://j7md5gvqyrwv-hls-live.5centscdn.com/glorygroup/7cc920348532e7cc63e15024fe5c1a57.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:0,GünAz TV Farsi (US)
+#EXTINF:0,GÃ¼nAz TV Farsi (US)
 #EXTVLCOPT:network-caching=1000
 http://gtv.live.cdn.bitgravity.com/gtv/live/feed01
 #EXTINF:0,Health Media TV
@@ -12125,7 +12125,7 @@ http://212.18.231.213:1935/samarra/samarra_160p/chunklist_w579537662.m3u8
 #EXTINF:0,Sharqiya News
 #EXTVLCOPT:network-caching=1000
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:0,Türkmeneli (New!)
+#EXTINF:0,TÃ¼rkmeneli (New!)
 #EXTVLCOPT:network-caching=1000
 http://116.203.71.169/hls/stream1.m3u8
 #EXTINF:0,~ Saudi Arabia TV ~
@@ -12686,7 +12686,7 @@ http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:0,Nessma TV
 #EXTVLCOPT:network-caching=1000
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
-#EXTINF:0,Mosaïque FM
+#EXTINF:0,MosaÃ¯que FM
 #EXTVLCOPT:network-caching=1000
 https://webcam.mosaiquefm.net:1936/mosalive/studio/playlist.m3u8
 #EXTINF:0,Sahel TV
@@ -14476,10 +14476,10 @@ http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high
 #EXTINF:0,Dragon Ball Z Kai (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://ws.hls.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.m3u8
-#EXTINF:0,Hunter × Hunter (Opt-1)
+#EXTINF:0,Hunter Ã— Hunter (Opt-1)
 #EXTVLCOPT:network-caching=1000
 http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-#EXTINF:0,Hunter × Hunter (Opt-2)
+#EXTINF:0,Hunter Ã— Hunter (Opt-2)
 #EXTVLCOPT:network-caching=1000
 http://ws.hls.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.m3u8
 #EXTINF:0,Inuyasha (Opt-1)
@@ -14704,506 +14704,4 @@ http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8
 #EXTINF:0,Cold Case Files
 #EXTVLCOPT:network-caching=1000
 https://stitcher.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kaasl9n3jh3esnglai5na3geu7
-#EXTINF:0,Combate World
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Comedy
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=qb3stkgum0jt2soq367mu97333
-#EXTINF:0,Comedy (UK)
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d45b9ea1nuf9ijm985tiag4ge6
-#EXTINF:0,Comedy Central
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
-#EXTINF:0,Comedy Central Stand Up
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kcuqage0urlhccbp8kbecjc830
-#EXTINF:0,Complex Networks
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a986f9svfip7e01cg9g78c92l4
-#EXTINF:0,Conspiracy
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=m24jbjrh2o33lln3jns6j2tmn0
-#EXTINF:0,ConTV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1bb65268cae539bcedb0c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Cracked
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/561c5d74ada51f8004c4d85d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Crazy Pets
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cf0627e3c6efae31002e114/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=500lm1j6kehed04ucl6d6fc4q7
-#EXTINF:0,Crime Network
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Cult Films
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aas1tmuhiduj44cbhncosi4hb7
-#EXTINF:0,Doctor Who Classic
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=afm0olmob01dea5o07g90tqtu0
-#EXTINF:0,Documentaries
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,DocuTV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Dog the Bounty Hunter
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
-#EXTINF:0,Drama
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Drama (UK)
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c5c2dd9e59bf23c192c411e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c63a4iic6a2islfekugkgdsul4
-#EXTINF:0,DramaFever
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5a667765a5c02e717a25dc0f/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=6&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,ER Stories
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cda08d99ad3b121623d6dcb/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=2lo2e1dlqpk6g2c72q7m3mjag2
-#EXTINF:0,Eye Candy
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,FailArmy
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Faith TV
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c37cef12f9heq1mq8ah9ia4h70
-#EXTINF:0,Family
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Fear Factor
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c362ded581a86051df509b4/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=f45b9ea1nuf9ijm985tiag4ge6
-#EXTINF:0,Fight
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Flicks of Fury
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0,Food TV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Forensic Files
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:0,Fox Sports
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,FrontDoor
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0,Funny AF
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Geek & Sundry
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Ghost Dimension
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c45f5a9d40d58066869fa60/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=e45b9ea1nuf9ijm985tiag4ge6
-#EXTINF:0,Glory Kickboxing (Opt-1)
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Glory Kickboxing (Opt-2)
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aur393qqr6rgv34sdqt02gjgp6
-#EXTINF:0,Glory Kickboxing (UK)
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bur393qqr6rgv34sdqt02gjgp6
-#EXTINF:0,Glory Kickboxing (Germany)
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=dur393qqr6rgv34sdqt02gjgp6
-#EXTINF:0,Gravitas Movies
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Hell's Kitchen
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Her
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Her Dramas
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c86b772e7f96a5a929736c0/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=apleiqkv48retieubjjds9qrm7
-#EXTINF:0,History 
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=s1i2kmn8epo99i02q1oji559k6
-#EXTINF:0,Hive
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/580814179dfdf1f4141f78f5/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Hoarding: Buried Alive
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca2ac3688925d78c857465f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bpleiqkv48retieubjjds9qrm7
-#EXTINF:0,Horror 24/7
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0,Hunter
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b63a4iic6a2islfekugkgdsul4
-#EXTINF:0,IGN
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Impact Wrestling
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Indies
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/58ed63525e2c798008323a1c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Internet Gold
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,JASH
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/598c8e2f3d8719a202ec66cc/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Kids
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=j7go93gc2nj2bijagutmn2d3v6
-#EXTINF:0,Kids Learning
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c5c2e228002db3c3e0b1c6f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c45b9ea1nuf9ijm985tiag4ge6
-#EXTINF:0,Kids TV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,LA Ink + NY Ink 
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c2d6603bdf11b71587184b9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=h1i2kmn8epo99i02q1oji559k6
-#EXTINF:0,LittleThings
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5984cbeaa0fc957e6e9195ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Live Music Replay
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:0,Logo
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=300lm1j6kehed04ucl6d6fc4q7
-#EXTINF:0,Lucha Libre AAA
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z24jbjrh2o33lln3jns6j2tmn0
-#EXTINF:0,Man Up
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Man Up: Outdoors
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70
-#EXTINF:0,Midsomer Murders
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=1lo2e1dlqpk6g2c72q7m3mjag2
-#EXTINF:0,Military
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=cuaohqlqf26jfvbh443n3ie5g0
-#EXTINF:0,MinecrafTV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Movies 1
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0,Movies 2
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=dcuqage0urlhccbp8kbecjc830
-#EXTINF:0,MTV Dating
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=hcuqage0urlhccbp8kbecjc830
-#EXTINF:0,MTV Guy Code
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=fcuqage0urlhccbp8kbecjc830
-#EXTINF:0,MTV Teen
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jcuqage0urlhccbp8kbecjc830
-#EXTINF:0,Mystery Science Theater 3000
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,NBC News
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:0,Nerdist
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,News 24/7
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:0,Nick
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bcuqage0urlhccbp8kbecjc830
-#EXTINF:0,Nick Jr.
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ccuqage0urlhccbp8kbecjc830
-#EXTINF:0,Nosey
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Paramount Movie Channel
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pcuqage0urlhccbp8kbecjc830
-#EXTINF:0,People TV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=0&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,PopSugar
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Retro Drama
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c5c3195f21b553c1f673faf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a63a4iic6a2islfekugkgdsul4
-#EXTINF:0,Retro Toons
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a45b9ea1nuf9ijm985tiag4ge6
-#EXTINF:0,Revry
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ac7d243cd17c85601684f57/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=iaasl9n3jh3esnglai5na3geu7
-#EXTINF:0,RiffTrax
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Romance
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333
-#EXTINF:0,Science TV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,ShoutFactoryTV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Sitcoms
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z8orq3a8c0i8mnij1r1q96i7p0
-#EXTINF:0,Slow TV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Spike
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=lcuqage0urlhccbp8kbecjc830
-#EXTINF:0,Spike Outdoors
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=mcuqage0urlhccbp8kbecjc830
-#EXTINF:0,Sports
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=tb3stkgum0jt2soq367mu97333
-#EXTINF:0,Sports News
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5812b223e58ad7c757009420/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Spotlight
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Survivorman
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c6eec031846c82e15e01a9a/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a37cef12f9heq1mq8ah9ia4h70
-#EXTINF:0,Stand-Up TV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,THC
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,The Asylum
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,The Feed
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,The Hills
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ocuqage0urlhccbp8kbecjc830
-#EXTINF:0,The New Detectives
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,The Onion
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5616fc1cf39f506e04b61dfc/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=oaasl9n3jh3esnglai5na3geu7
-#EXTINF:0,The Pet Collective
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,The Surf Channel
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Thrillers
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Travel
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aoelrk6ul5u6hqj57r05399uc4
-#EXTINF:0,Unsolved Mysteriess (Opt-1)
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Unsolved Mysteries (Opt-2)
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=3792htruebflrgcrn4utr475i7
-#EXTINF:0,Voyager Documentaries
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d24jbjrh2o33lln3jns6j2tmn0
-#EXTINF:0,Wahlburgers
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c6eeb011846c82e15e01a99/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a6vkbe38fqjt8dhs9uov8ef1t7
-#EXTINF:0,Weddings
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=400lm1j6kehed04ucl6d6fc4q7
-#EXTINF:0,Westerns
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333
-#EXTINF:0,What?!
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5808e8c360976cdc1b19d374/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,What's On?
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Wipeout
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,World Poker Tour
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,XiveTV
-#EXTVLCOPT:network-caching=1000
-http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0,Yu-Gi-Oh! 5D#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
-#EXTINF:0,~ 24/7 PLUTO TV GERMANY ~
-#EXTVLCOPT:network-caching=1000
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-#EXTINF:0,Action Sports
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Comedy Central Made in Germany
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5d4948418101147596fd6c5a/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Comedy Central
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Fail Army
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9b7ffe738977e2c312133/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Fireplace
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5be1c0d81843b56328bc3fba/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Glory Kickboxing
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Holiday Lights
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5be1c20b53ed2c6334ebc4f2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Ice Pilots
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,IGN
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9bc207ef2767e1846e5a0/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Inspector Gadget
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,KultKrimi
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cb5cfe5caf83414128f209e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Mario vs. Sonic
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,MineCraft TV
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9bca67ef2767e1846e5a1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,MST3K
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5b4f56242d4ec87bdcbbb333/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,MTV Catfish TV Show
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5db6a697d5f34a000934cd13/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,MTV Dating
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5caf330ea5068259a32320fd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,MTV Teen Mom
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,MTV The Hills
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Animals
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Christmas
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5dc29179c928a600093a7747/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Documentaries
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Dogs
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5d8dc1d8da13e15d9fce6911/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Drama
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Explore
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Food
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Family
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5dc3fb596262db000923f7e3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Fight
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV History
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9b6941b95267e225e59c0/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Indies
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ce40e59246a395e9758923e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Inside
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9b73efd87eb3a2717ccde/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,https://stitcher.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jdßo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Kids Jr.
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cd1495bd9e0ec55c4ecbf52/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Movies
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Nature
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Retro Drama
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Romance
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Sitcoms
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Sports
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Pluto TV Surf
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Rifftrax
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5b4f5bf8423e067bd6df90ca/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Simsalabim Sabrina
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5dbc327d0451770009ed7577/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Spongebob Schwammkopf
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Telenovela ZDF
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,The Asylum Channel
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5cc81e793798650e4f7d9fd3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,The Pet Collective
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,Totally Turtles
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
-#EXTINF:0,World Poker Tour
-#EXTVLCOPT:network-caching=1000
-https://stitcher.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jdhd9ezd3i2dnkeowdj02he392fbodjo1ej0i92hdfubffuhf03jd%C3%9Fo12keofnuigrf7832tr8923hd9hdcihdiohrr398h
+#EXTIN
