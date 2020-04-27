@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,- Update: 04.24.2020
+#EXTINF:0,- Update: 04.27.2020
 #EXTVLCOPT:network-caching=1000
 https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
 #EXTINF:0,Al Jazeera
@@ -2252,6 +2252,1364 @@ http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=
 #EXTVLCOPT:network-caching=1000
 http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 #EXTINF:0,~ Germany TV ~
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3 SAT FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: 3 SAT FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/892
+#EXTINF:-1 tvg-id="" tvg-name="DE: 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: 5 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67580
+#EXTINF:-1 tvg-id="" tvg-name="DE: 7 MAXX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: 7 MAXX HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32643
+#EXTINF:-1 tvg-id="" tvg-name="DE: 1-2-3 TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: 1-2-3 TV HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18446
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13th Street FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: 13th Street FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/3498
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - A.I.C.O.Incarnation" tvg-logo="" group-title="Germany",DE: 24/7 - A.I.C.O.Incarnation
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147680
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Absentia" tvg-logo="" group-title="Germany",DE: 24/7 - Absentia
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147687
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Altered Carbon" tvg-logo="" group-title="Germany",DE: 24/7 - Altered Carbon
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147705
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - American Gods" tvg-logo="" group-title="Germany",DE: 24/7 - American Gods
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147691
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - B:The Beginning" tvg-logo="" group-title="Germany",DE: 24/7 - B:The Beginning
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147685
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Babylon Berlin" tvg-logo="" group-title="Germany",DE: 24/7 - Babylon Berlin
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147681
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Back with the Ex" tvg-logo="" group-title="Germany",DE: 24/7 - Back with the Ex
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147709
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Bad Blood" tvg-logo="" group-title="Germany",DE: 24/7 - Bad Blood
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147682
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Better Than Us" tvg-logo="" group-title="Germany",DE: 24/7 - Better Than Us
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147686
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Big Little Lies" tvg-logo="" group-title="Germany",DE: 24/7 - Big Little Lies
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147693
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Black Earth Rising" tvg-logo="" group-title="Germany",DE: 24/7 - Black Earth Rising
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147683
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Bodyguard" tvg-logo="" group-title="Germany",DE: 24/7 - Bodyguard
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147684
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Breaking Bad" tvg-logo="" group-title="Germany",DE: 24/7 - Breaking Bad
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147694
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Brittania" tvg-logo="" group-title="Germany",DE: 24/7 - Brittania
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147710
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Chilling Adventures of Sabrina" tvg-logo="" group-title="Germany",DE: 24/7 - Chilling Adventures of Sabrina
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147688
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Collateral" tvg-logo="" group-title="Germany",DE: 24/7 - Collateral
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147689
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Dark" tvg-logo="" group-title="Germany",DE: 24/7 - Dark
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147690
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Dead to ME" tvg-logo="" group-title="Germany",DE: 24/7 - Dead to ME
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147698
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Deadly Class" tvg-logo="" group-title="Germany",DE: 24/7 - Deadly Class
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147696
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Deception" tvg-logo="" group-title="Germany",DE: 24/7 - Deception
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147708
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Dernackte Regisseur" tvg-logo="" group-title="Germany",DE: 24/7 - Dernackte Regisseur
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147713
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Detective Konan" tvg-logo="" group-title="Germany",DE: 24/7 - Detective Konan
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147701
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Diablero" tvg-logo="" group-title="Germany",DE: 24/7 - Diablero
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147692
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Die Pest" tvg-logo="" group-title="Germany",DE: 24/7 - Die Pest
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147715
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Die Simpsons" tvg-logo="" group-title="Germany",DE: 24/7 - Die Simpsons
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147703
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Dissenchantment" tvg-logo="" group-title="Germany",DE: 24/7 - Dissenchantment
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147695
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Dogs of Berlin" tvg-logo="" group-title="Germany",DE: 24/7 - Dogs of Berlin
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147714
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Dragon Ball Z Kai" tvg-logo="" group-title="Germany",DE: 24/7 - Dragon Ball Z Kai
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147697
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Elite" tvg-logo="" group-title="Germany",DE: 24/7 - Elite
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147699
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Every thing Sucks" tvg-logo="" group-title="Germany",DE: 24/7 - Every thing Sucks
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147704
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - FamilyReunion" tvg-logo="" group-title="Germany",DE: 24/7 - FamilyReunion
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147700
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Fear The Walking Dead" tvg-logo="" group-title="Germany",DE: 24/7 - Fear The Walking Dead
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147719
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Flinch" tvg-logo="" group-title="Germany",DE: 24/7 - Flinch
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147725
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Friends from College" tvg-logo="" group-title="Germany",DE: 24/7 - Friends from College
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147726
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Future Man" tvg-logo="" group-title="Germany",DE: 24/7 - Future Man
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147721
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Game of Thrones" tvg-logo="" group-title="Germany",DE: 24/7 - Game of Thrones
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147722
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Gigantes" tvg-logo="" group-title="Germany",DE: 24/7 - Gigantes
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147706
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Good Omens" tvg-logo="" group-title="Germany",DE: 24/7 - Good Omens
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147716
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Gotham" tvg-logo="" group-title="Germany",DE: 24/7 - Gotham
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147707
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - HAPPY!" tvg-logo="" group-title="Germany",DE: 24/7 - HAPPY!
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147724
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Heroes" tvg-logo="" group-title="Germany",DE: 24/7 - Heroes
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147717
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - I Am the Night" tvg-logo="" group-title="Germany",DE: 24/7 - I Am the Night
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147711
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Immortals" tvg-logo="" group-title="Germany",DE: 24/7 - Immortals
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147712
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Insatiable" tvg-logo="" group-title="Germany",DE: 24/7 - Insatiable
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147743
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Killing Eve" tvg-logo="" group-title="Germany",DE: 24/7 - Killing Eve
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147723
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Knightfall" tvg-logo="" group-title="Germany",DE: 24/7 - Knightfall
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147718
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Krypton" tvg-logo="" group-title="Germany",DE: 24/7 - Krypton
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147720
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Last Hope" tvg-logo="" group-title="Germany",DE: 24/7 - Last Hope
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147731
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Legion" tvg-logo="" group-title="Germany",DE: 24/7 - Legion
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147738
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Lore" tvg-logo="" group-title="Germany",DE: 24/7 - Lore
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147732
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Lostin Space" tvg-logo="" group-title="Germany",DE: 24/7 - Lostin Space
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147744
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Love,Death&Robots" tvg-logo="" group-title="Germany",DE: 24/7 - Love,Death&Robots
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147734
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Lucifer" tvg-logo="" group-title="Germany",DE: 24/7 - Lucifer
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147733
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Magnum P.I" tvg-logo="" group-title="Germany",DE: 24/7 - Magnum P.I
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147727
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Maniac" tvg-logo="" group-title="Germany",DE: 24/7 - Maniac
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147736
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Marvels Cloak & Dagger" tvg-logo="" group-title="Germany",DE: 24/7 - Marvels Cloak & Dagger
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147728
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Marvels Inhumans" tvg-logo="" group-title="Germany",DE: 24/7 - Marvels Inhumans
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147729
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Marvels Runaways" tvg-logo="" group-title="Germany",DE: 24/7 - Marvels Runaways
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147730
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Marvels Spiderman" tvg-logo="" group-title="Germany",DE: 24/7 - Marvels Spiderman
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147735
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Marvels The Defenders" tvg-logo="" group-title="Germany",DE: 24/7 - Marvels The Defenders
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147740
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Marvels The Punisher" tvg-logo="" group-title="Germany",DE: 24/7 - Marvels The Punisher
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147739
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Missions" tvg-logo="" group-title="Germany",DE: 24/7 - Missions
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147737
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Modern Family" tvg-logo="" group-title="Germany",DE: 24/7 - Modern Family
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147741
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Mr.Iglesias" tvg-logo="" group-title="Germany",DE: 24/7 - Mr.Iglesias
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147742
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Mr.MercedesDE" tvg-logo="" group-title="Germany",DE: 24/7 - Mr.MercedesDE
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147748
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Mysterious Mermaids" tvg-logo="" group-title="Germany",DE: 24/7 - Mysterious Mermaids
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147751
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Narcos" tvg-logo="" group-title="Germany",DE: 24/7 - Narcos
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147758
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - No Good Nick" tvg-logo="" group-title="Germany",DE: 24/7 - No Good Nick
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147754
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Ozark" tvg-logo="" group-title="Germany",DE: 24/7 - Ozark
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147745
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Paradise PD" tvg-logo="" group-title="Germany",DE: 24/7 - Paradise PD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147746
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Peaky Blinders" tvg-logo="" group-title="Germany",DE: 24/7 - Peaky Blinders
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147747
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Peppa Wutz" tvg-logo="" group-title="Germany",DE: 24/7 - Peppa Wutz
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147760
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Pine Gap" tvg-logo="" group-title="Germany",DE: 24/7 - Pine Gap
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147750
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Plan Coeur" tvg-logo="" group-title="Germany",DE: 24/7 - Plan Coeur
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147755
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Prison Break" tvg-logo="" group-title="Germany",DE: 24/7 - Prison Break
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147749
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Quicksand" tvg-logo="" group-title="Germany",DE: 24/7 - Quicksand
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147752
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - S.W.A.T" tvg-logo="" group-title="Germany",DE: 24/7 - S.W.A.T
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147764
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Salvation" tvg-logo="" group-title="Germany",DE: 24/7 - Salvation
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147772
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Sex Education" tvg-logo="" group-title="Germany",DE: 24/7 - Sex Education
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147753
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Sharp Objects" tvg-logo="" group-title="Germany",DE: 24/7 - Sharp Objects
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147763
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Sherlock" tvg-logo="" group-title="Germany",DE: 24/7 - Sherlock
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147762
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Siren" tvg-logo="" group-title="Germany",DE: 24/7 - Siren
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147756
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Smallville" tvg-logo="" group-title="Germany",DE: 24/7 - Smallville
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147765
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - SMILF" tvg-logo="" group-title="Germany",DE: 24/7 - SMILF
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147757
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Snowfall" tvg-logo="" group-title="Germany",DE: 24/7 - Snowfall
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147767
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Spukin Hill House" tvg-logo="" group-title="Germany",DE: 24/7 - Spukin Hill House
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147783
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Star Trek: Discovery" tvg-logo="" group-title="Germany",DE: 24/7 - Star Trek: Discovery
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147777
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Star Wars: Resistance" tvg-logo="" group-title="Germany",DE: 24/7 - Star Wars: Resistance
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147759
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Stranger Things" tvg-logo="" group-title="Germany",DE: 24/7 - Stranger Things
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147768
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Succession" tvg-logo="" group-title="Germany",DE: 24/7 - Succession
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147769
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Supergirl" tvg-logo="" group-title="Germany",DE: 24/7 - Supergirl
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147775
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Supernatural" tvg-logo="" group-title="Germany",DE: 24/7 - Supernatural
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147761
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Sweetbitter" tvg-logo="" group-title="Germany",DE: 24/7 - Sweetbitter
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147766
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The BigBang Theory" tvg-logo="" group-title="Germany",DE: 24/7 - The BigBang Theory
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147792
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The Boys" tvg-logo="" group-title="Germany",DE: 24/7 - The Boys
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147793
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The End of the Fucking World" tvg-logo="" group-title="Germany",DE: 24/7 - The End of the Fucking World
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147702
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The Little Drummer Girl" tvg-logo="" group-title="Germany",DE: 24/7 - The Little Drummer Girl
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147771
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The Oath" tvg-logo="" group-title="Germany",DE: 24/7 - The Oath
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147774
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The Order" tvg-logo="" group-title="Germany",DE: 24/7 - The Order
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147773
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The Purge" tvg-logo="" group-title="Germany",DE: 24/7 - The Purge
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147776
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The Rain" tvg-logo="" group-title="Germany",DE: 24/7 - The Rain
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147778
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The Society" tvg-logo="" group-title="Germany",DE: 24/7 - The Society
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147779
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The Son" tvg-logo="" group-title="Germany",DE: 24/7 - The Son
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147787
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - The Walking Dead" tvg-logo="" group-title="Germany",DE: 24/7 - The Walking Dead
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147788
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - TheDeuce" tvg-logo="" group-title="Germany",DE: 24/7 - TheDeuce
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147770
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - TheFlash" tvg-logo="" group-title="Germany",DE: 24/7 - TheFlash
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147782
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - TheGifted" tvg-logo="" group-title="Germany",DE: 24/7 - TheGifted
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147794
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Titans" tvg-logo="" group-title="Germany",DE: 24/7 - Titans
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147780
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Trailer Park Boys" tvg-logo="" group-title="Germany",DE: 24/7 - Trailer Park Boys
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147781
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - True Detective" tvg-logo="" group-title="Germany",DE: 24/7 - True Detective
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147785
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Turn Up Charlie" tvg-logo="" group-title="Germany",DE: 24/7 - Turn Up Charlie
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147784
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Tyrant" tvg-logo="" group-title="Germany",DE: 24/7 - Tyrant
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147801
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Ultraman" tvg-logo="" group-title="Germany",DE: 24/7 - Ultraman
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147799
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Under The Dome" tvg-logo="" group-title="Germany",DE: 24/7 - Under The Dome
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147802
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Vampire Diaries" tvg-logo="" group-title="Germany",DE: 24/7 - Vampire Diaries
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147791
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Verr" tvg-logo="" group-title="Germany",DE: 24/7 - Verr
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147786
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Vikings" tvg-logo="" group-title="Germany",DE: 24/7 - Vikings
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147796
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Violet Evergarden" tvg-logo="" group-title="Germany",DE: 24/7 - Violet Evergarden
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147797
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Westworld" tvg-logo="" group-title="Germany",DE: 24/7 - Westworld
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147795
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - White Gold" tvg-logo="" group-title="Germany",DE: 24/7 - White Gold
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147789
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Wilde Dynastien" tvg-logo="" group-title="Germany",DE: 24/7 - Wilde Dynastien
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147790
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Young Sheldon" tvg-logo="" group-title="Germany",DE: 24/7 - Young Sheldon
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147803
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - ZNation" tvg-logo="" group-title="Germany",DE: 24/7 - ZNation
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147800
+#EXTINF:-1 tvg-id="" tvg-name="DE: 24/7 - Zoo" tvg-logo="" group-title="Germany",DE: 24/7 - Zoo
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147798
+#EXTINF:-1 tvg-id="" tvg-name="DE: 4+ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: 4+ HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/64183
+#EXTINF:-1 tvg-id="" tvg-name="DE: A&E FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: A&E FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/5181
+#EXTINF:-1 tvg-id="" tvg-name="DE: Alex Berlin HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Alex Berlin HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18448
+#EXTINF:-1 tvg-id="" tvg-name="DE: ALLGAU TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ALLGAU TV HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18445
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIMAL PLANET FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ANIMAL PLANET FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/14370
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ANIXE FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/5987
+#EXTINF:-1 tvg-id="" tvg-name="DE: ANIXE Serie HD" tvg-logo="" group-title="Germany",DE: ANIXE Serie HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120863
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD Alpha" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ARD Alpha
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/42561
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ARD FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/409
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD ONE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ARD ONE HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91128
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ARTE HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/893
+#EXTINF:-1 tvg-id="" tvg-name="DE: Astro TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Astro TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/34799
+#EXTINF:-1 tvg-id="" tvg-name="DE: ATLANTIC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ATLANTIC HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/39918
+#EXTINF:-1 tvg-id="" tvg-name="DE: ATV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ATV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/71419
+#EXTINF:-1 tvg-id="" tvg-name="DE: Augsburg TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Augsburg TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/60393
+#EXTINF:-1 tvg-id="" tvg-name="DE: AUSBURG TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: AUSBURG TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/31161
+#EXTINF:-1 tvg-id="" tvg-name="DE: Austria 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Austria 24
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18444
+#EXTINF:-1 tvg-id="" tvg-name="DE: Auto Moto Sport FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Auto Moto Sport FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2385
+#EXTINF:-1 tvg-id="" tvg-name="DE: AUTO MOTOR SPORT FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: AUTO MOTOR SPORT FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/53065
+#EXTINF:-1 tvg-id="" tvg-name="DE: Auto Motor und Sport HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Auto Motor und Sport HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/80350
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: AXN FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2091
+#EXTINF:-1 tvg-id="" tvg-name="DE: B LIGA 1 HD" tvg-logo="" group-title="Germany",DE: B LIGA 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120745
+#EXTINF:-1 tvg-id="" tvg-name="DE: B LIGA 2 HD" tvg-logo="" group-title="Germany",DE: B LIGA 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120746
+#EXTINF:-1 tvg-id="" tvg-name="DE: Baby TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Baby TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/31389
+#EXTINF:-1 tvg-id="" tvg-name="DE: BADEN TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BADEN TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18449
+#EXTINF:-1 tvg-id="" tvg-name="DE: BAERN REGIONAL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BAERN REGIONAL
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/47595
+#EXTINF:-1 tvg-id="" tvg-name="DE: BBL Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BBL Sport 1
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/29078
+#EXTINF:-1 tvg-id="" tvg-name="DE: BBL Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BBL Sport 2
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/29079
+#EXTINF:-1 tvg-id="" tvg-name="DE: BBL Sport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BBL Sport 3
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/29081
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bibel TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Bibel TV HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8179
+#EXTINF:-1 tvg-id="" tvg-name="DE: BLK Regional TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BLK Regional TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18453
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 1 HD" tvg-logo="" group-title="Germany",DE: BluMaX 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148062
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 2 HD" tvg-logo="" group-title="Germany",DE: BluMaX 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148074
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 3 HD" tvg-logo="" group-title="Germany",DE: BluMaX 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148065
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 4 HD" tvg-logo="" group-title="Germany",DE: BluMaX 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148066
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 5 HD" tvg-logo="" group-title="Germany",DE: BluMaX 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148077
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 6 HD" tvg-logo="" group-title="Germany",DE: BluMaX 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148070
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 7 HD" tvg-logo="" group-title="Germany",DE: BluMaX 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148069
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 8 HD" tvg-logo="" group-title="Germany",DE: BluMaX 8 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148078
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 9 HD" tvg-logo="" group-title="Germany",DE: BluMaX 9 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148075
+#EXTINF:-1 tvg-id="" tvg-name="DE: BluMaX 10 HD" tvg-logo="" group-title="Germany",DE: BluMaX 10 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148081
+#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Boomerang FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2090
+#EXTINF:-1 tvg-id="" tvg-name="DE: BOSS Movies 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BOSS Movies 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12601
+#EXTINF:-1 tvg-id="" tvg-name="DE: BOSS Movies 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BOSS Movies 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12602
+#EXTINF:-1 tvg-id="" tvg-name="DE: BOSS Movies 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BOSS Movies 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12603
+#EXTINF:-1 tvg-id="" tvg-name="DE: BOSS Movies 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BOSS Movies 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12604
+#EXTINF:-1 tvg-id="" tvg-name="DE: BR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: BR HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18454
+#EXTINF:-1 tvg-id="" tvg-name="DE: Brandnite TV Music" tvg-logo="" group-title="Germany",DE: Brandnite TV Music
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146569
+#EXTINF:-1 tvg-id="" tvg-name="DE: C TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: C TV HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/60270
+#EXTINF:-1 tvg-id="" tvg-name="DE: Campus Magdeburg" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Campus Magdeburg
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/40258
+#EXTINF:-1 tvg-id="" tvg-name="DE: CARTOON NETWORK FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: CARTOON NETWORK FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2089
+#EXTINF:-1 tvg-id="" tvg-name="DE: Channel 21" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Channel 21
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70117
+#EXTINF:-1 tvg-id="" tvg-name="DE: Chaula Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Chaula Music HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13543
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: CINE 2
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/82254
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: CINE 5
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/82253
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Box 1 HD" tvg-logo="" group-title="Germany",DE: Cine Box 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120868
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Box 2 HD" tvg-logo="" group-title="Germany",DE: Cine Box 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120870
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine Box 3 HD" tvg-logo="" group-title="Germany",DE: Cine Box 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120867
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE FILM CLUB 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: CINE FILM CLUB 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/41966
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE SELECT 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: CINE SELECT 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/20115
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE SELECT 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: CINE SELECT 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/20118
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE SELECT 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: CINE SELECT 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/20117
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE SELECT 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: CINE SELECT 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/20116
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE SELECT 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: CINE SELECT 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/20125
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cinema 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Cinema 24
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10499
+#EXTINF:-1 tvg-id="" tvg-name="DE: Classica HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Classica HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2088
+#EXTINF:-1 tvg-id="" tvg-name="DE: COMEDY CENTRAL FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: COMEDY CENTRAL FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1670
+#EXTINF:-1 tvg-id="" tvg-name="DE: Crime+ Investigation HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Crime+ Investigation HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/31386
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DAS ERSTE FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2386
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DAZN 1 Bar HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/48355
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DAZN 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2387
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DAZN 2 Bar HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/48357
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DAZN 2 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2389
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DAZN BAR 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/39595
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DAZN Bar 2 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/39596
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEL Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DEL Sport 1
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10505
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEL Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DEL Sport 2
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/29080
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEL Sport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DEL Sport 3
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/29083
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEL Sport 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DEL Sport 4
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/82815
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEL Sport 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DEL Sport 5
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/29084
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEL Sport 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DEL Sport 6
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/29082
+#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Deluxe Music HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2111
+#EXTINF:-1 tvg-id="" tvg-name="DE: Deutsches Musik Fernsehen" tvg-logo="" group-title="Germany",DE: Deutsches Musik Fernsehen
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146568
+#EXTINF:-1 tvg-id="" tvg-name="DE: DEUTSCHLAND" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DEUTSCHLAND
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/84473
+#EXTINF:-1 tvg-id="" tvg-name="DE: Die Welt" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Die Welt
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/73147
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery Channel FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Discovery Channel FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/410
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Disney Channel FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2390
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney CINEMA MAGIC" tvg-logo="" group-title="Germany",DE: Disney CINEMA MAGIC
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146309
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Cinemagic FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Disney Cinemagic FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2085
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney JIUNIOR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Disney JIUNIOR
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/33354
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Jr" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Disney Jr
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2099
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney XD HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Disney XD HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/411
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DMAX FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/895
+#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX HQ" tvg-logo="" group-title="Germany",DE: DMAX HQ
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/121348
+#EXTINF:-1 tvg-id="" tvg-name="DE: DONAU TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DONAU TV HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18459
+#EXTINF:-1 tvg-id="" tvg-name="DE: DORF TV AUSRTIA" tvg-logo="" group-title="Germany",DE: DORF TV AUSRTIA
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146567
+#EXTINF:-1 tvg-id="" tvg-name="DE: DRF 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DRF 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/5017
+#EXTINF:-1 tvg-id="" tvg-name="DE: DW TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: DW TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10941
+#EXTINF:-1 tvg-id="" tvg-name="DE: E! FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: E! FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2114
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema 007 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema 007 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/23801
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Abenteuer FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema Abenteuer FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/75485
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Animation FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema Animation FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/75487
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Drama FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema Drama FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/20127
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Geschichte FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema Geschichte FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/75490
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Horror FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema Horror FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/75489
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Komodie FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema Komodie FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/75486
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Lächeln FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema Lächeln FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/75493
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Premiere FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema Premiere FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/75484
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema Romantisch FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema Romantisch FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/75488
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eagle Cinema sci-fi FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Eagle Cinema sci-fi FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/75492
+#EXTINF:-1 tvg-id="" tvg-name="DE: Elbekanal TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Elbekanal TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/60390
+#EXTINF:-1 tvg-id="" tvg-name="DE: eSports 1 TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: eSports 1 TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/14357
+#EXTINF:-1 tvg-id="" tvg-name="DE: euronews HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: euronews HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4421
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: EUROSPORT 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/412
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 EXTRA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: EUROSPORT 2 EXTRA FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/16202
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: EUROSPORT 2 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2082
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 XTRA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: EUROSPORT 2 XTRA HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2083
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: EUROSPORT HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/15243
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT Xtra 2 HD" tvg-logo="" group-title="Germany",DE: EUROSPORT Xtra 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146630
+#EXTINF:-1 tvg-id="" tvg-name="DE: EWTN katholisches TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: EWTN katholisches TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70130
+#EXTINF:-1 tvg-id="" tvg-name="DE: Family TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Family TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/31412
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC Bayern HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: FC Bayern HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10506
+#EXTINF:-1 tvg-id="" tvg-name="DE: FIX & FOX" tvg-logo="" group-title="Germany",DE: FIX & FOX
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146562
+#EXTINF:-1 tvg-id="" tvg-name="DE: Fix & Foxi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Fix & Foxi
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/31147
+#EXTINF:-1 tvg-id="" tvg-name="DE: Folx HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Folx HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8186
+#EXTINF:-1 tvg-id="" tvg-name="DE: FOX FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: FOX FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/407
+#EXTINF:-1 tvg-id="" tvg-name="DE: Fox Series HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Fox Series HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/34802
+#EXTINF:-1 tvg-id="" tvg-name="DE: FOX SPORTS 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: FOX SPORTS 1
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/44792
+#EXTINF:-1 tvg-id="" tvg-name="DE: Franken Fernsehen HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Franken Fernsehen HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2144
+#EXTINF:-1 tvg-id="" tvg-name="DE: FS1 AUSRTA" tvg-logo="" group-title="Germany",DE: FS1 AUSRTA
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146566
+#EXTINF:-1 tvg-id="" tvg-name="DE: Genius Teleshopping HD" tvg-logo="" group-title="Germany",DE: Genius Teleshopping HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120507
+#EXTINF:-1 tvg-id="" tvg-name="DE: GOLDSTAR TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: GOLDSTAR TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/34804
+#EXTINF:-1 tvg-id="" tvg-name="DE: Halle TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Halle TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91223
+#EXTINF:-1 tvg-id="" tvg-name="DE: Heimat kanal HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Heimat kanal HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1668
+#EXTINF:-1 tvg-id="" tvg-name="DE: Histori" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Histori
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/413
+#EXTINF:-1 tvg-id="" tvg-name="DE: HR Fernsehen HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: HR Fernsehen HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8187
+#EXTINF:-1 tvg-id="" tvg-name="DE: HR FREE" tvg-logo="" group-title="Germany",DE: HR FREE
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146564
+#EXTINF:-1 tvg-id="" tvg-name="DE: HR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: HR HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/40257
+#EXTINF:-1 tvg-id="" tvg-name="DE: ISAR TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ISAR TV HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18474
+#EXTINF:-1 tvg-id="" tvg-name="DE: Jukebox HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Jukebox HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12613
+#EXTINF:-1 tvg-id="" tvg-name="DE: JUNIOR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: JUNIOR HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12314
+#EXTINF:-1 tvg-id="" tvg-name="DE: JUWELO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: JUWELO HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/21327
+#EXTINF:-1 tvg-id="" tvg-name="DE: K-TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: K-TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18477
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 Classic HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Kabel 1 Classic HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10026
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 Docu HD" tvg-logo="" group-title="Germany",DE: Kabel 1 Docu HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146662
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 DOKU FHD" tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="Germany",DE: Kabel 1 DOKU FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2074
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Kabel 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/891
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Doku" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Kabel Doku
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/5011
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel eins Classics FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Kabel eins Classics FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12294
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins Doku HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Kabel Eins Doku HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4420
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel Eins FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Kabel Eins FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4408
+#EXTINF:-1 tvg-id="" tvg-name="DE: KIKA FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: KIKA FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2101
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 1 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148084
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 2 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148085
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 3 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148076
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 4 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148071
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 5 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148079
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 6 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148072
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 7 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148086
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 8 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 8 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148080
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 9 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 9 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148073
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino Premiere 10 HD" tvg-logo="" group-title="Germany",DE: Kino Premiere 10 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148083
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kino WELT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Kino WELT HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2127
+#EXTINF:-1 tvg-id="" tvg-name="DE: Krone Hit TV" tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="Germany",DE: Krone Hit TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/17152
+#EXTINF:-1 tvg-id="" tvg-name="DE: KRONI HIT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: KRONI HIT
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/33366
+#EXTINF:-1 tvg-id="" tvg-name="DE: Luxe Music" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Luxe Music
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63291
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGIC BOX KINO 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAGIC BOX KINO 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32664
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGIC BOX KINO 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAGIC BOX KINO 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32665
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGIC BOX KINO 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAGIC BOX KINO 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32666
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGIC BOX KINO 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAGIC BOX KINO 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32667
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAIN FRANKEN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAIN FRANKEN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/47596
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Kino 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAX Kino 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67429
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Kino 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Max Kino 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67442
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO COLLECTION" tvg-logo="" group-title="Germany",DE: MAX KINO COLLECTION
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148177
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAX Select 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67439
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAX Select 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67450
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAX Select 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67433
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAX Select 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67435
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Select 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MAX Select 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67437
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select HD 5" tvg-logo="" group-title="Germany",DE: Max Select HD 5
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148176
+#EXTINF:-1 tvg-id="" tvg-name="DE: Max Select HD 7" tvg-logo="" group-title="Germany",DE: Max Select HD 7
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148178
+#EXTINF:-1 tvg-id="" tvg-name="DE: MDF 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MDF 1
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/60392
+#EXTINF:-1 tvg-id="" tvg-name="DE: MDR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MDR HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/3483
+#EXTINF:-1 tvg-id="" tvg-name="DE: MediaShop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MediaShop
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/41982
+#EXTINF:-1 tvg-id="" tvg-name="DE: MGM HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MGM HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13523
+#EXTINF:-1 tvg-id="" tvg-name="DE: Motor Vision HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Motor Vision HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4480
+#EXTINF:-1 tvg-id="" tvg-name="DE: MoviesINEMA GERMAN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MoviesINEMA GERMAN 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63315
+#EXTINF:-1 tvg-id="" tvg-name="DE: MoviesINEMA GERMAN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MoviesINEMA GERMAN 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/41986
+#EXTINF:-1 tvg-id="" tvg-name="DE: MoviesINEMA GERMAN 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MoviesINEMA GERMAN 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/42866
+#EXTINF:-1 tvg-id="" tvg-name="DE: MoviesINEMA GERMAN 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MoviesINEMA GERMAN 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63296
+#EXTINF:-1 tvg-id="" tvg-name="DE: MoviesINEMA GERMAN 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MoviesINEMA GERMAN 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63311
+#EXTINF:-1 tvg-id="" tvg-name="DE: MTV Dance" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MTV Dance
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/41984
+#EXTINF:-1 tvg-id="" tvg-name="DE: MTV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MTV FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/3486
+#EXTINF:-1 tvg-id="" tvg-name="DE: MUENCHEN TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MUENCHEN TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/31159
+#EXTINF:-1 tvg-id="" tvg-name="DE: Munchen TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Munchen TV FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/6811
+#EXTINF:-1 tvg-id="" tvg-name="DE: Music TV 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Music TV 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13541
+#EXTINF:-1 tvg-id="" tvg-name="DE: MYSPORTS FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: MYSPORTS FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63682
+#EXTINF:-1 tvg-id="" tvg-name="DE: N-TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: N-TV FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2080
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 DOC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: N24 DOC
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/47558
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 Doku" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: N24 Doku
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/85610
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: N24 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2093
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: NAT GEO FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2095
+#EXTINF:-1 tvg-id="" tvg-name="DE: NAT GEO Wild FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: NAT GEO Wild FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1666
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: NDR HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2113
+#EXTINF:-1 tvg-id="" tvg-name="DE: NEIDER" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: NEIDER
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/60268
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICK / MTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: NICK / MTV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12587
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nick Comedy Central" tvg-logo="" group-title="Germany",DE: Nick Comedy Central
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146664
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nick Junior HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Nick Junior HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63288
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICKELDEON HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: NICKELDEON HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12588
+#EXTINF:-1 tvg-id="" tvg-name="DE: nickelodeon HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: nickelodeon HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2102
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nitro FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Nitro FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/5167
+#EXTINF:-1 tvg-id="" tvg-name="DE: NO4A" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: NO4A
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/33369
+#EXTINF:-1 tvg-id="" tvg-name="DE: Noa 4 Hamburg" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Noa 4 Hamburg
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18491
+#EXTINF:-1 tvg-id="" tvg-name="DE: NOA 4 Norderstedt FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: NOA 4 Norderstedt FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/17141
+#EXTINF:-1 tvg-id="" tvg-name="DE: OBERPFALZ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: OBERPFALZ HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18493
+#EXTINF:-1 tvg-id="" tvg-name="DE: Oe24 TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Oe24 TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18492
+#EXTINF:-1 tvg-id="" tvg-name="DE: Offener Kanal Magdeburg" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Offener Kanal Magdeburg
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18498
+#EXTINF:-1 tvg-id="" tvg-name="DE: OK TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: OK TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18501
+#EXTINF:-1 tvg-id="" tvg-name="DE: ONE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ONE HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/5185
+#EXTINF:-1 tvg-id="" tvg-name="DE: One Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: One Music HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13542
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF1 HD" tvg-logo="" group-title="Germany",DE: ORF1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148174
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF2 HD" tvg-logo="" group-title="Germany",DE: ORF2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146310
+#EXTINF:-1 tvg-id="" tvg-name="DE: PEARL TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: PEARL TV HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18509
+#EXTINF:-1 tvg-id="" tvg-name="DE: Phoenix HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Phoenix HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1663
+#EXTINF:-1 tvg-id="" tvg-name="DE: PLANET FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: PLANET FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4441
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: POPCORN SELECT 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/855
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: POPCORN SELECT 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/856
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: POPCORN SELECT 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/857
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: POPCORN SELECT 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/858
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: POPCORN SELECT 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/859
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: POPCORN SELECT 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/860
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: POPCORN SELECT 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/861
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: POPCORN SELECT 8 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/862
+#EXTINF:-1 tvg-id="" tvg-name="DE: POPCORN SELECT 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: POPCORN SELECT 9 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/863
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 Fun FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Pro 7 Fun FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2079
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 HD" tvg-logo="" group-title="Germany",DE: Pro 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/34382
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 MAX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: PRO 7 MAX HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10032
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 MAXX HD" tvg-logo="" group-title="Germany",DE: PRO 7 MAXX HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146663
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSiben FUN HD" tvg-logo="" group-title="Germany",DE: ProSiben FUN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91979
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ProSieben FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/887
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben Fun HD" tvg-logo="" group-title="Germany",DE: ProSieben Fun HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120532
+#EXTINF:-1 tvg-id="" tvg-name="DE: ProSieben Maxx FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ProSieben Maxx FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2077
+#EXTINF:-1 tvg-id="" tvg-name="DE: QVC 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: QVC 2 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/21336
+#EXTINF:-1 tvg-id="" tvg-name="DE: QVC GERMANY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: QVC GERMANY
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/44789
+#EXTINF:-1 tvg-id="" tvg-name="DE: QVC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: QVC HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/17156
+#EXTINF:-1 tvg-id="" tvg-name="DE: rbb HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: rbb HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/41991
+#EXTINF:-1 tvg-id="" tvg-name="DE: RFO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RFO HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18517
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rhein Neckar Fernsehen" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Rhein Neckar Fernsehen
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91187
+#EXTINF:-1 tvg-id="" tvg-name="DE: RiC TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RiC TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18520
+#EXTINF:-1 tvg-id="" tvg-name="DE: RNF TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RNF TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/5010
+#EXTINF:-1 tvg-id="" tvg-name="DE: ro News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ro News
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/84474
+#EXTINF:-1 tvg-id="" tvg-name="DE: Romance HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Romance HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1662
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4399
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL 2 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/888
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL 2 Germany" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL 2 Germany
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/50873
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Crime FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL Crime FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2103
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/890
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL II HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL II HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/41962
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Living FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL Living FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/3477
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL Nitro FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2104
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL PASION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL PASION
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/6797
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL Passion FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2411
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL plus FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL plus FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4402
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL zwei FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: RTL zwei FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/50339
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTLIME" tvg-logo="" group-title="Germany",DE: RTLIME
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147062
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Emotions HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sat 1 Emotions HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12571
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 Gold HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sat 1 Gold HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2412
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sat 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2107
+#EXTINF:-1 tvg-id="" tvg-name="DE: Servus HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Servus HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2073
+#EXTINF:-1 tvg-id="" tvg-name="DE: Silverline Movie" tvg-logo="" group-title="Germany",DE: Silverline Movie
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148067
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sixx FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2072
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx HQ" tvg-logo="" group-title="Germany",DE: Sixx HQ
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/121319
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2115
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY 13 STREET FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY 13 STREET FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/39271
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Action FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Action FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/3503
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Arts HD" tvg-logo="" group-title="Germany",DE: Sky Arts HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120514
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic +1 HD" tvg-logo="" group-title="Germany",DE: Sky Atlantic +1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146665
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Atlantic FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1661
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY AXN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY AXN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32684
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky CineBox 1" tvg-logo="" group-title="Germany",DE: Sky CineBox 1
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146041
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky CineBox 2" tvg-logo="" group-title="Germany",DE: Sky CineBox 2
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146030
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky CineBox 3" tvg-logo="" group-title="Germany",DE: Sky CineBox 3
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146029
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky CineBox 4" tvg-logo="" group-title="Germany",DE: Sky CineBox 4
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146031
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky CineBox 5" tvg-logo="" group-title="Germany",DE: Sky CineBox 5
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146032
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky CineBox 6" tvg-logo="" group-title="Germany",DE: Sky CineBox 6
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146039
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema +1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema +1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4457
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema +24 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema +24 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4458
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1660
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 2 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146040
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 3 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146033
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 4 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146034
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 5 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146047
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 6 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146035
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 7 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146045
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 8 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 8 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146036
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 9 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 9 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146037
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 11 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 11 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146038
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 14 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 14 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146042
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 15 HD" tvg-logo="" group-title="Germany",DE: Sky Cinema 15 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146044
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema 24 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema 24 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2414
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Cinema Action FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY Cinema Action FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1659
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Alien" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Alien
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70176
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Atlantic FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Atlantic FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4462
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Best Of HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Best Of HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91123
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Classics HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Classics HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91126
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Comdey" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Comdey
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/17143
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Comedy FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Comedy FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2120
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Comic Helden" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Comic Helden
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/71407
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Emotion FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Emotion FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2121
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Family FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Family FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2118
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2117
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Fun HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Fun HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91120
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Hits FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Hits FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2119
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA HTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY CINEMA HTS
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/39600
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Krimi HD" tvg-logo="" group-title="Germany",DE: Sky Cinema Krimi HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148060
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA MITTELERDE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY CINEMA MITTELERDE
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67854
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Nostalgie FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Nostalgie FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2116
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premiere +24 FHD" tvg-logo="" group-title="Germany",DE: Sky Cinema Premiere +24 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146043
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premiere FHD" tvg-logo="" group-title="Germany",DE: Sky Cinema Premiere FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146046
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren +24 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Premieren +24 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91122
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Premieren HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91118
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Special HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Special HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/29070
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Spezial HD" tvg-logo="" group-title="Germany",DE: Sky Cinema Spezial HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91962
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Thriller HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema Thriller HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91116
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema TLC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Cinema TLC
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13533
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Cinema WESTERN HD" tvg-logo="" group-title="Germany",DE: SKY Cinema WESTERN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146048
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY COMEDY FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY COMEDY FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4461
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Discovery Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Discovery Channel HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91156
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Disney Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Disney Channel HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2124
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Emotion HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY Emotion HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4465
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY FAMILY FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY FAMILY FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/15246
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Fox HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Fox HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2081
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany A&E HD" tvg-logo="" group-title="Germany",DE: Sky Germany A&E HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/121327
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky History HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky History HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91157
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Hits FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Hits FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4840
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Junior HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Junior HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91144
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KINOWELT TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY KINOWELT TV HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/5154
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Krimi FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Krimi FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2122
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Movies Box Office 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Movies Box Office 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/52439
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Movies Box Office 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Movies Box Office 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/41994
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Movies BoxOffice 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Movies BoxOffice 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/42875
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky NAT GEO GRAPHIC HD" tvg-logo="" group-title="Germany",DE: Sky NAT GEO GRAPHIC HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/145932
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky NAT GEO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky NAT GEO HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91150
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY Nostalgie HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY Nostalgie HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2415
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY POPCORN SELECT 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY POPCORN SELECT 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12605
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY POPCORN SELECT 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY POPCORN SELECT 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12606
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY POPCORN SELECT 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY POPCORN SELECT 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12607
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY POPCORN SELECT 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY POPCORN SELECT 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12608
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY POPCORN SELECT 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY POPCORN SELECT 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12609
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Popcorn Select 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Popcorn Select 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/34834
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Popcorn Select 7 HD" tvg-logo="" group-title="Germany",DE: Sky Popcorn Select 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146050
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Romance TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Romance TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/46007
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY RTL PASSION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY RTL PASSION
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32678
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY SELECT 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2138
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 2 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2139
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 3 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2419
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 4 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2420
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 5 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2140
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 6 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY SELECT 6 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2422
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 7 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY SELECT 7 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2141
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 8 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2424
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 9 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 9 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2425
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1+ HD" tvg-logo="" group-title="Germany",DE: Sky Select 1+ HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146049
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 10 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 10 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2417
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 11 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 11 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70189
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 12 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 12 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70190
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 13 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 13 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70191
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 14 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 14 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70193
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 15 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 15 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70194
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 16 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 16 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70195
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 17 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Select 17 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70196
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Serien & Shows HD" tvg-logo="" group-title="Germany",DE: Sky Serien & Shows HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120872
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 +" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 1 +
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10510
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4487
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/41530
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 2 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4488
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13402
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 3 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13500
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/72238
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32708
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 5 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13497
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/3514
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 6 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/50373
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/31445
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 7 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 7 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13499
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2133
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 8 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13501
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 8 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4489
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 FHD" tvg-logo="" group-title="Germany",DE: Sky Sport 9 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147341
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport 9 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2134
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 FHD" tvg-logo="" group-title="Germany",DE: Sky Sport 10 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147343
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 HD" tvg-logo="" group-title="Germany",DE: Sky Sport 10 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147342
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4492
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2431
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 2 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/4493
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/60755
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 3 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/44325
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2135
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/3513
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 5 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/82810
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2136
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 6 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 6 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/46531
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12638
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 7 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 7 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/46532
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2433
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 8 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 8 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/46533
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 8 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2434
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 9 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10051
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 10 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga 10 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2432
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport Bundesliga HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/13763
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport News HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Sport News HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1658
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SYFY HD" tvg-logo="" group-title="Germany",DE: SKY SYFY HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146311
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY TNT COMEDY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY TNT COMEDY
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/60903
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky TNT Film HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky TNT Film HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/46005
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY TNT Series HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKY TNT Series HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32680
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Universal Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sky Universal Channel HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91127
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKYLANTIC 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SKYLANTIC 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/65393
+#EXTINF:-1 tvg-id="" tvg-name="DE: Skylantic HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Skylantic HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/65625
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKYLECT 1 HD" tvg-logo="" group-title="Germany",DE: SKYLECT 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/145368
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKYLECT 4 HD" tvg-logo="" group-title="Germany",DE: SKYLECT 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/145371
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKYLECT 5 HD" tvg-logo="" group-title="Germany",DE: SKYLECT 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/145370
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKYLECT 6 HD" tvg-logo="" group-title="Germany",DE: SKYLECT 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/145369
+#EXTINF:-1 tvg-id="" tvg-name="DE: Skyselect HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Skyselect HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/60136
+#EXTINF:-1 tvg-id="" tvg-name="DE: SkyselectHD-02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SkyselectHD-02
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/77172
+#EXTINF:-1 tvg-id="" tvg-name="DE: SONNEKLAR TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SONNEKLAR TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/44784
+#EXTINF:-1 tvg-id="" tvg-name="DE: SONNENKLAR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SONNENKLAR HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/24698
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sony AXN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sony AXN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/17150
+#EXTINF:-1 tvg-id="" tvg-name="DE: SONY Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SONY Channel
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2128
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sony Enterainment HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sony Enterainment HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32349
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sony Entertainment" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sony Entertainment
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/71233
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Spiegel Geschichte HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1657
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPIEGEL TV WISSEN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SPIEGEL TV WISSEN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/3506
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport +1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sport +1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/84323
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sport 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2436
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1+ FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sport 1+ FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2100
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Digital FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sport Digital FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/3509
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sportdigital Fußball FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Sportdigital Fußball FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63928
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORTS 1 USA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SPORTS 1 USA HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10183
+#EXTINF:-1 tvg-id="" tvg-name="DE: SR FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SR FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18524
+#EXTINF:-1 tvg-id="" tvg-name="DE: SRF 1 FHD" tvg-logo="" group-title="Germany",DE: SRF 1 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/145933
+#EXTINF:-1 tvg-id="" tvg-name="DE: SRF 2 FHD" tvg-logo="" group-title="Germany",DE: SRF 2 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147995
+#EXTINF:-1 tvg-id="" tvg-name="DE: SRF Info FHD" tvg-logo="" group-title="Germany",DE: SRF Info FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147996
+#EXTINF:-1 tvg-id="" tvg-name="DE: SRF Zwei HD" tvg-logo="" group-title="Germany",DE: SRF Zwei HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/147997
+#EXTINF:-1 tvg-id="" tvg-name="DE: Stendal TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Stendal TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91182
+#EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SUPER RTL FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/896
+#EXTINF:-1 tvg-id="" tvg-name="DE: SVT 1" tvg-logo="" group-title="Germany",DE: SVT 1
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146312
+#EXTINF:-1 tvg-id="" tvg-name="DE: SWR Fernsehen HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SWR Fernsehen HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91110
+#EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SWR HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/7513
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: SYFY FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/408
+#EXTINF:-1 tvg-id="" tvg-name="DE: TAGESSCHAU 24 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TAGESSCHAU 24 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/40268
+#EXTINF:-1 tvg-id="" tvg-name="DE: TEGESSCHAU 24 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TEGESSCHAU 24 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1656
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELE 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELE 5 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2439
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tele Ticino" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Tele Ticino
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/24716
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELE ZURI CH" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELE ZURI CH
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/47592
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telebasel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telebasel
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/43523
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELECLUB ACTION HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELECLUB ACTION HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/12610
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELECLUB CINEMA FHD" tvg-logo="" group-title="Germany",DE: TELECLUB CINEMA FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146013
+#EXTINF:-1 tvg-id="" tvg-name="DE: Teleclub Emotion HD" tvg-logo="" group-title="Germany",DE: Teleclub Emotion HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/145326
+#EXTINF:-1 tvg-id="" tvg-name="DE: Teleclub Sport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Teleclub Sport 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/73176
+#EXTINF:-1 tvg-id="" tvg-name="DE: Teleclub Sport 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Teleclub Sport 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/73175
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELECOM SPORT 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELECOM SPORT 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/72127
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELECOM SPORT 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELECOM SPORT 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/73163
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom 3 Bundesliga 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom 3 Bundesliga 2
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67452
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom 3 Bundesliga 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom 3 Bundesliga 5
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67498
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM Basketball 1" tvg-logo="" group-title="Germany",DE: TELEKOM Basketball 1
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146019
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM Basketball 2" tvg-logo="" group-title="Germany",DE: TELEKOM Basketball 2
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146020
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM Basketball 3" tvg-logo="" group-title="Germany",DE: TELEKOM Basketball 3
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146018
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM Basketball 4 FHD" tvg-logo="" group-title="Germany",DE: TELEKOM Basketball 4 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146016
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM Basketball 5 FHD" tvg-logo="" group-title="Germany",DE: TELEKOM Basketball 5 FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146017
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom BBL Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom BBL Sport 1
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67465
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom BBL Sport 2" tvg-logo="" group-title="Germany",DE: Telekom BBL Sport 2
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/145934
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom BBL Sport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom BBL Sport 3
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/67458
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM BUNDESLIGA 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELEKOM BUNDESLIGA 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8206
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM BUNDESLIGA 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELEKOM BUNDESLIGA 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8207
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM BUNDESLIGA 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELEKOM BUNDESLIGA 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8208
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM BUNDESLIGA 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELEKOM BUNDESLIGA 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8209
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM BUNDESLIGA 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELEKOM BUNDESLIGA 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8210
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM BUNDESLIGA 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELEKOM BUNDESLIGA 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8211
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM BUNDESLIGA 7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELEKOM BUNDESLIGA 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8212
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM DEL SPORT 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELEKOM DEL SPORT 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8214
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM DEL SPORT 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TELEKOM DEL SPORT 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8215
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM DEL Sport 4 HD" tvg-logo="" group-title="Germany",DE: TELEKOM DEL Sport 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146024
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM DEL Sport 5 HD" tvg-logo="" group-title="Germany",DE: TELEKOM DEL Sport 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146027
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM DEL Sport 6 HD" tvg-logo="" group-title="Germany",DE: TELEKOM DEL Sport 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146021
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 1 HD" tvg-logo="" group-title="Germany",DE: TELEKOM EISHOCKEY 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146022
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 2 HD" tvg-logo="" group-title="Germany",DE: TELEKOM EISHOCKEY 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146023
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 3 HD" tvg-logo="" group-title="Germany",DE: TELEKOM EISHOCKEY 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146028
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 4 HD" tvg-logo="" group-title="Germany",DE: TELEKOM EISHOCKEY 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146025
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM EISHOCKEY 5 HD" tvg-logo="" group-title="Germany",DE: TELEKOM EISHOCKEY 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146026
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussbal 1 HD" tvg-logo="" group-title="Germany",DE: Telekom Fussbal 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120945
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussbal 2 HD" tvg-logo="" group-title="Germany",DE: Telekom Fussbal 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120901
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussbal 4 HD" tvg-logo="" group-title="Germany",DE: Telekom Fussbal 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120908
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussbal 5 HD" tvg-logo="" group-title="Germany",DE: Telekom Fussbal 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/120902
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom Fussball 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/77249
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom Fussball 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/77252
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom Fussball 3 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/77253
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom Fussball 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/77248
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom Fussball 5 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/77250
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom Fussball 6 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/68292
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom Fussball 7 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/77246
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fussball 8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Telekom Fussball 8 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/77245
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom SPORT 1 HD" tvg-logo="" group-title="Germany",DE: Telekom SPORT 1 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148061
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom SPORT 2 HD" tvg-logo="" group-title="Germany",DE: Telekom SPORT 2 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148063
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom SPORT 4 HD" tvg-logo="" group-title="Germany",DE: Telekom SPORT 4 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148064
+#EXTINF:-1 tvg-id="" tvg-name="DE: TLC FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TLC FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2108
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT COMEDY FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TNT COMEDY FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2087
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Film FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TNT Film FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2441
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Serie FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TNT Serie FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1655
+#EXTINF:-1 tvg-id="" tvg-name="DE: TOGGO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TOGGO
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/70188
+#EXTINF:-1 tvg-id="" tvg-name="DE: TOGGO PLUS FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TOGGO PLUS FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2145
+#EXTINF:-1 tvg-id="" tvg-name="DE: TOGGO plus von Super RTL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TOGGO plus von Super RTL
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63295
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tom & Jerry HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Tom & Jerry HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63343
+#EXTINF:-1 tvg-id="" tvg-name="DE: Travel Channel HD" tvg-logo="" group-title="Germany",DE: Travel Channel HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146666
+#EXTINF:-1 tvg-id="" tvg-name="DE: TRP1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TRP1
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91196
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV 25 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TV 25 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/56635
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV A" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TV A
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/44795
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV A OSTBAYERN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TV A OSTBAYERN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/8217
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV Aktuell" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TV Aktuell
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91175
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV AKTUELLR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TV AKTUELLR
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/31164
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV Halle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TV Halle
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18535
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV Kiel" tvg-logo="" group-title="Germany",DE: TV Kiel
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/146565
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV OBERFRANKEN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TV OBERFRANKEN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18537
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV Touring Fernsehen" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TV Touring Fernsehen
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91181
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV Touring Wurzburg" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TV Touring Wurzburg
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/18536
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV3+ HD" tvg-logo="" group-title="Germany",DE: TV3+ HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91977
+#EXTINF:-1 tvg-id="" tvg-name="DE: TVO Oberfranken" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: TVO Oberfranken
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91194
+#EXTINF:-1 tvg-id="" tvg-name="DE: UNIVERSAL Channel FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: UNIVERSAL Channel FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1654
+#EXTINF:-1 tvg-id="" tvg-name="DE: utsches Musik Fernsehen" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: utsches Musik Fernsehen
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63284
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIVA / Comedy Central" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: VIVA / Comedy Central
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/32334
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIVA Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: VIVA Comedy
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/71423
+#EXTINF:-1 tvg-id="" tvg-name="DE: Viyana TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Viyana TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91189
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: VOX FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/894
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR AACHEN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: WDR AACHEN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/24697
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR BONN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: WDR BONN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/24691
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR DUISBURG HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: WDR DUISBURG HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/24689
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR Fernsehen HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: WDR Fernsehen HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/91125
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: WDR FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/1653
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR KOLN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: WDR KOLN HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/24690
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt der Wunder TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Welt der Wunder TV
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/29008
+#EXTINF:-1 tvg-id="" tvg-name="DE: WELT FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: WELT FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/5973
+#EXTINF:-1 tvg-id="" tvg-name="DE: Welt N24 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Welt N24 HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/10503
+#EXTINF:-1 tvg-id="" tvg-name="DE: Weltr Wunder" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: Weltr Wunder
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63348
+#EXTINF:-1 tvg-id="" tvg-name="DE: WILD HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: WILD HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/60954
+#EXTINF:-1 tvg-id="" tvg-name="DE: WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: WWE HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/63347
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ZDF FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/889
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF IINFO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ZDF IINFO
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/71608
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Info FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ZDF Info FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2069
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF neo FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ZDF neo FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2070
+#EXTINF:-1 tvg-id="" tvg-name="DE: Zee Neo HD" tvg-logo="" group-title="Germany",DE: Zee Neo HD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/148068
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZEE One FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Germany",DE: ZEE One FHD
+http://bestcostiptv.com:8080/Restr1000con/5bb7441f/2444
 #EXTVLCOPT:network-caching=1000
 http://www.lengua.com/anthems/Germany.mp3
 #EXTINF:0, 24/7 Digital Concert Hall
@@ -9818,6 +11176,132 @@ http://81.21.47.74/hls/live.m3u8
 #EXTINF:0,~ Turkey TV ~
 #EXTVLCOPT:network-caching=1000
 http://www.lengua.com/anthems/Turkey.mp3
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lig tv (BeinSPorts) 2 HD" tvg-logo="" group-title="Turkish",TR: Lig tv (BeinSPorts) 2 HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/1466
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lig TV (BeinSPorts) 3 HD" tvg-logo="" group-title="Turkish",TR: Lig TV (BeinSPorts) 3 HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/2059
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIG TV (BeinSPorts) 1 HD" tvg-logo="" group-title="Turkish",TR: LIG TV (BeinSPorts) 1 HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/2061
+#EXTINF:-1 tvg-id="" tvg-name="TR:DiSCOVERY CHANNEL TR *" tvg-logo="" group-title="Turkish",TR:DiSCOVERY CHANNEL TR *
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20990
+#EXTINF:-1 tvg-id="" tvg-name="TR:DiSCOVERY SCiENCE TR" tvg-logo="" group-title="Turkish",TR:DiSCOVERY SCiENCE TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20991
+#EXTINF:-1 tvg-id="" tvg-name="TR:DISCOVERY TURBO XTRA TR" tvg-logo="" group-title="Turkish",TR:DISCOVERY TURBO XTRA TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20992
+#EXTINF:-1 tvg-id="" tvg-name="TR: DiSNEY CHANNEL HD" tvg-logo="" group-title="Turkish",TR: DiSNEY CHANNEL HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20993
+#EXTINF:-1 tvg-id="" tvg-name="TR:DiSNEY JUNIOR" tvg-logo="" group-title="Turkish",TR:DiSNEY JUNIOR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20994
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL B" tvg-logo="" group-title="Turkish",TR: KANAL B
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20995
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV" tvg-logo="" group-title="Turkish",TR: KRAL TV
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20997
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV POP" tvg-logo="" group-title="Turkish",TR: KRAL TV POP
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20998
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 HD" tvg-logo="" group-title="Turkish",TR: NR1 HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20999
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="Turkish",TR: DREAM TURK
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20996
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN BOX OFFICE 1 TR" tvg-logo="" group-title="Turkish",TR:BEIN BOX OFFICE 1 TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/21000
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN BOX OFFiCE 3 TR" tvg-logo="" group-title="Turkish",TR:BEIN BOX OFFiCE 3 TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/21002
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEIN BOX OFFiCE 2 TR" tvg-logo="" group-title="Turkish",TR:BEIN BOX OFFiCE 2 TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/21001
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT 1 FHD" tvg-logo="" group-title="Turkish",TR:TRT 1 FHD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20943
+#EXTINF:-1 tvg-id="" tvg-name="TR:ATV FHD" tvg-logo="" group-title="Turkish",TR:ATV FHD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20944
+#EXTINF:-1 tvg-id="" tvg-name="TR:STAR TV HD" tvg-logo="" group-title="Turkish",TR:STAR TV HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20945
+#EXTINF:-1 tvg-id="" tvg-name="TR:KANAL D FHD" tvg-logo="" group-title="Turkish",TR:KANAL D FHD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20946
+#EXTINF:-1 tvg-id="" tvg-name="TR:SHOW TV HD" tvg-logo="" group-title="Turkish",TR:SHOW TV HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20947
+#EXTINF:-1 tvg-id="" tvg-name="TR:FOX TV HD" tvg-logo="" group-title="Turkish",TR:FOX TV HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20948
+#EXTINF:-1 tvg-id="" tvg-name="TR:TEVE 2" tvg-logo="" group-title="Turkish",TR:TEVE 2
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20949
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 8 HD" tvg-logo="" group-title="Turkish",TR:TV 8 HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20950
+#EXTINF:-1 tvg-id="" tvg-name="TR:TR: TV 8.5" tvg-logo="" group-title="Turkish",TR:TR: TV 8.5
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20951
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV8 INT" tvg-logo="" group-title="Turkish",TR:TV8 INT
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20952
+#EXTINF:-1 tvg-id="" tvg-name="TR:KANAL 7" tvg-logo="" group-title="Turkish",TR:KANAL 7
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20953
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEYAZ TV" tvg-logo="" group-title="Turkish",TR:BEYAZ TV
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20954
+#EXTINF:-1 tvg-id="" tvg-name="TR:A2 HD" tvg-logo="" group-title="Turkish",TR:A2 HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20955
+#EXTINF:-1 tvg-id="" tvg-name="TR:A2 FHD TR" tvg-logo="" group-title="Turkish",TR:A2 FHD TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20956
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="" group-title="Turkish",TR: TLC
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20957
+#EXTINF:-1 tvg-id="" tvg-name="TR:NTV FHD" tvg-logo="" group-title="Turkish",TR:NTV FHD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20958
+#EXTINF:-1 tvg-id="" tvg-name="TR:A HABER HD" tvg-logo="" group-title="Turkish",TR:A HABER HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20959
+#EXTINF:-1 tvg-id="" tvg-name="TR:CNN TURK FHD" tvg-logo="" group-title="Turkish",TR:CNN TURK FHD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20960
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT HABER" tvg-logo="" group-title="Turkish",TR:TRT HABER
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20961
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK" tvg-logo="" group-title="Turkish",TR: HABERTURK
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20962
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT BELGESEL FHD" tvg-logo="" group-title="Turkish",TR:TRT BELGESEL FHD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20963
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK TR" tvg-logo="" group-title="Turkish",TR:TRT COCUK TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20964
+#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV" tvg-logo="" group-title="Turkish",TR: HALK TV
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20965
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT MUZiK" tvg-logo="" group-title="Turkish",TR:TRT MUZiK
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20967
+#EXTINF:-1 tvg-id="" tvg-name="TR:TELE 1" tvg-logo="" group-title="Turkish",TR:TELE 1
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20966
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT SPOR HD" tvg-logo="" group-title="Turkish",TR:TRT SPOR HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20968
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT TURK" tvg-logo="" group-title="Turkish",TR:TRT TURK
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20969
+#EXTINF:-1 tvg-id="" tvg-name="TR:TV 5" tvg-logo="" group-title="Turkish",TR:TV 5
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20971
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV EM" tvg-logo="" group-title="Turkish",TR: TV EM
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20972
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVNET HD" tvg-logo="" group-title="Turkish",TR: TVNET HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20973
+#EXTINF:-1 tvg-id="" tvg-name="TR:ULKE TV" tvg-logo="" group-title="Turkish",TR:ULKE TV
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20974
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL KANAL" tvg-logo="" group-title="Turkish",TR: ULUSAL KANAL
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20975
+#EXTINF:-1 tvg-id="" tvg-name="TR:24 FHD" tvg-logo="" group-title="Turkish",TR:24 FHD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20976
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP AKUSTiK" tvg-logo="" group-title="Turkish",TR: KRAL POP AKUSTiK
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20977
+#EXTINF:-1 tvg-id="" tvg-name="TR:360 TV" tvg-logo="" group-title="Turkish",TR:360 TV
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20978
+#EXTINF:-1 tvg-id="" tvg-name="TR:BEREKET TV" tvg-logo="" group-title="Turkish",TR:BEREKET TV
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20979
+#EXTINF:-1 tvg-id="" tvg-name="TR:EUROSPORT 1 HD" tvg-logo="" group-title="Turkish",TR:EUROSPORT 1 HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20980
+#EXTINF:-1 tvg-id="" tvg-name="TR:EUROSPORT 2 HD" tvg-logo="" group-title="Turkish",TR:EUROSPORT 2 HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20981
+#EXTINF:-1 tvg-id="" tvg-name="TR:A SPOR HD" tvg-logo="" group-title="Turkish",TR:A SPOR HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20982
+#EXTINF:-1 tvg-id="" tvg-name="TR:SMART SPOR TR" tvg-logo="" group-title="Turkish",TR:SMART SPOR TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20983
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV" tvg-logo="" group-title="Turkish",TR: FB TV
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20984
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV" tvg-logo="" group-title="Turkish",TR: GS TV
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20985
+#EXTINF:-1 tvg-id="" tvg-name="TR:ANiMAL PLANET TR" tvg-logo="" group-title="Turkish",TR:ANiMAL PLANET TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20987
+#EXTINF:-1 tvg-id="" tvg-name="TR:BBC EARTH TR" tvg-logo="" group-title="Turkish",TR:BBC EARTH TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20988
+#EXTINF:-1 tvg-id="" tvg-name="TR:DiSCOVERY CHANNEL TR" tvg-logo="" group-title="Turkish",TR:DiSCOVERY CHANNEL TR
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20989
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPORTS TV HD" tvg-logo="" group-title="Turkish",TR: SPORTS TV HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20986
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD" tvg-logo="" group-title="Turkish",TR: TRT WORLD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/20970
 #EXTINF:0,A Haber
 #EXTVLCOPT:network-caching=1000
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
