@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="Dutch",NPO1
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/npo1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="Dutch",NPO1
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="Dutch",NPO1
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="Dutch",NPO2
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/npo2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="Dutch",NPO2
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="Dutch",NPO2
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="Dutch",NPO3
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/npo3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="Dutch",NPO3
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="HU" tvg-url="" group-title="",1Music Channel Hungary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-country="NL" tvg-url="" group-title="Dutch",NPO3
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/master.m3u8
