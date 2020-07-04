@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0,#EXTM3U
-#EXTINF:-1 group-title="Stream NL nationaal (NL)",++Stream NL nationaal (NL)++
-#EXTINF:0,null
 #EXTINF:-1 group-title="Stream NL nationaal (NL)",BVN (EPG 19.2E)
 #EXTINF:0,http://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Stream NL nationaal (NL)",BVN (EPG 13.0Â°E)
