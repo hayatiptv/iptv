@@ -4553,14 +4553,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/PkWndsv.png" tvg-country="CA" tvg-url="" group-title="English",Toronto 360 TV
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="8GT" tvg-name="TRACE Africa" tvg-language="English" tvg-logo="https://i.imgur.com/KviG5NU.png" tvg-country="ZA" tvg-url="http://i.mjh.nz/za/DStv/epg.xml.gz" group-title="English",Trace Africa
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trace Ayiti" tvg-language="English;French" tvg-logo="https://trace.company/wp-content/uploads/2018/04/TRACE-AYITI-LOGO-png.png" tvg-country="HT" tvg-url="" group-title="English;French",Trace Ayiti
-https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UC53PIH.png" tvg-country="NG" tvg-url="" group-title="English",Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" tvg-country="JM" tvg-url="" group-title="English",Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wbuv3Sl.jpg" tvg-country="BB" tvg-url="" group-title="English",Trident 10 TV
 http://161.0.157.9/PLTV/88888888/224/3221226832/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ytimg.com/vi/_Jt1yB1y-MM/hqdefault.jpg" tvg-country="US" tvg-url="" group-title="English",Trinity Channel
@@ -4813,12 +4805,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/fQUzBsz.png" tvg-country="GP" tvg-url="" group-title="French",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" tvg-country="CD" tvg-url="" group-title="French",Trace Kitoko
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" tvg-country="CD" tvg-url="" group-title="French",Trace Kitoko
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trace Latina" tvg-language="French;Spanish" tvg-logo="https://trace.company/wp-content/uploads/2018/09/TRACE-LATINA-LOGO-WEB-1.png" tvg-country="UK" tvg-url="" group-title="French;Spanish",Trace Latina
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/05RMwlR.png" tvg-country="FR" tvg-url="" group-title="French",TV3V
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" tvg-country="FR" tvg-url="" group-title="French",TV5 Style
@@ -6625,8 +6611,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/12aPxO7.png" tvg-country="AO" tvg-url="" group-title="Portuguese",TPA1
 https://api.new.livestream.com/accounts/1181452/events/8865379/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" tvg-country="MZ" tvg-url="" group-title="Portuguese",Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5fyGrm5.png" tvg-country="BR" tvg-url="" group-title="Portuguese",TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G1VIULw.png" tvg-country="BR" tvg-url="" group-title="Portuguese",TV ALRN
@@ -8481,6 +8465,10 @@ http://122.155.205.9/live/workpoint.stream/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" tvg-country="TR" tvg-url="" group-title="Turkish",A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" tvg-country="TR" tvg-url="" group-title="Turkish",A TV
+http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" tvg-country="TR" tvg-url="" group-title="Turkish",A TV
+http://streams2.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gFWSgVC/YIv7xEi.png" tvg-country="TR" tvg-url="" group-title="Turkish",A2TV
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" tvg-country="TR" tvg-url="" group-title="Turkish",Afyon Turk TV
@@ -8578,12 +8566,14 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kcJYRGj/Fvxpir2.png" tvg-country="TR" tvg-url="" group-title="Turkish",Show
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" tvg-url="" group-title="Turkish",Star TV
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" tvg-country="TR" tvg-url="" group-title="Turkish",Star TV
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" tvg-url="" group-title="Turkish",Star TV
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" tvg-country="TR" tvg-url="" group-title="Turkish",Star TV
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" tvg-country="TR" tvg-url="" group-title="Turkish",TBMM TV
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" tvg-country="TR" tvg-url="" group-title="Turkish",Teve2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" tvg-country="TR" tvg-url="" group-title="Turkish",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" tvg-country="TR" tvg-url="" group-title="Turkish",TGRT Belgesel

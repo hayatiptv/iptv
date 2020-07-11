@@ -105,6 +105,10 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" tvg-country="TR" tvg-url="" group-title="",A Para
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" tvg-country="TR" tvg-url="" group-title="",A TV
+http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2MPMkjM/atv-logo-png-atv-logo-300.png" tvg-country="TR" tvg-url="" group-title="",A TV
+http://streams2.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-country="DE" tvg-url="" group-title="",a.tv
 http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-country="DE" tvg-url="" group-title="",a.tv
@@ -3075,9 +3079,9 @@ https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8
 http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" tvg-country="US" tvg-url="" group-title="",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" tvg-url="" group-title="",Star TV
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" tvg-country="TR" tvg-url="" group-title="",Star TV
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" tvg-country="TR" tvg-url="" group-title="",Star TV
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" tvg-country="TR" tvg-url="" group-title="",Star TV
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/nwxCDxG.png" tvg-country="IN" tvg-url="" group-title="",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
@@ -3350,6 +3354,8 @@ http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" tvg-country="HN" tvg-url="" group-title="",TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Teve2" tvg-name="Teve2" tvg-language="Turkish" tvg-logo="https://i.ibb.co/JqMRmNQ/Teve2-logo.png" tvg-country="TR" tvg-url="" group-title="",Teve2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://www.teveretv.it/Images/Icone/logo.png" tvg-country="IT" tvg-url="" group-title="",Tevere TV
 https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/1SapDQU.jpg" tvg-country="RO" tvg-url="" group-title="",Tezaur TV
@@ -3468,10 +3474,6 @@ http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png" tvg-country="IT" tvg-url="" group-title="",TR Mia
 http://livetr.teleromagna.it/news/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UC53PIH.png" tvg-country="NG" tvg-url="" group-title="",Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" tvg-country="JM" tvg-url="" group-title="",Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/LZYnpH6/Traditii-TV-RO.png" tvg-country="RO" tvg-url="" group-title="",TraditiiTV
 rtmp://traditii1.arya.ro/live/traditiitv1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040404.png" tvg-country="ID" tvg-url="" group-title="",TRANS 7 HD
@@ -7836,18 +7838,6 @@ http://wpso.com:1936/hls/music1.m3u8
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" tvg-country="BR" tvg-url="" group-title="Music",TopTV
 https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
-#EXTINF:-1 tvg-id="8GT" tvg-name="TRACE Africa" tvg-language="English" tvg-logo="https://i.imgur.com/KviG5NU.png" tvg-country="ZA" tvg-url="http://i.mjh.nz/za/DStv/epg.xml.gz" group-title="Music",Trace Africa
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trace Ayiti" tvg-language="English;French" tvg-logo="https://trace.company/wp-content/uploads/2018/04/TRACE-AYITI-LOGO-png.png" tvg-country="HT" tvg-url="" group-title="Music",Trace Ayiti
-https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" tvg-country="CD" tvg-url="" group-title="Music",Trace Kitoko
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" tvg-country="CD" tvg-url="" group-title="Music",Trace Kitoko
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trace Latina" tvg-language="French;Spanish" tvg-logo="https://trace.company/wp-content/uploads/2018/09/TRACE-LATINA-LOGO-WEB-1.png" tvg-country="UK" tvg-url="" group-title="Music",Trace Latina
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" tvg-country="MZ" tvg-url="" group-title="Music",Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="TRT Muzik TR" tvg-name="TRT Muzik TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" tvg-country="TR" tvg-url="" group-title="Music",TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" tvg-country="RS" tvg-url="" group-title="Music",TV Duga Plus
