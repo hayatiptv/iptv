@@ -3152,6 +3152,10 @@ https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://elsharq.tv/img/elsharq.png" tvg-country="EG" tvg-url="" group-title="Egypt",Al Sharq
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qmhfPpd.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC Sofra
+http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cla9w5J.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",Koky Kids
+http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2416.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",MBC Masr 1
 https://shls-masr-prod.shahid.net/masr-prod.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="" group-title="Egypt",MBC Masr 2
@@ -3714,115 +3718,115 @@ https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Akan" tvg-logo="https://i.imgur.com/rTsl8XB.jpg" tvg-country="GH" tvg-url="" group-title="Ghana",TV Africa (Ghana)
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png" tvg-country="GR" tvg-url="" group-title="Greece",Alert
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png" tvg-country="GR" tvg-url="" group-title="Greece",Alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:-1 tvg-id="ALPHA GR" tvg-name="ALPHA GR" tvg-language="" tvg-logo="https://www.alphatv.gr/Content/Images/logoRed.svg" tvg-country="GR" tvg-url="" group-title="Greece",Alpha TV
+#EXTINF:-1 tvg-id="ALPHA GR" tvg-name="ALPHA GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://www.alphatv.gr/Content/Images/logoRed.svg" tvg-country="GR" tvg-url="" group-title="Greece",Alpha TV
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 tvg-id="ANT1 GR" tvg-name="ANT1 GR" tvg-language="" tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" tvg-country="GR" tvg-url="" group-title="Greece",ANT1
+#EXTINF:-1 tvg-id="ANT1 GR" tvg-name="ANT1 GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" tvg-country="GR" tvg-url="" group-title="Greece",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/s3qWC9W.png" tvg-country="GR" tvg-url="" group-title="Greece",Attica TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/s3qWC9W.png" tvg-country="GR" tvg-url="" group-title="Greece",Attica TV
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://goo.gl/mNqHoo" tvg-country="GR" tvg-url="" group-title="Greece",Axeloos
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://goo.gl/mNqHoo" tvg-country="GR" tvg-url="" group-title="Greece",Axeloos
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Greece",Baraza TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Greece",Baraza TV
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Greece",Baraza TV Classic Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Greece",Baraza TV Classic Hits
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Greece",Baraza TV Greek Music Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Greece",Baraza TV Greek Music Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG" tvg-country="GR" tvg-url="" group-title="Greece",Best TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254401/BEST.PNG" tvg-country="GR" tvg-url="" group-title="Greece",Best TV
 https://best-tv.gr/HLS/hls/best/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/24uaLwh.png" tvg-country="GR" tvg-url="" group-title="Greece",Channel 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/24uaLwh.png" tvg-country="GR" tvg-url="" group-title="Greece",Channel 9
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/G7LHkTE.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Corfu TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/G7LHkTE.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Corfu TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0klufvz.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Diktyo 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/0klufvz.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Diktyo 1
 https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/ASNgEZI.jpg" tvg-country="GR" tvg-url="" group-title="Greece",E TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/ASNgEZI.jpg" tvg-country="GR" tvg-url="" group-title="Greece",E TV
 http://176.9.30.75:1935/live/epsilon/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png" tvg-country="GR" tvg-url="" group-title="Greece",Ena Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png" tvg-country="GR" tvg-url="" group-title="Greece",Ena Channel
 http://176.9.123.140:1935/1c/stream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png" tvg-country="GR" tvg-url="" group-title="Greece",Ena Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png" tvg-country="GR" tvg-url="" group-title="Greece",Ena Channel
 https://server.tvdj.info:8222/1c/stream/chunklist_w1023861619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/AIPYTd0.png" tvg-country="GR" tvg-url="" group-title="Greece",Eoe TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/AIPYTd0.png" tvg-country="GR" tvg-url="" group-title="Greece",Eoe TV
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png" tvg-country="GR" tvg-url="" group-title="Greece",Epirus TV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png" tvg-country="GR" tvg-url="" group-title="Greece",Epirus TV1
 http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/uet8P2n.jpg" tvg-country="GR" tvg-url="" group-title="Greece",ERT World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/uet8P2n.jpg" tvg-country="GR" tvg-url="" group-title="Greece",ERT World
 http://wpso.com:1936/hls/wzra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/k2aV1A0.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Fox Tv Greece
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/k2aV1A0.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Fox Tv Greece
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0iklNh2.png" tvg-country="GR" tvg-url="" group-title="Greece",Groovy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/0iklNh2.png" tvg-country="GR" tvg-url="" group-title="Greece",Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 tvg-id="Ionian TV GR" tvg-name="Ionian TV GR" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG" tvg-country="GR" tvg-url="" group-title="Greece",Ionian TV
+#EXTINF:-1 tvg-id="Ionian TV GR" tvg-name="Ionian TV GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG" tvg-country="GR" tvg-url="" group-title="Greece",Ionian TV
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/gn5sdCt.png" tvg-country="GR" tvg-url="" group-title="Greece",Irida TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/gn5sdCt.png" tvg-country="GR" tvg-url="" group-title="Greece",Irida TV
 https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
-#EXTINF:-1 tvg-id="Kontra Channel GR" tvg-name="Kontra Channel GR" tvg-language="" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=56014296&t=1544180280413" tvg-country="GR" tvg-url="" group-title="Greece",Kontra Channel
+#EXTINF:-1 tvg-id="Kontra Channel GR" tvg-name="Kontra Channel GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=56014296&t=1544180280413" tvg-country="GR" tvg-url="" group-title="Greece",Kontra Channel
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 tvg-id="Kontra Channel GR" tvg-name="Kontra Channel GR" tvg-language="" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=56014296&t=1544180280413" tvg-country="GR" tvg-url="" group-title="Greece",Kontra Channel
+#EXTINF:-1 tvg-id="Kontra Channel GR" tvg-name="Kontra Channel GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=56014296&t=1544180280413" tvg-country="GR" tvg-url="" group-title="Greece",Kontra Channel
 http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/QZQhg6C.png" tvg-country="GR" tvg-url="" group-title="Greece",Magic TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/QZQhg6C.png" tvg-country="GR" tvg-url="" group-title="Greece",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/nwInqes.png" tvg-country="GR" tvg-url="" group-title="Greece",Messinia Web TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/nwInqes.png" tvg-country="GR" tvg-url="" group-title="Greece",Messinia Web TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/2tB3wqn.png" tvg-country="GR" tvg-url="" group-title="Greece",Montreal Greek TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/2tB3wqn.png" tvg-country="GR" tvg-url="" group-title="Greece",Montreal Greek TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nea TV GR" tvg-name="Nea TV GR" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" tvg-country="GR" tvg-url="" group-title="Greece",Nea TV
+#EXTINF:-1 tvg-id="Nea TV GR" tvg-name="Nea TV GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" tvg-country="GR" tvg-url="" group-title="Greece",Nea TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
-#EXTINF:-1 tvg-id="Netmax" tvg-name="Netmax GR" tvg-language="" tvg-logo="http://netmaxtv.com/logo.png" tvg-country="GR" tvg-url="" group-title="Greece",Netmax TV
+#EXTINF:-1 tvg-id="Netmax" tvg-name="Netmax GR" tvg-language="Modern Greek (1453-)" tvg-logo="http://netmaxtv.com/logo.png" tvg-country="GR" tvg-url="" group-title="Greece",Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/pK2p5ey.png" tvg-country="GR" tvg-url="" group-title="Greece",NG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/pK2p5ey.png" tvg-country="GR" tvg-url="" group-title="Greece",NG
 http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/pK2p5ey.png" tvg-country="GR" tvg-url="" group-title="Greece",NG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/pK2p5ey.png" tvg-country="GR" tvg-url="" group-title="Greece",NG
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" tvg-country="GR" tvg-url="" group-title="Greece",NRG 91
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" tvg-country="GR" tvg-url="" group-title="Greece",NRG 91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" tvg-country="GR" tvg-url="" group-title="Greece",NRG 91
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" tvg-country="GR" tvg-url="" group-title="Greece",NRG 91
 https://w1.viastreaming.net/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/100uuWA.png" tvg-country="GR" tvg-url="" group-title="Greece",Play TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/100uuWA.png" tvg-country="GR" tvg-url="" group-title="Greece",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/qa3Lurc.png" tvg-country="GR" tvg-url="" group-title="Greece",PLP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/qa3Lurc.png" tvg-country="GR" tvg-url="" group-title="Greece",PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.anacon.org/app/img/priggipesa.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Radio TV Pringipesa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://www.anacon.org/app/img/priggipesa.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Radio TV Pringipesa
 https://itv.streams.ovh/priggipesa/priggipesa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Reload Play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Reload Play
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png" tvg-country="GR" tvg-url="" group-title="Greece",Samiaki tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png" tvg-country="GR" tvg-url="" group-title="Greece",Samiaki tv
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1 tvg-id="Sigma CY" tvg-name="Sigma CY" tvg-language="" tvg-logo="" tvg-country="GR" tvg-url="" group-title="Greece",Sigma TV
+#EXTINF:-1 tvg-id="Sigma CY" tvg-name="Sigma CY" tvg-language="Modern Greek (1453-)" tvg-logo="" tvg-country="GR" tvg-url="" group-title="Greece",Sigma TV
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" tvg-country="GR" tvg-url="" group-title="Greece",Start TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" tvg-country="GR" tvg-url="" group-title="Greece",Start TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/piGhf3m.png" tvg-country="GR" tvg-url="" group-title="Greece",Tile Mousiki
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/piGhf3m.png" tvg-country="GR" tvg-url="" group-title="Greece",Tile Mousiki
 http://wpso.com:1936/hls/music1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png" tvg-country="GR" tvg-url="" group-title="Greece",Top Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png" tvg-country="GR" tvg-url="" group-title="Greece",Top Channel
 https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/nAzfWx5.png" tvg-country="GR" tvg-url="" group-title="Greece",TRT TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/nAzfWx5.png" tvg-country="GR" tvg-url="" group-title="Greece",TRT TV
 https://www.hellasnet.tv/rest.live.hn/trt2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png" tvg-country="GR" tvg-url="" group-title="Greece",TV 100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png" tvg-country="GR" tvg-url="" group-title="Greece",TV 100
 http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dUH5Mfw.jpg" tvg-country="GR" tvg-url="" group-title="Greece",TV Creta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/dUH5Mfw.jpg" tvg-country="GR" tvg-url="" group-title="Greece",TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/GdgekUL.png" tvg-country="GR" tvg-url="" group-title="Greece",TV Filopoli
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/GdgekUL.png" tvg-country="GR" tvg-url="" group-title="Greece",TV Filopoli
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 tvg-id="Vouli GR" tvg-name="Vouli GR" tvg-language="" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41706922&t=1524412256156" tvg-country="GR" tvg-url="" group-title="Greece",Vouli Tileorasi
+#EXTINF:-1 tvg-id="Vouli GR" tvg-name="Vouli GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41706922&t=1524412256156" tvg-country="GR" tvg-url="" group-title="Greece",Vouli Tileorasi
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 tvg-id="Vouli GR" tvg-name="Vouli GR" tvg-language="" tvg-logo="https://i.imgur.com/7A86yAv.png" tvg-country="GR" tvg-url="" group-title="Greece",Vouli Tileorasi
+#EXTINF:-1 tvg-id="Vouli GR" tvg-name="Vouli GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/7A86yAv.png" tvg-country="GR" tvg-url="" group-title="Greece",Vouli Tileorasi
 https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-country="GR" tvg-url="" group-title="Greece",Wixlar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-country="GR" tvg-url="" group-title="Greece",Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7sUmqv2.png" tvg-country="GR" tvg-url="" group-title="Greece",WZra Kids TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/7sUmqv2.png" tvg-country="GR" tvg-url="" group-title="Greece",WZra Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/LgQBtTh.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Xalastra TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/LgQBtTh.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/ErFj6rR.png" tvg-country="GR" tvg-url="" group-title="Greece",Xplore TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/ErFj6rR.png" tvg-country="GR" tvg-url="" group-title="Greece",Xplore TV
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-#EXTINF:-1 tvg-id="Krete TV GR" tvg-name="Krete TV GR" tvg-language="" tvg-logo="https://i.imgur.com/Ldt07Lh.png" tvg-country="GR" tvg-url="" group-title="Greece",ΚρήτηTV
+#EXTINF:-1 tvg-id="Krete TV GR" tvg-name="Krete TV GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/Ldt07Lh.png" tvg-country="GR" tvg-url="" group-title="Greece",ΚρήτηTV
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG" tvg-country="GR" tvg-url="" group-title="Greece",λύχνος TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG" tvg-country="GR" tvg-url="" group-title="Greece",λύχνος TV
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Μεσογειος TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" tvg-country="GR" tvg-url="" group-title="Greece",Μεσογειος TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/fQUzBsz.png" tvg-country="GP" tvg-url="" group-title="Guadeloupe",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
@@ -4630,6 +4634,8 @@ https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.
 https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IRIB Nasim IR" tvg-name="IRIB Nasim" tvg-language="English" tvg-logo="https://i.imgur.com/vJN95kP.png" tvg-country="IR" tvg-url="" group-title="Iran",IRIB NASIM
 https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRIB Nasim" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/IRIB_Nasim_Logo.png" tvg-country="IR" tvg-url="" group-title="Iran",IRIB Nasim
+https://live.farsiland.com/nasim/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IRIB OFOGH" tvg-language="Persian" tvg-logo="https://i.imgur.com/7fh4LwG.png" tvg-country="IR" tvg-url="" group-title="Iran",IRIB OFOGH
 https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-language="Persian" tvg-logo="https://i.imgur.com/hH9xk9K.png" tvg-country="IR" tvg-url="" group-title="Iran",IRIB TV1
@@ -5334,10 +5340,14 @@ http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
 http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Latvian" tvg-logo="https://i.imgur.com/r4rlHUt.png" tvg-country="LV" tvg-url="" group-title="Latvia",TVNET
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qtQQJQc.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Al Jadeed
+http://watch.teledunet.com:25461/live/tdn/23614613767/10146727.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dmDzNQO.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Alhayat TV
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/817xRPg.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Aliman TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="LB" tvg-url="" group-title="Lebanon",Assirat TV
@@ -5345,15 +5355,21 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" tvg-country="LB" tvg-url="" group-title="Lebanon",CharityTV
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
-#EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/03/logo1.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Lana TV
+http://51.81.80.6:25461/live/zeko/zeko/28.m3u8
 #EXTINF:-1 tvg-id="LBC ARB" tvg-name="LBC ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" tvg-country="LB" tvg-url="" group-title="Lebanon",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YPR45yP.png" tvg-country="LB" tvg-url="" group-title="Lebanon",LBC International
+http://watch.teledunet.com:25461/live/tdn/23614613770/10146730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" tvg-country="LB" tvg-url="" group-title="Lebanon",MTV
+http://51.178.43.32:25461/live/tdn/44119572164/10146728.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Nabaa TV
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" tvg-country="LB" tvg-url="" group-title="Lebanon",NBN
+http://play.teledunet.com:25461/live/tdn/32610118556/10006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" tvg-country="LB" tvg-url="" group-title="Lebanon",Nour Al Koddas
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6yxE1jv.jpg" tvg-country="LB" tvg-url="" group-title="Lebanon",Nour Al Shabab
@@ -7619,7 +7635,7 @@ https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" tvg-country="TR" tvg-url="" group-title="Turkey",ETV Manisa
 https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-country="TR" tvg-url="" group-title="Turkey",Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NVdh9jY/fox.jpg" tvg-country="TR" tvg-url="" group-title="Turkey",FOX
@@ -8051,7 +8067,7 @@ http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="yuzhnaya-volna" tvg-name="Южная волна" tvg-language="Ukrainian" tvg-logo="" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Ukraine",Южная волна
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",3eesh Al Aan TV
-http://52.31.121.58/playlist.m3u8
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="" group-title="United Arab Emirates",Abu Dhabi Sports 1
@@ -8152,20 +8168,64 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vqz9oc6.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",Al Magharibia
 https://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
+#EXTINF:-1 tvg-id="bbcalba.uk" tvg-name="UK: BBC ALBA (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/BBC_Alba.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC ALBA (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/828
 #EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK: BBC Four (HD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Four (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/819
+#EXTINF:-1 tvg-id="bbc4.uk" tvg-name="UK: BBC Four (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Four (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/820
 #EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC News
 http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC News (HD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/240px-BBC_News_2019.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC News (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/825
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC News (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/240px-BBC_News_2019.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC News (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/826
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC One (HD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/200px-BBC_One_%282002%29.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC One (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/807
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC One (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/200px-BBC_One_%282002%29.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC One (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/808
+#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="UK: BBC One London (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Bbc_london_logo.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC One London (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/809
+#EXTINF:-1 tvg-id="bbc1northernireland.uk" tvg-name="UK: BBC One Northern Ireland (HD)" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/876930321463246848/fwqwnPG4_400x400.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC One Northern Ireland (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/810
+#EXTINF:-1 tvg-id="bbc1northernireland.uk" tvg-name="UK: BBC One Northern Ireland (SD)" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/876930321463246848/fwqwnPG4_400x400.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC One Northern Ireland (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/811
+#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK: BBC One Scotland (HD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/BBC_Scotland_channel_logo.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC One Scotland (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/812
+#EXTINF:-1 tvg-id="bbc1scotland.uk" tvg-name="UK: BBC One Scotland (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/BBC_Scotland_channel_logo.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC One Scotland (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/813
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK: BBC Parliament (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/200px-BBC_Parliament_Logo.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Parliament (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/827
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Persian
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two England (HD)" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1057914504321908736/06hkWvx__400x400.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Two England (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two England (SD)" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1057914504321908736/06hkWvx__400x400.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Two England (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/815
+#EXTINF:-1 tvg-id="bbc2northernireland.uk" tvg-name="UK: BBC Two Northern Ireland (SD)" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/947597829559799815/3EqyVekp_400x400.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Two Northern Ireland (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/817
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC Two Scotland (SD)" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/378800000731598700/6582a3b0bf4db75f603ad4b052aba91e_400x400.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Two Scotland (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/818
+#EXTINF:-1 tvg-id="bbc2wales.uk" tvg-name="UK: BBC Two Wales (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Two_Wales_logo.svg/320px-BBC_Two_Wales_logo.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC Two Wales (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/816
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cip3E0N.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",British Muslim TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK: CBBC (HD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CBBC.png/240px-CBBC.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",CBBC (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/821
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK: CBBC (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CBBC.png/240px-CBBC.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",CBBC (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/822
 #EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",Cbeebies
 http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBeebies (HD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/320px-CBeebies.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",CBeebies (HD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/823
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBeebies (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/320px-CBeebies.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",CBeebies (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/824
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/q50kqOG.jpg" tvg-country="UK" tvg-url="" group-title="United Kingdom",Cruise 1st TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",Eman Channel
@@ -8200,6 +8260,8 @@ https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
 https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-language="English" tvg-logo="https://i.imgur.com/ULzpPky.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",RT UK
 https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C (SD)" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/200px-S4C_logo_2014.svg.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",S4C (SD)
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KcPEkHh.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",Sangat Television
 https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eUqnYU1.png" tvg-country="UK" tvg-url="" group-title="United Kingdom",Sheffield Live TV
@@ -8234,10 +8296,10 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" tvg-country="US" tvg-url="" group-title="United States",7News Boston (WHDH)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" tvg-country="US" tvg-url="" group-title="United States",ABC 10 Miami FL (WPLG)
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" tvg-country="US" tvg-url="" group-title="United States",ABC 2 Baton Rouge LA (WBRZ-HD)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/raycom/HJ3SAXRMNFAHXOFIRVYCQBIOGM.jpg" tvg-country="US" tvg-url="" group-title="United States",ABC 7 Sarasota FL (WWSB)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="United States",ABC 9 Chattanooga TN (WTVC)
 https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg" tvg-country="US" tvg-url="" group-title="United States",ABC 9 Orlando FL (WFTV-HD)
@@ -8492,8 +8554,6 @@ http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Bj37ZMY.png" tvg-country="US" tvg-url="" group-title="United States",CTN
 https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/WSFL_2017_Logo.png" tvg-country="US" tvg-url="" group-title="United States",CW South Florida
-http://190.80.3.28/CW/CW.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pmcvariety.files.wordpress.com/2019/06/dabl-herologo1-e1560713804358.jpg" tvg-country="US" tvg-url="" group-title="United States",Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="United States",DC Council Channel
@@ -8554,10 +8614,6 @@ https://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
 https://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/WBRC_logo_2015.png/300px-WBRC_logo_2015.png" tvg-country="US" tvg-url="" group-title="United States",FOX 6 Birmingham AL (WBRC)
 https://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/WSVN_7_Miami_logo.png" tvg-country="US" tvg-url="" group-title="United States",FOX 7 (WSVN)
-http://190.80.3.28/FOX/FOX.isml/index.m3u8?the6tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/WSVN_7_Miami_logo.png" tvg-country="US" tvg-url="" group-title="United States",FOX 7 Miami FL (WSVN)
-http://190.80.3.28/FOX/FOX.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://img.new.livestream.com/accounts/000000000000e09d/addf6d2f-26c0-4001-8396-41b8766a8123.jpg" tvg-country="US" tvg-url="" group-title="United States",FOX 8 Cleveland
 https://player-api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/WJW_%28TV%29_logo.png" tvg-country="US" tvg-url="" group-title="United States",FOX 8 Cleveland OH (WJW)
@@ -8786,8 +8842,6 @@ https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="United States",PBC Tapesh TV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EA2rA7R.png" tvg-country="US" tvg-url="" group-title="United States",PBS Miami FL (WPBT-HD)
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UuJQntj.jpg" tvg-country="US" tvg-url="" group-title="United States",Planet Cannabis Entertainment
 https://nimble.dashstreams.net/onestudio/pce/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-country="US" tvg-url="" group-title="United States",Pop
