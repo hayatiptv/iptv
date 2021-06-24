@@ -10,3 +10,5 @@ VLC -WORLDWIDE International 1: https://tinyurl.com/TVCANLI - 2: https://tinyurl
 VLC + Kodi simple iptv International 1: https://tinyurl.com/skaae8k - 2: http://tiny.cc/TVCANLI    -   3: https://bit.ly/2RYdZZm
 
 to any player with support M3U-playlists works best with VLC
+
+Guncel https://bit.ly/2T1BJ28
