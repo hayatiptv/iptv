@@ -1,8 +1,5 @@
-#EXTM3U #ULUSAL, SD, 36502 KANALLAR İÇERİR | WWW.OZBECERIKSIZLER.NET | YILMAZTV#
+#EXTM3U #ULUSAL, SD, 36502 KANALLAR İÇERİR | Limitsizamca.Boards.NET | SiMSEKTV#
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",|----------(ULUSAL HD/SD  Dahili Decorder ayarlayın) KANALLAR----------| WWW.OZBECERIKSIZLER.NET | YILMAZTV
-https://www.yilmaztv.com/yilmaztvspot.mp4?sd
-#EXTINF:-1 tvg-logo="https://www.yilmaztv.com/logo/belgesel.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",BELGESEL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://fidece38941.ozelip.com:2052/kesteltv/kesteltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/atv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",ATV | ULUSAL
