@@ -478,62 +478,59 @@ https://www.youtube.com/watch?v=dEHMR7Qpthw
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/vatan-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Vatan Tv | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=vatan-tv&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=vatan-tv&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-muzik.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",TRT Müzik | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=trt-muzik&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=trt-muzik&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/dream-turk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Dream Türk | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=dream-turk-1&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=dream-turk-1&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/power-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Power Tv | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=power-tv&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=power-tv&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/power-turk-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Power Türk Tv | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=power-turk-tv&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=power-turk-tv&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/number-one-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Number One Tv | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=number-one-tv&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=number-one-tv&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/number-one-turk-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Number One Türk Tv | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=number-one-turk-tv&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=number-one-turk-tv&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/slow-karadeniz-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Tempo TV | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=slow-tempo-tvv&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=slow-tempo-tvv&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/milyon-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Tatlıses TV | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=tatlises-tv&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=tatlises-tv&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/dream-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Yıldız EN TV | Müzik
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=yildiz-en-tv&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=yildiz-en-tv&stream=2&type=m3u8
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-cocuk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",TRT Çocuk | Çocuk
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=trt-cocuk&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=trt-cocuk&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/cartoon-network.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Cartoon Network | Çocuk
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=cartoon-network&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=cartoon-network&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/minika-cocuk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Minika Çocuk | Çocuk
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=minika-cocuk-16&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=minika-cocuk-16&stream=2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/minika-go.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YUKSELTV",Minika Go | Çocuk
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/oz/oz.php?channel=minika-go-9&stream=2&id=&p=&type=m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=minika-go-9&stream=2&type=m3u8
 
-
-#EXTINF:-1 tvg-id="becer" tvg-name="becer" tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="(*HD ULUSAL*) KANALLAR - YUKSELTV",|----------(*HD ULUSAL*) KANALLAR----------| LiMiTSiZAMCA.BOARDS.NET | YUKSELTV (720p)
-https://www.yilmaztv.com/yilmaztvspot.mp4?hd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="(*HD ULUSAL*) KANALLAR - YUKSELTV",TRT HABER
 https://tv-trthaber.live.trt.com.tr/master.m3u8
@@ -2928,216 +2925,216 @@ http://77.247.109.150:8000/a/willene/live/43031.ts?n=1&b=5&vavoo_auth=eyJkYXRhIj
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://45.141.158.11:8000/a/willene/live/51474.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",360 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",360 FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46563
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",360 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",360 HD
 http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/232049
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",360 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",360 HD
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/6554
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",A2 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",A2 FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16453
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",A2 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",A2 FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97595
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",A2 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",A2 HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10124
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",A2 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",A2 HD
 http://new-pro.tv:8080/74919yhat/47818ywtxwr/2182
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",A2 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",A2 HD
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/2182
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",A2 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",A2 HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46532
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",ATV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",ATV FHD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10153
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",ATV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",ATV FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16452
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",ATV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",ATV FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97585
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",ATV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",ATV HD
 http://new-pro.tv:8080/74919yhat/47818ywtxwr/14007
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",ATV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",ATV HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10154
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",ATV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",ATV HD
 http://iptv.csserv.co:8000/live/clientr725/631739/7459.ts
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",ATV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",ATV HD
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/14007
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",ATV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",ATV HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46524
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",ATV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",ATV HD
 http://my-vip24.live:8080/x_walde/zQYx7XwkEz/14188
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",BEYAZ TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",BEYAZ TV FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97592
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",BEYAZ TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",BEYAZ TV FHD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10138
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",BEYAZ TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",BEYAZ TV HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46533
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",BEYAZ TV [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",BEYAZ TV [HD]
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",DMAX FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",DMAX FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46578
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",FOX TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",FOX TV FHD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10156
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",FOX TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",FOX TV FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97589
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",FOX TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",FOX TV HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46528
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",FOX TV HD+
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",FOX TV HD+
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/58635
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL 7 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL 7 FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16449
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL 7 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL 7 FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97593
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL 7 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL 7 HD
 http://iptv.csserv.co:8000/live/clientr725/631739/1641.ts
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL 7 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL 7 HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10141
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL 7 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL 7 HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46534
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL D
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL D
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10129
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL D
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL D
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/10762
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL D FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL D FHD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10147
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL D FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL D FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16448
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL D FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL D FHD
 http://pascaltv.site:8080/F12611/b199b47b/510
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL D FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL D FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97587
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL D HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL D HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10148
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",KANAL D HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",KANAL D HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46527
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",SHOW TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",SHOW TV FHD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10151
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",SHOW TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",SHOW TV FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97586
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",SHOW TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",SHOW TV HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46526
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",SHOW TV [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",SHOW TV [HD]
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",STAR TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",STAR TV FHD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10149
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",STAR TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",STAR TV FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16446
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",STAR TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",STAR TV FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97588
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",STAR TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",STAR TV FHD
 http://iptv.csserv.co:8000/live/clientr725/631739/6516.ts
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",STAR TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",STAR TV HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10150
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",STAR TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",STAR TV HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46525
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TEVE 2 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TEVE 2 FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97594
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TEVE 2 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TEVE 2 HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10143
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TEVE 2 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TEVE 2 HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46535
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TLC HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TLC HD
 http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/324
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TLC HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TLC HD
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/94978
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" group-title="TR GENEL www.ozbeceriksizler.net",TRT 1
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TRT 1
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TRT 1
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/10790
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TRT 1 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TRT 1 FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16445
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TRT 1 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TRT 1 FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97584
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TRT 1 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TRT 1 HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10158
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TRT 1 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TRT 1 HD
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/13067
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TRT 1 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TRT 1 HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46517
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TV8 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TV8 FHD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10145
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TV8 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TV8 FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97590
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TV8 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TV8 FHD
 http://my-vip24.live:8080/x_walde/zQYx7XwkEz/14194
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TV8 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TV8 HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10146
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TV8.5 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TV8.5 FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/97591
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL www.ozbeceriksizler.net",TV8.5 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR GENEL LiMiTSiZAMCA.BOARDS.NET",TV8.5 HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10144
 
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",24 TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",A HABER HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",A HABER HD
 http://iptv.csserv.co:8000/live/clientr725/631739/1952.ts
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",A HABER HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",A HABER HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10140
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",A HABER HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",A HABER HD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16673
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",A HABER HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",A HABER HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46550
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",AKIT TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",AKIT TV HD
 http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",AKIT TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",AKIT TV HD
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",AKIT TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",AKIT TV HD
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/94977
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",ARTI TV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",ARTI TV FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/102759
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",BENGÜTÜRK TV [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",BENGÜTÜRK TV [HD]
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",CNN TURK HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",CNN TURK HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10126
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",CNN TURK HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",CNN TURK HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46553
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",HABER GLOBAL [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",HABER GLOBAL [HD]
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",HABER TURK FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",HABER TURK FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16521
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",HABER TURK FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",HABER TURK FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46549
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",HABER TURK FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",HABER TURK FHD
 http://pascaltv.site:8080/F12611/b199b47b/651
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",HABER TURK HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",HABER TURK HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10127
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",HALK TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",HALK TV HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46558
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",KANAL B
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",KANAL B
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/94944
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",KRT TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",KRT TV HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46562
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",KRT TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",KRT TV HD
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/58527
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TELE 1
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TELE 1
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10134
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TELE 1
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TELE 1
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46556
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TGRT HABER FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TGRT HABER FHD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46564
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TGRT HABER [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TGRT HABER [HD]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TRT HABER FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TRT HABER FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16444
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TRT HABER FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TRT HABER FHD
 http://pascaltv.site:8080/F12611/b199b47b/627
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TRT HABER HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TRT HABER HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10139
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TRT HABER HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TRT HABER HD
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46548
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TV 100 FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TV 100 FHD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10157
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TV 100 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TV 100 HD
 http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/323
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TV 100 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TV 100 HD
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/58525
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TVNET
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TVNET
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10132
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TVNET
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TVNET
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TVNET
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/10771
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",TVNET [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",TVNET [HD]
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",ULKE TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",ULKE TV HD
 http://ultimateiptv.me:8080/Sofiane/Sofiane1234/10122
-#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER www.ozbeceriksizler.net",ULUSAL KANAL
+#EXTINF:0 tvg-country="TR" tvg-logo="https://www.yilmaztv.com/logo/tr.png" group-title="TR HABER LiMiTSiZAMCA.BOARDS.NET",ULUSAL KANAL
 http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/46559
