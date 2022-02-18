@@ -1,7 +1,7 @@
-#EXTM3U #ULUSAL, SD, HOLLAND, ALMAN,  KANALLAR İÇERİR | WWW.YÜKSEL-IPTV.RU | YÜKSEL-IPTV 36502#
+#EXTM3U #ULUSAL, SD, HOLLAND, ALMAN,  KANALLAR İÇERİR | YÜKSEL-IPTV | YÜKSEL-IPTV 36502#
 
 #EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/trt-1.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YÜKSEL-IPTV",|----------(ULUSAL HD/SD  Dahili Decorder ayarlayın) KANALLAR----------| WWW.OZBECERIKSIZLER.NET | YÜKSEL-IPTV
-https://www.yilmaztv.com/beceroz/oz.php?channel=fox-canli-hd&stream=1&type=m3u8
+https://www.yilmaztv.com/beceroz/oz.php?channel=trt1&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/trt-1.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YÜKSEL-IPTV",TRT 1 | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://www.yilmaztv.com/beceroz/oz.php?channel=trt1&stream=1&type=m3u8
