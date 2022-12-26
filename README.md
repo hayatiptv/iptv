@@ -15,6 +15,5 @@ VLC + Kodi simple iptv International
 
 - 1: https://tinyurl.com/4e3ya93p 
 
-- 2: https://bit.ly/2RYdZZm
 
 to any player with support M3U-playlists works best with VLC
