@@ -13,7 +13,7 @@ To open the playlist in VLC player you just need click File - > Open Network... 
 
 VLC + Kodi simple iptv International 
 
-- 1: https://tinyurl.com/skaae8k 
+- 1: https://tinyurl.com/4e3ya93p 
 
 - 2: https://bit.ly/2RYdZZm
 
