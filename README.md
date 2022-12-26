@@ -1,11 +1,9 @@
-# iptv Free Live TV Channels worldwide
-Canli izle live TV Collection of 8000+ publicly available IPTV channels from all over the world
+# Turkey , Germany , Netherland _IPTV
+iPTV live TV ,Her Dilde IPTV Canli TV,Wereldwijd iPTV live TV,Canli canli izle
 
-Collection of 8000+ publicly available IPTV channels from all over the world.
+Collection of 1000+ free IPTV channels from Turkey , Germany ,Netherland .
 
-Usage To watch IPTV you just need to paste this link
-
-VLC -WORLDWIDE International 
+To open the playlist in VLC player you just need click File - > Open Network... and in the window that opens, insert a link to the playlist itself:
 
 - 1: https://tinyurl.com/TVCANLI 
 
