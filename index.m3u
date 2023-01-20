@@ -1,272 +1,140 @@
 #EXTM3U #ULUSAL, SD, VAVOO Turkey, VAVOO Germany, HOLLAND, MOBESE, ALMAN,  KANALLAR İÇERİR | TV | YILDIRIMTV #
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv8.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Tv8  | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv8-canli-izle&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-7.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal 7 | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal-7-canli-hd&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/atv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",ATV | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=atv-canli-kesintisiz&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TRT 1 | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=trt-1-canli&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-d.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal D | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal-d-canli&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/star-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Star Tv | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=star-tv-canli-mobil&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/show-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Show Tv | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=show-tv-canli-hd&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/beyaz-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Beyaz Tv | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=beyaz-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/flash-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Flash Tv | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=flash-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/teve2.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Teve2 | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=teve2-canli&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv8-int.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Tv8 İnt | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv8-int-canli&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/a2-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",A2 Tv | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=a2-tv-canli&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/euro-star.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Euro Star | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=euro-star&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/euro-d.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Euro D | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=euro-d&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/atv-avrupa.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",ATV Avrupa | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=atv-avrupa-12&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/d-max.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",D Max | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=d-max&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tlc-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TLC Tv | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=hd-tlc-tv-canli&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/cem-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Cem Tv | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=cem-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tgrt-eu.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TGRT EU | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tgrt-eu&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/show-turk.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Show Türk | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=show-turk-izle-5&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/trt-kurdi.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TRT Kürdi | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=trt-kurdi&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-b.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal B | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal-b&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/trt-turk.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TRT Türk | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=trt-turk&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ucankus-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Uçankuş Tv | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ucankus-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/show-max.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Show Max | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=show-max-izle-5&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tvem.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TvEM | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tvem&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tvo.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TVO | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tvo-izle&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-7-avrupa.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal 7 Avrupa | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal-7-avrupa&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/yol-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Yol Tv | ULUSAL
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=yol-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-avrupa.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",KANAL AVRUPA HD| ULUSAL
-http://51.15.2.151/hls/kanalavrupa.m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal5.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",KANAL 5 | HABER
-http://cdn-kanal5.yayin.com.tr/kanal5/kanal5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/trt-haber.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TRT Haber | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=trt-haber&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ntv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",NTV | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ntv-canli-kesintisiz-izle&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/halk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Halk Tv | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=halk-tv-izle-turkiye&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/a-haber.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",A Haber | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=a-haber-izle-13&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/haberturk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Habertürk Tv | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=haberturk-canli-hd&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/cnn-turk.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",CNN Türk | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=cnn-turk-canli&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/haber-global.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Haber Global | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=haber-global&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tele1.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Tele1 | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tele1-canli&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-24.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal 24 | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal24&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tgrt-haber.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TGRT Haber | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tgrt-haber&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv100.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TV100 | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv100&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ulusal-kanal.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Ulusal Kanal | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ulusal-kanal&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/bloomberg-ht.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Bloomberg HT | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=bloomberg-ht-canli-hd-izle&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ekoturk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",EkoTürk Tv | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ekoturk-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/krt-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",KRT Tv | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=krt-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tbmm-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TBMM Tv | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tbmm-tv-canli&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv-360.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Tv 360 | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv-360&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/benguturk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Bengütürk Tv | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=benguturk-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ibb-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",İbb Tv | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ibb-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ulke-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Ülke Tv | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ulke-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/a-para.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",A Para | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=a-para-izle&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tvnet.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TVNET | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tvnet&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/akit-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Akit Tv | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=akit-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/a-news.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",A News | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=a-news&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/bbn-turk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",BBN Türk TV | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=bbn-turk-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/turkhaber-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TürkHaber TV | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=turkhaber-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv-5.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TV 5 | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv-5&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/uzay-haber.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Uzay Haber | HABER
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=uzay-haber&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/meltem-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Meltem Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=meltem-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/semerkand-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Semerkand Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=semerkand-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/dost-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Dost Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=dost-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/diyanet-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Diyanet Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=diyanet-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/medine-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Medine Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=medine-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/hilal-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Hilal Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=hilal-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/lalegul-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Lalegül TV | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=lalegul-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/mesaj-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Mesaj Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=mesaj-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/gonca-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Gonca Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=gonca-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/fm-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",FM Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=fm-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/on4-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",On4 Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=on4-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/yasin-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Yasin Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=yasin-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/berat-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Berat TV | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=berat-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-12.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal 12 | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal-12&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kudus-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kudüs TV | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kudus-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/rehber-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Rehber TV  | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=rehber-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/vav-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Vav TV | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=vav-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/yesilyol-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Yeşilyol Tv | DİNİ
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=yesilyol-tv&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv8.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Tv8  | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv8-canli-izle&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-7.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal 7 | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal-7-canli-hd&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/atv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",ATV | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=atv-canli-kesintisiz&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TRT 1 | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=trt-1-canli&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-d.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal D | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal-d-canli&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/star-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Star Tv | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=star-tv-canli-mobil&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/show-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Show Tv | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=show-tv-canli-hd&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/beyaz-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Beyaz Tv | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=beyaz-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/flash-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Flash Tv | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=flash-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/teve2.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Teve2 | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=teve2-canli&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv8-int.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Tv8 İnt | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv8-int-canli&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/a2-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",A2 Tv | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=a2-tv-canli&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/euro-star.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Euro Star | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=euro-star&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/euro-d.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Euro D | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=euro-d&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/atv-avrupa.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",ATV Avrupa | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=atv-avrupa-12&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/d-max.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",D Max | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=d-max&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tlc-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TLC Tv | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=hd-tlc-tv-canli&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/cem-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Cem Tv | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=cem-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tgrt-eu.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TGRT EU | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tgrt-eu&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/show-turk.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Show Türk | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=show-turk-izle-5&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/trt-kurdi.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TRT Kürdi | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=trt-kurdi&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-b.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal B | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal-b&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/trt-turk.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TRT Türk | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=trt-turk&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ucankus-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Uçankuş Tv | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ucankus-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/show-max.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Show Max | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=show-max-izle-5&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tvem.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TvEM | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tvem&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tvo.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TVO | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tvo-izle&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-7-avrupa.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal 7 Avrupa | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal-7-avrupa&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/yol-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Yol Tv | ULUSAL yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=yol-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/trt-haber.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TRT Haber | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=trt-haber&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ntv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",NTV | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ntv-canli-kesintisiz-izle&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/halk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Halk Tv | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=halk-tv-izle-turkiye&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/a-haber.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",A Haber | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=a-haber-izle-13&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/haberturk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Habertürk Tv | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=haberturk-canli-hd&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/cnn-turk.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",CNN Türk | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=cnn-turk-canli&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/haber-global.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Haber Global | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=haber-global&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tele1.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Tele1 | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tele1-canli&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/kanal-24.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Kanal 24 | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=kanal24&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tgrt-haber.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TGRT Haber | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tgrt-haber&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv100.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TV100 | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv100&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ulusal-kanal.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Ulusal Kanal | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ulusal-kanal&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/bloomberg-ht.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Bloomberg HT | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=bloomberg-ht-canli-hd-izle&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ekoturk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",EkoTürk Tv | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ekoturk-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/krt-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",KRT Tv | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=krt-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tbmm-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TBMM Tv | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tbmm-tv-canli&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv-360.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Tv 360 | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv-360&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/benguturk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Bengütürk Tv | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=benguturk-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ibb-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",İbb Tv | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ibb-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/ulke-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Ülke Tv | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=ulke-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/a-para.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",A Para | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=a-para-izle&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tvnet.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TVNET | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tvnet&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/akit-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Akit Tv | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=akit-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/a-news.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",A News | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=a-news&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/bbn-turk-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",BBN Türk TV | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=bbn-turk-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/turkhaber-tv.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TürkHaber TV | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=turkhaber-tv&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/tv-5.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",TV 5 | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=tv-5&stream=2&type=m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo/uzay-haber.jpg" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | TV",Uzay Haber | HABER yedek
-https://m.yilmaztv.eu/__1/becerozx/direk.php?channel=uzay-haber&stream=2&type=m3u8
+#EXTINF:-1,24 HD
+http://185.234.217.19:8038/play/a02o
+#EXTINF:-1,360 HD
+http://185.234.217.19:8038/play/a02p
+#EXTINF:-1,AKSU TV
+http://185.234.217.19:8038/play/a021
+#EXTINF:-1,BBC EARTH
+http://185.234.217.19:8038/play/a01q
+#EXTINF:-1,BLOOMBERGHT HD
+http://185.234.217.19:8038/play/a018
+#EXTINF:-1,BRTV B KRDNIZ
+http://185.234.217.19:8038/play/a027
+#EXTINF:-1,Bir Tv
+http://185.234.217.19:8038/play/a02i
+#EXTINF:-1,CARTOON NETWORK
+http://185.234.217.19:8038/play/a00z
+#EXTINF:-1,CIFTCI TV
+http://185.234.217.19:8038/play/a023
+#EXTINF:-1,CNN INTERNATIONAL
+http://185.234.217.19:8038/play/a01o
+#EXTINF:-1,CNN TÜRK HD
+http://185.234.217.19:8038/play/a01b
+#EXTINF:-1,DA VINCI
+http://185.234.217.19:8038/play/a010
+#EXTINF:-1,DIYAR TV
+http://185.234.217.19:8038/play/a02k
+#EXTINF:-1,DOCUBOX
+http://185.234.217.19:8038/play/a012
+#EXTINF:-1,DREAM TÜRK
+http://185.234.217.19:8038/play/a01d
+#EXTINF:-1,ER TV
+http://185.234.217.19:8038/play/a024
+#EXTINF:-1,ES TV
+http://185.234.217.19:8038/play/a022
+#EXTINF:-1,EUROSPORT 1
+http://185.234.217.19:8038/play/a01k
+#EXTINF:-1,EUROSPORT 2
+http://185.234.217.19:8038/play/a01l
+#EXTINF:-1,EYmen
+http://185.234.217.19:8038/play/a01i
+#EXTINF:-1,FAST & FUN
+http://185.234.217.19:8038/play/a011
+#EXTINF:-1,FIGHTBOX
+http://185.234.217.19:8038/play/a013
+#EXTINF:-1,FOX TV HD
+http://185.234.217.19:8038/play/a02r
+#EXTINF:-1,HABERTURK HD
+http://185.234.217.19:8038/play/a017
+#EXTINF:-1,INSIGHT TV
+http://185.234.217.19:8038/play/a01s
+#EXTINF:-1,INTER AZ
+http://185.234.217.19:8038/play/a020
+#EXTINF:-1,KANAL 15
+http://185.234.217.19:8038/play/a02e
+#EXTINF:-1,KANAL 23
+http://185.234.217.19:8038/play/a02d
+#EXTINF:-1,KANAL 26
+http://185.234.217.19:8038/play/a01z
+#EXTINF:-1,KANAL 3
+http://185.234.217.19:8038/play/a02n
+#EXTINF:-1,KANAL 58
+http://185.234.217.19:8038/play/a02m
+#EXTINF:-1,KANAL 68
+http://185.234.217.19:8038/play/a028
+#EXTINF:-1,KANAL 7 HD
+http://185.234.217.19:8038/play/a014
+#EXTINF:-1,KANAL D
+http://185.234.217.19:8038/play/a00w
+#EXTINF:-1,KANAL D HD
+http://185.234.217.19:8038/play/a01a
+#EXTINF:-1,KANAL FIRAT
+http://185.234.217.19:8038/play/a026
+#EXTINF:-1,KANAL V
+http://185.234.217.19:8038/play/a01u
+#EXTINF:-1,KENT TURK
+http://185.234.217.19:8038/play/a01y
+#EXTINF:-1,LOVE NATURE
+http://185.234.217.19:8038/play/a01p
+#EXTINF:-1,LİDER HABER HD
+http://185.234.217.19:8038/play/a01e
+#EXTINF:-1,MALATYA VUSLAT TV
+http://185.234.217.19:8038/play/a02h
+#EXTINF:-1,MAVI KARADENIZ
+http://185.234.217.19:8038/play/a02a
+#EXTINF:-1,MERCAN TV
+http://185.234.217.19:8038/play/a025
+#EXTINF:-1,NBA TV
+http://185.234.217.19:8038/play/a01m
+#EXTINF:-1,NHK WORLD-JPN
+http://185.234.217.19:8038/play/a00y
+#EXTINF:-1,POWER HD
+http://185.234.217.19:8038/play/a01v
+#EXTINF:-1,SAT7TURK
+http://185.234.217.19:8038/play/a02g
+#EXTINF:-1,SHOW HD
+http://185.234.217.19:8038/play/a016
+#EXTINF:-1,SHOW MAX HD
+http://185.234.217.19:8038/play/a019
+#EXTINF:-1,SPORSMART 2
+http://185.234.217.19:8038/play/a01r
+#EXTINF:-1,SUN RTV
+http://185.234.217.19:8038/play/a01t
+#EXTINF:-1,T.A.Y TV
+http://185.234.217.19:8038/play/a01f
+#EXTINF:-1,TATLISES TV
+http://185.234.217.19:8038/play/a01w
+#EXTINF:-1,TEMPO TV
+http://185.234.217.19:8038/play/a02b
+#EXTINF:-1,TEVE2 HD
+http://185.234.217.19:8038/play/a01c
+#EXTINF:-1,TON TV
+http://185.234.217.19:8038/play/a02f
+#EXTINF:-1,TR35
+http://185.234.217.19:8038/play/a01g
+#EXTINF:-1,TV 4 HD
+http://185.234.217.19:8038/play/a02q
+#EXTINF:-1,TV 41
+http://185.234.217.19:8038/play/a029
+#EXTINF:-1,TV A
+http://185.234.217.19:8038/play/a02l
+#EXTINF:-1,Tivi6
+http://185.234.217.19:8038/play/a01x
+#EXTINF:-1,ULKE TV HD
+http://185.234.217.19:8038/play/a015
+#EXTINF:-1,VIZYON 58
+http://185.234.217.19:8038/play/a02c
+#EXTINF:-1,WORLD TURK
+http://185.234.217.19:8038/play/a02j
+#EXTINF:-1,YENİ KOCAELİ TV
+http://185.234.217.19:8038/play/a01h
+#EXTINF:-1,YILDIZ EN
+http://185.234.217.19:8038/play/a02s
+#EXTINF:-1,ÇOCUKSMART
+http://185.234.217.19:8038/play/a01n
+#EXTINF:-1,İKRA
+http://185.234.217.19:8038/play/a00x
 
 #EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ ULUSAL HEVC █ ▆ ▅ ▃" tvg-logo="https://i.imgur.com/PNHSYju.png" group-title="TR ➾ HEVC",▃ ▅ ▆ █ ULUSAL HEVC █ ▆ ▅ ▃
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/99808
