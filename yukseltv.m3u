@@ -1,9 +1,9 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 13:40 20.01.2023 | YUKSELTV#
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63bc976ccc960656def70edc42a71d6a.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Ulusal | YILMAZTV",TRT 1
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 12:00 21.01.2023 | YUKSELTV#
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63bc976ccc960656def70edc42a71d6a.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Ulusal | YUKSELTV",TRT 1
 http://www.kuchini.site:8080/ea615d19/wkT37Y3t4S63Fvcn/507
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2c4d5cbcad5ceb1e4427ef3c6faea6f8.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Ulusal | YILMAZTV",SHOW TV
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2c4d5cbcad5ceb1e4427ef3c6faea6f8.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Ulusal | YUKSELTV",SHOW TV
 http://www.kuchini.site:8080/ea615d19/wkT37Y3t4S63Fvcn/516
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1855a28f3b5ae332650665dfc364236b.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Ulusal | YILMAZTV",360
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1855a28f3b5ae332650665dfc364236b.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Ulusal | YUKSELTV",360
 http://www.kuchini.site:8080/ea615d19/wkT37Y3t4S63Fvcn/615
 #EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e9ce6186c612d640a4e75ed305ff3ca8.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Ulusal | YUKSELTV",A2
 http://www.kuchini.site:8080/ea615d19/wkT37Y3t4S63Fvcn/523
@@ -81,8 +81,6 @@ http://www.kuchini.site:8080/ea615d19/wkT37Y3t4S63Fvcn/281360
 http://www.kuchini.site:8080/ea615d19/wkT37Y3t4S63Fvcn/636
 #EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A Haber" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/218c8e8b89865abbd3918efd02d16bf2.jpg" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Haber | YUKSELTV",A Haber
 http://www.kuchini.site:8080/ea615d19/wkT37Y3t4S63Fvcn/666
-#EXTINF:-1 tvg-id="moviesmartplatin.tr" tvg-name="TR: TV 100" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a6411c37a308cdbfa839a8d8399c56ec.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Haber | YUKSELTV"",TV 100
-http://www.kuchini.site:8080/ea615d19/wkT37Y3t4S63Fvcn/1776
 #EXTINF:-1 tvg-id="" tvg-name="TR: A News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/8ea0573983ff465fd158273ced601374.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Haber | YUKSELTV",A News
 http://www.kuchini.site:8080/ea615d19/wkT37Y3t4S63Fvcn/284578
 #EXTINF:-1 tvg-id="" tvg-name="TR: Akit TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/122361a786e1c9f164e307eb19aac89e.png" tvg-id2="MzY1MDI=" group-title="Turkey ➾ Haber | YUKSELTV",Akit TV
