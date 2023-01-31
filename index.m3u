@@ -10357,198 +10357,173 @@ http://89.36.94.102:8008/a/willene/live/1002668694.ts?n=1&b=5&vavoo_auth=eyJkYXR
 #EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF RAW (1)" group-title="Germany" tvg-logo="https://vjackson.info/live2/logo/3040008013.png",ZDF RAW (1)
 http://185.53.88.85:8008/a/willene/live/3040008013.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6|User-Agent=VAVOO/2.61
 
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",EDE TV
-http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",EDE TV
-https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.nl.png" group-title="HOLLAND SPOR TV",EUROSPORT 1
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71185
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport2.nl.png" group-title="HOLLAND SPOR TV",EUROSPORT 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71186
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/mv2g6ZM.png" group-title="HOLLAND TV",Ede TV
-http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",FILM 1 PREMIERE
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIaoIoP3OakXlyiRp2LVoWw/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",FILM 1 SUNDANCE
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM6bYqpIf-fiGsOlPrr_A6A/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",FILM DRAMA
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFknKa5DjgBb0Hl9XpggPXg/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",FILM FAMILY
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCMTcaZZZ1Htj88q8pUewGI/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Film1Action.nl.png" group-title="HOLLAND TV",FILM1 Action
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71198
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Film1Drama.nl.png" group-title="HOLLAND TV",FILM1 Drama HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71201
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFwfDA8mG-j_5D0fFreI79Q/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports1.nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 1 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71215
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 2
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBPs4ao6uxmTHJLUCZAarhU/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports2.nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71218
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 3
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMb9SW5iaZfFFg9gZsQ3r2w/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports3.nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71221
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 4
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGaInzgzxdfqKtZ7mHDW8tU/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports4.nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71224
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 5
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMkdFqWKvchcp_2ZENl_gss/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND SPOR TV",FOX SPORTS 6
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFxrrAAyHsNl32LQDcmHrD8/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Film1Action.nl.png" group-title="HOLLAND TV",Film Action HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71191
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Film1Drama.nl.png" group-title="HOLLAND TV",Film Drama HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71192
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",Lansingerland TV (1080p)
-https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",Love Nature 4K
-http://red.ipfox.org:8080/osama2022/osama2023/49115
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",Love Nature HD
-http://red.ipfox.org:8080/osama2022/osama2023/49114
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",MTV
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDAQKE6F-NUnTICemop4uj0/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/MTVMusic24.nl.png" group-title="HOLLAND TV",MTV 24 Music HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71259
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",MTV 80s
-http://red.ipfox.org:8080/osama2022/osama2023/49091
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",MTV 90s
-http://red.ipfox.org:8080/osama2022/osama2023/49092
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/MTV.nl.png" group-title="HOLLAND TV",MTV HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71261
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",MTV HD
-http://red.ipfox.org:8080/osama2022/osama2023/49140
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",MTV Hits
-http://red.ipfox.org:8080/osama2022/osama2023/49093
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",MTV Live HD
-http://red.ipfox.org:8080/osama2022/osama2023/49090
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/MTVMusic24.nl.png" group-title="HOLLAND TV",MTV Music
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71264
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",Mediaset Italia
-http://red.ipfox.org:8080/osama2022/osama2023/49054
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/hG2k4QL.png" group-title="HOLLAND TV",Meer TV
-https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",Mezzo
-http://red.ipfox.org:8080/osama2022/osama2023/49081
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",MyZen HD
-http://red.ipfox.org:8080/osama2022/osama2023/49121
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",NAT GEO WILD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL6E9x0FIwg7g0QoFxr58as/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",NDR
-http://red.ipfox.org:8080/osama2022/osama2023/49050
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",NET 5 1080P
-http://red.ipfox.org:8080/osama2022/osama2023/49161
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",NET 5 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49160
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Net5.nl.png" group-title="HOLLAND TV",NET 5 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71269
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",NH TV 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49070
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/cNgwmz3.jpg" group-title="HOLLAND TV",NL | Tommy Teleshopping,Tommy Teleshopping
-http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",NPO 1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFKcpUwd_aUE2eh8egQF4Z4/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",NPO 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/npo.1.nl.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",NPO 1 1080P
-http://red.ipfox.org:8080/osama2022/osama2023/49177
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://mobile-storytelling.com/wp-content/uploads/2019/02/Omroep_Brabant_Logo-768x218.png" group-title="HOLLAND TV",OMROEP Brabant
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/74332
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://www.emmeloord.info/wp-content/uploads/algemeen/omroep-flevoland.png" group-title="HOLLAND TV",OMROEP Flevoland TV
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71292
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",OMROEP ZEELAND
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDF-XniehItDWVYr_XqBW6g/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Omrop.nl.png" group-title="HOLLAND TV",OMROEP ZEELAND
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71301
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",ONS
-http://red.ipfox.org:8080/osama2022/osama2023/49078
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",ONS
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ons.nl.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",OUTTV HD
-http://red.ipfox.org:8080/osama2022/osama2023/49123
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="HOLLAND TV",Omroep Brabant
-https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",Omroep Brabant 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49066
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="HOLLAND TV",Omroep Brabant Radio
-https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/mv2g6ZM.png" group-title="HOLLAND TV",Omroep Ede
-https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/mv2g6ZM.png" group-title="HOLLAND TV",Omroep Ede
-https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/b6eHPxa.jpg" group-title="HOLLAND TV",Omroep Flevoland
-https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",Omroep Flevoland 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49071
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="HOLLAND TV",Omroep Tilburg
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/rhazkU7.png" group-title="HOLLAND TV",Omroep Tilburg
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="HOLLAND TV",Omroep Zeeland
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",Omroep Zeeland 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49067
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",Omrop Fryslân
-http://red.ipfox.org:8080/osama2022/osama2023/49077
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://www.juliette-events.nl/wp-content/uploads/2014/09/Logo-OPEN-Rotterdam-november-20131.png" group-title="HOLLAND TV",Open Rotterdam
-http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/vryzDJk.jpg" group-title="HOLLAND TV",RTV Dordrecht
-https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/vryzDJk.jpg" group-title="HOLLAND TV",RTV Dordrecht
-https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/vryzDJk.jpg" group-title="HOLLAND TV",RTV Dordrecht
-http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/5m3d7cP.jpg" group-title="HOLLAND TV",RTV Maastricht
-http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",RTV Noord
-https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="HOLLAND TV",RTV Noord Extra
-https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/5cVkPR3.png" group-title="HOLLAND TV",RTV Utrecht
-https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",RTV Utrecht 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49079
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",RTV-7
-http://red.ipfox.org:8080/osama2022/osama2023/49138
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/TVNoord.nl.png" group-title="HOLLAND TV",RTVNoord
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71319
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/PIUI2zZ.png" group-title="HOLLAND TV",Regio TV Nieuws
-https://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/PIUI2zZ.png" group-title="HOLLAND TV",Regio TV Nieuws
-http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/PIUI2zZ.png" group-title="HOLLAND TV",Regio TV Nieuws
-http://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV Drenthe 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49074
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV GELDERLAND
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL0E5VTx6EOGx8SipCakYPk/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV Gelderland 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49072
-#EXTINF:-1 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/TVGelderland.nl.png" group-title="HOLLAND TV",TV Gelderland HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71360
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV Noord 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49075
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV ORANJE
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF7BW7RtueEoG6dJpTyxMOI/ts
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV Oost 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49073
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV Oranje
-http://red.ipfox.org:8080/osama2022/osama2023/49083
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV Rijnmond 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49068
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/bpqkkX7.jpg" group-title="HOLLAND TV",TV Valkenburg
-https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://i.imgur.com/bpqkkX7.jpg" group-title="HOLLAND TV",TV Valkenburg
-http://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV West 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49069
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV5 Monde
-http://red.ipfox.org:8080/osama2022/osama2023/49048
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TV538 720P
-http://red.ipfox.org:8080/osama2022/osama2023/49094
-#EXTINF:-1 tvg-country="NL" tvg-logo="https://m.yilmaztv.cc/logo/nl.png" group-title="HOLLAND TV",TVE
-http://red.ipfox.org:8080/osama2022/osama2023/49046
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NPO 1 LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2110
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NPO 2 LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2112
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NPO 3 LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2114
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTL 4 LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2116
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTL 5 LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2118
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",SBS 6 LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2120
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTL 7 LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2122
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTL 8 LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2124
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",VERONICA /DISNEY XD LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2136
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",SBS 9 LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2132
+#EXTINF:-1,NET 5 LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2138
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",FOX LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2134
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTL Z LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2130
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TLC LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2144
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTL CRIME LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2126
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTL LOUNGE LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2128
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",BBC ONE LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/154223
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",BBC TWO LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2150
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",BBC FIRST LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2148
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",BBC ENTERTAINMENT LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/77925
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TV5 MONDE LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/133765
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",E! ENTERTAINMENT LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2154
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",FILM 1 PREMIERE LBR  
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2156
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",FILM 1 FAMILY LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2160
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",FILM 1 DRAMA LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2162
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",FILM 1 ACTION LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/133487
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",FILMBOX NL LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/122156
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",DISCOVERY LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2164
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",DISCOVERY SCIENCE LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2166
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",DISCOVERY ID LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2172
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",CRIME & INVESTIGATION LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/125923
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NATIONAL GEOGRAPHIC LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2174
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NATIONAL GEO WILD LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2176
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",LOVE NATURE LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2178
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",ANIMAL PLANET LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2180
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",PARAMOUNT NETWORK LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2184
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",HISTORY LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2186
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",24 KITCHEN LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/154221
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",HORSE & COUNTRY LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2188
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",DISNEY CHANNEL LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2192
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",COMEDY CENTRAL LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2196
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",COMEDY CENTRAL EXTRA LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2198
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",BOOMERANG LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2200
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",CARTOON NETWORK LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2202
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",BABY TV LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2204
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NICK JUNIOR LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2206
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NICK MUSIC LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2208
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NICK TOONS LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2210
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NICKELODEON LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2212
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTL TELEKIDS LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2214
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",PEBBLE TV LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2216
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",ONS LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2218
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NPO 1 EXTRA LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2220
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NPO 2 EXTRA LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2222
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NPO POLITIEK / NPO NIEUWS LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2224
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",SHORTS TV LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2230
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",OUT TV LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2232
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TV GELDERLAND LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2238
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TV NOORD LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2240
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TV OOST LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2242
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTV DRENTHE LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2244
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",L1MBURG LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2248
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",OMROEP BRABANT TELEVISIE LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2252
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",OMROEP FRIESLAND LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/33332
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",XITE LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2256
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",DANCE TELEVISION LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/73949
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TV ORANJE LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2258
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TV 538 LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2260
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",192 TV LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2264
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",MTV LBR 
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2266
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",100% NL LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2272
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",MEZZO LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2274
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",MTV 90s LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2276
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",MTV 80s LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2280
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",STINGRAY CLASSICA TV LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/89934
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",DUCK TV LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/92291
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TRAVEL XP NL LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/92292
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",AUTOMOTORSPORT LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/114567
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",AT5 (Amsterdam) LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/135471
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TV WEST LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/154087
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NH NIEUWS LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/154088
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",TV RIJNMOND LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/154089
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",OMROEP ZEELAND LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/154287
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",OMROEP FLEVOLAND LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/170547
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",RTV UTRECHT LBR
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/170548
