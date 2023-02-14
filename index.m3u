@@ -1,271 +1,273 @@
 #EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 12:31 24.01.2023 | YUKSELTV#
-#EXTINF:-1,TR | MOVIESMART Turk HD
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █TUR KTV L █ ▆ ▅ ▃" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/flags/256.png" group-title="TR ➾ TURK TV",▃ ▅ ▆ █ TURK TV █ ▆ ▅ ▃
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47372
-#EXTINF:-1,TR | MOVIESMART Platin HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MOVIESMART Turk HD
+http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47372
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MOVIESMART Platin HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47369
-#EXTINF:-1,TR | TRT 1 HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT 1 HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47375
-#EXTINF:-1,TR | ATV HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ATV HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47377
-#EXTINF:-1,TR | SHOW TV HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SHOW TV HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47379
-#EXTINF:-1,TR | SHOWMAX
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SHOWMAX
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47380
-#EXTINF:-1,TR | STAR TV HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TAR TV HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47381
-#EXTINF:-1,TR | KANAL 7
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KANAL 7
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47385
-#EXTINF:-1,TR | Minika Go HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Minika Go HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47386
-#EXTINF:-1,TR | A HABER HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",A HABER HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47392
-#EXTINF:-1,TR | DMAX HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",DMAX HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47394
-#EXTINF:-1,TR | ULKE TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ULKE TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47395
-#EXTINF:-1,TR | TRT BELGESEL HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT BELGESEL HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47397
-#EXTINF:-1,TR | NTV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",NTV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47405
-#EXTINF:-1,TR | NATIONAL GEO WILD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",NATIONAL GEO WILD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47406
-#EXTINF:-1,TR | MINIKA COCUK
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MINIKA COCUK
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47410
-#EXTINF:-1,TR | DREAMTURK
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",DREAMTURK
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47413
-#EXTINF:-1,TR | Disney Junior
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Disney Junior
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47415
-#EXTINF:-1,TR | CNN
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",CNN
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47416
-#EXTINF:-1,TR | BEYAZ TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",BEYAZ TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47417
-#EXTINF:-1,TR | ANIMAL PLANET HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ANIMAL PLANET HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47418
-#EXTINF:-1,TR | Discovery ID HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Discovery ID HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47425
-#EXTINF:-1,TR | FB TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV", FB TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47429
-#EXTINF:-1,TR | GS TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",GS TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47430
-#EXTINF:-1,TR | Halk TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Halk TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47432
-#EXTINF:-1,TR | TLC HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TLC HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47436
-#EXTINF:-1,TR | TV 8.5
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TV 8.5
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47437
-#EXTINF:-1,TR | Nickelodeon HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Nickelodeon HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47441
-#EXTINF:-1,TR | Haber Turk
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Haber Turk
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47442
-#EXTINF:-1,TR | Bengu Turk
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Bengu Turk
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47445
-#EXTINF:-1,TR | KRAL TV 
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KRAL TV 
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47452
-#EXTINF:-1,TR | NR1 HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",NR1 HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47454
-#EXTINF:-1,TR | TGRT HABER
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TGRT HABER
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47467
-#EXTINF:-1,TR | TRT 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47468
-#EXTINF:-1,TR | TVNET HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TVNET HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47473
-#EXTINF:-1,TR | YABAN TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",YABAN TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47475
-#EXTINF:-1,TR | Disney Channel HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Disney Channel HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47477
-#EXTINF:-1,TR | Baby TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Baby TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47481
-#EXTINF:-1,TR | BOOMERANG
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",BOOMERANG
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47482
-#EXTINF:-1,TR | Cartoon Network HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Cartoon Network HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47483
-#EXTINF:-1,TR | Nick JR
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Nick JR
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47487
-#EXTINF:-1,TR | LALEGUL TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",LALEGUL TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47489
-#EXTINF:-1,TR | SEMERKAND HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SEMERKAND HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47490
-#EXTINF:-1,TR | KRT HD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KRT HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47491
-#EXTINF:-1,TR | TRT 1
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT 1
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97450
-#EXTINF:-1,TR | ATV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ATV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97451
-#EXTINF:-1,TR | KANAL D
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KANAL D
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97452
-#EXTINF:-1,TR | SHOW TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SHOW TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97453
-#EXTINF:-1,TR | STAR TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",STAR TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97454
-#EXTINF:-1,TR | FOX TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",FOX TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97455
-#EXTINF:-1,TR | TEVE 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TEVE 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97457
-#EXTINF:-1,TR | KANAL 7
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KANAL 7
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97459
-#EXTINF:-1,TR | A2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",A2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97460
-#EXTINF:-1,TR | SHOW TURK
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SHOW TURK
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97461
-#EXTINF:-1,TR | KANAL D EURO
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KANAL D EURO
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97462
-#EXTINF:-1,TR | STAR TV EURO
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",STAR TV EURO
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97463
-#EXTINF:-1,TR | KANAL 7 EURO
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KANAL 7 EURO
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97464
-#EXTINF:-1,TR | TV 8 INT
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TV 8 INT
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97465
-#EXTINF:-1,TR | KANAL 360
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",KANAL 360
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97467
-#EXTINF:-1,TR | TRT 3
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT 3
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97468
-#EXTINF:-1,TR | TRT WORLD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT WORLD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97469
-#EXTINF:-1,TR | TRT 4K
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT 4K
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97470
-#EXTINF:-1,TR | DA VINCI KIDS
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",DA VINCI KIDS
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97475
-#EXTINF:-1,TR | TRT COCUK
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT COCUK
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97476
-#EXTINF:-1,TR | DISNEY XD
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",DISNEY XD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97477
-#EXTINF:-1,TR | MINIKA GO
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MINIKA GO
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97478
-#EXTINF:-1,TR | SMART COCUK
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SMART COCUK
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97479
-#EXTINF:-1,TR | BABY FIRST
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",BABY FIRST
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97480
-#EXTINF:-1,TR | CBEEBiES
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",CBEEBiES
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97481
-#EXTINF:-1,TR | NILOYA 90TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",NILOYA 90TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97482
-#EXTINF:-1,TR | PEPEE 90TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",PEPEE 90TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97483
-#EXTINF:-1,TR | TOM ve JERRY
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TOM ve JERRY
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97486
-#EXTINF:-1,TR | TRT HABER
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT HABER
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97487
-#EXTINF:-1,TR | TV 100
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TV 100
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97488
-#EXTINF:-1,TR | HABER GLOBAL
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",HABER GLOBAL
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97489
-#EXTINF:-1,TR | A HABER
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",A HABER
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97490
-#EXTINF:-1,TR | ULKE TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ULKE TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97492
-#EXTINF:-1,TR | A PARA
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",A PARA
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97493
-#EXTINF:-1,TR | AKiT TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",AKiT TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97494
-#EXTINF:-1,TR | TURK HABER
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TURK HABER
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97496
-#EXTINF:-1,TR | BUSINESS CHANNEL TÜRK
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",BUSINESS CHANNEL TÜRK
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97498
-#EXTINF:-1,TR | FX
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",FX
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97663
-#EXTINF:-1,TR | FOX CRIME
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",FOX CRIME
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97665
-#EXTINF:-1,TR | beIN MOVIES ACTION
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES ACTION
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97669
-#EXTINF:-1,TR | beIN MOVIES ACTION 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES ACTION 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97670
-#EXTINF:-1,TR | beIN MOVIES PREMIERE
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES PREMIERE
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97671
-#EXTINF:-1,TR | beIN MOVIES PREMIERE 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES PREMIERE 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97672
-#EXTINF:-1,TR | beIN MOVIES FAMILY
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES FAMILY
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97673
-#EXTINF:-1,TR | beIN MOVIES STARS
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES STARS
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97674
-#EXTINF:-1,TR | beIN MOVIES TURK
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN MOVIES TURK
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97675
-#EXTINF:-1,TR | beIN SERIES SCFI
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN SERIES SCFI
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97677
-#EXTINF:-1,TR | beIN SERIES COMEDY
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",beIN SERIES COMEDY
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97679
-#EXTINF:-1,TR | MSMART TURK
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MSMART TURK
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97684
-#EXTINF:-1,TR | MSMART CLASSIC
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MSMART CLASSIC
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97686
-#EXTINF:-1,TR | MSMART FESTIVAL
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MSMART FESTIVAL
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97688
-#EXTINF:-1,TR | DIZI SMART PREMIUM
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",DIZI SMART PREMIUM
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97690
-#EXTINF:-1,TR | DIZI SMART MAX
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",DIZI SMART MAX
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97691
-#EXTINF:-1,TR | ENO COCUK 1
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ENO COCUK 1
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97693
-#EXTINF:-1,TR | ENO COCUK 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ENO COCUK 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97694
-#EXTINF:-1,TR | ENO COCUK 3
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ENO COCUK 3
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97695
-#EXTINF:-1,TR | SINEMA TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97697
-#EXTINF:-1,TR | SINEMA TV 1001
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV 1001
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97699
-#EXTINF:-1,TR | SINEMA TV 1002
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV 1002
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97700
-#EXTINF:-1,TR | SINEMA TV AKSIYON
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV AKSIYON
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97701
-#EXTINF:-1,TR | SINEMA TV AKSIYON 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV AKSIYON 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97702
-#EXTINF:-1,TR | SINEMA TV KOMEDI
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV KOMEDI
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97703
-#EXTINF:-1,TR | SINEMA TV KOMEDI 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV KOMEDI 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97704
-#EXTINF:-1,TR | SINEMA TV AILE
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV AILE
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97705
-#EXTINF:-1,TR | SINEMA TV AILE 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV AILE 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97706
-#EXTINF:-1,TR | SINEMA TV YERLI
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV YERLI
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97707
-#EXTINF:-1,TR | SINEMA TV YERLI 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SINEMA TV YERLI 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97708
-#EXTINF:-1,TR | TV 8
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TV 8
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/161876
-#EXTINF:-1,TR | Bein Sport Haber 
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Bein Sport Haber 
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47344
-#EXTINF:-1,TR | Bein Sport 1
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Bein Sport 1
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47353
-#EXTINF:-1,TR | Bein Sport 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Bein Sport 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47354
-#EXTINF:-1,TR | Bein Sport 3
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Bein Sport 3
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47355
-#EXTINF:-1,TR | Bein Sport 4
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Bein Sport 4
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47356
-#EXTINF:-1,TR | Bein Sport MAX 1
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Bein Sport MAX 1
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47357
-#EXTINF:-1,TR | Bein Sport MAX 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",Bein Sport MAX 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47358
-#EXTINF:-1,TR | TiviBu Sport 1
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TiviBu Sport 1
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47360
-#EXTINF:-1,TR | TiviBu Sport 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TiviBu Sport 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47361
-#EXTINF:-1,TR | TiviBu Sport 3
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TiviBu Sport 3
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47362
-#EXTINF:-1,TR | S sport
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",S sport
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47365
-#EXTINF:-1,TR | EUROSPORT 1
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",EUROSPORT 1
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97435
-#EXTINF:-1,TR | EUROSPORT 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",EUROSPORT 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97436
-#EXTINF:-1,TR | S-SPORT 2 нᴅ
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",S-SPORT 2 нᴅ
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97437
-#EXTINF:-1,TR | SPOR SMART 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SPOR SMART 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97438
-#EXTINF:-1,TR | TRT SPOR
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT SPOR
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97439
-#EXTINF:-1,TR | TRT SPOR 2
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT SPOR 2
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97440
-#EXTINF:-1,TR | SPORTS TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",SPORTS TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97441
-#EXTINF:-1,TR | A SPOR
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",A SPOR
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97442
-#EXTINF:-1,TR | REDBULL TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",REDBULL TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97447
-#EXTINF:-1,TR | TAY TV
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TAY TV
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97448
-#EXTINF:-1,TR  | BRiC&SATRANC
+#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",BRiC&SATRANC
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97449
 #EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ TURK ULUSAL █ ▆ ▅ ▃" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/flags/256.png" group-title="TR ➾ ULUSAL",▃ ▅ ▆ █ TURK ULUSAL █ ▆ ▅ ▃
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/1836
@@ -1480,162 +1482,6 @@ http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/323651
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/82762
 #EXTINF:-1 tvg-id="" tvg-name="TR: ZONGULDAK KANAL Z" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/yerel/zonguldakkanalzhd.png" group-title="TR ➾ YEREL",TR: ZONGULDAK KANAL Z
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/7573
-#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ DE HEVC █ ▆ ▅ ▃" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/flags/de.png" group-title="DE ➾ HEVC",▃ ▅ ▆ █ DE HEVC █ ▆ ▅ ▃
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/81568
-#EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE HEVC" tvg-logo="https://i.imgur.com/xc2uJsy.png" group-title="DE ➾ HEVC",DE: DAS ERSTE HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50318
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/ZDF.png" group-title="DE ➾ HEVC",DE: ZDF HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50319
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="DE: RTL HEVC" tvg-logo="https://i.imgur.com/mb0mndC.png" group-title="DE ➾ HEVC",DE: RTL HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50320
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: ProSieben HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/Pro-Sieben.png" group-title="DE ➾ HEVC",DE: ProSieben HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50321
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL ZWEI HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/rtl-2.png" group-title="DE ➾ HEVC",DE: RTL ZWEI HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50322
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT.1 HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sat-1.png" group-title="DE ➾ HEVC",DE: SAT.1 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50323
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vox.png" group-title="DE ➾ HEVC",DE: VOX HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50324
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: Kabel Eins HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/kabel-1.png" group-title="DE ➾ HEVC",DE: Kabel Eins HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50325
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: Pro7 MAXX HEVC" tvg-logo="https://i.imgur.com/mnON7oS.png" group-title="DE ➾ HEVC",DE: Pro7 MAXX HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50326
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sixx.png" group-title="DE ➾ HEVC",DE: SIXX HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50327
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 GOLD HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/sat1.png" group-title="DE ➾ HEVC",DE: SAT 1 GOLD HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50328
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/tele5.png" group-title="DE ➾ HEVC",DE: TELE 5 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/71814
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: NITRO HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/nitro.png" group-title="DE ➾ HEVC",DE: NITRO HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50329
-#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="DE: SKY CINEMA SPECIAL HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sky-cinema-special.png" group-title="DE ➾ HEVC",DE: SKY CINEMA SPECIAL HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50331
-#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="DE: SKY CINEMA  THRILLER HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sky-cinema-thriller.png" group-title="DE ➾ HEVC",DE: SKY CINEMA  THRILLER HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50332
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE: SKY CINEMA PREMIEREN +24 HEVC" tvg-logo="https://i.imgur.com/KcZ1oXD.png" group-title="DE ➾ HEVC",DE: SKY CINEMA PREMIEREN +24 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50333
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION HEVC" tvg-logo="https://i.imgur.com/M036Lz6.png" group-title="DE ➾ HEVC",DE: SKY CINEMA ACTION HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50334
-#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE: Sky Cinema Family HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sky-cinema-family.png" group-title="DE ➾ HEVC",DE: Sky Cinema Family HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50335
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN HEVC" tvg-logo="https://i.imgur.com/gnUPrKs.png" group-title="DE ➾ HEVC",DE: SKY CINEMA PREMIEREN HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50336
-#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: SKY CINEMA CLASSICS HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sky-cinema-classic.png" group-title="DE ➾ HEVC",DE: SKY CINEMA CLASSICS HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50337
-#EXTINF:-1 tvg-id="skycinemabestof.de" tvg-name="DE: SKY CINEMA BEST OF HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sky-cinema-best-of.png" group-title="DE ➾ HEVC",DE: SKY CINEMA BEST OF HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50338
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sky-atlantic.png" group-title="DE ➾ HEVC",DE: SKY ATLANTIC HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50339
-#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="DE: SKY CINEMA FUN HEVC" tvg-logo="https://i.imgur.com/tbr5ENX.png" group-title="DE ➾ HEVC",DE: SKY CINEMA FUN HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50340
-#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY KRIMI HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sky-krimi.png" group-title="DE ➾ HEVC",DE: SKY KRIMI HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50341
-#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER COMEDY HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/germany/warnercomedy.png" group-title="DE ➾ HEVC",DE: WARNER COMEDY HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50342
-#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: Warner Film HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/germany/warnerfilm.png" group-title="DE ➾ HEVC",DE: Warner Film HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50343
-#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="DE: WARNER SERIE HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/germany/warnerserie.png" group-title="DE ➾ HEVC",DE: WARNER SERIE HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50344
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13th Street HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/13th-street.png" group-title="DE ➾ HEVC",DE: 13th Street HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50345
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/syfy.png" group-title="DE ➾ HEVC",DE: SYFY HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50346
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="DE: E! Entertainment HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/e.png" group-title="DE ➾ HEVC",DE: E! Entertainment HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50347
-#EXTINF:-1 tvg-id="fox.de" tvg-name="DE: Sky Replay HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/germany/skyreplay.png" group-title="DE ➾ HEVC",DE: Sky Replay HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50348
-#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: KiKA HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/kika.png" group-title="DE ➾ HEVC",DE: KiKA HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50349
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: Nat Geo Wild HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/natgeo-wild.png" group-title="DE ➾ HEVC",DE: Nat Geo Wild HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50350
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: Nat Geo HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/natgeo.png" group-title="DE ➾ HEVC",DE: Nat Geo HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50351
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: Discovery HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/discovery-channel.png" group-title="DE ➾ HEVC",DE: Discovery HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50352
-#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/history.png" group-title="DE ➾ HEVC",DE: HISTORY HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50353
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/dmax.png" group-title="DE ➾ HEVC",DE: DMAX HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50354
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: n-tv HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/n-tv.png" group-title="DE ➾ HEVC",DE: n-tv HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50356
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: Spiegel Geschichte HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/spiegelgeschichte.png" group-title="DE ➾ HEVC",DE: Spiegel Geschichte HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50358
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE: TLC HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/tlc.png" group-title="DE ➾ HEVC",DE: TLC HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50359
-#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/welt.png" group-title="DE ➾ HEVC",DE: WELT HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50360
-#EXTINF:-1 tvg-id="dazn.de" tvg-name="DE: DAZN 1 Bar HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/dazn1.png" group-title="DE ➾ HEVC",DE: DAZN 1 Bar HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50361
-#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN 2 Bar HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/dazn2.png" group-title="DE ➾ HEVC",DE: DAZN 2 Bar HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50362
-#EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="DE: SKY SPORT NEWS HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sky-sport-news.png" group-title="DE ➾ HEVC",DE: SKY SPORT NEWS HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50363
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: Sky Sport F1 HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/skyspf1.png" group-title="DE ➾ HEVC",DE: Sky Sport F1 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/100938
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: SKY SPORT 1 HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/skysuportbun1.png" group-title="DE ➾ HEVC",DE: SKY SPORT 1 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50364
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/skysportbun2.png" group-title="DE ➾ HEVC",DE: SKY SPORT 2 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50365
-#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: Sport1 HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/sport1.png" group-title="DE ➾ HEVC",DE: Sport1 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50366
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY BUNDESLIGA 1 HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/skysuportbun1.png" group-title="DE ➾ HEVC",DE: SKY BUNDESLIGA 1 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50367
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/skysportbun2.png" group-title="DE ➾ HEVC",DE: SKY BUNDESLIGA 2 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50368
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE: MTV HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/mtv.png" group-title="DE ➾ HEVC",DE: MTV HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/70783
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE: Comedy Central HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/comedycentral.png" group-title="DE ➾ HEVC",DE: Comedy Central HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/71807
-#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="DE: Deluxe Music HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/deluxemusic.png" group-title="DE ➾ HEVC",DE: Deluxe Music HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/71808
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: Disney Channel HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/disneychannel.png" group-title="DE ➾ HEVC",DE: Disney Channel HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/71809
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE: Kabel Eins Doku HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/kabeleinsdoku.png" group-title="DE ➾ HEVC",DE: Kabel Eins Doku HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/71810
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: Sky Sport Austria 1 HEVC" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/skysportaustria.png" group-title="DE ➾ HEVC",DE: Sky Sport Austria 1 HEVC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/71813
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Underwater" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Underwater
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/199137
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Campfire by Lake at Sunset" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Campfire by Lake at Sunset
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103172
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Hawaii Place " tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Hawaii Place 
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103173
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Norway Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Norway Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103174
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver France Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver France Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103235
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Germany Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Germany Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103236
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Italy Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Italy Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103237
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Medieval Europe Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Medieval Europe Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103238
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Russia Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Russia Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103239
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Spain Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Spain Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103240
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Switzerland Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Switzerland Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103241
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver The Alps Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver The Alps Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103242
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver The Oregon Coast Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver The Oregon Coast Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103243
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver United Kingdom Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver United Kingdom Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103244
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Turkey Place" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Turkey Place
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103245
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Wild Animals Collection" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Wild Animals Collection
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103246
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Winter Wonderland" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Winter Wonderland
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103247
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Aurora Borealis and Northern Lights" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Aurora Borealis and Northern Lights
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103248
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Wild Life Animals" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Wild Life Animals
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103249
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Walking in New York the Winter Snow" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Walking in New York the Winter Snow
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103250
-#EXTINF:-1 tvg-id="" tvg-name="Screensaver Tropical Rain Sound" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/screensaver.png" group-title="SS ➾ SCREENSAVER",Screensaver Tropical Rain Sound
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103251
 #EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ NACHRICHTEN █ ▆ ▅ ▃" tvg-logo="" group-title="DE ➾ NEWS & DOKU & MUSIC",▃ ▅ ▆ █ NACHRICHTEN █ ▆ ▅ ▃
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/67323
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: n-tv FHD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/ntv.png" group-title="DE ➾ NEWS & DOKU & MUSIC",DE: n-tv FHD
