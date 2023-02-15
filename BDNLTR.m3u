@@ -1,10 +1,5 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 12:31 24.01.2023 | YUKSELTV#
-#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █TUR KTV L █ ▆ ▅ ▃" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/flags/256.png" group-title="TR ➾ TURK TV",▃ ▅ ▆ █ TURK TV █ ▆ ▅ ▃
-http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47372
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MOVIESMART Turk HD
-http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47372
-#EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",MOVIESMART Platin HD
-http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47369
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 12:31 15.02.2023 | YUKSELTV#
+
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",TRT 1 HD
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/47375
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",ATV HD
@@ -269,6 +264,7 @@ http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97447
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97448
 #EXTINF:-1 tvg-country="TR" group-title="TURKIYE TV",BRiC&SATRANC
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/97449
+
 #EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ TURK ULUSAL █ ▆ ▅ ▃" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/flags/256.png" group-title="TR ➾ ULUSAL",▃ ▅ ▆ █ TURK ULUSAL █ ▆ ▅ ▃
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/1836
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 Vip" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/ulusal/trt1vip.png" group-title="TR ➾ ULUSAL",TR: TRT 1 Vip
@@ -435,6 +431,7 @@ http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/33651
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/33652
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA LISE HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/ulusal/trtebahd.png" group-title="TR ➾ ULUSAL",TR: TRT EBA LISE HD
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/33653
+
 #EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ TURK HABER █ ▆ ▅ ▃" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/flags/tr.png" group-title="TR ➾ HABER",▃ ▅ ▆ █ TURK HABER █ ▆ ▅ ▃
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/1862
 #EXTINF:-1 tvg-id="" tvg-name="TR: CANLI EKONOMİ EKRANI" tvg-logo="https://i.imgur.com/aS49BWp.png" group-title="TR ➾ HABER",TR: CANLI EKONOMİ EKRANI
@@ -563,6 +560,7 @@ http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/175812
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/350210
 #EXTINF:-1 tvg-id="" tvg-name="TR: ANADOLU AJANSI CANLI" tvg-logo="https://i.imgur.com/FaIkjvu.png" group-title="TR ➾ HABER",TR: ANADOLU AJANSI CANLI
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/158766
+
 #EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ SINEMA ve DIZI KANALLARI █ ▆ ▅ ▃" tvg-logo="" group-title="TR ➾ SINEMA & EGLENCE",▃ ▅ ▆ █ SINEMA ve DIZI KANALLARI █ ▆ ▅ ▃
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/48036
 #EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: BEIN MOVIES PREMIERE HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/beinmovies-premiere1hd.png" group-title="TR ➾ beIN & DSMART",TR: BEIN MOVIES PREMIERE HD
@@ -784,6 +782,7 @@ http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/33850
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/102060
 #EXTINF:-1 tvg-id="" tvg-name="TR: NATURE ESCAPE" tvg-logo="" group-title="TR ➾ BELGESEL",TR: NATURE ESCAPE
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/334684
+
 #EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ ÇOCUK KANALLARI █ ▆ ▅ ▃" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/created.channels/trcocuk/veracocuk.png" group-title="TR ➾ COCUK",▃ ▅ ▆ █ ÇOCUK KANALLARI █ ▆ ▅ ▃
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/99813
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT COCUK HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/cocuk/trtcocukhd.png" group-title="TR ➾ COCUK",TR: TRT COCUK HD
@@ -940,354 +939,7 @@ http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/328323
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/328324
 #EXTINF:-1 tvg-id="" tvg-name="TR: Heidi 7/24" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trcocuk/heidicocuk.png" group-title="TR ➾ COCUK",TR: Heidi 7/24
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/328325
-#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ MUZİK ve RADIO █ ▆ ▅ ▃" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",▃ ▅ ▆ █ MUZİK ve RADIO █ ▆ ▅ ▃
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/3268
-#EXTINF:-1 tvg-id="Kral FM-TR" tvg-name="TR: KRAL TV HD" tvg-logo="https://i.imgur.com/M3aep8l.png" group-title="TR ➾ MUZIK",TR: KRAL TV HD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/3269
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV FHD" tvg-logo="https://i.imgur.com/M3aep8l.png" group-title="TR ➾ MUZIK",TR: KRAL TV FHD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320212
-#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="TR: KRAL POP HD" tvg-logo="https://i.imgur.com/oUi2BsG.png" group-title="TR ➾ MUZIK",TR: KRAL POP HD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320211
-#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="TR: KRAL POP FHD" tvg-logo="https://i.imgur.com/oUi2BsG.png" group-title="TR ➾ MUZIK",TR: KRAL POP FHD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/3270
-#EXTINF:-1 tvg-id="powertv.tr" tvg-name="TR: POWER TV HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/power-tv.png" group-title="TR ➾ MUZIK",TR: POWER TV HD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/103965
-#EXTINF:-1 tvg-id="powertv.tr" tvg-name="TR: POWER TV FHD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/power-tv.png" group-title="TR ➾ MUZIK",TR: POWER TV FHD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/34303
-#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR: POWER TURK HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/powerturk.png" group-title="TR ➾ MUZIK",TR: POWER TURK HD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/3272
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK TAPTAZE" tvg-logo="https://i.imgur.com/S0Ahnym.png" group-title="TR ➾ MUZIK",TR: POWER TURK TAPTAZE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/175814
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK SLOW" tvg-logo="https://i.imgur.com/QwXQ3g4.png" group-title="TR ➾ MUZIK",TR: POWER TURK SLOW
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/175815
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK AKUSTIK" tvg-logo="https://i.imgur.com/mrOs2o2.png" group-title="TR ➾ MUZIK",TR: POWER TURK AKUSTIK
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/175816
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK EN İYİLER" tvg-logo="https://i.imgur.com/3Hl7LNq.png" group-title="TR ➾ MUZIK",TR: POWER TURK EN İYİLER
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/175817
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER DANCE" tvg-logo="https://i.imgur.com/frs8x2i.png" group-title="TR ➾ MUZIK",TR: POWER DANCE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/175818
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWER LOVE" tvg-logo="https://i.imgur.com/1KuKDBd.png" group-title="TR ➾ MUZIK",TR: POWER LOVE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/175819
-#EXTINF:-1 tvg-id="numberoneturk.tr" tvg-name="TR: NR 1 TURK HD" tvg-logo="https://www.ecanlitvizle.live/logo/number-1-one-tv-izle.png" group-title="TR ➾ MUZIK",TR: NR 1 TURK HD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/3273
-#EXTINF:-1 tvg-id="numberonetv.tr" tvg-name="TR: NR 1 HD" tvg-logo="https://www.ecanlitvizle.live/logo/number-1-one-tv-izle.png" group-title="TR ➾ MUZIK",TR: NR 1 HD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/3274
-#EXTINF:-1 tvg-id="numberonedance.tr" tvg-name="TR: NR 1 DANCE" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/nr1-dance.png" group-title="TR ➾ MUZIK",TR: NR 1 DANCE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/45719
-#EXTINF:-1 tvg-id="numberoneask.tr" tvg-name="TR: NR 1 AŞK" tvg-logo="https://i.imgur.com/8I22CbG.png" group-title="TR ➾ MUZIK",TR: NR 1 AŞK
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/174080
-#EXTINF:-1 tvg-id="numberonedamar.tr" tvg-name="TR: NR 1 DAMAR" tvg-logo="https://i.imgur.com/dxXoHJA.png" group-title="TR ➾ MUZIK",TR: NR 1 DAMAR
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/174078
-#EXTINF:-1 tvg-id="dreamturk.tr" tvg-name="TR: DREAM TURK HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/dream-turk.png" group-title="TR ➾ MUZIK",TR: DREAM TURK HD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/3275
-#EXTINF:-1 tvg-id="dreamturk.tr" tvg-name="TR: DREAM TURK FHD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/dream-turk.png" group-title="TR ➾ MUZIK",TR: DREAM TURK FHD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/94242
-#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TR: TRT MUZIK HD" tvg-logo="https://i.imgur.com/hiJivju.png" group-title="TR ➾ MUZIK",TR: TRT MUZIK HD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/34800
-#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TR: TRT MUZIK FHD" tvg-logo="https://i.imgur.com/hiJivju.png" group-title="TR ➾ MUZIK",TR: TRT MUZIK FHD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/319302
-#EXTINF:-1 tvg-id="" tvg-name="TR: MİLYON TV" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/milyon-tv.png" group-title="TR ➾ MUZIK",TR: MİLYON TV
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/50371
-#EXTINF:-1 tvg-id="" tvg-name="TR: EKINTURK TV" tvg-logo="https://i.imgur.com/3QiXUnz.png" group-title="TR ➾ MUZIK",TR: EKINTURK TV
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/87626
-#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ TV" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/yildiz-tv.png" group-title="TR ➾ MUZIK",TR: YILDIZ TV
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/34503
-#EXTINF:-1 tvg-id="" tvg-name="TR: TATLISES TV" tvg-logo="http://yerelmedya.tv/logosTV/tatlisestv.png" group-title="TR ➾ MUZIK",TR: TATLISES TV
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/101192
-#EXTINF:-1 tvg-id="" tvg-name="TR: RADYO SLOW TÜRK" tvg-logo="https://i.imgur.com/gYKNHNj.png" group-title="TR ➾ MUZIK",TR: RADYO SLOW TÜRK
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/183457
-#EXTINF:-1 tvg-id="" tvg-name="TR: RADYO AŞK" tvg-logo="https://i.imgur.com/uK47N3U.png" group-title="TR ➾ MUZIK",TR: RADYO AŞK
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/184470
-#EXTINF:-1 tvg-id="" tvg-name="TR: RADYO SEYMEN" tvg-logo="https://i.imgur.com/JFfD9Xz.png" group-title="TR ➾ MUZIK",TR: RADYO SEYMEN
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/333305
-#EXTINF:-1 tvg-id="" tvg-name="TR: RADYO ANGARA" tvg-logo="https://i.imgur.com/GIskqy3.png" group-title="TR ➾ MUZIK",TR: RADYO ANGARA
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/333306
-#EXTINF:-1 tvg-id="" tvg-name="TR: BABA RADYO" tvg-logo="https://i.imgur.com/sqmY7qa.png" group-title="TR ➾ MUZIK",TR: BABA RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/184471
-#EXTINF:-1 tvg-id="" tvg-name="TR: RADYO 2000" tvg-logo="https://i.imgur.com/69e2FJT.png" group-title="TR ➾ MUZIK",TR: RADYO 2000
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/330829
-#EXTINF:-1 tvg-id="" tvg-name="TR:  QWest Classica" tvg-logo="https://i.imgur.com/nuhSWtU.png" group-title="TR ➾ MUZIK",TR:  QWest Classica
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/178056
-#EXTINF:-1 tvg-id="" tvg-name="TR: 7/24 BLUES MUSIC" tvg-logo="https://i.imgur.com/gHmmW3a.png" group-title="TR ➾ MUZIK",TR: 7/24 BLUES MUSIC
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/183438
-#EXTINF:-1 tvg-id="" tvg-name="TR: KARADENIZ AKUSTIK" tvg-logo="https://i.imgur.com/oFyhRWq.png" group-title="TR ➾ MUZIK",TR: KARADENIZ AKUSTIK
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/183459
-#EXTINF:-1 tvg-id="" tvg-name="TR: RADYO Akustik TÜRKÜLER" tvg-logo="https://i.imgur.com/9gWzYbl.png" group-title="TR ➾ MUZIK",TR: RADYO Akustik TÜRKÜLER
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/183443
-#EXTINF:-1 tvg-id="" tvg-name="TR: DAMLA FM" tvg-logo="https://i.imgur.com/GbAiM5O.png" group-title="TR ➾ MUZIK",TR: DAMLA FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/184472
-#EXTINF:-1 tvg-id="" tvg-name="TR: RADYO ALATURKA" tvg-logo="https://i.imgur.com/HfH1Ceo.png" group-title="TR ➾ MUZIK",TR: RADYO ALATURKA
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/183460
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKUVAZ MUSIKI" tvg-logo="https://i.imgur.com/wXrHcVx.png" group-title="TR ➾ MUZIK",TR: TURKUVAZ MUSIKI
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/183461
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKUVAZ NOSTALJİ" tvg-logo="https://i.imgur.com/Urh47Wh.png" group-title="TR ➾ MUZIK",TR: TURKUVAZ NOSTALJİ
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/184475
-#EXTINF:-1 tvg-id="" tvg-name="TR: RADYO DUBLE" tvg-logo="https://i.imgur.com/XEDgkLu.png" group-title="TR ➾ MUZIK",TR: RADYO DUBLE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/184473
-#EXTINF:-1 tvg-id="" tvg-name="TR: 7/24 Hip-Hop" tvg-logo="https://i.imgur.com/60UF2Qn.png" group-title="TR ➾ MUZIK",TR: 7/24 Hip-Hop
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/183458
-#EXTINF:-1 tvg-id="" tvg-name="TR: Vera Piano & Relaxing" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: Vera Piano & Relaxing
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/78457
-#EXTINF:-1 tvg-id="" tvg-name="TR: YASASIN 90'lar" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/yasasin-90lar.png" group-title="TR ➾ MUZIK",TR: YASASIN 90'lar
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/38055
-#EXTINF:-1 tvg-id="" tvg-name="TR: Jazz Radio" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/jazzradio.png" group-title="TR ➾ MUZIK",TR: Jazz Radio
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/82063
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cafe Ahmet KAYA" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/cafe-ahmet-kaya.png" group-title="TR ➾ MUZIK",TR: Cafe Ahmet KAYA
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/34036
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cafe Müslüm Baba" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/cafe-muslum-baba.png" group-title="TR ➾ MUZIK",TR: Cafe Müslüm Baba
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/38774
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cafe Orhan GENCEBAY" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/cafe-orhan-gencebay.png" group-title="TR ➾ MUZIK",TR: Cafe Orhan GENCEBAY
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/33901
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cafe Ferdi TAYFUR" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/cafe-ferdi-tayfur.png" group-title="TR ➾ MUZIK",TR: Cafe Ferdi TAYFUR
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/34914
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cafe Ibrahim Tatlises" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/cafe-ibrahim-tatlises.png" group-title="TR ➾ MUZIK",TR: Cafe Ibrahim Tatlises
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/34321
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cafe Zeki MÜREN" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/cafe-zeki-muren.png" group-title="TR ➾ MUZIK",TR: Cafe Zeki MÜREN
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/38875
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cafe Taverna" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/vera/cafe-taverna.png" group-title="TR ➾ MUZIK",TR: Cafe Taverna
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/34404
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Oyun Havaları" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Oyun Havaları
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320289
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX 45 Lik" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX 45 Lik
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320290
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Alaturka" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Alaturka
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320291
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Arabesk" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Arabesk
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320292
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Bülent Ersoy" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Bülent Ersoy
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320293
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Meyhane Şarkıları" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Meyhane Şarkıları
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320294
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Rap" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Rap
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320295
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Sanat Müziği" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Sanat Müziği
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320296
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Slow" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Slow
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320297
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Türk Pop" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Türk Pop
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320298
-#EXTINF:-1 tvg-id="" tvg-name="TR: BOX Zeki Müren" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ MUZIK",TR: BOX Zeki Müren
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320300
-#EXTINF:-1 tvg-id="" tvg-name="TR: RAP Deluxe TV" tvg-logo="https://i.hizliresim.com/klpTEx.png" group-title="TR ➾ MUZIK",TR: RAP Deluxe TV
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/38874
-#EXTINF:-1 tvg-id="" tvg-name="TR: Htestream Angara Bebeleri" tvg-logo="https://i.hizliresim.com/E2n7vA.png" group-title="TR ➾ MUZIK",TR: Htestream Angara Bebeleri
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/41488
-#EXTINF:-1 tvg-id="" tvg-name="TR: HTestream Damar" tvg-logo="https://i.hizliresim.com/E2n7vA.png" group-title="TR ➾ MUZIK",TR: HTestream Damar
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/34076
-#EXTINF:-1 tvg-id="" tvg-name="TR: Htestream Premium" tvg-logo="https://i.hizliresim.com/E2n7vA.png" group-title="TR ➾ MUZIK",TR: Htestream Premium
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/34868
-#EXTINF:-1 tvg-id="" tvg-name="TR: TUNE RAP 1" tvg-logo="https://i.imgur.com/XcUKjtS.png" group-title="TR ➾ MUZIK",TR: TUNE RAP 1
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/318065
-#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ TR RADYOLAR █ ▆ ▅ ▃" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ RADYO",▃ ▅ ▆ █ TR RADYOLAR █ ▆ ▅ ▃
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320213
-#EXTINF:-1 tvg-id="" tvg-name="RD: BEST FM" tvg-logo="https://i.imgur.com/ETeXIFM.png" group-title="TR ➾ RADYO",RD: BEST FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13160
-#EXTINF:-1 tvg-id="" tvg-name="RD: KAFA RADYO" tvg-logo="https://i.imgur.com/xGquTZ0.png" group-title="TR ➾ RADYO",RD: KAFA RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13170
-#EXTINF:-1 tvg-id="" tvg-name="RD: KRAL FM" tvg-logo="https://i.imgur.com/lYMWv4M.png" group-title="TR ➾ RADYO",RD: KRAL FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13177
-#EXTINF:-1 tvg-id="" tvg-name="RD: KRAL POP" tvg-logo="https://i.imgur.com/oUi2BsG.png" group-title="TR ➾ RADYO",RD: KRAL POP
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13179
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO 45'LİK" tvg-logo="https://i.imgur.com/VD8cYxV.png" group-title="TR ➾ RADYO",RD: RADYO 45'LİK
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/326192
-#EXTINF:-1 tvg-id="" tvg-name="RD: LIG RADYO" tvg-logo="https://i.imgur.com/foNcUeJ.png" group-title="TR ➾ RADYO",RD: LIG RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13185
-#EXTINF:-1 tvg-id="" tvg-name="RD: NTV RADYO" tvg-logo="https://i.imgur.com/vShPYWI.png" group-title="TR ➾ RADYO",RD: NTV RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13186
-#EXTINF:-1 tvg-id="" tvg-name="RD: NTVSPOR RADYO" tvg-logo="https://i.imgur.com/QeBb6sU.png" group-title="TR ➾ RADYO",RD: NTVSPOR RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13187
-#EXTINF:-1 tvg-id="" tvg-name="RD: NUMBER 1 RADYO" tvg-logo="https://i.imgur.com/IfbndDT.png" group-title="TR ➾ RADYO",RD: NUMBER 1 RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13188
-#EXTINF:-1 tvg-id="" tvg-name="RD: NUMBER 1 TURK RADYO" tvg-logo="https://i.imgur.com/awVc0dW.png" group-title="TR ➾ RADYO",RD: NUMBER 1 TURK RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13189
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER DANCE" tvg-logo="https://i.imgur.com/UFdobzM.png" group-title="TR ➾ RADYO",RD: POWER DANCE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13191
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER DEEP" tvg-logo="https://i.imgur.com/klQ7B2t.png" group-title="TR ➾ RADYO",RD: POWER DEEP
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13192
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER RADYO" tvg-logo="https://i.imgur.com/AEsLgKw.png" group-title="TR ➾ RADYO",RD: POWER RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13193
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER GOLD" tvg-logo="https://i.imgur.com/l5rH3XB.png" group-title="TR ➾ RADYO",RD: POWER GOLD
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13194
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER GREECE" tvg-logo="https://i.imgur.com/EsSVZf6.png" group-title="TR ➾ RADYO",RD: POWER GREECE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13195
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER LOVE" tvg-logo="https://i.imgur.com/eJlxtoM.png" group-title="TR ➾ RADYO",RD: POWER LOVE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13196
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER POP" tvg-logo="https://i.imgur.com/krTzxXx.png" group-title="TR ➾ RADYO",RD: POWER POP
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13198
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER SMOOTH JAZZ" tvg-logo="https://i.imgur.com/pKWsJvT.png" group-title="TR ➾ RADYO",RD: POWER SMOOTH JAZZ
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13200
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER TURK AKUSTIK" tvg-logo="https://i.imgur.com/m5058uy.png" group-title="TR ➾ RADYO",RD: POWER TURK AKUSTIK
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13201
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER TURK TAPTAZE" tvg-logo="https://i.imgur.com/vftPOxZ.png" group-title="TR ➾ RADYO",RD: POWER TURK TAPTAZE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13202
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER TURK EN IYILER" tvg-logo="https://i.imgur.com/eERLQ0t.png" group-title="TR ➾ RADYO",RD: POWER TURK EN IYILER
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13204
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER TURK RADYO" tvg-logo="https://i.imgur.com/9HQOSDs.png" group-title="TR ➾ RADYO",RD: POWER TURK RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13205
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER TURK TAPTAZE" tvg-logo="https://i.imgur.com/VFyEPhE.png" group-title="TR ➾ RADYO",RD: POWER TURK TAPTAZE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13206
-#EXTINF:-1 tvg-id="" tvg-name="RD: POWER XL" tvg-logo="https://i.imgur.com/HTlxDmg.png" group-title="TR ➾ RADYO",RD: POWER XL
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13207
-#EXTINF:-1 tvg-id="" tvg-name="RD: PowerApp" tvg-logo="https://www.powerapp.com.tr/i/powerapp-logo-v2.png?v=635" group-title="TR ➾ RADYO",RD: PowerApp
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/325947
-#EXTINF:-1 tvg-id="" tvg-name="RD: Power Plus" tvg-logo="https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_2.png" group-title="TR ➾ RADYO",RD: Power Plus
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/325948
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO TURKUVAZ" tvg-logo="https://i.imgur.com/0E4oTPQ.png" group-title="TR ➾ RADYO",RD: RADYO TURKUVAZ
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13209
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO TURKUVAZ EFSANE" tvg-logo="https://i.imgur.com/7VgzbaO.png" group-title="TR ➾ RADYO",RD: RADYO TURKUVAZ EFSANE
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13210
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO TURKUVAZ ROMANTIK" tvg-logo="https://i.imgur.com/5SFyEFF.png" group-title="TR ➾ RADYO",RD: RADYO TURKUVAZ ROMANTIK
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13211
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO VIVA" tvg-logo="https://i.imgur.com/3ENwoAX.png" group-title="TR ➾ RADYO",RD: RADYO VIVA
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13212
-#EXTINF:-1 tvg-id="" tvg-name="RD: SHOW RADYO" tvg-logo="https://i.imgur.com/aN33GZa.png" group-title="TR ➾ RADYO",RD: SHOW RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13214
-#EXTINF:-1 tvg-id="" tvg-name="RD: A HABER RADYO" tvg-logo="https://i.imgur.com/rEd2Vqm.png" group-title="TR ➾ RADYO",RD: A HABER RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13152
-#EXTINF:-1 tvg-id="" tvg-name="RD: A PARA RADYO" tvg-logo="https://i.imgur.com/7m56Z5q.png" group-title="TR ➾ RADYO",RD: A PARA RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13154
-#EXTINF:-1 tvg-id="" tvg-name="RD: A SPOR RADYO" tvg-logo="https://i.imgur.com/tpkbl3u.png" group-title="TR ➾ RADYO",RD: A SPOR RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13155
-#EXTINF:-1 tvg-id="" tvg-name="RD: ISTANBUL TEKNIK UNIVERSITESI FM" tvg-logo="https://i.imgur.com/NDvO330.png" group-title="TR ➾ RADYO",RD: ISTANBUL TEKNIK UNIVERSITESI FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320249
-#EXTINF:-1 tvg-id="" tvg-name="RD: METEOROLOJININ SESI RADYOSU" tvg-logo="https://i.imgur.com/AzFwC1C.png" group-title="TR ➾ RADYO",RD: METEOROLOJININ SESI RADYOSU
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320263
-#EXTINF:-1 tvg-id="" tvg-name="RD: Hamsi FM" tvg-logo="https://i.imgur.com/IbmpJWv.png" group-title="TR ➾ RADYO",RD: Hamsi FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/174715
-#EXTINF:-1 tvg-id="" tvg-name="RD: Karadeniz FM" tvg-logo="https://i.imgur.com/IcV6AOl.png" group-title="TR ➾ RADYO",RD: Karadeniz FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/174716
-#EXTINF:-1 tvg-id="" tvg-name="RD: SLOW KARADENIZ FM" tvg-logo="https://i.imgur.com/2AWX9Qu.png" group-title="TR ➾ RADYO",RD: SLOW KARADENIZ FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320285
-#EXTINF:-1 tvg-id="" tvg-name="RD: Cem Radyo" tvg-logo="https://i.imgur.com/PjCmzNO.png" group-title="TR ➾ RADYO",RD: Cem Radyo
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/33225
-#EXTINF:-1 tvg-id="" tvg-name="RD: DAMAR FM" tvg-logo="https://i.imgur.com/lP3dDMn.png" group-title="TR ➾ RADYO",RD: DAMAR FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/29185
-#EXTINF:-1 tvg-id="" tvg-name="RD: ARABESK FM" tvg-logo="https://i.imgur.com/Ahz8lQ0.png" group-title="TR ➾ RADYO",RD: ARABESK FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320220
-#EXTINF:-1 tvg-id="" tvg-name="RD: AKRA RADYO" tvg-logo="https://i.imgur.com/VapbLOO.png" group-title="TR ➾ RADYO",RD: AKRA RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13157
-#EXTINF:-1 tvg-id="" tvg-name="RD: LALEGUL RADYO" tvg-logo="https://i.imgur.com/iUOfwLO.png" group-title="TR ➾ RADYO",RD: LALEGUL RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13184
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO ENERJI" tvg-logo="https://i.imgur.com/1qdvSlx.png" group-title="TR ➾ RADYO",RD: RADYO ENERJI
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13208
-#EXTINF:-1 tvg-id="" tvg-name="RD: SEMERKAND RADYO" tvg-logo="https://i.imgur.com/6QNfwui.png" group-title="TR ➾ RADYO",RD: SEMERKAND RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13213
-#EXTINF:-1 tvg-id="" tvg-name="RD: TGRT FM" tvg-logo="https://i.imgur.com/a8R4vnU.png" group-title="TR ➾ RADYO",RD: TGRT FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13215
-#EXTINF:-1 tvg-id="" tvg-name="RD: VAV RADYO" tvg-logo="https://i.imgur.com/sJ86637.png" group-title="TR ➾ RADYO",RD: VAV RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/13234
-#EXTINF:-1 tvg-id="" tvg-name="RD: TRT TÜRKÜ" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/trt-turku.png" group-title="TR ➾ RADYO",RD: TRT TÜRKÜ
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/33230
-#EXTINF:-1 tvg-id="" tvg-name="RD: Radyo Ekin" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/radyo-ekin.png" group-title="TR ➾ RADYO",RD: Radyo Ekin
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/33234
-#EXTINF:-1 tvg-id="" tvg-name="RD:  TARZ RADYO" tvg-logo="https://i.imgur.com/TyjyP1J.png" group-title="TR ➾ RADYO",RD:  TARZ RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/114188
-#EXTINF:-1 tvg-id="" tvg-name="RD: ADIYAMAN MERT FM" tvg-logo="https://i.imgur.com/yZwEU2f.png" group-title="TR ➾ RADYO",RD: ADIYAMAN MERT FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320217
-#EXTINF:-1 tvg-id="" tvg-name="RD: AFYON RADYO 03" tvg-logo="https://i.imgur.com/eKD3XT9.png" group-title="TR ➾ RADYO",RD: AFYON RADYO 03
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320218
-#EXTINF:-1 tvg-id="" tvg-name="RD: ARKADAS FM" tvg-logo="https://i.imgur.com/xTvaFDG.png" group-title="TR ➾ RADYO",RD: ARKADAS FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320221
-#EXTINF:-1 tvg-id="" tvg-name="RD: AŞK FM" tvg-logo="https://i.imgur.com/w9V9qGg.png" group-title="TR ➾ RADYO",RD: AŞK FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320222
-#EXTINF:-1 tvg-id="" tvg-name="RD: ASR FM" tvg-logo="https://i.imgur.com/wUl2Vdx.png" group-title="TR ➾ RADYO",RD: ASR FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320223
-#EXTINF:-1 tvg-id="" tvg-name="RD: ASYA RADYO" tvg-logo="https://i.imgur.com/dy2PG8D.png" group-title="TR ➾ RADYO",RD: ASYA RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320224
-#EXTINF:-1 tvg-id="" tvg-name="RD: BIZIMKILER RADYO" tvg-logo="https://i.imgur.com/9sGoWOf.png" group-title="TR ➾ RADYO",RD: BIZIMKILER RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320225
-#EXTINF:-1 tvg-id="" tvg-name="RD: BRT BAYRAK TURK MUZIGI" tvg-logo="https://i.imgur.com/gwSMUj4.png" group-title="TR ➾ RADYO",RD: BRT BAYRAK TURK MUZIGI
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320226
-#EXTINF:-1 tvg-id="" tvg-name="RD: CAN FM" tvg-logo="https://i.imgur.com/vEfwC7S.png" group-title="TR ➾ RADYO",RD: CAN FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320227
-#EXTINF:-1 tvg-id="" tvg-name="RD: DERYA FM" tvg-logo="https://i.imgur.com/4m7s7gt.png" group-title="TR ➾ RADYO",RD: DERYA FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320231
-#EXTINF:-1 tvg-id="" tvg-name="RD: DINAMO FM" tvg-logo="https://i.imgur.com/GOpSVzT.png" group-title="TR ➾ RADYO",RD: DINAMO FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320232
-#EXTINF:-1 tvg-id="" tvg-name="RD: DIYARBAKIR CAGRI FM" tvg-logo="https://i.imgur.com/6IXLftL.png" group-title="TR ➾ RADYO",RD: DIYARBAKIR CAGRI FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320233
-#EXTINF:-1 tvg-id="" tvg-name="RD: DOGAN 21 FM" tvg-logo="https://i.imgur.com/X2qpQ9c.png" group-title="TR ➾ RADYO",RD: DOGAN 21 FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320234
-#EXTINF:-1 tvg-id="" tvg-name="RD: DUZCE RADYO OZGUR" tvg-logo="https://i.imgur.com/cN2nbV2.png" group-title="TR ➾ RADYO",RD: DUZCE RADYO OZGUR
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320235
-#EXTINF:-1 tvg-id="" tvg-name="RD: ELAZIG EZGI RADYO" tvg-logo="https://i.imgur.com/U6FkpqL.png" group-title="TR ➾ RADYO",RD: ELAZIG EZGI RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320236
-#EXTINF:-1 tvg-id="" tvg-name="RD: ELAZIG RADYO 2000" tvg-logo="https://i.imgur.com/5l7MhT8.png" group-title="TR ➾ RADYO",RD: ELAZIG RADYO 2000
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320237
-#EXTINF:-1 tvg-id="" tvg-name="RD: ERZINCAN DOST RADYO" tvg-logo="https://i.imgur.com/YWsgCAS.png" group-title="TR ➾ RADYO",RD: ERZINCAN DOST RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320238
-#EXTINF:-1 tvg-id="" tvg-name="RD: ERZINCAN RADYO 2000" tvg-logo="https://i.imgur.com/gCIzDag.png" group-title="TR ➾ RADYO",RD: ERZINCAN RADYO 2000
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320239
-#EXTINF:-1 tvg-id="" tvg-name="RD: ERZURUM IMAJ FM" tvg-logo="https://i.imgur.com/gqNiDOc.png" group-title="TR ➾ RADYO",RD: ERZURUM IMAJ FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320240
-#EXTINF:-1 tvg-id="" tvg-name="RD: GAZIANTEP RADYO KILIM" tvg-logo="https://i.imgur.com/SFm8u7o.png" group-title="TR ➾ RADYO",RD: GAZIANTEP RADYO KILIM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320241
-#EXTINF:-1 tvg-id="" tvg-name="RD: GENC FM" tvg-logo="https://i.imgur.com/qWK2Kvk.png" group-title="TR ➾ RADYO",RD: GENC FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320242
-#EXTINF:-1 tvg-id="" tvg-name="RD: GIMSA RADYO" tvg-logo="https://i.imgur.com/njk56x7.png" group-title="TR ➾ RADYO",RD: GIMSA RADYO
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320243
-#EXTINF:-1 tvg-id="" tvg-name="RD: GIRESUN FM" tvg-logo="https://i.imgur.com/tvOeWV7.png" group-title="TR ➾ RADYO",RD: GIRESUN FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320244
-#EXTINF:-1 tvg-id="" tvg-name="RD: GUN FM" tvg-logo="https://i.imgur.com/Zly0Dxz.png" group-title="TR ➾ RADYO",RD: GUN FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320245
-#EXTINF:-1 tvg-id="" tvg-name="RD: HATAY FM" tvg-logo="https://i.imgur.com/ITgcotH.png" group-title="TR ➾ RADYO",RD: HATAY FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320247
-#EXTINF:-1 tvg-id="" tvg-name="RD: ISRA FM" tvg-logo="https://i.imgur.com/JUkOVH1.png" group-title="TR ➾ RADYO",RD: ISRA FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320248
-#EXTINF:-1 tvg-id="" tvg-name="RD: KASTAMONU 105 FM" tvg-logo="https://i.imgur.com/ceQagVs.png" group-title="TR ➾ RADYO",RD: KASTAMONU 105 FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320250
-#EXTINF:-1 tvg-id="" tvg-name="RD: KATRE FM" tvg-logo="https://i.imgur.com/5e5vnhA.png" group-title="TR ➾ RADYO",RD: KATRE FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320251
-#EXTINF:-1 tvg-id="" tvg-name="RD: KAYSERI GOZDE FM" tvg-logo="https://i.imgur.com/7qEj8mA.png" group-title="TR ➾ RADYO",RD: KAYSERI GOZDE FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320252
-#EXTINF:-1 tvg-id="" tvg-name="RD: KIRKLARELI SOYLU FM" tvg-logo="https://i.imgur.com/NMZkFVM.png" group-title="TR ➾ RADYO",RD: KIRKLARELI SOYLU FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320253
-#EXTINF:-1 tvg-id="" tvg-name="RD: KOZAN FM" tvg-logo="https://i.imgur.com/fSMkYFq.png" group-title="TR ➾ RADYO",RD: KOZAN FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320254
-#EXTINF:-1 tvg-id="" tvg-name="RD: MAGIC FM" tvg-logo="https://i.imgur.com/YJyJaMe.png" group-title="TR ➾ RADYO",RD: MAGIC FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320255
-#EXTINF:-1 tvg-id="" tvg-name="RD: MAGIC RADIO 80's HITS" tvg-logo="https://i.imgur.com/yWGCDCy.png" group-title="TR ➾ RADYO",RD: MAGIC RADIO 80's HITS
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320256
-#EXTINF:-1 tvg-id="" tvg-name="RD: MAMAŞ FM" tvg-logo="https://i.imgur.com/kWzTDk8.png" group-title="TR ➾ RADYO",RD: MAMAŞ FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320257
-#EXTINF:-1 tvg-id="" tvg-name="RD: MAMAS FM ARABESK" tvg-logo="https://i.imgur.com/TenU8Cy.png" group-title="TR ➾ RADYO",RD: MAMAS FM ARABESK
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320258
-#EXTINF:-1 tvg-id="" tvg-name="RD: MAMAS FM TURK SANAT MUZIGI" tvg-logo="https://i.imgur.com/ApLgSDh.png" group-title="TR ➾ RADYO",RD: MAMAS FM TURK SANAT MUZIGI
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320259
-#EXTINF:-1 tvg-id="" tvg-name="RD: MAMAS FM TURKU RADYOSU" tvg-logo="https://i.imgur.com/69iIov5.png" group-title="TR ➾ RADYO",RD: MAMAS FM TURKU RADYOSU
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320260
-#EXTINF:-1 tvg-id="" tvg-name="RD: MARMARA FM" tvg-logo="https://i.imgur.com/0TgDdGx.png" group-title="TR ➾ RADYO",RD: MARMARA FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320261
-#EXTINF:-1 tvg-id="" tvg-name="RD: MEKKE FM" tvg-logo="https://i.imgur.com/gK9XOlj.png" group-title="TR ➾ RADYO",RD: MEKKE FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320262
-#EXTINF:-1 tvg-id="" tvg-name="RD: OSTIM FM" tvg-logo="https://i.imgur.com/GACpo9l.png" group-title="TR ➾ RADYO",RD: OSTIM FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320266
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADIO LINE FM" tvg-logo="https://i.imgur.com/3ecgcPx.png" group-title="TR ➾ RADYO",RD: RADIO LINE FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320267
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO 2000 FM" tvg-logo="https://i.imgur.com/Y28F5rd.png" group-title="TR ➾ RADYO",RD: RADYO 2000 FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320269
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO 38 KENT FM" tvg-logo="https://i.imgur.com/ONAWHNZ.png" group-title="TR ➾ RADYO",RD: RADYO 38 KENT FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320270
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO DEJAVU TURKCE 80’s 90’s" tvg-logo="https://i.imgur.com/qgIg5hQ.png" group-title="TR ➾ RADYO",RD: RADYO DEJAVU TURKCE 80’s 90’s
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320271
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO DENGE FM" tvg-logo="https://i.imgur.com/3yMmpHh.png" group-title="TR ➾ RADYO",RD: RADYO DENGE FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320272
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO GOZYASI FM" tvg-logo="https://i.imgur.com/1qMtTHG.png" group-title="TR ➾ RADYO",RD: RADYO GOZYASI FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320275
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO SEVIMLI RIZE FM" tvg-logo="https://i.imgur.com/0rkmcht.png" group-title="TR ➾ RADYO",RD: RADYO SEVIMLI RIZE FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320276
-#EXTINF:-1 tvg-id="" tvg-name="RD: RADYO ULTRA FM" tvg-logo="https://i.imgur.com/W7EdKEL.png" group-title="TR ➾ RADYO",RD: RADYO ULTRA FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320280
-#EXTINF:-1 tvg-id="" tvg-name="RD: SAMSUN TUTKU FM" tvg-logo="https://i.imgur.com/aQOsKl8.png" group-title="TR ➾ RADYO",RD: SAMSUN TUTKU FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320281
-#EXTINF:-1 tvg-id="" tvg-name="RD: SIVAS FM" tvg-logo="https://i.imgur.com/GD2opWS.png" group-title="TR ➾ RADYO",RD: SIVAS FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320283
-#EXTINF:-1 tvg-id="" tvg-name="RD: SIVAS ZARA FM" tvg-logo="https://i.imgur.com/7YB3LGM.png" group-title="TR ➾ RADYO",RD: SIVAS ZARA FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320284
-#EXTINF:-1 tvg-id="" tvg-name="RD: SOYLU FM" tvg-logo="https://i.imgur.com/dbKa96Z.png" group-title="TR ➾ RADYO",RD: SOYLU FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320286
-#EXTINF:-1 tvg-id="" tvg-name="RD: TATVAN RADYO 13 FM" tvg-logo="https://i.imgur.com/Yx253Eq.png" group-title="TR ➾ RADYO",RD: TATVAN RADYO 13 FM
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/320287
+
 #EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ TURK YEREL █ ▆ ▅ ▃" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/turk-bayragi.png" group-title="TR ➾ YEREL",▃ ▅ ▆ █ TURK YEREL █ ▆ ▅ ▃
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/7510
 #EXTINF:-1 tvg-id="" tvg-name="TR: ADANA KOZA TV" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/yerel/adanakozatvhd.png" group-title="TR ➾ YEREL",TR: ADANA KOZA TV
@@ -1482,6 +1134,7 @@ http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/323651
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/82762
 #EXTINF:-1 tvg-id="" tvg-name="TR: ZONGULDAK KANAL Z" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/oval/tr/yerel/zonguldakkanalzhd.png" group-title="TR ➾ YEREL",TR: ZONGULDAK KANAL Z
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/7573
+
 #EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ NACHRICHTEN █ ▆ ▅ ▃" tvg-logo="" group-title="DE ➾ NEWS & DOKU & MUSIC",▃ ▅ ▆ █ NACHRICHTEN █ ▆ ▅ ▃
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/67323
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: n-tv FHD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/logos/ntv.png" group-title="DE ➾ NEWS & DOKU & MUSIC",DE: n-tv FHD
@@ -1515,109 +1168,6 @@ http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/67354
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE: Tagesschau 24 HD" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/germany/tag24.png" group-title="DE ➾ NEWS & DOKU & MUSIC",DE: Tagesschau 24 HD
 http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/33528
 
-#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ DE 24/7 Movies █ ▆ ▅ ▃" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/logozip/picons/flags/de.png" group-title="DE ➾ 24/7 Movies",▃ ▅ ▆ █ DE 24/7 Movies █ ▆ ▅ ▃
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/121686
-#EXTINF:-1 tvg-id="" tvg-name="DE: Fast & Furious HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Fast & Furious HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198752
-#EXTINF:-1 tvg-id="" tvg-name="DE: Lord Of The Rings HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Lord Of The Rings HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198557
-#EXTINF:-1 tvg-id="" tvg-name="DE: Der Hobbit HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Der Hobbit HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/140801
-#EXTINF:-1 tvg-id="" tvg-name="DE: Harry Potter HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Harry Potter HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198565
-#EXTINF:-1 tvg-id="" tvg-name="DE: Rambo HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Rambo HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/121968
-#EXTINF:-1 tvg-id="" tvg-name="DE: Rocky HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Rocky HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198581
-#EXTINF:-1 tvg-id="" tvg-name="DE: Indiana Jones HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Indiana Jones HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198598
-#EXTINF:-1 tvg-id="" tvg-name="DE: Resident Evil HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Resident Evil HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/140787
-#EXTINF:-1 tvg-id="" tvg-name="DE: Blade Runner HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Blade Runner HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/140869
-#EXTINF:-1 tvg-id="" tvg-name="DE: Die Hard HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Die Hard HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/140795
-#EXTINF:-1 tvg-id="" tvg-name="DE: Oceans HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Oceans HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/141358
-#EXTINF:-1 tvg-id="" tvg-name="DE: Hangover HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Hangover HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/140784
-#EXTINF:-1 tvg-id="" tvg-name="DE: Ice Age HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Ice Age HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198596
-#EXTINF:-1 tvg-id="" tvg-name="DE: Matrix HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Matrix HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198577
-#EXTINF:-1 tvg-id="" tvg-name="DE: Star Wars HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Star Wars HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198571
-#EXTINF:-1 tvg-id="" tvg-name="DE: X-Men HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: X-Men HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/140923
-#EXTINF:-1 tvg-id="" tvg-name="DE: Spider-Man HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Spider-Man HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198569
-#EXTINF:-1 tvg-id="" tvg-name="DE: Mission Impossibe HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Mission Impossibe HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198590
-#EXTINF:-1 tvg-id="" tvg-name="DE: Pirates of Caribbean HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Pirates of Caribbean HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198588
-#EXTINF:-1 tvg-id="" tvg-name="DE: Superman HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Superman HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198592
-#EXTINF:-1 tvg-id="" tvg-name="DE: Police Academy HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Police Academy HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198575
-#EXTINF:-1 tvg-id="" tvg-name="DE: Saw HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Saw HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198573
-#EXTINF:-1 tvg-id="" tvg-name="DE: Arnold Schwarzenegger HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Arnold Schwarzenegger HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198567
-#EXTINF:-1 tvg-id="" tvg-name="DE: Jackie Chan HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Jackie Chan HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/122042
-#EXTINF:-1 tvg-id="" tvg-name="DE: Jason Statham HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Jason Statham HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198445
-#EXTINF:-1 tvg-id="" tvg-name="DE: Samuel Jackson HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Samuel Jackson HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/140926
-#EXTINF:-1 tvg-id="" tvg-name="DE: JC Van Damme HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: JC Van Damme HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/140925
-#EXTINF:-1 tvg-id="" tvg-name="DE: Liam Neeson HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Liam Neeson HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198526
-#EXTINF:-1 tvg-id="" tvg-name="DE: Vin Diesel HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Vin Diesel HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/121974
-#EXTINF:-1 tvg-id="" tvg-name="DE: Steven Seagal HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Steven Seagal HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198561
-#EXTINF:-1 tvg-id="" tvg-name="DE: Johnny Depp HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Johnny Depp HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198481
-#EXTINF:-1 tvg-id="" tvg-name="DE: James Bond 007 HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: James Bond 007 HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198585
-#EXTINF:-1 tvg-id="" tvg-name="DE: Bruce Willis HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Bruce Willis HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198469
-#EXTINF:-1 tvg-id="" tvg-name="DE: Will Smith HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Will Smith HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198563
-#EXTINF:-1 tvg-id="" tvg-name="DE: Denzel Washington HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Denzel Washington HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198559
-#EXTINF:-1 tvg-id="" tvg-name="DE: Brad Pitt HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Brad Pitt HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198534
-#EXTINF:-1 tvg-id="" tvg-name="DE: Leonardo Di Caprio HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Leonardo Di Caprio HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198528
-#EXTINF:-1 tvg-id="" tvg-name="DE: Christian Bale HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Christian Bale HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198538
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tom Cruise HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Tom Cruise HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198522
-#EXTINF:-1 tvg-id="" tvg-name="DE: Daniel Radcliffe HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Daniel Radcliffe HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198553
-#EXTINF:-1 tvg-id="" tvg-name="DE: Russell Crowe HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Russell Crowe HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198524
-#EXTINF:-1 tvg-id="" tvg-name="DE: Keanu Reeves HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Keanu Reeves HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198555
-#EXTINF:-1 tvg-id="" tvg-name="DE: Jim Carrey HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Jim Carrey HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198532
-#EXTINF:-1 tvg-id="" tvg-name="DE: Mel Gibson HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Mel Gibson HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198579
-#EXTINF:-1 tvg-id="" tvg-name="DE: Tom Hanks HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Tom Hanks HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198583
-#EXTINF:-1 tvg-id="" tvg-name="DE: Robin Williams HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Robin Williams HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198594
-#EXTINF:-1 tvg-id="" tvg-name="DE: Anthony Hopkins HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Anthony Hopkins HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198530
-#EXTINF:-1 tvg-id="" tvg-name="DE: Dwayne Johnson HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Dwayne Johnson HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/140780
-#EXTINF:-1 tvg-id="" tvg-name="DE: Robert De Niro HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Robert De Niro HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198542
-#EXTINF:-1 tvg-id="" tvg-name="DE: Al Pacino HD 24/7" tvg-logo="http://img.vimgur.xyz:8080/Nakip3/logos/724/24-7.png" group-title="DE ➾ 24/7 Movies",DE: Al Pacino HD 24/7
-http://smsiptv.com:8080/KZBKtxXsW4/X5t4zdycSe/198447
-
 #EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NPO 1 LBR
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2110
 #EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NPO 2 LBR 
@@ -1638,7 +1188,7 @@ http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2124
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2136
 #EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",SBS 9 LBR 
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2132
-#EXTINF:-1,NET 5 LBR 
+#EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",NET 5 LBR 
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2138
 #EXTINF:-1 tvg-country="NL" group-title="HOLLAND TV",FOX LBR
 http://regotv.net:80/qyDKesiQyr/kIdAGmI1bJ/2134
