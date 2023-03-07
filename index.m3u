@@ -1,14 +1,14 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 19:38 05.03.2023 | YUKSELTV#
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 15:20 07.03.2023 | YUKSELTV#
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-1-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",TRT 1 HD | ULUSAL
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/show-tv-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",SHOW TV HD | ULUSAL
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/atv-tv-canli.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",ATV HD | ULUSAL
-https://ecanlitv4.etvserver.com:8081/atv.m3u8?tkn=hx2UpgbdPAMF5w8QtetEGQ&tms=1678050785
+https://ecanlitv4.etvserver.com:8081/atv.m3u8?tkn=wmkwy9KfNRqgNN_9civYyA&tms=1678209186
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-d-canli.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",KANAL D HD | ULUSAL
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-7-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",KANAL 7 HD | ULUSAL
-https://ecanlitv4.etvserver.com:8081/kanal7.m3u8?tkn=fIqCVofSRN6UmciDFqW_dQ&tms=1678050786
+https://ecanlitv4.etvserver.com:8081/kanal7.m3u8?tkn=wmkwy9KfNRqgNN_9civYyA&tms=1678209186
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/star-tv-izle-1.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",STAR TV HD | ULUSAL
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/beyaz-tv-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",BEYAZ TV HD | ULUSAL
@@ -59,31 +59,31 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/cnn-turk-canli-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",CNN TÜRK | HABER
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/haberturk-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",HABERTÜRK | HABER
-https://ecanlitv3.etvserver.com/live_sd/haberturk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjMgNzoxMzoxMSBQTSZoYXNoX3ZhbHVlPTkxOTdja0RZMHl2aUdMTEZtUVJDQ0E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://ecanlitv4.etvserver.com/live_sd/haberturk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjMgMzoxMzoxMSBQTSZoYXNoX3ZhbHVlPUtBbnFveG9aVFhrNGNrTjEzcTRWMUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/a-haber-canli.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",A HABER HD | HABER
-https://ecanlitv3.etvserver.com:8081/ahaber.m3u8?tkn=QcFruaZ0Jvway8DVMLA6Lg&tms=1678050791
+https://ecanlitv3.etvserver.com:8081/ahaber.m3u8?tkn=zpB67tw9UkIO6ECq3GN8Mw&tms=1678209191
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-haber-canli-izle-1.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",TRT HABER | HABER
-https://ecanlitv3.etvserver.com/live_sd/trthaber/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjMgNzoxMzoxMiBQTSZoYXNoX3ZhbHVlPU01RHVQbnZMWUdZVlA1QWs0eW5XZFE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://ecanlitv4.etvserver.com/live_sd/trthaber/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjMgMzoxMzoxMSBQTSZoYXNoX3ZhbHVlPUtBbnFveG9aVFhrNGNrTjEzcTRWMUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/ulke-tv-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",ÜLKE TV | HABER
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/haber-global-canli.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",HABER GLOBAL | HABER
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/benguturk-tv-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",BENGÜ TÜRK | HABER
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/ntv-hd-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",NTV HD | HABER
-https://ecanlitv3.etvserver.com:8081/ntv.m3u8?tkn=il7oV_Kvr4-bryt8YnlICQ&tms=1678050792
+https://ecanlitv3.etvserver.com:8081/ntv.m3u8?tkn=DKUYaYqVBF32cgrZZ8CMYw&tms=1678209192
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/bloomberg-ht-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",BLOOMBERG HT | HABER
-https://ecanlitv4.etvserver.com:8081/bloomberght.m3u8?tkn=il7oV_Kvr4-bryt8YnlICQ&tms=1678050792
+https://ecanlitv4.etvserver.com:8081/bloomberght.m3u8?tkn=DKUYaYqVBF32cgrZZ8CMYw&tms=1678209192
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-24-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",24 TV HD | HABER
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/akit-tv-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",AKİT TV | HABER
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/tvnet-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",TV NET | HABER
  https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/halk-tv-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",HALK TV HD | HABER
-https://ecanlitv4.etvserver.com:8081/halktv.m3u8?tkn=pWIGnuLap01Wm2e1JhUh3Q&tms=1678050793
+https://ecanlitv4.etvserver.com:8081/halktv.m3u8?tkn=4TUgA-0FYvGSwvQBVkU1QQ&tms=1678209193
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/euronews-turkce-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",EURONEWS TÜRKÇE | HABER
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/flash-tv-canli.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",FLASH HABER TV | HABER
-https://ecanlitv4.etvserver.com/live_sd/flashtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjMgNzoxMzoxMyBQTSZoYXNoX3ZhbHVlPU9OS2dBbzFjb3crRG9PUU5VN2hIUEE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://ecanlitv3.etvserver.com/live_sd/flashtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My83LzIwMjMgMzoxMzoxMyBQTSZoYXNoX3ZhbHVlPUczL3o5Z20vNXdubWYrdndFMHJXVXc9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/tbmm-tv-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",TBMM TV | HABER
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/anadolu-ajansi-aa-canli-izle.png" tvg-id2="MzY1MDI=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | YUKSELTV",ANADOLU AJANSI AA | HABER
