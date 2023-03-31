@@ -1,17 +1,17 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 12:20 30.03.2023 | TV#
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 13:26 31.03.2023 | TV#
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-1-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT 1 HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/atv-tv-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ATV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv4.etvserver.com:8081/atv.m3u8?tkn=VrY8dcGb3IFFoADhf57t3g&tms=1680185585
+https://ecanlitv4.etvserver.com:8081/atv.m3u8?tkn=laKrO1Bs5gzFJHvEQ790_g&tms=1680271985
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/show-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",SHOW TV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-d-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",KANAL D HD | ULUSAL
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-7-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",KANAL 7 HD | ULUSAL
-https://ecanlitv4.etvserver.com:8081/kanal7.m3u8?tkn=VrY8dcGb3IFFoADhf57t3g&tms=1680185585
+https://ecanlitv4.etvserver.com:8081/kanal7.m3u8?tkn=laKrO1Bs5gzFJHvEQ790_g&tms=1680271985
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/star-tv-izle-1.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",STAR TV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://dogus-live.daioncdn.net/startv/startv.m3u8
@@ -87,13 +87,13 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/haberturk-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",HABERTÜRK | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv4.etvserver.com/live_sd/haberturk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIzIDEyOjEzOjEwIFBNJmhhc2hfdmFsdWU9Q2h3K1k0ZWkvdk5YSjdxYmJLVkRXUT09JnZhbGlkbWludXRlcz0xMA==
+https://ecanlitv4.etvserver.com/live_sd/haberturk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIzIDEyOjEzOjEwIFBNJmhhc2hfdmFsdWU9T3VvN3R5YnRjOHNwcXgrLzlMQ1RaUT09JnZhbGlkbWludXRlcz0xMA==
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/a-haber-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",A HABER HD | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv3.etvserver.com:8081/ahaber.m3u8?tkn=UtTQGsBtqeNqpJNTVQZnEA&tms=1680185590
+https://ecanlitv3.etvserver.com:8081/ahaber.m3u8?tkn=_3TyKwtRsAbLC1fpX1dTLw&tms=1680271990
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-haber-canli-izle-1.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT HABER | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv3.etvserver.com/live_sd/trthaber/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIzIDEyOjEzOjExIFBNJmhhc2hfdmFsdWU9UEdDeVd4dVFJMUNncG9Ga2huMFNLQT09JnZhbGlkbWludXRlcz0xMA==
+https://ecanlitv4.etvserver.com/live_sd/trthaber/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIzIDEyOjEzOjExIFBNJmhhc2hfdmFsdWU9K0E5dXlTMzY0a2VVZy9xZHhWMllNZz09JnZhbGlkbWludXRlcz0xMA==
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/ulke-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ÜLKE TV | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/haber-global-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",HABER GLOBAL | HABER
@@ -104,10 +104,10 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/ntv-hd-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",NTV HD | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv3.etvserver.com:8081/ntv.m3u8?tkn=zPXnMyRXx-107IM8CANmog&tms=1680185591
+https://ecanlitv3.etvserver.com:8081/ntv.m3u8?tkn=oNTfqEkJlZN32nepudrCwA&tms=1680271991
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/bloomberg-ht-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",BLOOMBERG HT | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv4.etvserver.com:8081/bloomberght.m3u8?tkn=zPXnMyRXx-107IM8CANmog&tms=1680185591
+https://ecanlitv4.etvserver.com:8081/bloomberght.m3u8?tkn=oNTfqEkJlZN32nepudrCwA&tms=1680271991
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-24-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",24 TV HD | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/akit-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",AKİT TV | HABER
@@ -118,13 +118,13 @@ https://akittv-live.ercdn.net/akittv/akittv.m3u8
  https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/halk-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",HALK TV HD | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv4.etvserver.com:8081/halktv.m3u8?tkn=1vkC2X9dptHPb02sUBB82Q&tms=1680185592
+https://ecanlitv4.etvserver.com:8081/halktv.m3u8?tkn=puYMWFDnLVLzt0Nj2VYTZA&tms=1680271992
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/euronews-turkce-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",EURONEWS TÜRKÇE | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/flash-tv-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",FLASH HABER TV | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv4.etvserver.com/live_sd/flashtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIzIDEyOjEzOjEzIFBNJmhhc2hfdmFsdWU9WC9aWEFzUmF6eTE0a2VWd0g2WmNmZz09JnZhbGlkbWludXRlcz0xMA==
+https://ecanlitv4.etvserver.com/live_sd/flashtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIzIDEyOjEzOjEzIFBNJmhhc2hfdmFsdWU9SjJVNTRQR1dPblh2TDF1Tk16S3pQUT09JnZhbGlkbWludXRlcz0xMA==
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/tbmm-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TBMM TV | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
@@ -132,6 +132,365 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="========= TKIYE ULUSAL =========" tvg-logo="" group-title="TURK",========= TKIYE ULUSAL =========
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1091.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="TURK",TR: TRT 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1092.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 HD" tvg-logo="" group-title="TURK",TR: TRT 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1093.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK" tvg-logo="" group-title="TURK",TR: TRT TURK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1094.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="TURK",TR: ATV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1095.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="TURK",TR: SHOW TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1096.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="TURK",TR: STAR TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1097.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" tvg-logo="" group-title="TURK",TR: KANAL D HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1098.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV HD" tvg-logo="" group-title="TURK",TR: FOX TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1099.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 HD" tvg-logo="" group-title="TURK",TR: TV8 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1100.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 FHD" tvg-logo="" group-title="TURK",TR: TV 8.5 FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1101.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 FHD" tvg-logo="" group-title="TURK",TR: TEVE 2 FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1102.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 FHD" tvg-logo="" group-title="TURK",TR: A2 FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1103.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD" tvg-logo="" group-title="TURK",TR: BEYAZ TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1104.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD" tvg-logo="" group-title="TURK",TR: KANAL 7 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1105.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU FHD" tvg-logo="" group-title="TURK",TR: TGRT EU FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1106.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV HD" tvg-logo="" group-title="TURK",TR: 360 TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1107.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOWMAX" tvg-logo="" group-title="TURK",TR: SHOWMAX
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1108.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="TURK",TR: A HABER HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1109.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo="" group-title="TURK",TR: NTV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1110.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK HD" tvg-logo="" group-title="TURK",TR: HABERTURK HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1111.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK HD" tvg-logo="" group-title="TURK",TR: CNN TURK HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1112.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT" tvg-logo="" group-title="TURK",TR: BLOOMBERG HT
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1113.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV HD" tvg-logo="" group-title="TURK",TR: HALK TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1114.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL TV" tvg-logo="" group-title="TURK",TR: ULUSAL TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1115.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT HD" tvg-logo="" group-title="TURK",TR: KRT HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1116.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 HD" tvg-logo="" group-title="TURK",TR: TV 100 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1117.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER HD" tvg-logo="" group-title="TURK",TR: TGRT HABER HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1118.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVNET HD" tvg-logo="" group-title="TURK",TR: TVNET HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1119.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV HD" tvg-logo="" group-title="TURK",TR: ULKE TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1120.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="" group-title="TURK",TR: TRT 4K
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1122.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV" tvg-logo="" group-title="TURK",TR: 24 TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1123.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="" group-title="TURK",TR: YOL TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1124.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo="" group-title="TURK",TR: TELE 1
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1125.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERGHT TV" tvg-logo="" group-title="TURK",TR: BLOOMBERGHT TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1126.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC HD" tvg-logo="" group-title="TURK",TR: TLC HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1127.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="" group-title="TURK",TR: AKILLI TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1128.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK" tvg-logo="" group-title="TURK",TR: CARTOON NETWORK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1129.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL" tvg-logo="" group-title="TURK",TR: DISNEY CHANNEL
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1130.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="" group-title="TURK",TR: MINIKA COCUK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1133.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO" tvg-logo="" group-title="TURK",TR: MINIKA GO
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1134.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK HD" tvg-logo="" group-title="TURK",TR: TRT COCUK HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1135.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo="" group-title="TURK",TR: CEM TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1136.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA" tvg-logo="" group-title="TURK",TR: KANAL AVRUPA
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1139.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="TURK",TR: DREAM TURK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1141.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP" tvg-logo="" group-title="TURK",TR: KRAL POP
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1142.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV HD" tvg-logo="" group-title="TURK",TR: KRAL TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1143.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWERTURK FHD" tvg-logo="" group-title="TURK",TR: POWERTURK FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1144.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MELTEM TV" tvg-logo="" group-title="TURK",TR: MELTEM TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1145.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ" tvg-logo="" group-title="TURK",TR: TRT AVAZ
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1146.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER 61" tvg-logo="" group-title="TURK",TR: HABER 61
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1147.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRABZON TV" tvg-logo="" group-title="TURK",TR: TRABZON TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1148.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SRT Sivas" tvg-logo="" group-title="TURK",TR: SRT Sivas
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1150.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOCAELI TV" tvg-logo="" group-title="TURK",TR: KOCAELI TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1151.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HRT AKDENIZ" tvg-logo="" group-title="TURK",TR: HRT AKDENIZ
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1152.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 HD" tvg-logo="" group-title="TURK",TR: 24 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1153.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 26" tvg-logo="" group-title="TURK",TR: KANAL 26
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1154.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAMUKKALE TV" tvg-logo="" group-title="TURK",TR: PAMUKKALE TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1155.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL URFA" tvg-logo="" group-title="TURK",TR: KANAL URFA
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1157.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DEHA DENIZLI" tvg-logo="" group-title="TURK",TR: DEHA DENIZLI
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1158.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKO TK" tvg-logo="" group-title="TURK",TR: EKO TK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1159.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD" tvg-logo="" group-title="TURK",TR: TV 4 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1161.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV HD" tvg-logo="" group-title="TURK",TR: Can TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1163.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET HD" tvg-logo="" group-title="TURK",TR: TV NET HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1164.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KON TV HD" tvg-logo="" group-title="TURK",TR: KON TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1165.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri TV" tvg-logo="" group-title="TURK",TR: Kayseri TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1166.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVEM" tvg-logo="" group-title="TURK",TR: TVEM
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1167.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Avrupa" tvg-logo="" group-title="TURK",TR: Kanal 7 Avrupa
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1168.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: CIFTCI TV" tvg-logo="" group-title="TURK",TR: CIFTCI TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1169.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KENT TK" tvg-logo="" group-title="TURK",TR: KENT TK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1170.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Koy TV" tvg-logo="" group-title="TURK",TR: Koy TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1171.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANADOLU DERNEK" tvg-logo="" group-title="TURK",TR: ANADOLU DERNEK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1172.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ EN TV" tvg-logo="" group-title="TURK",TR: YILDIZ EN TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1173.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cay TV" tvg-logo="" group-title="TURK",TR: Cay TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1174.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ" tvg-logo="" group-title="TURK",TR: MAVI KARADENIZ
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1176.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT DIYANET" tvg-logo="" group-title="TURK",TR: TRT DIYANET
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1177.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND TV HD" tvg-logo="" group-title="TURK",TR: SEMERKAND TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1178.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Lalegul Tv" tvg-logo="" group-title="TURK",TR: Lalegul Tv
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1180.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: RUMELI TV" tvg-logo="" group-title="TURK",TR: RUMELI TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1181.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOST TV" tvg-logo="" group-title="TURK",TR: DOST TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1183.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EURO STAR" tvg-logo="" group-title="TURK",TR: EURO STAR
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1184.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK" tvg-logo="" group-title="TURK",TR: SHOW TURK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1185.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV AVRUPA" tvg-logo="" group-title="TURK",TR: ATV AVRUPA
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1186.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EURO D" tvg-logo="" group-title="TURK",TR: EURO D
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1187.ts
+#EXTINF:-1 tvg-id="" tvg-name="========= TKIYE BELGESEL =========" tvg-logo="" group-title="TURK",========= TKIYE BELGESEL =========
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1188.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI LEARNING HD" tvg-logo="" group-title="TURK",TR: DA VINCI LEARNING HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1189.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="" group-title="TURK",TR: DISCOVERY CHANNEL HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1190.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY CHANNEL HD" tvg-logo="" group-title="TURK",TR: HISTORY CHANNEL HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1191.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="TURK",TR: NATIONAL GEOGRAPHIC HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1192.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH" tvg-logo="" group-title="TURK",TR: BBC EARTH
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1193.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT BELGESEL" tvg-logo="" group-title="TURK",TR: TGRT BELGESEL
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1194.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL" tvg-logo="" group-title="TURK",TR: TRT BELGESEL
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1195.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Gurme HD" tvg-logo="" group-title="TURK",TR: beIN Gurme HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1196.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN IZ HD" tvg-logo="" group-title="TURK",TR: BEIN IZ HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1197.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 KITCHEN HD" tvg-logo="" group-title="TURK",TR: 24 KITCHEN HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1198.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART TURK HD" tvg-logo="" group-title="TURK",TR: MOVIESMART TURK HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1199.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK HD" tvg-logo="" group-title="TURK",TR: SMART COCUK HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1201.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART CLASSIC HD" tvg-logo="" group-title="TURK",TR: MOVIESMART CLASSIC HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1202.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART MAX HD" tvg-logo="" group-title="TURK",TR: DIZISMART MAX HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1203.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART PREMIUM" tvg-logo="" group-title="TURK",TR: DIZISMART PREMIUM
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1204.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies TURK HD*" tvg-logo="" group-title="TURK",TR: beIN Movies TURK HD*
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1205.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies ACTION HD" tvg-logo="" group-title="TURK",TR: beIN Movies ACTION HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1206.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies PREMIERE HD*" tvg-logo="" group-title="TURK",TR: beIN Movies PREMIERE HD*
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1208.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies PREMIERE 2 HD" tvg-logo="" group-title="TURK",TR: beIN Movies PREMIERE 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1209.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies ACTION 2 HD" tvg-logo="" group-title="TURK",TR: beIN Movies ACTION 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1210.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies FAMILY" tvg-logo="" group-title="TURK",TR: beIN Movies FAMILY
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1211.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series SIFI HD" tvg-logo="" group-title="TURK",TR: beIN Series SIFI HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1212.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series SCI-FY HD" tvg-logo="" group-title="TURK",TR: beIN Series SCI-FY HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1213.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Turk DRAMA HD" tvg-logo="" group-title="TURK",TR: Turk DRAMA HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1214.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series COMEDY HD" tvg-logo="" group-title="TURK",TR: beIN Series COMEDY HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1215.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV HD" tvg-logo="" group-title="TURK",TR: SINEMA TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1216.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 1001 HD" tvg-logo="" group-title="TURK",TR: SINEMA TV 1001 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1217.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV KOMEDI HD" tvg-logo="" group-title="TURK",TR: SINEMA TV KOMEDI HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1218.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AKSIYON HD" tvg-logo="" group-title="TURK",TR: SINEMA TV AKSIYON HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1219.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Crime HD" tvg-logo="" group-title="TURK",TR: Fox Crime HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1220.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="TURK",TR: FX HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1221.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM HD" tvg-logo="" group-title="TURK",TR: YESILCAM HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1222.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKISH CLUB HD" tvg-logo="" group-title="TURK",TR: TURKISH CLUB HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1223.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV" tvg-logo="" group-title="TURK",TR: KEMAL SUNAL TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1224.ts
+#EXTINF:-1 tvg-id="" tvg-name="========= TKIYE SINEMA =========" tvg-logo="" group-title="TURK",========= TKIYE SINEMA =========
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1225.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIES 1 HD" tvg-logo="" group-title="TURK",TR: MOVIES 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1227.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIES 2 HD" tvg-logo="" group-title="TURK",TR: MOVIES 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1228.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIES 3 HD" tvg-logo="" group-title="TURK",TR: MOVIES 3 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1229.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ANiMASYON" tvg-logo="" group-title="TURK",TR: ENO ANiMASYON
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1238.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO TURK 1" tvg-logo="" group-title="TURK",TR: ENO TURK 1
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1239.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 1" tvg-logo="" group-title="TURK",TR: ENO ViZYON 1
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1240.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 2" tvg-logo="" group-title="TURK",TR: ENO ViZYON 2
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1241.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 3" tvg-logo="" group-title="TURK",TR: ENO ViZYON 3
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1242.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 4" tvg-logo="" group-title="TURK",TR: ENO ViZYON 4
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1243.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 5" tvg-logo="" group-title="TURK",TR: ENO ViZYON 5
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1244.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 6" tvg-logo="" group-title="TURK",TR: ENO ViZYON 6
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1245.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 7" tvg-logo="" group-title="TURK",TR: ENO ViZYON 7
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1246.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 8" tvg-logo="" group-title="TURK",TR: ENO ViZYON 8
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1247.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 9" tvg-logo="" group-title="TURK",TR: ENO ViZYON 9
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1248.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 10" tvg-logo="" group-title="TURK",TR: ENO ViZYON 10
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1249.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 11" tvg-logo="" group-title="TURK",TR: ENO ViZYON 11
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1250.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 12" tvg-logo="" group-title="TURK",TR: ENO ViZYON 12
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1251.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 13" tvg-logo="" group-title="TURK",TR: ENO ViZYON 13
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1252.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 14" tvg-logo="" group-title="TURK",TR: ENO ViZYON 14
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1253.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 15" tvg-logo="" group-title="TURK",TR: ENO ViZYON 15
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1254.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ENO WESTERN" tvg-logo="" group-title="TURK",TR: ENO WESTERN
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1255.ts
+#EXTINF:-1 tvg-id="" tvg-name="========= SPOR =========" tvg-logo="" group-title="TURK",========= SPOR =========
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1269.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS HABER FHD" tvg-logo="" group-title="TURK",TR: BEINSPORTS HABER FHD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1270.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="" group-title="TURK",TR: TRT SPOR
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1271.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR" tvg-logo="" group-title="TURK",TR: A SPOR
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1272.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 1 HD" tvg-logo="" group-title="TURK",TR: BEINSPORTS 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1273.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 1 HD*" tvg-logo="" group-title="TURK",TR: BEINSPORTS 1 HD*
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1274.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 2 HD" tvg-logo="" group-title="TURK",TR: BEINSPORTS 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1275.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 2 HD YEDEK" tvg-logo="" group-title="TURK",TR: BEINSPORTS 2 HD YEDEK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1276.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 3 HD" tvg-logo="" group-title="TURK",TR: BEINSPORTS 3 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1277.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 3 HD YEDEK" tvg-logo="" group-title="TURK",TR: BEINSPORTS 3 HD YEDEK
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1278.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 4 HD" tvg-logo="" group-title="TURK",TR: BEINSPORTS 4 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1279.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="TURK",TR: BEIN SPORTS MAX 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1280.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="TURK",TR: BEIN SPORTS MAX 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1281.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="" group-title="TURK",TR: EUROSPORT 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1282.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SARAN SPOR HD" tvg-logo="" group-title="TURK",TR: SARAN SPOR HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1283.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART SPOR HD" tvg-logo="" group-title="TURK",TR: SMART SPOR HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1284.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR HD" tvg-logo="" group-title="TURK",TR: TIVIBU SPOR HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1285.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 HD" tvg-logo="" group-title="TURK",TR: TIVIBU SPOR 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1286.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 HD" tvg-logo="" group-title="TURK",TR: TIVIBU SPOR 3 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1287.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD" tvg-logo="" group-title="TURK",TR: DMAX HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1288.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV" tvg-logo="" group-title="TURK",TR: GS TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1289.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="" group-title="TURK",TR: FB TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1290.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV" tvg-logo="" group-title="TURK",TR: TAY TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1291.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV" tvg-logo="" group-title="TURK",TR: TJK TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1292.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1" tvg-logo="" group-title="TURK",TR: EUROSPORT 1
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1293.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2" tvg-logo="" group-title="TURK",TR: EUROSPORT 2
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1294.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="" group-title="TURK",TR: FB TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1295.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="" group-title="TURK",TR: NBA TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1297.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kurdisch Music" tvg-logo="" group-title="TURK",Kurdisch Music
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2619.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) AZ TV" tvg-logo="" group-title="TURK",(AZ) AZ TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2645.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Azad TV" tvg-logo="" group-title="TURK",(AZ) Azad TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2646.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) CBC" tvg-logo="" group-title="TURK",(AZ) CBC
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2647.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Dya TV" tvg-logo="" group-title="TURK",(AZ) Dya TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2650.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Ictimai TV" tvg-logo="" group-title="TURK",(AZ) Ictimai TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2652.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Idman TV" tvg-logo="" group-title="TURK",(AZ) Idman TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2653.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Space TV" tvg-logo="" group-title="TURK",(AZ) Space TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2655.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AZ) Xezer TV" tvg-logo="" group-title="TURK",(AZ) Xezer TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2656.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur TV" tvg-logo="" group-title="TURK",Guldur Guldur TV
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2864.ts
 
 #EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TR: TRT 4K" tvg-logo="http://imagizer.imageshack.com/v2/240x250q90/924/mO2DIp.png" tvg-id2="TV=" group-title="🇹🇷 TR 01 ♦【ULUSAL】",TRT 4K
 http://45.135.194.136:8080/LWU8udntBawv/mWGryj5uMQ8b/160629
