@@ -1061,47 +1061,46 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/1851
 #EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR: Ülke TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ba0296292e9bd2ba9d07bf35fd60ae3f.png" tvg-id2="TV=" group-title="🇹🇷 TR 02 ➾ Documentary",Ülke TV
 http://45.143.222.41:8080/dooby1312/b244f7ab/626
 
-EXTINF:-1 tvg-id="" tvg-name="========= NETHERLANDS =========" tvg-logo="" group-title="NETHERLANDS",========= NETHERLANDS =========
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 1 HD"
+#EXTINF:-1 tvg-id="NPO 1 HD" tvg-name="NL: NPO 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",NPO 1 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19312
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 1 EXTRA
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: NPO 1 EXTRA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",NPO 1 EXTRA
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19375
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 2 HD
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: NPO 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",NPO 2 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19313
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 3 HD
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: NPO 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",NPO 3 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19314
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO NIEUWS
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: NPO NIEUWS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",NPO NIEUWS
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19373
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO POLITIEK
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: NPO POLITIEK" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",NPO POLITIEK
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19374
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 4 HD
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: RTL 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",RTL 4 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19315
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 5 HD
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: RTL 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",RTL 5 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19316
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 7 HD
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: RTL 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",RTL 7 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19318
-#EXTINF:-1 tvg-id="" tvg-name="NL: NET 5 HD
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: NET 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",NET 5 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19321
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL 8 HD
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: RTL 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",RTL 8 HD
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19319
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL CRIME
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: RTL CRIME" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",RTL CRIME
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19329
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL LOUNGE HD
+#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: RTL LOUNGE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",RTL LOUNGE HD
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19328
-#EXTINF:-1 tvg-id="" tvg-name="NL: RTL Z
+#EXTINF:-1 tvg-id="RTL Z" tvg-name="NL: RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ LifeStyle",RTL Z
 #EXTVLCOPT:network-caching=1000
 http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19323
 
