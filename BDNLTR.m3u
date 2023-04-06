@@ -1,4 +1,4 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 12:16 06.04.2023 | TV#
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 13:01 06.04.2023 | TV#
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-1-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT 1 HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
@@ -1663,28 +1663,3 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/409
 http://45.143.222.41:8080/dooby1312/b244f7ab/2069
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDF Neo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ LifeStyle",ZDF Neo
 http://45.143.222.41:8080/dooby1312/b244f7ab/2070
-
-#EXTINF:-1 tvg-id="NPO 1 HD" tvg-name="NL: NPO 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",NPO 1 HD
-#EXTVLCOPT:network-caching=1000
-http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19312
-#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: NPO 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",NPO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19313
-#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: NPO 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",NPO 3 HD
-#EXTVLCOPT:network-caching=1000
-http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19314
-#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: RTL 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",RTL 4 HD
-#EXTVLCOPT:network-caching=1000
-http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19315
-#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: RTL 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",RTL 5 HD
-#EXTVLCOPT:network-caching=1000
-http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19316
-#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: RTL 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",RTL 7 HD
-#EXTVLCOPT:network-caching=1000
-http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19318
-#EXTINF:-1 tvg-id="NPO 1 EXTRA" tvg-name="NL: NET 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",NET 5 HD
-#EXTVLCOPT:network-caching=1000
-http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19321
-#EXTINF:-1 tvg-id="RTL Z" tvg-name="NL: RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",RTL Z
-#EXTVLCOPT:network-caching=1000
-http://stream.live-ip.tv:8080/E3rdnikolay@2023eedd/hXSVtYdBESsadadee/19323
