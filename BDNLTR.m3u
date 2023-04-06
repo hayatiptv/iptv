@@ -134,9 +134,9 @@ https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.
 
 
 #EXTINF:-1 tvg-id="" tvg-name="========= TKIYE ULUSAL =========" tvg-logo="" group-title="TURK",========= TKIYE ULUSAL =========
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1091.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="TURK",TR: TRT 1 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1092.ts
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sozcu TV HD" tvg-logo="" group-title="TURK",TR: Sozcu tv HD
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 HD" tvg-logo="" group-title="TURK",TR: TRT 2 HD
 http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1093.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK" tvg-logo="" group-title="TURK",TR: TRT TURK
