@@ -1657,9 +1657,11 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/29008
 http://45.143.222.41:8080/dooby1312/b244f7ab/297502
 #EXTINF:-1 tvg-id="" tvg-name="DE: XITE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/43156d70f81982317120ff6cc17232fb.png" tvg-id2="TV=" group-title="DE 🇩🇪 ",XITE
 http://45.143.222.41:8080/dooby1312/b244f7ab/281767
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ LifeStyle",ZDF
-http://45.143.222.41:8080/dooby1312/b244f7ab/409
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE: ZDF Info" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ LifeStyle",ZDF Info
-http://45.143.222.41:8080/dooby1312/b244f7ab/2069
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDF Neo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ LifeStyle",ZDF Neo
-http://45.143.222.41:8080/dooby1312/b244f7ab/2070
+#EXTINF:-1 tvg-id="" tvg-name="NL: 4K | NPO 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ NEDERLAND",4K | NPO 1
+http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/2995
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="NL: NPO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ NEDERLAND",4K | NPO 2
+http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/2996
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="NL: NET 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",Net 5
+http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/3003
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="NL: RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",RTL Z
+http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/3006
