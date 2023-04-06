@@ -4,14 +4,14 @@
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/atv-tv-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ATV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv4.etvserver.com:8081/atv.m3u8?tkn=dKdkhiOb_gDEQJkF0Y5U2Q&tms=1680790384
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/195
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/show-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",SHOW TV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-d-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",KANAL D HD | ULUSAL
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-7-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",KANAL 7 HD | ULUSAL
-https://ecanlitv4.etvserver.com:8081/kanal7.m3u8?tkn=iM21kOwbBcTcIsuJ27gwog&tms=1680790385
+http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/351
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/star-tv-izle-1.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",STAR TV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://dogus-live.daioncdn.net/startv/startv.m3u8
