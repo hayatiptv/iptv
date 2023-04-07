@@ -1,10 +1,10 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 13:01 06.04.2023 | TV#
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 10:44 07.04.2023 | TV#
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-1-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT 1 HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/atv-tv-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ATV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://localiptv.site:85/RedBoxBlackKill/WreQskkrZ12aXpl/195
+https://ecanlitv4.etvserver.com:8081/atv.m3u8?tkn=he1V7Udo-KkVLouU7cHEqg&tms=1680869585
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/show-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",SHOW TV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -87,13 +87,13 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/haberturk-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",HABERTÜRK | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv3.etvserver.com/live_sd/haberturk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjMgMTI6MTM6MDkgUE0maGFzaF92YWx1ZT10c1dTcTczS2RYU2NKbTlDODhZZEpnPT0mdmFsaWRtaW51dGVzPTEw
+https://ecanlitv4.etvserver.com/live_sd/haberturk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjMgMTA6MTM6MTAgQU0maGFzaF92YWx1ZT1uN1MyOEUyMytpSS9acmhqSnZRbjhBPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/a-haber-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",A HABER HD | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv3.etvserver.com:8081/ahaber.m3u8?tkn=KAs3DJQuqwZ3TstBVB6xbw&tms=1680790390
+https://ecanlitv3.etvserver.com:8081/ahaber.m3u8?tkn=2t70syHNXzSHOq2ywE5K2A&tms=1680869590
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-haber-canli-izle-1.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TRT HABER | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv3.etvserver.com/live_sd/trthaber/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjMgMTI6MTM6MTAgUE0maGFzaF92YWx1ZT15UWFHbmpPY3FJMjJhQWUyZUd2bm5RPT0mdmFsaWRtaW51dGVzPTEw
+https://ecanlitv3.etvserver.com/live_sd/trthaber/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjMgMTA6MTM6MTEgQU0maGFzaF92YWx1ZT1ReWNHWHNYaXd4ak1jSDZsSkFJUUFBPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/ulke-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ÜLKE TV | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/haber-global-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",HABER GLOBAL | HABER
@@ -104,10 +104,10 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/ntv-hd-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",NTV HD | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv3.etvserver.com:8081/ntv.m3u8?tkn=KAs3DJQuqwZ3TstBVB6xbw&tms=1680790390
+https://ecanlitv3.etvserver.com:8081/ntv.m3u8?tkn=fG8x0bgzaGHuG37ydukcyg&tms=1680869591
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/bloomberg-ht-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",BLOOMBERG HT | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv4.etvserver.com:8081/bloomberght.m3u8?tkn=KAs3DJQuqwZ3TstBVB6xbw&tms=1680790390
+https://ecanlitv4.etvserver.com:8081/bloomberght.m3u8?tkn=fG8x0bgzaGHuG37ydukcyg&tms=1680869591
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/kanal-24-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",24 TV HD | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/akit-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",AKİT TV | HABER
@@ -118,13 +118,13 @@ https://akittv-live.ercdn.net/akittv/akittv.m3u8
  https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/halk-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",HALK TV HD | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv4.etvserver.com:8081/halktv.m3u8?tkn=DUeUVZCSGcz-e0gEdtPZGg&tms=1680790391
+https://ecanlitv4.etvserver.com:8081/halktv.m3u8?tkn=d0abNSkeARIg0hfD-FIRLQ&tms=1680869592
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/euronews-turkce-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",EURONEWS TÜRKÇE | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/flash-tv-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",FLASH HABER TV | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv3.etvserver.com/live_sd/flashtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjMgMTI6MTM6MTIgUE0maGFzaF92YWx1ZT1aZ1Q5NzRSYlpCRHlPUmE4bkEzbGpRPT0mdmFsaWRtaW51dGVzPTEw
+https://ecanlitv3.etvserver.com/live_sd/flashtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjMgMTA6MTM6MTMgQU0maGFzaF92YWx1ZT1ZRDVDclNNTEZrcXNUazFJQktrelhRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/tbmm-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",TBMM TV | HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
@@ -133,364 +133,1006 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="========= TKIYE ULUSAL =========" tvg-logo="" group-title="TURK",========= TKIYE ULUSAL =========
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sozcu TV HD" tvg-logo="" group-title="TURK",TR: Sozcu tv HD
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 HD" tvg-logo="" group-title="TURK",TR: TRT 2 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1093.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK" tvg-logo="" group-title="TURK",TR: TRT TURK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1094.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="TURK",TR: ATV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1095.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="TURK",TR: SHOW TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1096.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="TURK",TR: STAR TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1097.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" tvg-logo="" group-title="TURK",TR: KANAL D HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1098.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV HD" tvg-logo="" group-title="TURK",TR: FOX TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1099.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV8 HD" tvg-logo="" group-title="TURK",TR: TV8 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1100.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 FHD" tvg-logo="" group-title="TURK",TR: TV 8.5 FHD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1101.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 FHD" tvg-logo="" group-title="TURK",TR: TEVE 2 FHD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1102.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 FHD" tvg-logo="" group-title="TURK",TR: A2 FHD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1103.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD" tvg-logo="" group-title="TURK",TR: BEYAZ TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1104.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD" tvg-logo="" group-title="TURK",TR: KANAL 7 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1105.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU FHD" tvg-logo="" group-title="TURK",TR: TGRT EU FHD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1106.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: 360 TV HD" tvg-logo="" group-title="TURK",TR: 360 TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1107.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOWMAX" tvg-logo="" group-title="TURK",TR: SHOWMAX
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1108.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="" group-title="TURK",TR: A HABER HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1109.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo="" group-title="TURK",TR: NTV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1110.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK HD" tvg-logo="" group-title="TURK",TR: HABERTURK HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1111.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK HD" tvg-logo="" group-title="TURK",TR: CNN TURK HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1112.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT" tvg-logo="" group-title="TURK",TR: BLOOMBERG HT
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1113.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV HD" tvg-logo="" group-title="TURK",TR: HALK TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1114.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL TV" tvg-logo="" group-title="TURK",TR: ULUSAL TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1115.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRT HD" tvg-logo="" group-title="TURK",TR: KRT HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1116.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 HD" tvg-logo="" group-title="TURK",TR: TV 100 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1117.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER HD" tvg-logo="" group-title="TURK",TR: TGRT HABER HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1118.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TVNET HD" tvg-logo="" group-title="TURK",TR: TVNET HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1119.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV HD" tvg-logo="" group-title="TURK",TR: ULKE TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1120.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="" group-title="TURK",TR: TRT 4K
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1122.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV" tvg-logo="" group-title="TURK",TR: 24 TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1123.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="" group-title="TURK",TR: YOL TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1124.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo="" group-title="TURK",TR: TELE 1
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1125.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERGHT TV" tvg-logo="" group-title="TURK",TR: BLOOMBERGHT TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1126.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TLC HD" tvg-logo="" group-title="TURK",TR: TLC HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1127.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="" group-title="TURK",TR: AKILLI TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1128.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK" tvg-logo="" group-title="TURK",TR: CARTOON NETWORK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1129.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL" tvg-logo="" group-title="TURK",TR: DISNEY CHANNEL
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1130.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK" tvg-logo="" group-title="TURK",TR: MINIKA COCUK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1133.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO" tvg-logo="" group-title="TURK",TR: MINIKA GO
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1134.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK HD" tvg-logo="" group-title="TURK",TR: TRT COCUK HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1135.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo="" group-title="TURK",TR: CEM TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1136.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA" tvg-logo="" group-title="TURK",TR: KANAL AVRUPA
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1139.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="TURK",TR: DREAM TURK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1141.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP" tvg-logo="" group-title="TURK",TR: KRAL POP
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1142.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL TV HD" tvg-logo="" group-title="TURK",TR: KRAL TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1143.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: POWERTURK FHD" tvg-logo="" group-title="TURK",TR: POWERTURK FHD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1144.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MELTEM TV" tvg-logo="" group-title="TURK",TR: MELTEM TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1145.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ" tvg-logo="" group-title="TURK",TR: TRT AVAZ
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1146.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER 61" tvg-logo="" group-title="TURK",TR: HABER 61
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1147.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRABZON TV" tvg-logo="" group-title="TURK",TR: TRABZON TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1148.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SRT Sivas" tvg-logo="" group-title="TURK",TR: SRT Sivas
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1150.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KOCAELI TV" tvg-logo="" group-title="TURK",TR: KOCAELI TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1151.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HRT AKDENIZ" tvg-logo="" group-title="TURK",TR: HRT AKDENIZ
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1152.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: 24 HD" tvg-logo="" group-title="TURK",TR: 24 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1153.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 26" tvg-logo="" group-title="TURK",TR: KANAL 26
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1154.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: PAMUKKALE TV" tvg-logo="" group-title="TURK",TR: PAMUKKALE TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1155.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL URFA" tvg-logo="" group-title="TURK",TR: KANAL URFA
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1157.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DEHA DENIZLI" tvg-logo="" group-title="TURK",TR: DEHA DENIZLI
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1158.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EKO TK" tvg-logo="" group-title="TURK",TR: EKO TK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1159.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD" tvg-logo="" group-title="TURK",TR: TV 4 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1161.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV HD" tvg-logo="" group-title="TURK",TR: Can TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1163.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET HD" tvg-logo="" group-title="TURK",TR: TV NET HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1164.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KON TV HD" tvg-logo="" group-title="TURK",TR: KON TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1165.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri TV" tvg-logo="" group-title="TURK",TR: Kayseri TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1166.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TVEM" tvg-logo="" group-title="TURK",TR: TVEM
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1167.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 Avrupa" tvg-logo="" group-title="TURK",TR: Kanal 7 Avrupa
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1168.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: CIFTCI TV" tvg-logo="" group-title="TURK",TR: CIFTCI TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1169.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KENT TK" tvg-logo="" group-title="TURK",TR: KENT TK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1170.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Koy TV" tvg-logo="" group-title="TURK",TR: Koy TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1171.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANADOLU DERNEK" tvg-logo="" group-title="TURK",TR: ANADOLU DERNEK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1172.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ EN TV" tvg-logo="" group-title="TURK",TR: YILDIZ EN TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1173.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cay TV" tvg-logo="" group-title="TURK",TR: Cay TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1174.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ" tvg-logo="" group-title="TURK",TR: MAVI KARADENIZ
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1176.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT DIYANET" tvg-logo="" group-title="TURK",TR: TRT DIYANET
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1177.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SEMERKAND TV HD" tvg-logo="" group-title="TURK",TR: SEMERKAND TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1178.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Lalegul Tv" tvg-logo="" group-title="TURK",TR: Lalegul Tv
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1180.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: RUMELI TV" tvg-logo="" group-title="TURK",TR: RUMELI TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1181.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DOST TV" tvg-logo="" group-title="TURK",TR: DOST TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1183.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EURO STAR" tvg-logo="" group-title="TURK",TR: EURO STAR
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1184.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK" tvg-logo="" group-title="TURK",TR: SHOW TURK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1185.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV AVRUPA" tvg-logo="" group-title="TURK",TR: ATV AVRUPA
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1186.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EURO D" tvg-logo="" group-title="TURK",TR: EURO D
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1187.ts
-#EXTINF:-1 tvg-id="" tvg-name="========= TKIYE BELGESEL =========" tvg-logo="" group-title="TURK",========= TKIYE BELGESEL =========
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1188.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI LEARNING HD" tvg-logo="" group-title="TURK",TR: DA VINCI LEARNING HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1189.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="" group-title="TURK",TR: DISCOVERY CHANNEL HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1190.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY CHANNEL HD" tvg-logo="" group-title="TURK",TR: HISTORY CHANNEL HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1191.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="TURK",TR: NATIONAL GEOGRAPHIC HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1192.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH" tvg-logo="" group-title="TURK",TR: BBC EARTH
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1193.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT BELGESEL" tvg-logo="" group-title="TURK",TR: TGRT BELGESEL
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1194.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL" tvg-logo="" group-title="TURK",TR: TRT BELGESEL
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1195.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Gurme HD" tvg-logo="" group-title="TURK",TR: beIN Gurme HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1196.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN IZ HD" tvg-logo="" group-title="TURK",TR: BEIN IZ HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1197.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: 24 KITCHEN HD" tvg-logo="" group-title="TURK",TR: 24 KITCHEN HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1198.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART TURK HD" tvg-logo="" group-title="TURK",TR: MOVIESMART TURK HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1199.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK HD" tvg-logo="" group-title="TURK",TR: SMART COCUK HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1201.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART CLASSIC HD" tvg-logo="" group-title="TURK",TR: MOVIESMART CLASSIC HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1202.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART MAX HD" tvg-logo="" group-title="TURK",TR: DIZISMART MAX HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1203.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART PREMIUM" tvg-logo="" group-title="TURK",TR: DIZISMART PREMIUM
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1204.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies TURK HD*" tvg-logo="" group-title="TURK",TR: beIN Movies TURK HD*
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1205.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies ACTION HD" tvg-logo="" group-title="TURK",TR: beIN Movies ACTION HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1206.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies PREMIERE HD*" tvg-logo="" group-title="TURK",TR: beIN Movies PREMIERE HD*
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1208.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies PREMIERE 2 HD" tvg-logo="" group-title="TURK",TR: beIN Movies PREMIERE 2 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1209.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies ACTION 2 HD" tvg-logo="" group-title="TURK",TR: beIN Movies ACTION 2 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1210.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies FAMILY" tvg-logo="" group-title="TURK",TR: beIN Movies FAMILY
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1211.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series SIFI HD" tvg-logo="" group-title="TURK",TR: beIN Series SIFI HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1212.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series SCI-FY HD" tvg-logo="" group-title="TURK",TR: beIN Series SCI-FY HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1213.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Turk DRAMA HD" tvg-logo="" group-title="TURK",TR: Turk DRAMA HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1214.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series COMEDY HD" tvg-logo="" group-title="TURK",TR: beIN Series COMEDY HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1215.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV HD" tvg-logo="" group-title="TURK",TR: SINEMA TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1216.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 1001 HD" tvg-logo="" group-title="TURK",TR: SINEMA TV 1001 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1217.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV KOMEDI HD" tvg-logo="" group-title="TURK",TR: SINEMA TV KOMEDI HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1218.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AKSIYON HD" tvg-logo="" group-title="TURK",TR: SINEMA TV AKSIYON HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1219.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Crime HD" tvg-logo="" group-title="TURK",TR: Fox Crime HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1220.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="TURK",TR: FX HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1221.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM HD" tvg-logo="" group-title="TURK",TR: YESILCAM HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1222.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKISH CLUB HD" tvg-logo="" group-title="TURK",TR: TURKISH CLUB HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1223.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV" tvg-logo="" group-title="TURK",TR: KEMAL SUNAL TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1224.ts
-#EXTINF:-1 tvg-id="" tvg-name="========= TKIYE SINEMA =========" tvg-logo="" group-title="TURK",========= TKIYE SINEMA =========
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1225.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIES 1 HD" tvg-logo="" group-title="TURK",TR: MOVIES 1 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1227.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIES 2 HD" tvg-logo="" group-title="TURK",TR: MOVIES 2 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1228.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIES 3 HD" tvg-logo="" group-title="TURK",TR: MOVIES 3 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1229.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ANiMASYON" tvg-logo="" group-title="TURK",TR: ENO ANiMASYON
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1238.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO TURK 1" tvg-logo="" group-title="TURK",TR: ENO TURK 1
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1239.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 1" tvg-logo="" group-title="TURK",TR: ENO ViZYON 1
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1240.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 2" tvg-logo="" group-title="TURK",TR: ENO ViZYON 2
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1241.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 3" tvg-logo="" group-title="TURK",TR: ENO ViZYON 3
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1242.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 4" tvg-logo="" group-title="TURK",TR: ENO ViZYON 4
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1243.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 5" tvg-logo="" group-title="TURK",TR: ENO ViZYON 5
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1244.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 6" tvg-logo="" group-title="TURK",TR: ENO ViZYON 6
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1245.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 7" tvg-logo="" group-title="TURK",TR: ENO ViZYON 7
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1246.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 8" tvg-logo="" group-title="TURK",TR: ENO ViZYON 8
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1247.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 9" tvg-logo="" group-title="TURK",TR: ENO ViZYON 9
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1248.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 10" tvg-logo="" group-title="TURK",TR: ENO ViZYON 10
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1249.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 11" tvg-logo="" group-title="TURK",TR: ENO ViZYON 11
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1250.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 12" tvg-logo="" group-title="TURK",TR: ENO ViZYON 12
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1251.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 13" tvg-logo="" group-title="TURK",TR: ENO ViZYON 13
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1252.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 14" tvg-logo="" group-title="TURK",TR: ENO ViZYON 14
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1253.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO ViZYON 15" tvg-logo="" group-title="TURK",TR: ENO ViZYON 15
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1254.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ENO WESTERN" tvg-logo="" group-title="TURK",TR: ENO WESTERN
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1255.ts
-#EXTINF:-1 tvg-id="" tvg-name="========= SPOR =========" tvg-logo="" group-title="TURK",========= SPOR =========
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1269.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS HABER FHD" tvg-logo="" group-title="TURK",TR: BEINSPORTS HABER FHD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1270.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="" group-title="TURK",TR: TRT SPOR
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1271.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR" tvg-logo="" group-title="TURK",TR: A SPOR
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1272.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 1 HD" tvg-logo="" group-title="TURK",TR: BEINSPORTS 1 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1273.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 1 HD*" tvg-logo="" group-title="TURK",TR: BEINSPORTS 1 HD*
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1274.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 2 HD" tvg-logo="" group-title="TURK",TR: BEINSPORTS 2 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1275.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 2 HD YEDEK" tvg-logo="" group-title="TURK",TR: BEINSPORTS 2 HD YEDEK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1276.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 3 HD" tvg-logo="" group-title="TURK",TR: BEINSPORTS 3 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1277.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 3 HD YEDEK" tvg-logo="" group-title="TURK",TR: BEINSPORTS 3 HD YEDEK
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1278.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEINSPORTS 4 HD" tvg-logo="" group-title="TURK",TR: BEINSPORTS 4 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1279.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="TURK",TR: BEIN SPORTS MAX 1 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1280.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="TURK",TR: BEIN SPORTS MAX 2 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1281.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="" group-title="TURK",TR: EUROSPORT 1 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1282.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SARAN SPOR HD" tvg-logo="" group-title="TURK",TR: SARAN SPOR HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1283.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: SMART SPOR HD" tvg-logo="" group-title="TURK",TR: SMART SPOR HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1284.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR HD" tvg-logo="" group-title="TURK",TR: TIVIBU SPOR HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1285.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 HD" tvg-logo="" group-title="TURK",TR: TIVIBU SPOR 2 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1286.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 HD" tvg-logo="" group-title="TURK",TR: TIVIBU SPOR 3 HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1287.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD" tvg-logo="" group-title="TURK",TR: DMAX HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1288.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV" tvg-logo="" group-title="TURK",TR: GS TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1289.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="" group-title="TURK",TR: FB TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1290.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV" tvg-logo="" group-title="TURK",TR: TAY TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1291.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV" tvg-logo="" group-title="TURK",TR: TJK TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1292.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1" tvg-logo="" group-title="TURK",TR: EUROSPORT 1
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1293.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2" tvg-logo="" group-title="TURK",TR: EUROSPORT 2
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1294.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="" group-title="TURK",TR: FB TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1295.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="" group-title="TURK",TR: NBA TV HD
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1297.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kurdisch Music" tvg-logo="" group-title="TURK",Kurdisch Music
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2619.ts
-#EXTINF:-1 tvg-id="" tvg-name="(AZ) AZ TV" tvg-logo="" group-title="TURK",(AZ) AZ TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2645.ts
-#EXTINF:-1 tvg-id="" tvg-name="(AZ) Azad TV" tvg-logo="" group-title="TURK",(AZ) Azad TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2646.ts
-#EXTINF:-1 tvg-id="" tvg-name="(AZ) CBC" tvg-logo="" group-title="TURK",(AZ) CBC
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2647.ts
-#EXTINF:-1 tvg-id="" tvg-name="(AZ) Dya TV" tvg-logo="" group-title="TURK",(AZ) Dya TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2650.ts
-#EXTINF:-1 tvg-id="" tvg-name="(AZ) Ictimai TV" tvg-logo="" group-title="TURK",(AZ) Ictimai TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2652.ts
-#EXTINF:-1 tvg-id="" tvg-name="(AZ) Idman TV" tvg-logo="" group-title="TURK",(AZ) Idman TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2653.ts
-#EXTINF:-1 tvg-id="" tvg-name="(AZ) Space TV" tvg-logo="" group-title="TURK",(AZ) Space TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2655.ts
-#EXTINF:-1 tvg-id="" tvg-name="(AZ) Xezer TV" tvg-logo="" group-title="TURK",(AZ) Xezer TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2656.ts
-#EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur TV" tvg-logo="" group-title="TURK",Guldur Guldur TV
-http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/2864.ts
+#EXTINF:0 CUID="26526" tvg-name="TRT 2 HD" tvg-id="trt.pl" tvg-logo="http://3.bp.blogspot.com/-A3hoIQwC6p8/XpXMicQCq_I/AAAAAAAAYUE/YycJhKf-nfAFRLfh_fj65SVRtnb_c3jhwCLcBGAsYHQ/s1600/trt2.jpg" group-title="Free IPTV Türkei",TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26527" tvg-name="KANAL D HD" tvg-id="kanald.tr" tvg-logo="http://1.bp.blogspot.com/-IO3JWqWeWKs/Xk14fjxOjfI/AAAAAAAAYEM/BJAkaa1cAwMW_aCBV-cs8UDGRhufCZaSgCLcBGAsYHQ/s1600/kanald.jpg" group-title="Free IPTV Türkei",KANAL D HD
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:0 CUID="26528" tvg-name="KANAL D Seçenek 2" tvg-logo="http://1.bp.blogspot.com/-IO3JWqWeWKs/Xk14fjxOjfI/AAAAAAAAYEM/BJAkaa1cAwMW_aCBV-cs8UDGRhufCZaSgCLcBGAsYHQ/s1600/kanald.jpg" group-title="Free IPTV Türkei",KANAL D Seçenek 2
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:0 CUID="26529" tvg-name="KANAL D Seçenek 3" tvg-logo="http://1.bp.blogspot.com/-IO3JWqWeWKs/Xk14fjxOjfI/AAAAAAAAYEM/BJAkaa1cAwMW_aCBV-cs8UDGRhufCZaSgCLcBGAsYHQ/s1600/kanald.jpg" group-title="Free IPTV Türkei",KANAL D Seçenek 3
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
+#EXTINF:0 CUID="26530" tvg-name="EURO D" tvg-id="eurod.tr" tvg-logo="http://4.bp.blogspot.com/-Y25XNw4NJJc/Vpge3JqzuSI/AAAAAAAANr8/zmpKdBpbVXY/s1600/eurod.jpg" group-title="Free IPTV Türkei",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:0 CUID="26531" tvg-name="STAR TV" tvg-id="starstv.pl" tvg-logo="http://4.bp.blogspot.com/-hQx6pQycT50/Xk15lvb9I7I/AAAAAAAAYFM/duGh4WrAxDEdZBjdlyNAcCEd8LSHPoqPgCLcBGAsYHQ/s1600/star.jpg" group-title="Free IPTV Türkei",STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0 CUID="26532" tvg-name="STAR TV Seçenek 2" tvg-logo="http://4.bp.blogspot.com/-hQx6pQycT50/Xk15lvb9I7I/AAAAAAAAYFM/duGh4WrAxDEdZBjdlyNAcCEd8LSHPoqPgCLcBGAsYHQ/s1600/star.jpg" group-title="Free IPTV Türkei",STAR TV Seçenek 2
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:0 CUID="26533" tvg-name="STAR TV Seçenek 3" tvg-logo="http://4.bp.blogspot.com/-hQx6pQycT50/Xk15lvb9I7I/AAAAAAAAYFM/duGh4WrAxDEdZBjdlyNAcCEd8LSHPoqPgCLcBGAsYHQ/s1600/star.jpg" group-title="Free IPTV Türkei",STAR TV Seçenek 3
+https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
+#EXTINF:0 CUID="26534" tvg-name="ATV" tvg-id="atv.pl" tvg-logo="http://1.bp.blogspot.com/-U4xutt1JanQ/YDgChipuQDI/AAAAAAAAZHw/7AMkl48ooZIPJBJyZPpmkFWV14ECTtNawCLcBGAsYHQ/s0/atv.jpg" group-title="Free IPTV Türkei",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:0 CUID="26535" tvg-name="ATV Seçenek 2" tvg-id="atvii.tr" tvg-logo="http://1.bp.blogspot.com/-U4xutt1JanQ/YDgChipuQDI/AAAAAAAAZHw/7AMkl48ooZIPJBJyZPpmkFWV14ECTtNawCLcBGAsYHQ/s0/atv.jpg" group-title="Free IPTV Türkei",ATV Seçenek 2
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:0 CUID="26536" tvg-name="ATV Avrupa" tvg-id="atvavrupa.tr" tvg-logo="http://1.bp.blogspot.com/-Va5cqWivmfs/YDgLAdXTpMI/AAAAAAAAZH4/ZxsRQ1VpDygX4p7pNjpJGzseyRW6y1TgQCLcBGAsYHQ/s0/atvavrupa.jpg" group-title="Free IPTV Türkei",ATV Avrupa
+https://mugla.tvizlehd.com/live/atvavrupa.m3u8
+#EXTINF:0 CUID="26537" tvg-name="SHOW TV Seçenek 2" tvg-logo="http://2.bp.blogspot.com/-EwZbDF8eH5I/Xk15PlM24eI/AAAAAAAAYE4/szzDkqCqHCAAAVsae9gff9zhw3rspBxMACLcBGAsYHQ/s1600/show.jpg" group-title="Free IPTV Türkei",SHOW TV Seçenek 2
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:0 CUID="26538" tvg-name="SHOWTÜRK" tvg-id="showtürk.tr" tvg-logo="http//3.bp.blogspot.com/-dr4yg0VH3tk/VpicofcMdwI/AAAAAAAANtI/XJuCM_P7Y6Q/s1600/showturk.jpg" group-title="Free IPTV Türkei",SHOWTÜRK
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+#EXTINF:0 CUID="26539" tvg-name="FLASH TV" tvg-id="flashtv.tr" tvg-logo="http://1.bp.blogspot.com/-nU8xNkG_EzI/VpjhlwRk0VI/AAAAAAAANx4/Y0-vvrS2u4w/s1600/flashtv.jpg" group-title="Free IPTV Türkei",FLASH TV
+https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:0 CUID="26540" tvg-name="KANAL 7 Seçenek 2" tvg-id="kanal7eu.tr" tvg-logo="http://4.bp.blogspot.com/-8IFXlFBoUPE/Xk14RtUjVtI/AAAAAAAAYEE/6trsdmMIibAkxZkslLedOeCAbsWw8z94QCLcBGAsYHQ/s1600/kanal7.jpg" group-title="Free IPTV Türkei",KANAL 7 Seçenek 2
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+#EXTINF:0 CUID="26541" tvg-name="TV8 İNT" tvg-id="tv8int.tr" tvg-logo="http://3.bp.blogspot.com/-7ZzH3fcEAiI/WSgIO7Q1uTI/AAAAAAAAQ1A/bIWQ6-WA3Qg2uyS1pTABExpEmmE-jDiCwCLcB/s1600/tv8int.jpg" group-title="Free IPTV Türkei",TV8 İNT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
+#EXTINF:0 CUID="26542" tvg-name="TV8,5" tvg-id="tv85.tr" tvg-logo="http://1.bp.blogspot.com/-dkQ8Bj5p8TI/Xk17cYiKs8I/AAAAAAAAYG0/GqoXNkhopBY7zG_8sekMaBcQrcI7-loAgCLcBGAsYHQ/s1600/tv85.jpg" group-title="Free IPTV Türkei",TV8,5
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:0 CUID="26543" tvg-name="TEVE 2" tvg-id="teve2.tr" tvg-logo="http://4.bp.blogspot.com/-V3yzVw-1ylw/Xk17K1hNGoI/AAAAAAAAYGo/bS99KITAbnYsmqnAuvMnDxoiim4yP9pZQCLcBGAsYHQ/s1600/tv2.jpg" group-title="Free IPTV Türkei",TEVE 2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:0 CUID="26544" tvg-name="TEVE 2 Seçenek 2" tvg-logo="http://4.bp.blogspot.com/-V3yzVw-1ylw/Xk17K1hNGoI/AAAAAAAAYGo/bS99KITAbnYsmqnAuvMnDxoiim4yP9pZQCLcBGAsYHQ/s1600/tv2.jpg" group-title="Free IPTV Türkei",TEVE 2 Seçenek 2
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+#EXTINF:0 CUID="26545" tvg-name="BEYAZ TV Seçenek 2" tvg-id="beyaztv.tr" tvg-logo="http://2.bp.blogspot.com/-WIZj8EQ1Lkk/Xk12LoHPK-I/AAAAAAAAYCg/lPiAj54bJqcH7WJRWbKKgCurctUjWKt9gCLcBGAsYHQ/s1600/beyaz.jpg" group-title="Free IPTV Türkei",BEYAZ TV Seçenek 2
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:0 CUID="26546" tvg-name="UÇANKUŞ TV Seçenek 2" tvg-id="uçankuştv.tr" tvg-logo="http://3.bp.blogspot.com/-N0Ir1D0vMwk/XniqX_X_skI/AAAAAAAAYLA/hiSqrpVyPC8LuEqykEka7dql3IPcQkKXQCLcBGAsYHQ/s1600/utv.jpg" group-title="Free IPTV Türkei",UÇANKUŞ TV Seçenek 2
+https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
+#EXTINF:0 CUID="26547" tvg-name="360TV Seçenek 2" tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg" group-title="Free IPTV Türkei",360TV Seçenek 2
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:0 CUID="26548" tvg-name="360 TV Seçenek 3" tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg" group-title="Free IPTV Türkei",360 TV Seçenek 3
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:0 CUID="26549" tvg-name="TV4 Seçenek 2" tvg-logo="http://2.bp.blogspot.com/-46czuMBJO2I/VpZe7D0WjnI/AAAAAAAANhE/nb0lOWk_bNw/s1600/tv4.jpg" group-title="Free IPTV Türkei",TV4 Seçenek 2
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
+#EXTINF:0 CUID="26550" tvg-name="TRT TÜRK Seçenek 2" tvg-logo="http://3.bp.blogspot.com/-8FZj4EuYcAk/Xk16-OoCJTI/AAAAAAAAYGg/TSbUsQycJEgluOag9KUoNQTpTVMVBp_eQCLcBGAsYHQ/s1600/trtturk.jpg" group-title="Free IPTV Türkei",TRT TÜRK Seçenek 2
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+#EXTINF:0 CUID="26551" tvg-name="TRT KURDÎ Seçenek 2" tvg-id="trtkurdî.tr" tvg-logo="http://1.bp.blogspot.com/-ScA9sOi5O_U/Xk16p81BJBI/AAAAAAAAYGQ/jp3Zpd_3GPwqYaGIHQVh9gEuAzgpiRqWQCLcBGAsYHQ/s1600/trtkurt.jpg" group-title="Free IPTV Türkei",TRT KURDÎ Seçenek 2
+https://mn-nl.mncdn.com/blutv_trtkurdi2/live.m3u8
+#EXTINF:0 CUID="26552" tvg-name="TV5" tvg-logo="http://3.bp.blogspot.com/-Hcl7-INrj1E/XniJb-V3wCI/AAAAAAAAYKg/QCTSZsb23ukEyWaga427xWw3XuYDvfQdgCLcBGAsYHQ/s1600/tv5.jpg" group-title="Free IPTV Türkei",TV5
+https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8
+#EXTINF:0 CUID="26553" tvg-name="İBB TV" tvg-logo="http://1.bp.blogspot.com/-6siWDPfE02E/XX_Eg4_OpGI/AAAAAAAAXu0/6A02XsgXSE4v0PaE6DPo_xz6hq7OMOTrQCLcBGAsYHQ/s1600/ibbtv.jpg" group-title="Free IPTV Türkei",İBB TV
+https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:0 CUID="26554" tvg-name="BRT 1 HD" tvg-logo="http://4.bp.blogspot.com/-JLI1IC4xAVs/WXX6UE4oPDI/AAAAAAAATcg/wJmdW-LuUAg0skW45El-hbiH1y7yt6yewCLcBGAs/s1600/brt1hd.jpg" group-title="Free IPTV Türkei",BRT 1 HD
+https://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+#EXTINF:0 CUID="26555" tvg-name="BRT 1 HD Seçenek 2" tvg-logo="http://4.bp.blogspot.com/-JLI1IC4xAVs/WXX6UE4oPDI/AAAAAAAATcg/wJmdW-LuUAg0skW45El-hbiH1y7yt6yewCLcBGAs/s1600/brt1hd.jpg" group-title="Free IPTV Türkei",BRT 1 HD Seçenek 2
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:0 CUID="26556" tvg-name="BRT 2 HD" tvg-logo="http://1.bp.blogspot.com/-r3G0gLEdhV8/XniV2ygulfI/AAAAAAAAYK4/iH-u583-ipQK5UXi3UOx5jw8oPA5ZYcawCLcBGAsYHQ/s1600/brt2.jpg" group-title="Free IPTV Türkei",BRT 2 HD
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:0 CUID="26557" tvg-name="FORTUNA TÜRK TV" tvg-logo="http://2.bp.blogspot.com/-m30_vgaxD34/XGAHlDIDbmI/AAAAAAAAXJE/RQvT7XJtIyYR-l-oGIYCBAVh4O8IJ1cFwCLcBGAs/s1600/ftv.jpg" group-title="Free IPTV Türkei",FORTUNA TÜRK TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0 CUID="26558" tvg-name="DMAX" tvg-id="dmax.pl" tvg-logo="http://3.bp.blogspot.com/-v3on2BzICQM/WrY1D1WtlcI/AAAAAAAAV6U/pjcWH0uEPXcHfSDhM3RWk7epDGm_ViPzACLcBGAs/s1600/dmax.jpg" group-title="Free IPTV Türkei",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0 CUID="26559" tvg-name="TLC" tvg-id="tlc.pl" tvg-logo="http://4.bp.blogspot.com/-Chn9XYnxLDA/WXF_SSV5-7I/AAAAAAAATZs/_tQCIHsmiV8o5nxQQjwYc54CTcmNnCegwCLcBGAs/s1600/tlc.jpg" group-title="Free IPTV Türkei",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0 CUID="26560" tvg-name="TLC Seçenek 2" tvg-logo="http://4.bp.blogspot.com/-Chn9XYnxLDA/WXF_SSV5-7I/AAAAAAAATZs/_tQCIHsmiV8o5nxQQjwYc54CTcmNnCegwCLcBGAs/s1600/tlc.jpg" group-title="Free IPTV Türkei",TLC Seçenek 2
+https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
+#EXTINF:0 CUID="26561" tvg-name="TRT HABER HD" tvg-id="trthaber.tr" tvg-logo="http://3.bp.blogspot.com/-Mpdmk08YCvM/Xk16jQ-yhfI/AAAAAAAAYGI/1fWSaSPRP1oeAxhcBRrAuECMkFuSb3LdACLcBGAsYHQ/s1600/trthaber.jpg" group-title="Free IPTV Türkei",TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26562" tvg-name="TRT HABER Seçenek 2" tvg-id="trthaber.tr" tvg-logo="http://3.bp.blogspot.com/-Mpdmk08YCvM/Xk16jQ-yhfI/AAAAAAAAYGI/1fWSaSPRP1oeAxhcBRrAuECMkFuSb3LdACLcBGAsYHQ/s1600/trthaber.jpg" group-title="Free IPTV Türkei",TRT HABER Seçenek 2
+https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
+#EXTINF:0 CUID="26563" tvg-name="TRT WORLD" tvg-id="trtworld.tr" tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg" group-title="Free IPTV Türkei",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26564" tvg-name="TRT WORLD Seçenek 2" tvg-id="trtworld.tr" tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg" group-title="Free IPTV Türkei",TRT WORLD Seçenek 2
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
+#EXTINF:0 CUID="26565" tvg-name="TRT ARAPÇA" tvg-logo="http://4.bp.blogspot.com/-1YDMoxp-0jg/Xk16AwUlBuI/AAAAAAAAYFo/hScVhQ63V0gKd3ch2zTTM1O4S7vfgnlHQCLcBGAsYHQ/s1600/trtarap.jpg" group-title="Free IPTV Türkei",TRT ARAPÇA
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26566" tvg-name="TRT ARAPÇA Seçenek 2" tvg-logo="http://4.bp.blogspot.com/-1YDMoxp-0jg/Xk16AwUlBuI/AAAAAAAAYFo/hScVhQ63V0gKd3ch2zTTM1O4S7vfgnlHQCLcBGAsYHQ/s1600/trtarap.jpg" group-title="Free IPTV Türkei",TRT ARAPÇA Seçenek 2
+https://mn-nl.mncdn.com/blutv_arapca2/live.m3u8
+#EXTINF:0 CUID="26567" tvg-name="METEOROLOJİ TV" tvg-logo="http://4.bp.blogspot.com/-nIrolRDL9BU/Xo89zIdaQgI/AAAAAAAAYTs/6FucoGvixosDRFOzGxqzYZTO1DwTKm1BgCLcBGAsYHQ/s1600/mgm.jpg" group-title="Free IPTV Türkei",METEOROLOJİ TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/playlist.m3u8
+#EXTINF:0 CUID="26568" tvg-name="TELE 1" tvg-id="tele5.pl" tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg" group-title="Free IPTV Türkei",TELE 1
+https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
+#EXTINF:0 CUID="26569" tvg-name="TELE 1 Seçenek 2" tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg" group-title="Free IPTV Türkei",TELE 1 Seçenek 2
+http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
+#EXTINF:0 CUID="26570" tvg-name="HALK TV" tvg-id="halktv.tr" tvg-logo="http://4.bp.blogspot.com/-ldTBFkOJt-I/Xk14FDfkCvI/AAAAAAAAYD8/YFWglX_FvOE1qhTsWQTZGE9fvpz398d-gCLcBGAsYHQ/s1600/halk.jpg" group-title="Free IPTV Türkei",HALK TV
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:0 CUID="26571" tvg-name="HALK TV Seçenek 2" tvg-logo="http://4.bp.blogspot.com/-ldTBFkOJt-I/Xk14FDfkCvI/AAAAAAAAYD8/YFWglX_FvOE1qhTsWQTZGE9fvpz398d-gCLcBGAsYHQ/s1600/halk.jpg" group-title="Free IPTV Türkei",HALK TV Seçenek 2
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:0 CUID="26572" tvg-name="YOL TV Seçenek 2" tvg-logo="http://3.bp.blogspot.com/-wQkjbHHU9eQ/XO9mgPFgZVI/AAAAAAAAXiE/t9BzVFXzBDoQUPTnvlw5V-31Qo1priX2ACLcBGAs/s1600/yol.jpg" group-title="Free IPTV Türkei",YOL TV Seçenek 2
+http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:0 CUID="26573" tvg-name="KRT" tvg-id="krt.tr" tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg" group-title="Free IPTV Türkei",KRT
+http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:0 CUID="26574" tvg-name="KRT Seçenek 2" tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg" group-title="Free IPTV Türkei",KRT Seçenek 2
+https://mn-nl.mncdn.com/blutv_krt/live.m3u8
+#EXTINF:0 CUID="26575" tvg-name="TV100 Seçenek 2" tvg-logo="http://1.bp.blogspot.com/-ZsohAG3j56M/VqnQp_YuB1I/AAAAAAAAPcY/fejykA_LhGM/s1600/tv100.jpg" group-title="Free IPTV Türkei",TV100 Seçenek 2
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:0 CUID="26576" tvg-name="CNN TÜRK" tvg-id="cnntürk.tr" tvg-logo="http://1.bp.blogspot.com/-mY27Z4oCXsA/Xk12n6uos0I/AAAAAAAAYC8/X3lqz7Yf8nc0tYkmPZ59T_YimeNcgct2gCLcBGAsYHQ/s1600/cnnturk.jpg" group-title="Free IPTV Türkei",CNN TÜRK
+https://media.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:0 CUID="26577" tvg-name="CNN TÜRK Seçenek 2" tvg-id="cnntürk.tr" tvg-logo="http://1.bp.blogspot.com/-mY27Z4oCXsA/Xk12n6uos0I/AAAAAAAAYC8/X3lqz7Yf8nc0tYkmPZ59T_YimeNcgct2gCLcBGAsYHQ/s1600/cnnturk.jpg" group-title="Free IPTV Türkei",CNN TÜRK Seçenek 2
+https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
+#EXTINF:0 CUID="26578" tvg-name="NTV Seçenek 2" tvg-logo="http://4.bp.blogspot.com/-1Ow3hobafk4/Xk147E-viaI/AAAAAAAAYEk/3Y7faE9on_M58Pg9R9nD2Gnc433wphMrACLcBGAsYHQ/s1600/ntv.jpg" group-title="Free IPTV Türkei",NTV Seçenek 2
+https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
+#EXTINF:0 CUID="26579" tvg-name="NTV Seçenek 3" tvg-logo="http://4.bp.blogspot.com/-1Ow3hobafk4/Xk147E-viaI/AAAAAAAAYEk/3Y7faE9on_M58Pg9R9nD2Gnc433wphMrACLcBGAsYHQ/s1600/ntv.jpg" group-title="Free IPTV Türkei",NTV Seçenek 3
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
+#EXTINF:0 CUID="26580" tvg-name="HABERTURK TV" tvg-id="haberturk.tr" tvg-logo="http://4.bp.blogspot.com/-izbxf31NDwQ/Xk139YTUY1I/AAAAAAAAYD0/td8hL3mJPmIhE3MFRs_pBSORX66Zy9IrACLcBGAsYHQ/s1600/haberturk.jpg" group-title="Free IPTV Türkei",HABERTURK TV
+https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
+#EXTINF:0 CUID="26581" tvg-name="24" tvg-logo="http://3.bp.blogspot.com/-CgLtoTnqZvI/Xk11janhPsI/AAAAAAAAYCI/K8WqsmiuX9sWrqlLJDrPk3xjyph1M1xYgCLcBGAsYHQ/s1600/24.jpg" group-title="Free IPTV Türkei",24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:0 CUID="26582" tvg-name="24 Seçenek 2" tvg-logo="http://3.bp.blogspot.com/-CgLtoTnqZvI/Xk11janhPsI/AAAAAAAAYCI/K8WqsmiuX9sWrqlLJDrPk3xjyph1M1xYgCLcBGAsYHQ/s1600/24.jpg" group-title="Free IPTV Türkei",24 Seçenek 2
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+#EXTINF:0 CUID="26583" tvg-name="24 Seçenek 3" tvg-logo="http://3.bp.blogspot.com/-CgLtoTnqZvI/Xk11janhPsI/AAAAAAAAYCI/K8WqsmiuX9sWrqlLJDrPk3xjyph1M1xYgCLcBGAsYHQ/s1600/24.jpg" group-title="Free IPTV Türkei",24 Seçenek 3
+https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
+#EXTINF:0 CUID="26584" tvg-name="ULUSAL KANAL Seçenek 3" tvg-id="ulusalkanal.tr" tvg-logo="http://3.bp.blogspot.com/-4qzkAN9s75M/Vpjmjb4uvuI/AAAAAAAANzc/tr-2T15y_nA/s1600/ulusalkanal.jpg" group-title="Free IPTV Türkei",ULUSAL KANAL Seçenek 3
+https://ankara.tvizlehd.com/live/ulusal.m3u8
+#EXTINF:0 CUID="26585" tvg-name="TGRT HABER" tvg-id="tgrthaber.tr" tvg-logo="http://1.bp.blogspot.com/-2YPK1iDgENk/Vpj7o4qwTbI/AAAAAAAAN1w/D7an3i7uNdc/s1600/tgrthaber.jpg" group-title="Free IPTV Türkei",TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playist.m3u8
+#EXTINF:0 CUID="26586" tvg-name="TGRT HABER Seçenek 3" tvg-id="tgrthaber.tr" tvg-logo="http://1.bp.blogspot.com/-2YPK1iDgENk/Vpj7o4qwTbI/AAAAAAAAN1w/D7an3i7uNdc/s1600/tgrthaber.jpg" group-title="Free IPTV Türkei",TGRT HABER Seçenek 3
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:0 CUID="26587" tvg-name="ÜLKE TV" tvg-id="ülketv.tr" tvg-logo="http://2.bp.blogspot.com/-sjs70LRL4Fc/Xk17pJrP7dI/AAAAAAAAYG8/di6FjALb5A8wJdK8vyWfP_-2eSjMhs81gCLcBGAsYHQ/s1600/ulke.jpg" group-title="Free IPTV Türkei",ÜLKE TV
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:0 CUID="26588" tvg-name="TVNET Seçenek 2" tvg-logo="http://3.bp.blogspot.com/-k-hyuyd19zI/Xg-U2HC6ANI/AAAAAAAAX6U/Jdf17YSvueUbsU5ytHg1W3tlaSKRagqiQCLcBGAsYHQ/s1600/tvnet.jpg" group-title="Free IPTV Türkei",TVNET Seçenek 2
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:0 CUID="26589" tvg-name="BLOOMBERG Seçenek 3" tvg-id="bloomberg.pl" tvg-logo="http://1.bp.blogspot.com/-9M3gydocODU/Xk12S0Gf2yI/AAAAAAAAYCk/I6Pb6CA7X8UCA6xqdsKUQ8BS2xyQl-NjgCLcBGAsYHQ/s1600/blomberg.jpg" group-title="Free IPTV Türkei",BLOOMBERG Seçenek 3
+https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+#EXTINF:0 CUID="26590" tvg-name="BLOOMBERG Seçenek 4" tvg-id="bloomberg.pl" tvg-logo="http://1.bp.blogspot.com/-9M3gydocODU/Xk12S0Gf2yI/AAAAAAAAYCk/I6Pb6CA7X8UCA6xqdsKUQ8BS2xyQl-NjgCLcBGAsYHQ/s1600/blomberg.jpg" group-title="Free IPTV Türkei",BLOOMBERG Seçenek 4
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:0 CUID="26591" tvg-name="FİNANSTÜRK TV" tvg-logo="http://4.bp.blogspot.com/-oN-Yx8QcWp4/XFMEIFQFGkI/AAAAAAAAXHg/9jF1jgg_sYUKDP-To254Id4EOoIM8aZMgCLcBGAs/s1600/fin.jpg" group-title="Free IPTV Türkei",FİNANSTÜRK TV
+https://5be5d840359c6.streamlock.net/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:0 CUID="26592" tvg-name="TRT SPOR" tvg-id="ctsport.pl" tvg-logo="http://2.bp.blogspot.com/-uE_m1ozqvm0/Xk163HC1sqI/AAAAAAAAYGY/2AbtlUcWifAmWbjNhPaKAh8u0F9cz5jgQCLcBGAsYHQ/s1600/trtspor.jpg" group-title="Free IPTV Türkei",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26593" tvg-name="TRT SPOR HD Seçenek 2" tvg-id="trtspor.tr" tvg-logo="http://2.bp.blogspot.com/-uE_m1ozqvm0/Xk163HC1sqI/AAAAAAAAYGY/2AbtlUcWifAmWbjNhPaKAh8u0F9cz5jgQCLcBGAsYHQ/s1600/trtspor.jpg" group-title="Free IPTV Türkei",TRT SPOR HD Seçenek 2
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:0 CUID="26594" tvg-name="TRT SPOR2 YILDIZ" tvg-id="trtsporyildiz.tr" tvg-logo="http://1.bp.blogspot.com/-5Q_5p8y8lu8/XYopF8YqtCI/AAAAAAAAXvg/HdMLCzgq1GY4paXOwzbFGSKoCjylX2OhQCLcBGAsYHQ/s1600/trtspor2.jpg" group-title="Free IPTV Türkei",TRT SPOR2 YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26595" tvg-name="TRT SPOR2 YILDIZ Seçenek 2" tvg-id="trtsporyildiz.tr" tvg-logo="http://1.bp.blogspot.com/-5Q_5p8y8lu8/XYopF8YqtCI/AAAAAAAAXvg/HdMLCzgq1GY4paXOwzbFGSKoCjylX2OhQCLcBGAsYHQ/s1600/trtspor2.jpg" group-title="Free IPTV Türkei",TRT SPOR2 YILDIZ Seçenek 2
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+#EXTINF:0 CUID="26596" tvg-name="A SPOR" tvg-id="aspor.tr" tvg-logo="http://3.bp.blogspot.com/-IKXNFUS4Ytw/Xk12DdkJW5I/AAAAAAAAYCY/t_HCylCxRqIfB3xorMVcH33TYRgX6YZkQCLcBGAsYHQ/s1600/aspor.jpg" group-title="Free IPTV Türkei",A SPOR
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+#EXTINF:0 CUID="26597" tvg-name="SPORTS TV" tvg-id="ctsport.pl" tvg-logo="http://2.bp.blogspot.com/-gxxv5x56oQc/Xk15Wkf-sSI/AAAAAAAAYE8/CQF5aNzBXPE2N1bac83YBro911PagO7cACLcBGAsYHQ/s1600/sporstv.jpg" group-title="Free IPTV Türkei",SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0 CUID="26598" tvg-name="SPORTS TV Seçenek 2" tvg-id="sportstv.tr" tvg-logo="http://2.bp.blogspot.com/-gxxv5x56oQc/Xk15Wkf-sSI/AAAAAAAAYE8/CQF5aNzBXPE2N1bac83YBro911PagO7cACLcBGAsYHQ/s1600/sporstv.jpg" group-title="Free IPTV Türkei",SPORTS TV Seçenek 2
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+#EXTINF:0 CUID="26599" tvg-name="GSTV" tvg-id="gstv.tr" tvg-logo="http://4.bp.blogspot.com/-dLxVUxRkfy0/VplGqLOR-RI/AAAAAAAAN9Q/nyJtf--UVtU/s1600/galatasaraytv4.jpg" group-title="Free IPTV Türkei",GSTV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
+#EXTINF:0 CUID="26600" tvg-name="SPORT TV Türkmenistan" tvg-logo="http://2.bp.blogspot.com/-C7hoCW2kZw8/Xo1qkrdvwZI/AAAAAAAAYSE/H1GRuj8Gp3sWfgAytR5bEqyX6htnDmDmACLcBGAsYHQ/s1600/05.jpg" group-title="Free IPTV Türkei",SPORT TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:0 CUID="26601" tvg-name="YABAN TV" tvg-id="yabantv.tr" tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg" group-title="Free IPTV Türkei",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+#EXTINF:0 CUID="26602" tvg-name="TRT MÜZİK Seçenek 2" tvg-logo="http://1.bp.blogspot.com/-djyplEB79oI/XpwEqfmFYdI/AAAAAAAAYUo/aWeT-3sRNF4jFud4C3SsnbUGS9tyI5N-ACLcBGAsYHQ/s1600/trtmuzik.jpg" group-title="Free IPTV Türkei",TRT MÜZİK Seçenek 2
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
+#EXTINF:0 CUID="26603" tvg-name="KRAL TV" tvg-id="kraltv.tr" tvg-logo="http://2.bp.blogspot.com/-t3xSR6YC6HU/VpF4OZpXI8I/AAAAAAAANZg/hTqT_QL8Q-I/s1600/kraltv.jpg" group-title="Free IPTV Türkei",KRAL TV
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:0 CUID="26604" tvg-name="POWER HD" tvg-id="powertv.pl" tvg-logo="http://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg" group-title="Free IPTV Türkei",POWER HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+#EXTINF:0 CUID="26605" tvg-name="POWER HD Seçenek 2" tvg-logo="http://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg" group-title="Free IPTV Türkei",POWER HD Seçenek 2
+https://mn-nl.mncdn.com/blutv_power2/live.m3u8
+#EXTINF:0 CUID="26606" tvg-name="POWER TURK HD" tvg-id="powertv.pl" tvg-logo="http://2.bp.blogspot.com/-TfR0buPRv8E/Xk15IVF3BAI/AAAAAAAAYEs/3a917DuF23kDxvp8B4948f6Hllbelp97QCLcBGAsYHQ/s1600/powerturk.jpg" group-title="Free IPTV Türkei",POWER TURK HD
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:0 CUID="26607" tvg-name="POWER TÜRK HD Seçenek 2" tvg-logo="http://2.bp.blogspot.com/-TfR0buPRv8E/Xk15IVF3BAI/AAAAAAAAYEs/3a917DuF23kDxvp8B4948f6Hllbelp97QCLcBGAsYHQ/s1600/powerturk.jpg" group-title="Free IPTV Türkei",POWER TÜRK HD Seçenek 2
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+#EXTINF:0 CUID="26608" tvg-name="POWER DANCE" group-title="Free IPTV Türkei",POWER DANCE
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:0 CUID="26609" tvg-name="POWER LOVE" group-title="Free IPTV Türkei",POWER LOVE
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:0 CUID="26610" tvg-name="POWER PLUS" group-title="Free IPTV Türkei",POWER PLUS
+https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:0 CUID="26611" tvg-name="POWERTÜRK AKUSTİK" group-title="Free IPTV Türkei",POWERTÜRK AKUSTİK
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playist.m3u8
+#EXTINF:0 CUID="26612" tvg-name="POWERTÜRK EN İYİLER" group-title="Free IPTV Türkei",POWERTÜRK EN İYİLER
+https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playist.m3u8
+#EXTINF:0 CUID="26613" tvg-name="POWERTÜRK SLOW" group-title="Free IPTV Türkei",POWERTÜRK SLOW
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playist.m3u8
+#EXTINF:0 CUID="26614" tvg-name="POWERTÜRK TAPTAZE" group-title="Free IPTV Türkei",POWERTÜRK TAPTAZE
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playist.m3u8
+#EXTINF:0 CUID="26615" tvg-name="MUZ TV Azerbaycan" tvg-logo="http://2.bp.blogspot.com/-279fUEJKH6E/VpF4kBVr19I/AAAAAAAANaA/PFpPHpphksg/s1600/muztv.jpg" group-title="Free IPTV Türkei",MUZ TV Azerbaycan
+https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
+#EXTINF:0 CUID="26616" tvg-name="DREAM TÜRK TV" tvg-logo="http://3.bp.blogspot.com/-naVuMYoLMTI/Xk13J6ZQj6I/AAAAAAAAYDQ/OcOieuD7xSkcwxFBIwWMuHHI5dx1-GFZQCLcBGAsYHQ/s1600/dreamturk.jpg" group-title="Free IPTV Türkei",DREAM TÜRK TV
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:0 CUID="26617" tvg-name="FİNEST TV" tvg-logo="http://3.bp.blogspot.com/-qlO8gZZSe6s/WYWU6_5yJeI/AAAAAAAATmg/2fN-shn7Rv4GhTTsnF1xpN5oLBdg0HOagCLcBGAs/s1600/f.jpg" group-title="Free IPTV Türkei",FİNEST TV
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:0 CUID="26618" tvg-name="MAVİ KARADENİZ TV" tvg-logo="http://4.bp.blogspot.com/-I6w1KnlFGo0/XhQL_lUzeGI/AAAAAAAAX9k/-wwf7-bBJDsrK-dJbZDTod7hNLSFG9HzgCLcBGAsYHQ/s1600/mkt.jpg" group-title="Free IPTV Türkei",MAVİ KARADENİZ TV
+https://waw3.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8
+#EXTINF:0 CUID="26619" tvg-name="DÜĞÜN TV" tvg-logo="http://4.bp.blogspot.com/-CL1ehGkHRXY/WcEE47DA6TI/AAAAAAAAVaY/E3ovp6byEYU5XY1RpejMciQXelRicfiEgCLcBGAs/s1600/d.jpg" group-title="Free IPTV Türkei",DÜĞÜN TV
+https://helga.iptv2022.com/DugunTv/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="26620" tvg-name="NUMBER 1" tvg-id="number1turk.tr" tvg-logo="http://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg" group-title="Free IPTV Türkei",NUMBER 1
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
+#EXTINF:0 CUID="26621" tvg-name="NUMBER 1 TÜRK TV" tvg-id="number1turk.tr" tvg-logo="http://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg" group-title="Free IPTV Türkei",NUMBER 1 TÜRK TV
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:0 CUID="26622" tvg-name="YANSIMA PREMİUM" group-title="Free IPTV Türkei",YANSIMA PREMİUM
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/index.m3u8
+#EXTINF:0 CUID="26623" tvg-name="YANSIMA PREMİUM Seçenek 2" group-title="Free IPTV Türkei",YANSIMA PREMİUM Seçenek 2
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/index.m3u8
+#EXTINF:0 CUID="26624" tvg-name="TV EM" tvg-id="tve.pl" tvg-logo="http://3.bp.blogspot.com/-14FOwTkIn3Q/Vvak6HCaT4I/AAAAAAAAP1Y/nkzQIPXgd_k5ZUVvL0nlzZFALId_s_ciw/s1600/emtv.jpg" group-title="Free IPTV Türkei",TV EM
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:0 CUID="26625" tvg-name="TV EM Seçenek 2" tvg-logo="http://3.bp.blogspot.com/-14FOwTkIn3Q/Vvak6HCaT4I/AAAAAAAAP1Y/nkzQIPXgd_k5ZUVvL0nlzZFALId_s_ciw/s1600/emtv.jpg" group-title="Free IPTV Türkei",TV EM Seçenek 2
+https://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:0 CUID="26626" tvg-name="YANSIMA SİNEMA HD" group-title="Free IPTV Türkei",YANSIMA SİNEMA HD
+https://live-server-2.splitstream.io/224c48a8-f430-43ca-bc4e-9f7bbe8cd240/tracks-v1a1/index.m3u8
+#EXTINF:0 CUID="26627" tvg-name="YANSIMA TV HD Seçenek 2" group-title="Free IPTV Türkei",YANSIMA TV HD Seçenek 2
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/index.m3u8
+#EXTINF:0 CUID="26628" tvg-name="YANSIMA CLASSİC" group-title="Free IPTV Türkei",YANSIMA CLASSİC
+https://live-server-1.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/index.m3u8
+#EXTINF:0 CUID="26629" tvg-name="YANSIMA CLASSİC  Seçenek 2" group-title="Free IPTV Türkei",YANSIMA CLASSİC  Seçenek 2
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/YansinemaTV/index.m3u8
+#EXTINF:0 CUID="26630" tvg-name="TEBER STAR 1" tvg-logo="https://1.bp.blogspot.com/-HZh9vUqR5bk/YPbAsC1bYHI/AAAAAAAAZeo/X4_KoQ_o7hgfTzz13i3KKfnIP7RlJWNQwCLcBGAsYHQ/s0/teber1.jpg" group-title="Free IPTV Türkei",TEBER STAR 1
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="26631" tvg-name="TEBER STAR 2" tvg-logo="http://1.bp.blogspot.com/-pUFzL8VSPko/YPbBzNAVHwI/AAAAAAAAZew/d8b7exGjtDAgF8A5zF3LvGHvcyfoKEX-ACLcBGAsYHQ/s0/teber2.jpg" group-title="Free IPTV Türkei",TEBER STAR 2
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="26632" tvg-name="NTN TV HD Sinema" tvg-id="sinematv.tr" group-title="Free IPTV Türkei",NTN TV HD Sinema
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+#EXTINF:0 CUID="26633" tvg-name="LİFE TV" tvg-id="lifetv.tr" tvg-logo="http://4.bp.blogspot.com/-KoslcA-2RvA/XhQLuVDwinI/AAAAAAAAX9Q/_f6TBXrcSHk1iFcsXhNaLSq8x3ZLkaFUgCLcBGAsYHQ/s1600/life.jpg" group-title="Free IPTV Türkei",LİFE TV
+https://h125.artiyerelmedya.net/lifetv/bant1/chunks.m3u8
+#EXTINF:0 CUID="26634" tvg-name="CİNE5 TV" tvg-logo="http://2.bp.blogspot.com/-GnAld5ygtSQ/WvcX8lvdA-I/AAAAAAAAWJo/zLcsfiieDscHLphSDNt2R2Z4XLSoJ8E2ACLcBGAs/s1600/c5.jpg" group-title="Free IPTV Türkei",CİNE5 TV
+https://host.onlineradyotv.net:8081/cine5/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="26635" tvg-name="DENİZ POSTASI" tvg-logo="http://4.bp.blogspot.com/-UC6nq0revD0/XhCdyPPdWLI/AAAAAAAAX7U/cwayiRhmfLgYqk5suSk5nx3WW_7HxxyOQCLcBGAsYHQ/s1600/dp.jpg" group-title="Free IPTV Türkei",DENİZ POSTASI
+https://waw3.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26636" tvg-name="TV BEYAZ Sinema" group-title="Free IPTV Türkei",TV BEYAZ Sinema
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:0 CUID="26637" tvg-name="TV BEYAZ Sinema Seçenek 2" group-title="Free IPTV Türkei",TV BEYAZ Sinema Seçenek 2
+https://cdn11-beyazmedyatv-yabanci.yayin.com.tr/beyazmedyatv-yabanci/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="26638" tvg-name="GEBELE TV Azerbaycan" tvg-logo="http://1.bp.blogspot.com/-Qp3uCbxpKvA/YBR0CkVhzeI/AAAAAAAAZCU/AhRWm-LLD98nyy90BIZdi34oj38iFx6egCLcBGAsYHQ/s0/gebeletv.jpg" group-title="Free IPTV Türkei",GEBELE TV Azerbaycan
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:0 CUID="26639" tvg-name="TV BEYAZ Dizi" group-title="Free IPTV Türkei",TV BEYAZ Dizi
+https://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
+#EXTINF:0 CUID="26640" tvg-name="TV BEYAZ Yeşilçam" group-title="Free IPTV Türkei",TV BEYAZ Yeşilçam
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+#EXTINF:0 CUID="26641" tvg-name="AHİ TV" tvg-logo="http://1.bp.blogspot.com/-BKgkQf7WhSE/VqnEfygYVSI/AAAAAAAAPGk/jzcz5cqOqtU/s1600/ahitv.jpg" group-title="Free IPTV Türkei",AHİ TV
+https://59cba4d34b678.streamlock.net/canlitv/ahitv/playlist.m3u8
+#EXTINF:0 CUID="26642" tvg-name="AKSU TV" tvg-logo="http://2.bp.blogspot.com/-Dn-JZtSJzZg/VqnEv2_gyWI/AAAAAAAAPHE/k1JruDv_pgs/s1600/aksutv.jpg" group-title="Free IPTV Türkei",AKSU TV
+https://h59.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26643" tvg-name="ALANYA ATV" tvg-logo="http://2.bp.blogspot.com/-1wfvh62iE90/VqnEzPZqUEI/AAAAAAAAPHM/NvlgQOGMI0E/s1600/alanyatv.jpg" group-title="Free IPTV Türkei",ALANYA ATV
+https://broadcasttr.com:446/alanyatv/smil:alanyatv.smil/playlist.m3u8
+#EXTINF:0 CUID="26644" tvg-name="ALANYA POSTA TV" tvg-logo="http://1.bp.blogspot.com/-SZ1oSYZkEGQ/Xsknq--njqI/AAAAAAAAYd0/lZ5ZgylNkps9GhZlE4Didpr1uRbfbt6twCLcBGAsYHQ/s1600/aposta.jpg" group-title="Free IPTV Türkei",ALANYA POSTA TV
+https://win4.yayin.com.tr/postatv/postatv/playist.m3u8
+#EXTINF:0 CUID="26645" tvg-name="ALTAŞ TV" tvg-logo="http://4.bp.blogspot.com/-U4Uin2c79_0/VqnE4hgtDjI/AAAAAAAAPHU/2VUo4g-Rz1k/s1600/altastv.jpg" group-title="Free IPTV Türkei",ALTAŞ TV
+https://edge1.socialsmart.tv/live/altastv/bant1/playist.m3u8
+#EXTINF:0 CUID="26646" tvg-name="BURSA AS TV" tvg-logo="http://1.bp.blogspot.com/-Xs4efexUHec/VqnGInkHecI/AAAAAAAAPKE/450VRjLj2s0/s1600/bursaastv.jpg" group-title="Free IPTV Türkei",BURSA AS TV
+https://waw3.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26647" tvg-name="BURSA KANAL ON6" tvg-logo="http://4.bp.blogspot.com/-KB-kVkVjCrg/XKM7-htdqJI/AAAAAAAAXMA/T6p4vaxXs0oeqhYysX95lTscoTv0nB5TgCLcBGAs/s1600/16.jpg" group-title="Free IPTV Türkei",BURSA KANAL ON6
+https://h59.artiyerelmedya.net/kanal16/bant1/playlist.m3u8
+#EXTINF:0 CUID="26648" tvg-name="ÇANAKKALE TON TV" tvg-logo="http://3.bp.blogspot.com/-7NPx6JcFE7U/VqnGjvp-QbI/AAAAAAAAPLE/MpBJ69cDd9w/s1600/canakkaletontv.jpg" group-title="Free IPTV Türkei",ÇANAKKALE TON TV
+https://waw3.artiyerelmedya.net/tontv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26649" tvg-name="ÇAY TV" tvg-logo="http://4.bp.blogspot.com/-7JUvD_D1i0A/VqnHg5NwODI/AAAAAAAAPLo/ldxSONIdLMg/s1600/caytv.jpg" group-title="Free IPTV Türkei",ÇAY TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26650" tvg-name="ÇAY TV Seçenek 2" tvg-logo="http://4.bp.blogspot.com/-7JUvD_D1i0A/VqnHg5NwODI/AAAAAAAAPLo/ldxSONIdLMg/s1600/caytv.jpg" group-title="Free IPTV Türkei",ÇAY TV Seçenek 2
+https://broadcasttr.com:446/caytv/smil:caytv.smil/playlist.m3u8
+#EXTINF:0 CUID="26651" tvg-name="DEHA TV" tvg-logo="http://4.bp.blogspot.com/-GiFwovCK2rU/VqnHy3CR7qI/AAAAAAAAPMQ/TOWlMku1nZA/s1600/dehatv.jpg" group-title="Free IPTV Türkei",DEHA TV
+https://waw3.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26652" tvg-name="EDESSA TV" tvg-logo="http://1.bp.blogspot.com/-3o46gBJRhOA/VqnIi1iz0CI/AAAAAAAAPNo/3jDni0v41ho/s1600/edessatv.jpg" group-title="Free IPTV Türkei",EDESSA TV
+http://185.87.252.44:4343/hls/edessatv.m3u8
+#EXTINF:0 CUID="26653" tvg-name="ER TV" tvg-logo="http://2.bp.blogspot.com/-FyUO3dn8kXE/VqnOgFg1_AI/AAAAAAAAPX4/NzXsGSMDEJ8/s1600/malatyaertv.jpg" group-title="Free IPTV Türkei",ER TV
+https://waw3.artiyerelmedya.net/ertv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26654" tvg-name="ER TV Seçenek 2" tvg-logo="http://2.bp.blogspot.com/-FyUO3dn8kXE/VqnOgFg1_AI/AAAAAAAAPX4/NzXsGSMDEJ8/s1600/malatyaertv.jpg" group-title="Free IPTV Türkei",ER TV Seçenek 2
+https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8
+#EXTINF:0 CUID="26655" tvg-name="GAZİANTEP OLAY TV" tvg-logo="http://4.bp.blogspot.com/-B7jZURoDZog/VqnJd_LcusI/AAAAAAAAPPQ/Z-sKzTQUx-w/s1600/gaziantepolaytv.jpg" group-title="Free IPTV Türkei",GAZİANTEP OLAY TV
+https://waw3.artiyerelmedya.net/olaytv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26656" tvg-name="HABER 61 TV" tvg-logo="http://1.bp.blogspot.com/-VBFvcTD3wLY/VqnKIdk5l1I/AAAAAAAAPP4/nIcnwtkkCeY/s1600/haber61.jpg" group-title="Free IPTV Türkei",HABER 61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:0 CUID="26657" tvg-name="İÇEL TV" tvg-logo="http://4.bp.blogspot.com/-UiVuvD2jJlw/VqnKQ2Trr4I/AAAAAAAAPQQ/NxoTYMP17i8/s1600/iceltv.jpg" group-title="Free IPTV Türkei",İÇEL TV
+https://broadcasttr.com:446/iceltv/smil:iceltv.smil/playlist.m3u8
+#EXTINF:0 CUID="26658" tvg-name="KANAL 3" tvg-id="kanal33.tr" tvg-logo="http://1.bp.blogspot.com/-Bqdx-lsFeK4/VqnKn8BV1wI/AAAAAAAAPRA/ow9cp_X0ruI/s1600/kanal3.jpg" group-title="Free IPTV Türkei",KANAL 3
+https://broadcasttr.com:446/kanal3/smil:kanal3.smil/playlist.m3u8
+#EXTINF:0 CUID="26659" tvg-name="KANAL 3 Seçenek 2" tvg-logo="http://1.bp.blogspot.com/-Bqdx-lsFeK4/VqnKn8BV1wI/AAAAAAAAPRA/ow9cp_X0ruI/s1600/kanal3.jpg" group-title="Free IPTV Türkei",KANAL 3 Seçenek 2
+https://waw3.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+#EXTINF:0 CUID="26660" tvg-name="KANAL 3 Seçenek 3" tvg-logo="http://1.bp.blogspot.com/-Bqdx-lsFeK4/VqnKn8BV1wI/AAAAAAAAPRA/ow9cp_X0ruI/s1600/kanal3.jpg" group-title="Free IPTV Türkei",KANAL 3 Seçenek 3
+https://h125.artiyerelmedya.net/kanal3/bant1/chunks.m3u8
+#EXTINF:0 CUID="26661" tvg-name="KANAL 12" tvg-id="canal1.pl" tvg-logo="http://blogger.googleusercontent.com/img/a/AVvXsEj6YC3aRhuQ7nWiWDW0KykLW53D_fCY9Ge2f3okjBuaWaD8e8aXAS5C317M3mgf2TuvycJuzh20IgVeIMPm3miAL7ZSAAkej42EwNB2dAU_YJoYjkkz1owhPGN0ksA4mg_85kpqLYeJ82K61lNd2tVzvpa8ykFWVdZrfeBJF04n40X03S4xRI4obzcESA" group-title="Free IPTV Türkei",KANAL 12
+https://waw3.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+#EXTINF:0 CUID="26662" tvg-name="KANAL 12 Seçenek 2" tvg-logo="http://blogger.googleusercontent.com/img/a/AVvXsEj6YC3aRhuQ7nWiWDW0KykLW53D_fCY9Ge2f3okjBuaWaD8e8aXAS5C317M3mgf2TuvycJuzh20IgVeIMPm3miAL7ZSAAkej42EwNB2dAU_YJoYjkkz1owhPGN0ksA4mg_85kpqLYeJ82K61lNd2tVzvpa8ykFWVdZrfeBJF04n40X03S4xRI4obzcESA" group-title="Free IPTV Türkei",KANAL 12 Seçenek 2
+https://waw3.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+#EXTINF:0 CUID="26663" tvg-name="KANAL 15 Seçenek 2" tvg-logo="http://1.bp.blogspot.com/-kVqOL5IcFaA/VqnK0gVPY7I/AAAAAAAAPRY/yqlBjEC-9II/s1600/kanal15.jpg" group-title="Free IPTV Türkei",KANAL 15 Seçenek 2
+https://h125.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+#EXTINF:0 CUID="26664" tvg-name="KANAL 19" tvg-id="canal1.pl" tvg-logo="http://4.bp.blogspot.com/-ylzW9L81H6w/VqnK3bOOkSI/AAAAAAAAPRg/rUWuaamaSOU/s1600/kanal19.jpg" group-title="Free IPTV Türkei",KANAL 19
+https://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/playlist.m3u8
+#EXTINF:0 CUID="26665" tvg-name="KANAL 23 Seçenek 2" tvg-logo="http://2.bp.blogspot.com/-ZRsTbQDXcyI/VqnK6srDZQI/AAAAAAAAPRo/8A8Uh9mBCFM/s1600/kanal23.jpg" group-title="Free IPTV Türkei",KANAL 23 Seçenek 2
+https://win1.yayin.com.tr/kanal23/kanal23/playlist.m3u8
+#EXTINF:0 CUID="26666" tvg-name="KANAL 23 Seçenek 3" tvg-logo="http://2.bp.blogspot.com/-ZRsTbQDXcyI/VqnK6srDZQI/AAAAAAAAPRo/8A8Uh9mBCFM/s1600/kanal23.jpg" group-title="Free IPTV Türkei",KANAL 23 Seçenek 3
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
+#EXTINF:0 CUID="26667" tvg-name="KANAL 26" tvg-id="kanal26.tr" tvg-logo="http://3.bp.blogspot.com/-Dbn38YzKRfo/VqnLCcWbu_I/AAAAAAAAPR4/WU_T0ccJrxs/s1600/kanal26.jpg" group-title="Free IPTV Türkei",KANAL 26
+https://waw3.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
+#EXTINF:0 CUID="26668" tvg-name="KANAL 26 Seçenek 2" tvg-id="kanal26.tr" tvg-logo="http://3.bp.blogspot.com/-Dbn38YzKRfo/VqnLCcWbu_I/AAAAAAAAPR4/WU_T0ccJrxs/s1600/kanal26.jpg" group-title="Free IPTV Türkei",KANAL 26 Seçenek 2
+https://h125.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
+#EXTINF:0 CUID="26669" tvg-name="KANAL 33" tvg-id="kanal33.tr" tvg-logo="http://4.bp.blogspot.com/-GfKlrWnFFBA/VqnLUcJz7YI/AAAAAAAAPSY/xtnfxGT3pIU/s1600/kanal33.jpg" group-title="Free IPTV Türkei",KANAL 33
+https://broadcasttr.com:446/kanal33/smil:kanal33.smil/playlist.m3u8
+#EXTINF:0 CUID="26670" tvg-name="KANAL 33 Seçenek 2" tvg-id="kanal33.tr" tvg-logo="http://4.bp.blogspot.com/-GfKlrWnFFBA/VqnLUcJz7YI/AAAAAAAAPSY/xtnfxGT3pIU/s1600/kanal33.jpg" group-title="Free IPTV Türkei",KANAL 33 Seçenek 2
+http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/playlist.m3u8
+#EXTINF:0 CUID="26671" tvg-name="KANAL 68" tvg-id="kanal7.tr" tvg-logo="http://3.bp.blogspot.com/-eVr8BpYIMgs/VqnMNstJLcI/AAAAAAAAPTw/zG3ssq2rVsI/s1600/kanal68.jpg" group-title="Free IPTV Türkei",KANAL 68
+https://h92.artiyerelmedya.net/kanal68/bant1/chunks.m3u8
+#EXTINF:0 CUID="26672" tvg-name="KANAL ALANYA" tvg-logo="http://3.bp.blogspot.com/-iwa73VwZkBY/VqnMY1z_duI/AAAAAAAAPUI/YEnaO9Ahe0I/s1600/kanalalanya.jpg" group-title="Free IPTV Türkei",KANAL ALANYA
+https://broadcasttr.com:446/kanala/bant1/playlist.m3u8
+#EXTINF:0 CUID="26673" tvg-name="KANAL V" tvg-id="kanalv.tr" tvg-logo="http://3.bp.blogspot.com/-V04krXLhmVc/VqnQ4GotFWI/AAAAAAAAPc4/mJiCsMz8bUw/s1600/viptv.jpg" group-title="Free IPTV Türkei",KANAL V
+https://waw3.artiyerelmedya.net/kanalv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26674" tvg-name="KANAL Z" tvg-id="kanal7.tr" tvg-logo="http://4.bp.blogspot.com/-UdES-S8K_Xs/VqnNNcCSdqI/AAAAAAAAPV4/f9Pcr5L2WiU/s1600/kanalz.jpg" group-title="Free IPTV Türkei",KANAL Z
+https://waw3.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:0 CUID="26675" tvg-name="KAY TV" tvg-logo="http://4.bp.blogspot.com/-A-chyNsGh1U/VqnNfG2LIyI/AAAAAAAAPWg/qcUv9QcDgF4/s1600/kaytv.jpg" group-title="Free IPTV Türkei",KAY TV
+https://h59.artiyerelmedya.net/kaytv/bant1/chunks.m3u8
+#EXTINF:0 CUID="26676" tvg-name="KIBRIS KANAL T" tvg-logo="http://1.bp.blogspot.com/-x7xWpPqYlqQ/VqnNDXdSDSI/AAAAAAAAPVo/MJ15wsByzYo/s1600/kanaltkibris.jpg" group-title="Free IPTV Türkei",KIBRIS KANAL T
+https://59cba4d34b678.streamlock.net/canlitv/kibriskanalt/playlist.m3u8
+#EXTINF:0 CUID="26677" tvg-name="KIBRIS ADA TV" tvg-logo="http://3.bp.blogspot.com/-yY0_jbOtJ34/VqnNiLg6enI/AAAAAAAAPWo/bbisKrrVsR0/s1600/kibrisadatv.jpg" group-title="Free IPTV Türkei",KIBRIS ADA TV
+https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
+#EXTINF:0 CUID="26678" tvg-name="KON TV Seçenek 2" tvg-logo="http://2.bp.blogspot.com/-nqj9kT9mmZk/VqnNwX7HOrI/AAAAAAAAPXI/XqHnP4tf6JM/s1600/kontv.jpg" group-title="Free IPTV Türkei",KON TV Seçenek 2
+https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
+#EXTINF:0 CUID="26679" tvg-name="KÖROĞLU TV" tvg-logo="http://2.bp.blogspot.com/-lz8kgZuUMjU/VqnN4Z-EJGI/AAAAAAAAPXY/eEMbFtKlrEg/s1600/koroglutv.jpg" group-title="Free IPTV Türkei",KÖROĞLU TV
+https://broadcasttr.com:446/koroglutv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26680" tvg-name="MANİSA TV" tvg-logo="http://2.bp.blogspot.com/-6NKM41ORpVA/VqnOx4M2hBI/AAAAAAAAPYg/1-kf1JAiljY/s1600/manisatv.jpg" group-title="Free IPTV Türkei",MANİSA TV
+https://yayin.manisatv.com.tr/live/stream.m3u8
+#EXTINF:0 CUID="26681" tvg-name="MARMARA TV" tvg-logo="http://3.bp.blogspot.com/-3ad5JZhKu6Y/V4-QhpuSZxI/AAAAAAAAQBo/EmjCLYoyOusE4ZN5ekhPfkfMQu6Gdd4pwCLcB/s1600/martv.jpg" group-title="Free IPTV Türkei",MARMARA TV
+https://59cba4d34b678.streamlock.net/live/marmaratv/playlist.m3u8
+#EXTINF:0 CUID="26682" tvg-name="MERCAN TV" tvg-logo="http://3.bp.blogspot.com/-b79VRT0gw4U/VqnO8koUQAI/AAAAAAAAPY4/wHNUC_gonN0/s1600/mercantv.jpg" group-title="Free IPTV Türkei",MERCAN TV
+https://waw3.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26683" tvg-name="MERKEZ TV" tvg-logo="http://1.bp.blogspot.com/-FhLcamniPiE/WSlYKzrt0DI/AAAAAAAAQ2Y/ECIh3FG0zo4WPE9G_m4Oqn3JgJP72Aw3QCLcB/s1600/merkeztv.jpg" group-title="Free IPTV Türkei",MERKEZ TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/playlist.m3u8
+#EXTINF:0 CUID="26684" tvg-name="SİNOP YILDIZ TV" tvg-logo="http://3.bp.blogspot.com/-Bth3otKVi4w/VqnPcjzgoAI/AAAAAAAAPaA/qIPefm_XXN0/s1600/sinopyildiztv.jpg" group-title="Free IPTV Türkei",SİNOP YILDIZ TV
+http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:0 CUID="26685" tvg-name="SUN TV Mersin" tvg-logo="http://1.bp.blogspot.com/-xPSUHN_COxk/VqnPoLwTlhI/AAAAAAAAPaY/4ACiu_oUI7o/s1600/sunmersin.jpg" group-title="Free IPTV Türkei",SUN TV Mersin
+https://tr.socialsmart.tv/suntv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26686" tvg-name="MUĞLA TÜRK TV" group-title="Free IPTV Türkei",MUĞLA TÜRK TV
+https://broadcasttr.com:446/muglaturk/bant1/playlist.m3u8
+#EXTINF:0 CUID="26687" tvg-name="MSBC Kanal 2000" group-title="Free IPTV Türkei",MSBC Kanal 2000
+https://waw3.artiyerelmedya.net/kanal2000/bant1/playlist.m3u8
+#EXTINF:0 CUID="26688" tvg-name="TARSUS GÜNEY TV" tvg-logo="http://1.bp.blogspot.com/-o9yeX84JbGc/VqnKDS4arYI/AAAAAAAAPPw/6oBT66da2LI/s1600/guneytv.jpg" group-title="Free IPTV Türkei",TARSUS GÜNEY TV
+https://waw3.artiyerelmedya.net/guneytv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26689" tvg-name="TV1" tvg-id="tv1.tr" tvg-logo="http://2.bp.blogspot.com/-3AgtGWHhFBQ/VqnQTNvFBEI/AAAAAAAAPbo/766jHzr8Kjg/s1600/tv1.jpg" group-title="Free IPTV Türkei",TV1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:0 CUID="26690" tvg-name="TV41" tvg-id="tv4.pl" tvg-logo="http://2.bp.blogspot.com/-0eGv2dDP7wA/VqnQiSGGKqI/AAAAAAAAPcI/zkr06d7IYoM/s1600/tv41.jpg" group-title="Free IPTV Türkei",TV41
+https://waw3.artiyerelmedya.net/tv41/bant1/playlist.m3u8
+#EXTINF:0 CUID="26691" tvg-name="TV52" tvg-logo="http://4.bp.blogspot.com/-7bfEUKM7RxI/VqnQlDMUt9I/AAAAAAAAPcQ/S34UgUCWLcc/s1600/tv52.jpg" group-title="Free IPTV Türkei",TV52
+https://broadcasttr.com:446/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:0 CUID="26692" tvg-name="TVO" tvg-logo="https://1.bp.blogspot.com/-hcBaeyJKR2I/XQQOCJXZzYI/AAAAAAAAXik/JgWEHTB5l6E-iEB7eLDdTq7KT_prSd4pQCLcBGAs/s1600/tvo.jpg" group-title="Free IPTV Türkei",TVO
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
+#EXTINF:0 CUID="26693" tvg-name="VİZYON 58" tvg-logo="http://1.bp.blogspot.com/-Ze9mOtyaVaI/VqnQ674xG1I/AAAAAAAAPdA/9LNgSEFzxZs/s1600/vizyon58.jpg" group-title="Free IPTV Türkei",VİZYON 58
+https://waw3.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:0 CUID="26694" tvg-name="VUSLAT TV" tvg-logo="http://1.bp.blogspot.com/-sR8r-ho7nbQ/VioVk4SX9zI/AAAAAAAAMyc/_kApsfEtzac/s1600/vuslattv.jpg" group-title="Free IPTV Türkei",VUSLAT TV
+https://59cba4d34b678.streamlock.net/live/vuslattv/playlist.m3u8
+#EXTINF:0 CUID="26695" tvg-name="VUSLAT TV Seçenek 2" tvg-logo="http://1.bp.blogspot.com/-sR8r-ho7nbQ/VioVk4SX9zI/AAAAAAAAMyc/_kApsfEtzac/s1600/vuslattv.jpg" group-title="Free IPTV Türkei",VUSLAT TV Seçenek 2
+https://mn-nl.mncdn.com/blutv_vuslattv2/live.m3u8
+#EXTINF:0 CUID="26696" tvg-name="VUSLAT TV Seçenek 3" tvg-logo="http://1.bp.blogspot.com/-sR8r-ho7nbQ/VioVk4SX9zI/AAAAAAAAMyc/_kApsfEtzac/s1600/vuslattv.jpg" group-title="Free IPTV Türkei",VUSLAT TV Seçenek 3
+https://waw3.artiyerelmedya.net/vuslattv/bant1/playlist.m3u8
+#EXTINF:0 CUID="26697" tvg-name="WORLD TÜRK" group-title="Free IPTV Türkei",WORLD TÜRK
+https://waw3.artiyerelmedya.net/worldturk/bant1/playlist.m3u8
+#EXTINF:0 CUID="26698" tvg-name="TRT BELGESEL" tvg-id="trtbelgesel.tr" tvg-logo="http://3.bp.blogspot.com/-Mx38HRjjZzQ/Xk16ICx20dI/AAAAAAAAYFs/7ZNFyao4LJYLb7qYfNm--_DrVot4Gr7pQCLcBGAsYHQ/s1600/trtbelgesel.jpg" group-title="Free IPTV Türkei",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26699" tvg-name="TRT BELGESEL Seçenek 2" tvg-id="trtbelgesel.tr" tvg-logo="http://3.bp.blogspot.com/-Mx38HRjjZzQ/Xk16ICx20dI/AAAAAAAAYFs/7ZNFyao4LJYLb7qYfNm--_DrVot4Gr7pQCLcBGAsYHQ/s1600/trtbelgesel.jpg" group-title="Free IPTV Türkei",TRT BELGESEL Seçenek 2
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
+#EXTINF:0 CUID="26700" tvg-name="TRT EBA TV İlkokul" tvg-id="ebatvilkokul.tr" tvg-logo="http://2.bp.blogspot.com/-NPPIlkVibeU/XnppTixS3zI/AAAAAAAAYL8/DDf87zlbrPoplzmXYOktrlr86-WDz2vLgCLcBGAsYHQ/s1600/eba1.jpg" group-title="Free IPTV Türkei",TRT EBA TV İlkokul
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26701" tvg-name="TRT EBA TV Ortaokul" tvg-id="ebatvortaokul.tr" tvg-logo="http://4.bp.blogspot.com/-gRnn5ReZnV4/XnppohGxAfI/AAAAAAAAYMA/I483irP2YUgVcJKuxxots0Ir0X5sjyVnQCLcBGAsYHQ/s1600/eba2.jpg" group-title="Free IPTV Türkei",TRT EBA TV Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26702" tvg-name="TRT EBA TV Lise" tvg-id="trtebatvlise.tr" tvg-logo="http://4.bp.blogspot.com/-wdyjmIqDhCM/Xnpp41gWbdI/AAAAAAAAYMI/isODLD4iLi00kiNP0sBnP574wOkHL7CKQCLcBGAsYHQ/s1600/eba3.jpg" group-title="Free IPTV Türkei",TRT EBA TV Lise
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26703" tvg-name="TGRT BELGESEL" tvg-id="trtbelgesel.tr" tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg" group-title="Free IPTV Türkei",TGRT BELGESEL
+https://tv.ensonhaber.com/tv/tr//tgrtbelgesel/index.m3u8
+#EXTINF:0 CUID="26704" tvg-name="TARIM TV" tvg-id="tarimtv.tr" tvg-logo="http://4.bp.blogspot.com/-4bfQc2o3o7Y/VpgGJ2Y2gaI/AAAAAAAANo0/l83p_FwrNfg/s1600/tarimtv.jpg" group-title="Free IPTV Türkei",TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
+#EXTINF:0 CUID="26705" tvg-name="SELÇUK ÜNİVERSİTESİ" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQONjl1jaXGSyDziaS_2eI6thQnBYWSObKnJfxnTt1XSuBKjcaH" group-title="Free IPTV Türkei",SELÇUK ÜNİVERSİTESİ
+https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
+#EXTINF:0 CUID="26706" tvg-name="ÇİFTÇİ TV" tvg-logo="http://4.bp.blogspot.com/-zkB9iuh3mqs/V49eKY-IZ-I/AAAAAAAAQAk/l0A3DhJt8nsZD_QWVac_EHKXfHFQYtASQCLcB/s1600/ciftcitv.jpg" group-title="Free IPTV Türkei",ÇİFTÇİ TV
+https://broadcasttr.com:446/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:0 CUID="26707" tvg-name="YABAN TV" tvg-id="yabantv.tr" tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg" group-title="Free IPTV Türkei",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:0 CUID="26708" tvg-name="NTN TV HD Belgesel" group-title="Free IPTV Türkei",NTN TV HD Belgesel
+http://tv.ntnhd.com:3189/multi_web/play_720.m3u8
+#EXTINF:0 CUID="26709" tvg-name="TRT ÇOCUK HD" tvg-id="trtçocuk.tr" tvg-logo="http://4.bp.blogspot.com/-7FoNoYG06iU/Xk16TL3yb8I/AAAAAAAAYF8/01mOFqqHbkgf6HbTeEztqMKCJr26-3xrgCLcBGAsYHQ/s1600/trtcocuk.jpg" group-title="Free IPTV Türkei",TRT ÇOCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26710" tvg-name="TRT ÇOCUK HD Seçenek 2" tvg-id="trtçocuk.tr" tvg-logo="http://4.bp.blogspot.com/-7FoNoYG06iU/Xk16TL3yb8I/AAAAAAAAYF8/01mOFqqHbkgf6HbTeEztqMKCJr26-3xrgCLcBGAsYHQ/s1600/trtcocuk.jpg" group-title="Free IPTV Türkei",TRT ÇOCUK HD Seçenek 2
+https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
+#EXTINF:0 CUID="26711" tvg-name="TRT ÇOCUK HD Seçenek 3" tvg-id="trtçocuk.tr" tvg-logo="http://4.bp.blogspot.com/-7FoNoYG06iU/Xk16TL3yb8I/AAAAAAAAYF8/01mOFqqHbkgf6HbTeEztqMKCJr26-3xrgCLcBGAsYHQ/s1600/trtcocuk.jpg" group-title="Free IPTV Türkei",TRT ÇOCUK HD Seçenek 3
+https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
+#EXTINF:0 CUID="26712" tvg-name="LALE TV Kırım Tatar" tvg-logo="http://3.bp.blogspot.com/-7Et1bqWbZo4/VpZebYcvoiI/AAAAAAAANgc/QKRhFm_tGm8/s1600/laletvtatar.jpg" group-title="Free IPTV Türkei",LALE TV Kırım Tatar
+http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:0 CUID="26713" tvg-name="CARTOON NETWORK" tvg-id="cartoonnetwork.pl" tvg-logo="http://2.bp.blogspot.com/-L-93W1Bmmiw/VpZeKCwHY-I/AAAAAAAANf8/vMpYCWVjrNc/s1600/cartoonnetwork.jpg" group-title="Free IPTV Türkei",CARTOON NETWORK
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+#EXTINF:0 CUID="26714" tvg-name="ARB GÜNEŞ Azerbaycan" tvg-logo="http://4.bp.blogspot.com/-woNlUyi9xrM/WtgvRRQxV4I/AAAAAAAAWAs/HTSL1f75YmkeeWmdhoInqOWsaUdGsnBewCLcBGAs/s1600/g.jpg" group-title="Free IPTV Türkei",ARB GÜNEŞ Azerbaycan
+https://az2.canlitvplayer.com/azerbaijan/gunes/chunks.m3u8
+#EXTINF:0 CUID="26715" tvg-name="ALVİN CHANNEL Azerbaycan" tvg-logo="http://1.bp.blogspot.com/-kvZm8_aoETk/YDf8Q3hcCSI/AAAAAAAAZHY/prILfBk0QqAQzsjDiHIb4L2KyFd3ZggHQCLcBGAsYHQ/s0/alvinch.jpg" group-title="Free IPTV Türkei",ALVİN CHANNEL Azerbaycan
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0 CUID="26716" tvg-name="SEMERKAND TV" tvg-id="semerkandtv.tr" tvg-logo="http://2.bp.blogspot.com/-sqowYsWnchU/VppMr6zac1I/AAAAAAAAOCU/wVD1JTDaK5M/s1600/semerkandtv.jpg" group-title="Free IPTV Türkei",SEMERKAND TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playist.m3u8
+#EXTINF:0 CUID="26717" tvg-name="ARB Azerbaycan" tvg-logo="http://4.bp.blogspot.com/-x5hJXxg1htg/WtgncE6nfmI/AAAAAAAAWAQ/R8_LqErY5n033gYv_nmGhPdkdHDsGt02QCLcBGAs/s1600/arb.jpg" group-title="Free IPTV Türkei",ARB Azerbaycan
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:0 CUID="26718" tvg-name="ARB 24 Azerbaycan" tvg-logo="http://4.bp.blogspot.com/-24uLtGKo-zE/WtgtjNpb3YI/AAAAAAAAWAg/jMAPsDoGmDQd8X1FwA0YL9EylZyOD904ACLcBGAs/s1600/24.jpg" group-title="Free IPTV Türkei",ARB 24 Azerbaycan
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:0 CUID="26719" tvg-name="ARB KEPEZ TV Azerbaycan" tvg-logo="http://2.bp.blogspot.com/-N1I1aA-UGjY/VqnVHOHAfLI/AAAAAAAAPfk/wjl7fILBLZQ/s1600/kepeztv.jpg" group-title="Free IPTV Türkei",ARB KEPEZ TV Azerbaycan
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0 CUID="26720" tvg-name="ATV Az" tvg-logo="http://3.bp.blogspot.com/-MAOGoAQjEzA/VqnUnAkAF7I/AAAAAAAAPeU/EIbauWOmacA/s1600/atvaz.jpg" group-title="Free IPTV Türkei",ATV Az
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:0 CUID="26721" tvg-name="ATV Az Seçenek 2" tvg-logo="http://3.bp.blogspot.com/-MAOGoAQjEzA/VqnUnAkAF7I/AAAAAAAAPeU/EIbauWOmacA/s1600/atvaz.jpg" group-title="Free IPTV Türkei",ATV Az Seçenek 2
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:0 CUID="26722" tvg-name="AZ NEWS Azerbaycan" tvg-logo="http://1.bp.blogspot.com/-ax8EBgrPDME/YCp3jmbFBEI/AAAAAAAAZFc/yl_3kx9wy1gB1y9I7nk7DjomXdaY9a5kQCLcBGAsYHQ/s0/aznews.jpg" group-title="Free IPTV Türkei",AZ NEWS Azerbaycan
+https://edge1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
+#EXTINF:0 CUID="26723" tvg-name="BAKÜ TV Azerbaycan" tvg-logo="http://1.bp.blogspot.com/-thlfY_wTRUw/YBMkOkhy2KI/AAAAAAAAZB8/pYg-KmzkC8E9_mmMezodLLVGOVFe3OS4gCLcBGAsYHQ/s0/bakutv.jpg" group-title="Free IPTV Türkei",BAKÜ TV Azerbaycan
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:0 CUID="26724" tvg-name="CBC TV Azerbaycan" tvg-logo="http://2.bp.blogspot.com/-uUHS_hLzdkE/VqnUs1Q0oqI/AAAAAAAAPek/xDp__Rl24ec/s1600/cbcaz.jpg" group-title="Free IPTV Türkei",CBC TV Azerbaycan
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:0 CUID="26725" tvg-name="DÜNYA TV Azerbaycan" tvg-logo="http://2.bp.blogspot.com/-yuMnSsDaUAY/VqnU0S_HMQI/AAAAAAAAPe0/T5PccMk10mA/s1600/dunyatvaz.jpg" group-title="Free IPTV Türkei",DÜNYA TV Azerbaycan
+https://az2.canlitvplayer.com/azerbaijan/dunya/chunks.m3u8
+#EXTINF:0 CUID="26726" tvg-name="EL TV Azerbaycan" tvg-logo="http://3.bp.blogspot.com/-c_e66JpuzYw/VqnU3L42vlI/AAAAAAAAPe8/rhg5ncjgoHE/s1600/eltv.jpg" group-title="Free IPTV Türkei",EL TV Azerbaycan
+http://85.132.53.162:1935/live/eltv/playlist.m3u8?_=1
+#EXTINF:0 CUID="26727" tvg-name="GÜNAZ TV Azerbaycan" tvg-logo="http://2.bp.blogspot.com/-ad742xWAgjA/VqnU58PFoGI/AAAAAAAAPfE/MwJU7ub3lFQ/s1600/gunaztv.jpg" group-title="Free IPTV Türkei",GÜNAZ TV Azerbaycan
+https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/playlist.m3u8
+#EXTINF:0 CUID="26728" tvg-name="MUZ TV Azerbaycan" tvg-logo="http://2.bp.blogspot.com/-279fUEJKH6E/VpF4kBVr19I/AAAAAAAANaA/PFpPHpphksg/s1600/muztv.jpg" group-title="Free IPTV Türkei",MUZ TV Azerbaycan
+https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
+#EXTINF:0 CUID="26729" tvg-name="NAXÇIVAN TV" tvg-logo="https://2.bp.blogspot.com/-7ORdSFaFStk/XQkKCi5wj7I/AAAAAAAAXjI/tAQBm-k588gkjTNPXj4Z8pmFIVj9VBnpwCLcBGAs/s1600/ntv.jpg" group-title="Free IPTV Türkei",NAXÇIVAN TV
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:0 CUID="26730" tvg-name="TURAN TV Azerbaycan" tvg-logo="http://1.bp.blogspot.com/-M0aTr_ysTHs/YD06ggPPcWI/AAAAAAAAZIg/U3B9silJhpAZnLiwxkekkV1PfGjcJOctQCLcBGAsYHQ/s0/turantv.jpg" group-title="Free IPTV Türkei",TURAN TV Azerbaycan
+https://donvolga.com/Turan-TV/index.m3u8
+#EXTINF:0 CUID="26731" tvg-name="ÜMÜD TV HD Azerbaycan" tvg-logo="http://2.bp.blogspot.com/-qODygGJwHfY/Xt6Ie90ZiEI/AAAAAAAAYhg/Bsur_NVxxO03CrZ0wYsQCC4lqgO3KGVuwCLcBGAsYHQ/s1600/umud.jpg" group-title="Free IPTV Türkei",ÜMÜD TV HD Azerbaycan
+https://cdn-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/playlist.m3u8
+#EXTINF:0 CUID="26732" tvg-name="ATR Kırım Tatar TV" tvg-logo="http://1.bp.blogspot.com/-shGdn_cE3H0/VqnSCaLUz_I/AAAAAAAAPeI/e7QJoAaAdlw/s1600/atr.jpg" group-title="Free IPTV Türkei",ATR Kırım Tatar TV
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:0 CUID="26733" tvg-name="KTK Kazakistan" tvg-logo="http://3.bp.blogspot.com/-kjG_WhQeSxs/U_BkTnQvT7I/AAAAAAAAGQY/MUf6P6k76B4/s1600/ktk.jpg" group-title="Free IPTV Türkei",KTK Kazakistan
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:0 CUID="26734" tvg-name="ALTYN ASYR TV Türkmenistan" tvg-logo="http://4.bp.blogspot.com/-FL1bLj_d_ts/Vqydi0RRRbI/AAAAAAAAPn0/kSWjUW5Czdw/s1600/taltinasir.jpg" group-title="Free IPTV Türkei",ALTYN ASYR TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
+#EXTINF:0 CUID="26735" tvg-name="AŞGABAT TV Türkmenistan" tvg-logo="http://4.bp.blogspot.com/-rG5VpB4KpDg/Vqydaw8lV_I/AAAAAAAAPnk/HhKq0bc9Vxk/s1600/taksabat.jpg" group-title="Free IPTV Türkei",AŞGABAT TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
+#EXTINF:0 CUID="26736" tvg-name="MİRAS TV Türkmenistan" tvg-logo="http://3.bp.blogspot.com/-ZrV01d666wQ/VqydmESmKvI/AAAAAAAAPn8/ZeummT9psdE/s1600/tmirastv.jpg" group-title="Free IPTV Türkei",MİRAS TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
+#EXTINF:0 CUID="26737" tvg-name="OWAZY TV Türkmenistan" tvg-logo="http://3.bp.blogspot.com/-ktII0e1XUZI/VqydtAtMQII/AAAAAAAAPoM/acTgWlHt9vQ/s1600/turkmenowazy.jpg" group-title="Free IPTV Türkei",OWAZY TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
+#EXTINF:0 CUID="26738" tvg-name="SPORT TV Türkmenistan" tvg-logo="http://1.bp.blogspot.com/-aqIAqGHFDw0/VqydxVx3eiI/AAAAAAAAPoU/rfTRQJ9_Les/s1600/turkmensport.jpg" group-title="Free IPTV Türkei",SPORT TV Türkmenistan
+http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:0 CUID="26739" tvg-name="TURKMENİSTAN TV" tvg-logo="http://3.bp.blogspot.com/-fLUzAOqjaFY/Vqydpge3r_I/AAAAAAAAPoE/5GPNSM8CDyw/s1600/tturmenistan.jpg" group-title="Free IPTV Türkei",TURKMENİSTAN TV
+https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
+#EXTINF:0 CUID="26740" tvg-name="YAŞLYK TV Türkmenistan" tvg-logo="http://1.bp.blogspot.com/-BY6ezVl3E1c/Vqyd1Ei1MZI/AAAAAAAAPoc/_TrxCrrnuGs/s1600/tyasliktv.jpg" group-title="Free IPTV Türkei",YAŞLYK TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
+#EXTINF:0 CUID="26741" tvg-name="TRT 1" tvg-id="trt.pl" tvg-logo="http://3.bp.blogspot.com/-saNhasSsg3c/Xk155ldHJnI/AAAAAAAAYFk/SdTrfkNcOxwLQsG3GKEiKrQom9AdabSNQCLcBGAsYHQ/s1600/trt1.jpg" group-title="Free IPTV Türkei",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26742" tvg-name="TRT 2 HD" tvg-id="trt.pl" tvg-logo="http://3.bp.blogspot.com/-A3hoIQwC6p8/XpXMicQCq_I/AAAAAAAAYUE/YycJhKf-nfAFRLfh_fj65SVRtnb_c3jhwCLcBGAsYHQ/s1600/trt2.jpg" group-title="Free IPTV Türkei",TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26743" tvg-name="TRT HABER HD" tvg-id="trthaber.tr" tvg-logo="http://3.bp.blogspot.com/-Mpdmk08YCvM/Xk16jQ-yhfI/AAAAAAAAYGI/1fWSaSPRP1oeAxhcBRrAuECMkFuSb3LdACLcBGAsYHQ/s1600/trthaber.jpg" group-title="Free IPTV Türkei",TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26744" tvg-name="TRT TÜRK" tvg-logo="http://3.bp.blogspot.com/-8FZj4EuYcAk/Xk16-OoCJTI/AAAAAAAAYGg/TSbUsQycJEgluOag9KUoNQTpTVMVBp_eQCLcBGAsYHQ/s1600/trtturk.jpg" group-title="Free IPTV Türkei",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26745" tvg-name="TRT SPOR" tvg-id="ctsport.pl" tvg-logo="http://2.bp.blogspot.com/-uE_m1ozqvm0/Xk163HC1sqI/AAAAAAAAYGY/2AbtlUcWifAmWbjNhPaKAh8u0F9cz5jgQCLcBGAsYHQ/s1600/trtspor.jpg" group-title="Free IPTV Türkei",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26746" tvg-name="TRT SPOR YILDIZ" tvg-id="trtsporyildiz.tr" tvg-logo="http://1.bp.blogspot.com/-5Q_5p8y8lu8/XYopF8YqtCI/AAAAAAAAXvg/HdMLCzgq1GY4paXOwzbFGSKoCjylX2OhQCLcBGAsYHQ/s1600/trtspor2.jpg" group-title="Free IPTV Türkei",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26747" tvg-name="TRT ÇOCUK" tvg-id="trtçocuk.tr" tvg-logo="http://4.bp.blogspot.com/-7FoNoYG06iU/Xk16TL3yb8I/AAAAAAAAYF8/01mOFqqHbkgf6HbTeEztqMKCJr26-3xrgCLcBGAsYHQ/s1600/trtcocuk.jpg" group-title="Free IPTV Türkei",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26748" tvg-name="TRT KURDÎ" tvg-id="trtkurdî.tr" tvg-logo="http://1.bp.blogspot.com/-ScA9sOi5O_U/Xk16p81BJBI/AAAAAAAAYGQ/jp3Zpd_3GPwqYaGIHQVh9gEuAzgpiRqWQCLcBGAsYHQ/s1600/trtkurt.jpg" group-title="Free IPTV Türkei",TRT KURDÎ
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26749" tvg-name="TRT BELGESEL" tvg-id="trtbelgesel.tr" tvg-logo="http://3.bp.blogspot.com/-Mx38HRjjZzQ/Xk16ICx20dI/AAAAAAAAYFs/7ZNFyao4LJYLb7qYfNm--_DrVot4Gr7pQCLcBGAsYHQ/s1600/trtbelgesel.jpg" group-title="Free IPTV Türkei",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26750" tvg-name="TRT MÜZİK" tvg-id="trtmüzik.tr" tvg-logo="http://1.bp.blogspot.com/-djyplEB79oI/XpwEqfmFYdI/AAAAAAAAYUo/aWeT-3sRNF4jFud4C3SsnbUGS9tyI5N-ACLcBGAsYHQ/s1600/trtmuzik.jpg" group-title="Free IPTV Türkei",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26751" tvg-name="TRT ARAPÇA" tvg-logo="http://4.bp.blogspot.com/-1YDMoxp-0jg/Xk16AwUlBuI/AAAAAAAAYFo/hScVhQ63V0gKd3ch2zTTM1O4S7vfgnlHQCLcBGAsYHQ/s1600/trtarap.jpg" group-title="Free IPTV Türkei",TRT ARAPÇA
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26752" tvg-name="TRT WORLD English" tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg" group-title="Free IPTV Türkei",TRT WORLD English
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26753" tvg-name="TRT EBA TV İlkokul" tvg-id="ebatvilkokul.tr" tvg-logo="http://2.bp.blogspot.com/-NPPIlkVibeU/XnppTixS3zI/AAAAAAAAYL8/DDf87zlbrPoplzmXYOktrlr86-WDz2vLgCLcBGAsYHQ/s1600/eba1.jpg" group-title="Free IPTV Türkei",TRT EBA TV İlkokul
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26754" tvg-name="TRT EBA TV Ortaokul" tvg-id="ebatvortaokul.tr" tvg-logo="http://4.bp.blogspot.com/-gRnn5ReZnV4/XnppohGxAfI/AAAAAAAAYMA/I483irP2YUgVcJKuxxots0Ir0X5sjyVnQCLcBGAsYHQ/s1600/eba2.jpg" group-title="Free IPTV Türkei",TRT EBA TV Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="26755" tvg-name="TRT EBA TV Lise" tvg-id="trtebatvlise.tr" tvg-logo="http://4.bp.blogspot.com/-wdyjmIqDhCM/Xnpp41gWbdI/AAAAAAAAYMI/isODLD4iLi00kiNP0sBnP574wOkHL7CKQCLcBGAsYHQ/s1600/eba3.jpg" group-title="Free IPTV Türkei",TRT EBA TV Lise
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="1036" tvg-name="TRT 1 HD*" tvg-id="trt1.tr" tvg-logo="https://logo.iptveditor.com/trt1.png" group-title="Free IPTV Türkei",TRT 1 HD*
+https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/8156a6f5-6f15-4512-b0f3-a1b3459ccc15/0.m3u8
+#EXTINF:0 CUID="1037" tvg-name="TRT Arabi HD" tvg-id="trtarabi.tr" tvg-logo="https://logo.iptveditor.com/trtarabi.png" group-title="Free IPTV Türkei",TRT Arabi HD
+https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="1038" tvg-name="Afrika NTR TV HD" group-title="Free IPTV Türkei",Afrika NTR TV HD
+https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1039" tvg-name="AS TV" tvg-id="tvasta.pl" tvg-logo="https://logo.iptveditor.com/astv.png" group-title="Free IPTV Türkei",AS TV
+https://waw3.artiyerelmedya.net/astv/bant1/chunks.m3u8
+#EXTINF:0 CUID="1040" tvg-name="ATV" tvg-id="atv.pl" tvg-logo="https://logo.iptveditor.com/atv.png" group-title="Free IPTV Türkei",ATV
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd?checkedby
+#EXTINF:0 CUID="1041" tvg-name="DMAX HD" tvg-id="dmax.pl" tvg-logo="https://logo.iptveditor.com/dmax.png" group-title="Free IPTV Türkei",DMAX HD
+https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
+#EXTINF:0 CUID="1043" tvg-name="Life TV HD" tvg-id="lifetv.tr" tvg-logo="https://logo.iptveditor.com/lifetv.png" group-title="Free IPTV Türkei",Life TV HD
+http://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1044" tvg-name="Metro Türk" tvg-id="metrotv.pl" group-title="Free IPTV Türkei",Metro Türk
+http://metrotvadana.radyotvonline.net/metrotv/metrotvhd/playlist.m3u8
+#EXTINF:0 CUID="1045" tvg-name="Euro Star TV" tvg-id="eurostar.tr" group-title="Free IPTV Türkei",Euro Star TV
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
+#EXTINF:0 CUID="1046" tvg-name="Tarim HD" tvg-id="tarimtv.tr" group-title="Free IPTV Türkei",Tarim HD
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:0 CUID="1047" tvg-name="Tempo TV" tvg-logo="https://logo.iptveditor.com/tempotv.png" group-title="Free IPTV Türkei",Tempo TV
+http://waw1.artiyerelmedya.net:1935/tempotv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1048" tvg-name="Tivi 6" tvg-logo="https://logo.iptveditor.com/tivi6.png" group-title="Free IPTV Türkei",Tivi 6
+https://h125.artiyerelmedya.net/tivi6/bant1/chunks.m3u8
+#EXTINF:0 CUID="1049" tvg-name="TLC" tvg-id="tlc.pl" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Free IPTV Türkei",TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:0 CUID="1050" tvg-name="TV4 HD" tvg-id="tv4.pl" tvg-logo="https://logo.iptveditor.com/tv4.png" group-title="Free IPTV Türkei",TV4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0 CUID="1051" tvg-name="TV 8" tvg-id="tv8.tr" tvg-logo="https://logo.iptveditor.com/tv8.png" group-title="Free IPTV Türkei",TV 8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:0 CUID="1052" tvg-name="TV 8.5" tvg-id="tv85.tr" tvg-logo="https://logo.iptveditor.com/tv85.png" group-title="Free IPTV Türkei",TV 8.5
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd?checkedby
+#EXTINF:0 CUID="1053" tvg-name="TV Ada (Türkiye)" group-title="Free IPTV Türkei",TV Ada (Türkiye)
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+#EXTINF:0 CUID="1054" tvg-name="Vatan TV" tvg-logo="https://logo.iptveditor.com/vatantv.png" group-title="Free IPTV Türkei",Vatan TV
+http://iptvmasterlink.dyndns.org:8080/VatanTv/playlist.m3u8
+#EXTINF:0 CUID="1055" tvg-name="Woman Kadin TV" group-title="Free IPTV Türkei",Woman Kadin TV
+https://s01.webcaster.cloud/wmtv/live_360p.m3u8
+#EXTINF:0 CUID="1056" tvg-name="Kanal Sim" tvg-logo="https://logo.iptveditor.com/kanalsim.png" group-title="Free IPTV Türkei",Kanal Sim
+https://59cba4d34b678.streamlock.net/canlitv/simtv/playlist.m3u8
+#EXTINF:0 CUID="1057" tvg-name="Kibris TV" tvg-logo="https://logo.iptveditor.com/kibristv.png" group-title="Free IPTV Türkei",Kibris TV
+https://play.kibrisfm.com/hls/canli1.m3u8
+#EXTINF:0 CUID="1058" tvg-name="Kibris Genç TV HD" tvg-id="kibrisgenctv.tr" group-title="Free IPTV Türkei",Kibris Genç TV HD
+https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/playlist.m3u8
+#EXTINF:0 CUID="1059" tvg-name="TV 2020" group-title="Free IPTV Türkei",TV 2020
+https://59cba4d34b678.streamlock.net/canlitv/tv2020/playlist.m3u8
+#EXTINF:0 CUID="1060" tvg-name="24 HD" tvg-logo="https://logo.iptveditor.com/24.png" group-title="Free IPTV Türkei",24 HD
+http://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:0 CUID="1061" tvg-name="Agro TV HD" tvg-logo="https://logo.iptveditor.com/agrotv.png" group-title="Free IPTV Türkei",Agro TV HD
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
+#EXTINF:0 CUID="1062" tvg-name="Ekotürk" group-title="Free IPTV Türkei",Ekotürk
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
+#EXTINF:0 CUID="1063" tvg-name="Haber 61" tvg-id="ahaber.tr" tvg-logo="https://logo.iptveditor.com/haber61.png" group-title="Free IPTV Türkei",Haber 61
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/iptvdelisi.m3u8
+#EXTINF:0 CUID="1064" tvg-name="KRT HD" tvg-id="krt.tr" tvg-logo="https://logo.iptveditor.com/krt.png" group-title="Free IPTV Türkei",KRT HD
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:0 CUID="1065" tvg-name="Merkez TV" group-title="Free IPTV Türkei",Merkez TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist.m3u8
+#EXTINF:0 CUID="1066" tvg-name="NTV" tvg-id="ntv.pl" tvg-logo="https://logo.iptveditor.com/ntv.png" group-title="Free IPTV Türkei",NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:0 CUID="1067" tvg-name="TBMM" group-title="Free IPTV Türkei",TBMM
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:0 CUID="1068" tvg-name="TürkHaber HD" tvg-id="habertürktv.tr" group-title="Free IPTV Türkei",TürkHaber HD
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:0 CUID="1069" tvg-name="TV 5" tvg-logo="https://logo.iptveditor.com/tv5.png" group-title="Free IPTV Türkei",TV 5
+http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
+#EXTINF:0 CUID="1070" tvg-name="Ulusal TV" tvg-id="ulusaltv.tr" tvg-logo="https://logo.iptveditor.com/ulusaltv.png" group-title="Free IPTV Türkei",Ulusal TV
+https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
+#EXTINF:0 CUID="1071" tvg-name="Yol TV" tvg-logo="https://logo.iptveditor.com/yoltv.png" group-title="Free IPTV Türkei",Yol TV
+https://stream.yol.tv:9443/medialive/yol.m3u8
+#EXTINF:0 CUID="1072" tvg-name="Çiftçi TV" group-title="Free IPTV Türkei",Çiftçi TV
+https://broadcasttr.com:446/ciftcitv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1073" tvg-name="Köy TV" group-title="Free IPTV Türkei",Köy TV
+https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
+#EXTINF:0 CUID="1074" tvg-name="Yaban TV" tvg-id="yabantv.tr" tvg-logo="https://logo.iptveditor.com/yabantv.png" group-title="Free IPTV Türkei",Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w1728864232.m3u8
+#EXTINF:0 CUID="1075" tvg-name="Tay TV" tvg-logo="https://logo.iptveditor.com/taytv.png" group-title="Free IPTV Türkei",Tay TV
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
+#EXTINF:0 CUID="1076" tvg-name="Viyana TV Avusturya" group-title="Free IPTV Türkei",Viyana TV Avusturya
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:0 CUID="1077" tvg-name="Yansıma Classic" group-title="Free IPTV Türkei",Yansıma Classic
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/YansinemaTV/chunklist_w18062564.m3u8
+#EXTINF:0 CUID="1078" tvg-name="Yansıma Sinema" group-title="Free IPTV Türkei",Yansıma Sinema
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+#EXTINF:0 CUID="1079" tvg-name="Dream Türk TV" group-title="Free IPTV Türkei",Dream Türk TV
+https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
+#EXTINF:0 CUID="1080" tvg-name="Finest TV" group-title="Free IPTV Türkei",Finest TV
+https://media.finest.tv/dash/live.mpd
+#EXTINF:0 CUID="1081" tvg-name="KRAL TV" tvg-id="kraltv.tr" tvg-logo="https://logo.iptveditor.com/kraltv.png" group-title="Free IPTV Türkei",KRAL TV
+http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
+#EXTINF:0 CUID="1082" tvg-name="KRAL Pop HD" tvg-id="kralpop.tr" tvg-logo="https://logo.iptveditor.com/kralpop.png" group-title="Free IPTV Türkei",KRAL Pop HD
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:0 CUID="1083" tvg-name="Milyon TV" tvg-logo="https://logo.iptveditor.com/milyontv.png" group-title="Free IPTV Türkei",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:0 CUID="1084" tvg-name="Power Türk Akustik HD" group-title="Free IPTV Türkei",Power Türk Akustik HD
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:0 CUID="1085" tvg-name="Power Türk En Iyiler HD" group-title="Free IPTV Türkei",Power Türk En Iyiler HD
+http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+#EXTINF:0 CUID="1086" tvg-name="Power Türk Slow HD" group-title="Free IPTV Türkei",Power Türk Slow HD
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:0 CUID="1087" tvg-name="Power Türk Taptaze HD" group-title="Free IPTV Türkei",Power Türk Taptaze HD
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:0 CUID="1088" tvg-name="Radyotelekom Aktuel Müzik" group-title="Free IPTV Türkei",Radyotelekom Aktuel Müzik
+http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
+#EXTINF:0 CUID="1089" tvg-name="Tatlises TV" tvg-logo="https://logo.iptveditor.com/tatlisestv.png" group-title="Free IPTV Türkei",Tatlises TV
+https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1090" tvg-name="Yansıma Premium" group-title="Free IPTV Türkei",Yansıma Premium
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1448699434.m3u8
+#EXTINF:0 CUID="1091" tvg-name="Mavikaradeniz" tvg-logo="https://logo.iptveditor.com/mavikaradeniz.png" group-title="Free IPTV Türkei",Mavikaradeniz
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist_w373433044.m3u8
+#EXTINF:0 CUID="1092" tvg-name="Med Müzik (Kurdisch)" group-title="Free IPTV Türkei",Med Müzik (Kurdisch)
+http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
+#EXTINF:0 CUID="1093" tvg-name="TRT Çocuk HD" tvg-id="trtçocuk.tr" group-title="Free IPTV Türkei",TRT Çocuk HD
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="1094" tvg-name="İstanbul Büyükşehir Belediyesi TV" group-title="Free IPTV Türkei",İstanbul Büyükşehir Belediyesi TV
+https://livestream.ibb.gov.tr/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:0 CUID="1095" tvg-name="A Türk Izmir" group-title="Free IPTV Türkei",A Türk Izmir
+https://vdo.digitalbox.xyz:3807/stream/play.m3u8
+#EXTINF:0 CUID="1096" tvg-name="Aksu TV Kahramanmaraş" group-title="Free IPTV Türkei",Aksu TV Kahramanmaraş
+https://h125.artiyerelmedya.net/aksutv/bant1/chunks.m3u8
+#EXTINF:0 CUID="1097" tvg-name="Altaş TV Ordu" group-title="Free IPTV Türkei",Altaş TV Ordu
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1098" tvg-name="Beykent TV" tvg-logo="https://logo.iptveditor.com/beykenttv.png" group-title="Free IPTV Türkei",Beykent TV
+https://yayin30.haber100.com/live/beykenttv/playlist.m3u8
+#EXTINF:0 CUID="1099" tvg-name="Bartın TV" group-title="Free IPTV Türkei",Bartın TV
+http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/playlist.m3u8
+#EXTINF:0 CUID="1100" tvg-name="BRTV" tvg-logo="https://logo.iptveditor.com/brtv.png" group-title="Free IPTV Türkei",BRTV
+https://waw3.artiyerelmedya.net/brtv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1101" tvg-name="Bursa TV" group-title="Free IPTV Türkei",Bursa TV
+https://win1.yayin.com.tr/bursatv/bursatv/chunklist_w791211840.m3u8
+#EXTINF:0 CUID="1102" tvg-name="Can TV" tvg-logo="https://logo.iptveditor.com/cantv.png" group-title="Free IPTV Türkei",Can TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:0 CUID="1103" tvg-name="Cay TV" tvg-logo="https://logo.iptveditor.com/caytv.png" group-title="Free IPTV Türkei",Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/index.m3u8
+#EXTINF:0 CUID="1104" tvg-name="Denizli TV" group-title="Free IPTV Türkei",Denizli TV
+https://broadcasttr.com:446/drt/bant1/playlist.m3u8
+#EXTINF:0 CUID="1105" tvg-name="Egetürk HD" group-title="Free IPTV Türkei",Egetürk HD
+https://iptv.egeturk.tv/iptv/canliyayin/playlist.m3u8
+#EXTINF:0 CUID="1106" tvg-name="Fortuna TV Istanbul" group-title="Free IPTV Türkei",Fortuna TV Istanbul
+https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:0 CUID="1107" tvg-name="Kanal 15 Burdur" group-title="Free IPTV Türkei",Kanal 15 Burdur
+https://waw3.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+#EXTINF:0 CUID="1108" tvg-name="Kanal 23 Elazig" group-title="Free IPTV Türkei",Kanal 23 Elazig
+https://waw3.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+#EXTINF:0 CUID="1109" tvg-name="Kanal 26 Eskişehir" group-title="Free IPTV Türkei",Kanal 26 Eskişehir
+https://waw3.artiyerelmedya.net/kanal26/bant1/chunks.m3u8
+#EXTINF:0 CUID="1110" tvg-name="Kanal 33 Mersin" tvg-logo="https://logo.iptveditor.com/kanal33mersin.png" group-title="Free IPTV Türkei",Kanal 33 Mersin
+https://broadcasttr.com:446/kanal33/bant1/playlist.m3u8
+#EXTINF:0 CUID="1111" tvg-name="Kanal 34 Istanbul" group-title="Free IPTV Türkei",Kanal 34 Istanbul
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
+#EXTINF:0 CUID="1112" tvg-name="Kanal 56 Siirt" group-title="Free IPTV Türkei",Kanal 56 Siirt
+https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/playlist.m3u8
+#EXTINF:0 CUID="1113" tvg-name="Kanal 68 Aksaray" group-title="Free IPTV Türkei",Kanal 68 Aksaray
+https://waw3.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:0 CUID="1114" tvg-name="Kanal Ege" tvg-logo="https://logo.iptveditor.com/kanalege.png" group-title="Free IPTV Türkei",Kanal Ege
+https://59cba4d34b678.streamlock.net/canlitv/kanalege/playlist.m3u8
+#EXTINF:0 CUID="1115" tvg-name="Kanal Urfa" tvg-logo="https://logo.iptveditor.com/kanalurfa.png" group-title="Free IPTV Türkei",Kanal Urfa
+rtmp://stream.taksimbilisim.com/kanalurfa//bant1
+#EXTINF:0 CUID="1116" tvg-name="Kanal V Antalya" tvg-logo="https://logo.iptveditor.com/kanalvantalya.png" group-title="Free IPTV Türkei",Kanal V Antalya
+https://waw1.artiyerelmedya.net/kanalv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1117" tvg-name="Line Haber TV Bursa" group-title="Free IPTV Türkei",Line Haber TV Bursa
+https://broadcasttr.com:446/linetv/bant1/chunklist_w170581136.m3u8
+#EXTINF:0 CUID="1118" tvg-name="Pamukkale TV" tvg-logo="https://logo.iptveditor.com/pamukkaletv.png" group-title="Free IPTV Türkei",Pamukkale TV
+http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8
+#EXTINF:0 CUID="1119" tvg-name="Ton TV Çanakkale" group-title="Free IPTV Türkei",Ton TV Çanakkale
+https://h59.artiyerelmedya.net/tontv/bant1/chunks.m3u8
+#EXTINF:0 CUID="1120" tvg-name="Tek Rumeli TV" group-title="Free IPTV Türkei",Tek Rumeli TV
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1121" tvg-name="Trakya Türk" group-title="Free IPTV Türkei",Trakya Türk
+https://tv.medyakurumsal.com:3439/live/trakyaturklive.m3u8
+#EXTINF:0 CUID="1122" tvg-name="TV41 Kocaeli" group-title="Free IPTV Türkei",TV41 Kocaeli
+https://waw1.artiyerelmedya.net/tv41/bant1/playlist.m3u8
+#EXTINF:0 CUID="1123" tvg-name="TV52" tvg-logo="https://logo.iptveditor.com/tv52.png" group-title="Free IPTV Türkei",TV52
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
+#EXTINF:0 CUID="1124" tvg-name="TV Kayseri" tvg-logo="https://logo.iptveditor.com/tvkayseri.png" group-title="Free IPTV Türkei",TV Kayseri
+https://59cba4d34b678.streamlock.net/canlitv/tvkayseri/chunklist_w1907736724.m3u8
+#EXTINF:0 CUID="1125" tvg-name="Üniversite TV" group-title="Free IPTV Türkei",Üniversite TV
+https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
+#EXTINF:0 CUID="1126" tvg-name="Vizyon 58 Sivas" tvg-logo="https://logo.iptveditor.com/vizyon58sivas.png" group-title="Free IPTV Türkei",Vizyon 58 Sivas
+https://waw3.artiyerelmedya.net/vizyon58/bant1/chunks.m3u8
+#EXTINF:0 CUID="1127" tvg-name="Vuslat TV Malatya" group-title="Free IPTV Türkei",Vuslat TV Malatya
+https://59cba4d34b678.streamlock.net/live/vuslattv/chunklist_w25038999.m3u8
+#EXTINF:0 CUID="1128" tvg-name="Dost TV" tvg-id="dosttv.tr" tvg-logo="https://logo.iptveditor.com/dosttv.png" group-title="Free IPTV Türkei",Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:0 CUID="1129" tvg-name="Lâlegül TV" group-title="Free IPTV Türkei",Lâlegül TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:0 CUID="1130" tvg-name="Mercan TV" tvg-logo="https://logo.iptveditor.com/mercantv.png" group-title="Free IPTV Türkei",Mercan TV
+https://waw3.artiyerelmedya.net/mercantv/bant1/chunks.m3u8
+#EXTINF:0 CUID="1131" tvg-name="ON4 TV" tvg-logo="https://logo.iptveditor.com/on4tv.png" group-title="Free IPTV Türkei",ON4 TV
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:0 CUID="1132" tvg-name="Rehber HD" tvg-logo="https://logo.iptveditor.com/rehber.png" group-title="Free IPTV Türkei",Rehber HD
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:0 CUID="1133" tvg-name="Sat 7 Türk" group-title="Free IPTV Türkei",Sat 7 Türk
+http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/playlist.m3u8
+#EXTINF:0 CUID="1134" tvg-name="Semerkand HD" tvg-id="semerkandtv.tr" tvg-logo="https://logo.iptveditor.com/semerkand.png" group-title="Free IPTV Türkei",Semerkand HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
+#EXTINF:0 CUID="1135" tvg-name="Altyn Asyr TV" group-title="Free IPTV Türkei",Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
+#EXTINF:0 CUID="1136" tvg-name="Ýaşlyk TV" group-title="Free IPTV Türkei",Ýaşlyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
+#EXTINF:0 CUID="1137" tvg-name="Miras TV" group-title="Free IPTV Türkei",Miras TV
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:0 CUID="1138" tvg-name="Türkmen Owazy 5 TV" group-title="Free IPTV Türkei",Türkmen Owazy 5 TV
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+#EXTINF:0 CUID="1139" tvg-name="Türkmenistan TV" group-title="Free IPTV Türkei",Türkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
+#EXTINF:0 CUID="1140" tvg-name="Aşgabat TV" group-title="Free IPTV Türkei",Aşgabat TV
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+#EXTINF:0 CUID="1141" tvg-name="Taksim FM POP" group-title="Free IPTV Türkei",Taksim FM POP
+http://cast1.taksim.fm:8014
+#EXTINF:0 CUID="1142" tvg-name="Taksim FM LIVE" group-title="Free IPTV Türkei",Taksim FM LIVE
+http://cast1.taksim.fm:8000
+#EXTINF:0 CUID="1143" tvg-name="Taksim FM SLOW" group-title="Free IPTV Türkei",Taksim FM SLOW
+http://cast1.taksim.fm:8002
+#EXTINF:0 CUID="1144" tvg-name="Taksim FM ARABESK" group-title="Free IPTV Türkei",Taksim FM ARABESK
+http://cast1.taksim.fm:8008
+#EXTINF:0 CUID="1145" tvg-name="Taksim FM RAP" group-title="Free IPTV Türkei",Taksim FM RAP
+http://cast1.taksim.fm:8018
+#EXTINF:0 CUID="1146" tvg-name="Taksim FM ANKARA" group-title="Free IPTV Türkei",Taksim FM ANKARA
+http://cast1.taksim.fm:8012
+#EXTINF:0 CUID="1147" tvg-name="Taksim FM CLUBMIX" group-title="Free IPTV Türkei",Taksim FM CLUBMIX
+http://cast1.taksim.fm:8016
+#EXTINF:0 CUID="1148" tvg-name="RADYO HOME - 3 BABA" group-title="Free IPTV Türkei",RADYO HOME - 3 BABA
+http://37.247.98.8/stream/19/
+#EXTINF:0 CUID="1149" tvg-name="RADYO HOME - MELANKOLIK" group-title="Free IPTV Türkei",RADYO HOME - MELANKOLIK
+http://37.247.98.8/stream/20/
+#EXTINF:0 CUID="1150" tvg-name="RADYO HOME - POPHOME" group-title="Free IPTV Türkei",RADYO HOME - POPHOME
+http://37.247.98.8/stream/21/
+#EXTINF:0 CUID="1151" tvg-name="RADYO HOME - TURKULERLE TURKIYE" group-title="Free IPTV Türkei",RADYO HOME - TURKULERLE TURKIYE
+http://37.247.98.8/stream/22/
+#EXTINF:0 CUID="1152" tvg-name="RADYO HOME - MAZIDEN BIR DEMET" group-title="Free IPTV Türkei",RADYO HOME - MAZIDEN BIR DEMET
+http://37.247.98.8/stream/24/
+#EXTINF:0 CUID="1153" tvg-name="RADYO HOME - ALTIN SARKILAR" group-title="Free IPTV Türkei",RADYO HOME - ALTIN SARKILAR
+http://37.247.98.8/stream/25/
+#EXTINF:0 CUID="1154" tvg-name="RADYO HOME - RELAX HOME" group-title="Free IPTV Türkei",RADYO HOME - RELAX HOME
+http://37.247.98.8/stream/26/
+#EXTINF:0 CUID="1155" tvg-name="RADYO HOME - EGE HAVALARI" group-title="Free IPTV Türkei",RADYO HOME - EGE HAVALARI
+http://37.247.98.8/stream/29/
+#EXTINF:0 CUID="1156" tvg-name="RADYO HOME - ANKARA HAVALARI" group-title="Free IPTV Türkei",RADYO HOME - ANKARA HAVALARI
+http://37.247.98.8/stream/30/
+#EXTINF:0 CUID="1157" tvg-name="TRT 2 HD" tvg-id="trt.pl" tvg-logo="https://logo.iptveditor.com/trt2.png" group-title="Free IPTV Türkei",TRT 2 HD
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:0 CUID="1158" tvg-name="RADYO HOME - KLASIK HOME" group-title="Free IPTV Türkei",RADYO HOME - KLASIK HOME
+http://37.247.98.8/stream/32/
+#EXTINF:0 CUID="1159" tvg-name="TRT Avaz HD" tvg-id="trtavaz.tr" tvg-logo="https://logo.iptveditor.com/trtavaz.png" group-title="Free IPTV Türkei",TRT Avaz HD
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="1160" tvg-name="24 TV (1080p)" tvg-id="24tv.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Free IPTV Türkei",24 TV (1080p)
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:0 CUID="1161" tvg-name="360 TV (720p) [Not 24/7]" tvg-id="360tv.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Free IPTV Türkei",360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0 CUID="1162" tvg-name="AA Live (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/dWElJll.png" group-title="Free IPTV Türkei",AA Live (720p) [Not 24/7]
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:0 CUID="1163" tvg-name="TRT Kurdi HD" tvg-id="trtkurdi.tr" tvg-logo="https://logo.iptveditor.com/trtkurdi.png" group-title="Free IPTV Türkei",TRT Kurdi HD
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1164" tvg-name="Afyon Türk TV (720p)" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" group-title="Free IPTV Türkei",Afyon Türk TV (720p)
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:0 CUID="1165" tvg-name="Akilli TV" tvg-logo="https://logo.iptveditor.com/akillitv.png" group-title="Free IPTV Türkei",Akilli TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:0 CUID="1166" tvg-name="Akit TV (720p)" tvg-logo="https://i.imgur.com/oGto929.png" group-title="Free IPTV Türkei",Akit TV (720p)
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:0 CUID="1167" tvg-name="AKSU TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="Free IPTV Türkei",AKSU TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1168" tvg-name="Al-Zahra TV Turkic (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/QEHKGnG.png" group-title="Free IPTV Türkei",Al-Zahra TV Turkic (720p) [Not 24/7]
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:0 CUID="1169" tvg-name="Alanya Posta TV (1080p)" tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="Free IPTV Türkei",Alanya Posta TV (1080p)
+http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:0 CUID="1170" tvg-name="Bizim Ev TV" tvg-logo="https://logo.iptveditor.com/bizimevtv.png" group-title="Free IPTV Türkei",Bizim Ev TV
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
+#EXTINF:0 CUID="1171" tvg-name="ALTAS TV (720p) [Not 24/7]" tvg-id="tvasta.pl" tvg-logo="https://i.imgur.com/XaJ7fp6.png" group-title="Free IPTV Türkei",ALTAS TV (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1172" tvg-name="ARAS TV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/JsDCyWG.png" group-title="Free IPTV Türkei",ARAS TV (576p) [Not 24/7]
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:0 CUID="1173" tvg-name="Euro D" tvg-id="eurod.tr" tvg-logo="https://logo.iptveditor.com/eurod.png" group-title="Free IPTV Türkei",Euro D
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
+#EXTINF:0 CUID="1174" tvg-name="ATV Alanya (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/bUwarR0.png" group-title="Free IPTV Türkei",ATV Alanya (720p) [Not 24/7]
+http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+#EXTINF:0 CUID="1175" tvg-name="BENGÜTÜRK TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/p3ON1oX.png" group-title="Free IPTV Türkei",BENGÜTÜRK TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:0 CUID="1176" tvg-name="Kanal 7" tvg-id="kanal7.tr" tvg-logo="https://logo.iptveditor.com/kanal7.png" group-title="Free IPTV Türkei",Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:0 CUID="1177" tvg-name="Berat TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/BxxH8wE.png" group-title="Free IPTV Türkei",Berat TV (720p) [Not 24/7]
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:0 CUID="1178" tvg-name="Beşiktaş Web TV (360p)" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="Free IPTV Türkei",Beşiktaş Web TV (360p)
+https://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:0 CUID="1179" tvg-name="Beyaz TV (720p) [Not 24/7]" tvg-id="beyaztv.tr" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Free IPTV Türkei",Beyaz TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:0 CUID="1180" tvg-name="BRT 3 (406p) [Not 24/7]" tvg-logo="https://i.imgur.com/uczNZ3E.png" group-title="Free IPTV Türkei",BRT 3 (406p) [Not 24/7]
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:0 CUID="1181" tvg-name="BRTV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/U3qlEAp.png" group-title="Free IPTV Türkei",BRTV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1182" tvg-name="Bursa AS TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/MCUjck8.png" group-title="Free IPTV Türkei",Bursa AS TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1183" tvg-name="Bursa TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/9cl1MR8.png" group-title="Free IPTV Türkei",Bursa TV (720p) [Not 24/7]
+https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:0 CUID="1184" tvg-name="Can TV (720p)" tvg-logo="https://i.imgur.com/oIMtuwB.png" group-title="Free IPTV Türkei",Can TV (720p)
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:0 CUID="1185" tvg-name="Cay TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ndupxwu.png" group-title="Free IPTV Türkei",Cay TV (720p) [Not 24/7]
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:0 CUID="1186" tvg-name="Cekmeköy TV (1080p)" tvg-logo="https://i.imgur.com/sjAGFWu.png" group-title="Free IPTV Türkei",Cekmeköy TV (1080p)
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+#EXTINF:0 CUID="1187" tvg-name="Çiftçi TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Free IPTV Türkei",Çiftçi TV (1080p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:0 CUID="1188" tvg-name="Deha TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/Dlsm9XP.png" group-title="Free IPTV Türkei",Deha TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1189" tvg-name="Deniz Postası TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="Free IPTV Türkei",Deniz Postası TV (720p) [Not 24/7]
+http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1190" tvg-name="Dersim62 TV (720p)" tvg-logo="https://i.imgur.com/wFTl8aQ.png" group-title="Free IPTV Türkei",Dersim62 TV (720p)
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:0 CUID="1191" tvg-name="DHA (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="Free IPTV Türkei",DHA (720p) [Not 24/7]
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:0 CUID="1192" tvg-name="DİM TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/X4QFDhk.png" group-title="Free IPTV Türkei",DİM TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1193" tvg-name="Diyanet TV (720p)" tvg-id="diyanettv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="Free IPTV Türkei",Diyanet TV (720p)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:0 CUID="1194" tvg-name="TRT World HD" tvg-id="trtworld.tr" tvg-logo="https://logo.iptveditor.com/trtworld.png" group-title="Free IPTV Türkei",TRT World HD
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 CUID="1195" tvg-name="Ege Türk TV (480p)" tvg-logo="https://i.imgur.com/TLUKrMb.png" group-title="Free IPTV Türkei",Ege Türk TV (480p)
+https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:0 CUID="1196" tvg-name="Elmas TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/czuCrzW.png" group-title="Free IPTV Türkei",Elmas TV (720p) [Not 24/7]
+https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
+#EXTINF:0 CUID="1197" tvg-name="Em TV (486p)" tvg-id="cemtv.tr" tvg-logo="https://i.imgur.com/pHlRi8m.jpg" group-title="Free IPTV Türkei",Em TV (486p)
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:0 CUID="1198" tvg-name="A Haber" tvg-id="ahaber.tr" tvg-logo="https://logo.iptveditor.com/ahaber.png" group-title="Free IPTV Türkei",A Haber
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+#EXTINF:0 CUID="1199" tvg-name="Er TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/VDGEPrD.png" group-title="Free IPTV Türkei",Er TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1200" tvg-name="Ert Sah TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/0cdpsdz.png" group-title="Free IPTV Türkei",Ert Sah TV (720p) [Not 24/7]
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
+#EXTINF:0 CUID="1201" tvg-name="Akit TV HD" tvg-logo="https://logo.iptveditor.com/akittv.png" group-title="Free IPTV Türkei",Akit TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 CUID="1202" tvg-name="Bloomberg HT HD" tvg-id="bloomberg.pl" tvg-logo="https://logo.iptveditor.com/bloomberg.png" group-title="Free IPTV Türkei",Bloomberg HT HD
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:0 CUID="1203" tvg-name="ETV Manisa (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="Free IPTV Türkei",ETV Manisa (1080p) [Not 24/7]
+https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1204" tvg-name="Cem TV" tvg-id="cemtv.tr" tvg-logo="https://logo.iptveditor.com/cemtv.png" group-title="Free IPTV Türkei",Cem TV
+http://iptvmasterlink.dyndns.org:8080/CemTv/playlist.m3u8
+#EXTINF:0 CUID="1205" tvg-name="Finans Turk TV (720p)" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="Free IPTV Türkei",Finans Turk TV (720p)
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:0 CUID="1206" tvg-name="GRT Gaziantep (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/eRR0gkC.png" group-title="Free IPTV Türkei",GRT Gaziantep (720p) [Geo-blocked]
+http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8
+#EXTINF:0 CUID="1207" tvg-name="Flash TV" tvg-logo="https://logo.iptveditor.com/flashtv.png" group-title="Free IPTV Türkei",Flash TV
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:0 CUID="1208" tvg-name="GSTV [Geo-blocked]" tvg-logo="https://i.imgur.com/fC3KuwT.jpg" group-title="Free IPTV Türkei",GSTV [Geo-blocked]
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8
+#EXTINF:0 CUID="1209" tvg-name="Guney TV Tarsus (270p)" tvg-logo="https://i.imgur.com/solQ9nj.png" group-title="Free IPTV Türkei",Guney TV Tarsus (270p)
+http://stream2.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1210" tvg-name="Haber Global" tvg-id="haberglobal.tr" tvg-logo="https://logo.iptveditor.com/haberglobal.png" group-title="Free IPTV Türkei",Haber Global
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+#EXTINF:0 CUID="1211" tvg-name="Hunat TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/NrxHGnb.png" group-title="Free IPTV Türkei",Hunat TV (480p) [Not 24/7]
+https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
+#EXTINF:0 CUID="1212" tvg-name="IBB TV (1080p)" tvg-logo="https://i.imgur.com/aXxAz84.png" group-title="Free IPTV Türkei",IBB TV (1080p)
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:0 CUID="1213" tvg-name="Kanal B" tvg-id="kanalb.tr" tvg-logo="https://logo.iptveditor.com/kanalb.png" group-title="Free IPTV Türkei",Kanal B
+https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+#EXTINF:0 CUID="1214" tvg-name="Icel TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/CGwImKv.png" group-title="Free IPTV Türkei",Icel TV (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1215" tvg-name="Kanal 3 (720p) [Not 24/7]" tvg-id="kanal33.tr" tvg-logo="https://i.imgur.com/eXErSv0.png" group-title="Free IPTV Türkei",Kanal 3 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
+#EXTINF:0 CUID="1216" tvg-name="Kanal 7 (576p) [Not 24/7]" tvg-id="kanal7.tr" tvg-logo="https://i.imgur.com/pxpLpnH.png" group-title="Free IPTV Türkei",Kanal 7 (576p) [Not 24/7]
+https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
+#EXTINF:0 CUID="1217" tvg-name="Kanal 7 Avrupa (1080p) [Not 24/7]" tvg-id="kanal7avrupa.tr" tvg-logo="https://i.imgur.com/ggmwgiF.png" group-title="Free IPTV Türkei",Kanal 7 Avrupa (1080p) [Not 24/7]
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:0 CUID="1218" tvg-name="TGRT Haber" tvg-id="tgrthaber.tr" tvg-logo="https://logo.iptveditor.com/tgrthaber.png" group-title="Free IPTV Türkei",TGRT Haber
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
+#EXTINF:0 CUID="1219" tvg-name="Kanal 15 (720p) [Not 24/7]" tvg-id="canal1.pl" tvg-logo="https://i.imgur.com/wb1Cdc9.png" group-title="Free IPTV Türkei",Kanal 15 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+#EXTINF:0 CUID="1220" tvg-name="Kanal 23 (720p) [Not 24/7]" tvg-id="kanal26.tr" tvg-logo="https://i.imgur.com/3br8RCq.png" group-title="Free IPTV Türkei",Kanal 23 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+#EXTINF:0 CUID="1221" tvg-name="Kanal 26 (720p) [Not 24/7]" tvg-id="kanal26.tr" tvg-logo="https://i.imgur.com/Mr7XPii.png" group-title="Free IPTV Türkei",Kanal 26 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
+#EXTINF:0 CUID="1222" tvg-name="TV 100 HD" tvg-id="tv1000.pl" tvg-logo="https://logo.iptveditor.com/tv100.png" group-title="Free IPTV Türkei",TV 100 HD
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+#EXTINF:0 CUID="1223" tvg-name="Kanal 32 (480p) [Not 24/7]" tvg-id="kanal33.tr" tvg-logo="https://logo.iptveditor.com/kanal32.png" group-title="Free IPTV Türkei",Kanal 32 (480p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:0 CUID="1224" tvg-name="Kanal 33 (720p) [Not 24/7]" tvg-id="kanal33.tr" tvg-logo="https://i.imgur.com/5WYaoFZ.png" group-title="Free IPTV Türkei",Kanal 33 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+#EXTINF:0 CUID="1225" tvg-name="TV Net HD" tvg-id="tvnet.tr" tvg-logo="https://logo.iptveditor.com/tvnet.png" group-title="Free IPTV Türkei",TV Net HD
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:0 CUID="1226" tvg-name="Kanal 34 (720p) [Not 24/7]" tvg-id="kanal33.tr" tvg-logo="https://i.imgur.com/SIaI6Sj.png" group-title="Free IPTV Türkei",Kanal 34 (720p) [Not 24/7]
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8
+#EXTINF:0 CUID="1227" tvg-name="Kanal 38 (540p) [Not 24/7]" tvg-id="kanal33.tr" tvg-logo="https://i.imgur.com/WvtZ7Xd.png" group-title="Free IPTV Türkei",Kanal 38 (540p) [Not 24/7]
+http://yayin3.canlitv.com:1935/live/kanal38/playlist.m3u8
+#EXTINF:0 CUID="1228" tvg-name="TRT Belgesel HD" tvg-id="trtbelgesel.tr" tvg-logo="https://logo.iptveditor.com/trtbelgesel.png" group-title="Free IPTV Türkei",TRT Belgesel HD
+http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1229" tvg-name="Kanal 68 (720p) [Not 24/7]" tvg-id="kanal7.tr" tvg-logo="https://i.imgur.com/5y7K9SS.png" group-title="Free IPTV Türkei",Kanal 68 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:0 CUID="1230" tvg-name="Kanal Avrupa (1080p) [Not 24/7]" tvg-id="kanalavrupa.tr" tvg-logo="https://i.imgur.com/bIGk6RN.png" group-title="Free IPTV Türkei",Kanal Avrupa (1080p) [Not 24/7]
+http://51.15.2.151/hls/kanalavrupa.m3u8
+#EXTINF:0 CUID="1231" tvg-name="Kanal B (480p) [Not 24/7]" tvg-id="kanalb.tr" tvg-logo="https://i.imgur.com/bUsbxTQ.png" group-title="Free IPTV Türkei",Kanal B (480p) [Not 24/7]
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:0 CUID="1232" tvg-name="Kanal Firat (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/3o8Rokp.png" group-title="Free IPTV Türkei",Kanal Firat (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+#EXTINF:0 CUID="1233" tvg-name="Kanal Urfa (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/EvgQmoT.png" group-title="Free IPTV Türkei",Kanal Urfa (576p) [Not 24/7]
+https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8
+#EXTINF:0 CUID="1234" tvg-name="Sports TV Turkey" tvg-id="ctsport.pl" tvg-logo="https://logo.iptveditor.com/sportstv.png" group-title="Free IPTV Türkei",Sports TV Turkey
+http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
+#EXTINF:0 CUID="1235" tvg-name="Kanal V (720p) [Not 24/7]" tvg-id="kanalv.tr" tvg-logo="https://i.imgur.com/7RNjTno.png" group-title="Free IPTV Türkei",Kanal V (720p) [Not 24/7]
+http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1236" tvg-name="Kanal Z (720p) [Geo-blocked]" tvg-id="kanal7.tr" tvg-logo="https://i.imgur.com/Kr8960d.png" group-title="Free IPTV Türkei",Kanal Z (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:0 CUID="1237" tvg-name="TRT Spor Yildiz HD" tvg-logo="https://logo.iptveditor.com/trtsporyildiz.png" group-title="Free IPTV Türkei",TRT Spor Yildiz HD
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1238" tvg-name="Kay TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/MymuDJ1.png" group-title="Free IPTV Türkei",Kay TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1239" tvg-name="Kent Türk (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/FQKPjsm.png" group-title="Free IPTV Türkei",Kent Türk (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1240" tvg-name="Kudüs TV (480p) [Geo-blocked]" tvg-logo="https://i.imgur.com/lwRA84B.png" group-title="Free IPTV Türkei",Kudüs TV (480p) [Geo-blocked]
+https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
+#EXTINF:0 CUID="1241" tvg-name="Lalegül TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Free IPTV Türkei",Lalegül TV (720p) [Not 24/7]
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:0 CUID="1242" tvg-name="Line TV (404p) [Not 24/7]" tvg-logo="https://i.imgur.com/6GNp7f8.png" group-title="Free IPTV Türkei",Line TV (404p) [Not 24/7]
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1243" tvg-name="MaviKaradeniz (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/wyWappU.png" group-title="Free IPTV Türkei",MaviKaradeniz (720p) [Geo-blocked]
+http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
+#EXTINF:0 CUID="1244" tvg-name="Mercan TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/3CWV8bS.png" group-title="Free IPTV Türkei",Mercan TV (720p) [Not 24/7]
+http://yerelmedya.tv:1935/mercantv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1245" tvg-name="MyZen TV (1080p)" tvg-id="myzentv.pl" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Free IPTV Türkei",MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:0 CUID="1246" tvg-name="Natural TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rfcJ674.png" group-title="Free IPTV Türkei",Natural TV (720p) [Not 24/7]
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1247" tvg-name="OlayTürk Kayseri (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/e9ca6gc.png" group-title="Free IPTV Türkei",OlayTürk Kayseri (720p) [Geo-blocked]
+http://waw1.artiyerelmedya.net:1935/olayturk/bant1/playlist.m3u8
+#EXTINF:0 CUID="1248" tvg-name="Öncü TV (1024p) [Not 24/7]" tvg-logo="https://i.imgur.com/TGPNYrD.jpg" group-title="Free IPTV Türkei",Öncü TV (1024p) [Not 24/7]
+https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1249" tvg-name="Power Turk (1080p) [Not 24/7]" tvg-id="powertv.pl" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Free IPTV Türkei",Power Turk (1080p) [Not 24/7]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:0 CUID="1250" tvg-name="Power TV (1080p)" tvg-id="powertv.pl" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Free IPTV Türkei",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:0 CUID="1251" tvg-name="Royal TV (720p)" tvg-logo="https://i.imgur.com/1tK2xsc.png" group-title="Free IPTV Türkei",Royal TV (720p)
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:0 CUID="1252" tvg-name="Sarıyer TV (360p)" tvg-logo="https://i.imgur.com/lfHVabz.png" group-title="Free IPTV Türkei",Sarıyer TV (360p)
+http://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:0 CUID="1253" tvg-name="Sat7 Türk (720p)" tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="Free IPTV Türkei",Sat7 Türk (720p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:0 CUID="1254" tvg-name="Satranç TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Free IPTV Türkei",Satranç TV (480p) [Not 24/7]
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:0 CUID="1255" tvg-name="Semerkand TV (720p) [Not 24/7]" tvg-id="semerkandtv.tr" tvg-logo="https://i.imgur.com/UVGGrQd.png" group-title="Free IPTV Türkei",Semerkand TV (720p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:0 CUID="1256" tvg-name="Show TV (720p) [Not 24/7]" tvg-id="showtv.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Free IPTV Türkei",Show TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:0 CUID="1257" tvg-name="Sinop Yildiz TV (360p)" tvg-logo="https://i.imgur.com/CjgbQTk.png" group-title="Free IPTV Türkei",Sinop Yildiz TV (360p)
+https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:0 CUID="1259" tvg-name="Sun RTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/64tph9N.png" group-title="Free IPTV Türkei",Sun RTV (720p) [Not 24/7]
+https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
+#EXTINF:0 CUID="1260" tvg-name="Tempo TV" tvg-logo="https://i.imgur.com/6w3ecR7.png" group-title="Free IPTV Türkei",Tempo TV
+https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1261" tvg-name="TGRT Belgesel TV (576p) [Not 24/7]" tvg-id="trtbelgesel.tr" tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="Free IPTV Türkei",TGRT Belgesel TV (576p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:0 CUID="1262" tvg-name="TGRT EU (576p)" tvg-id="tgrteu.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="Free IPTV Türkei",TGRT EU (576p)
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:0 CUID="1263" tvg-name="tiviTÜRK (720p) [Not 24/7]" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="Free IPTV Türkei",tiviTÜRK (720p) [Not 24/7]
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:0 CUID="1264" tvg-name="Ton TV (720p) [Not 24/7]" tvg-id="ontv.pl" tvg-logo="https://i.imgur.com/f0Soeob.png" group-title="Free IPTV Türkei",Ton TV (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
+#EXTINF:0 CUID="1265" tvg-name="TRT 1 (720p) [Geo-blocked]" tvg-id="trt.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Free IPTV Türkei",TRT 1 (720p) [Geo-blocked]
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1266" tvg-name="TRT 2 [Geo-blocked]" tvg-id="trt.pl" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Free IPTV Türkei",TRT 2 [Geo-blocked]
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1267" tvg-name="TRT Avaz (720p)" tvg-id="trtavaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png" group-title="Free IPTV Türkei",TRT Avaz (720p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1268" tvg-name="TRT Belgesel (720p)" tvg-id="trtbelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Free IPTV Türkei",TRT Belgesel (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1269" tvg-name="Kanal 3" tvg-id="kanal33.tr" tvg-logo="https://logo.iptveditor.com/kanal3.png" group-title="Free IPTV Türkei",Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/chunklist_w1014976149.m3u8
+#EXTINF:0 CUID="1270" tvg-name="TRT EBA Ilkokul (720p)" tvg-id="trtebailkokul.tr" tvg-logo="https://i.imgur.com/IUha5eQ.jpg" group-title="Free IPTV Türkei",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1271" tvg-name="Kanal 12" tvg-id="canal1.pl" tvg-logo="https://logo.iptveditor.com/kanal12.png" group-title="Free IPTV Türkei",Kanal 12
+https://waw3.artiyerelmedya.net/kanal12/bant1/chunks.m3u8
+#EXTINF:0 CUID="1272" tvg-name="TRT EBA Lise (720p)" tvg-id="trtebatvlise.tr" tvg-logo="https://i.imgur.com/IUha5eQ.jpg" group-title="Free IPTV Türkei",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1273" tvg-name="TRT EBA Ortaokul (720p)" tvg-id="trtebaortaokul.tr" tvg-logo="https://i.imgur.com/IUha5eQ.jpg" group-title="Free IPTV Türkei",TRT EBA Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1274" tvg-name="TRT Müzik (720p)" tvg-id="trtmüzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Free IPTV Türkei",TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1275" tvg-name="TRT Türk (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="Free IPTV Türkei",TRT Türk (720p)
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1276" tvg-name="TV4 (720p)" tvg-id="tv4.pl" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Free IPTV Türkei",TV4 (720p)
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:0 CUID="1277" tvg-name="TV 8 (1080p) [Not 24/7]" tvg-id="tv8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Free IPTV Türkei",TV 8 (1080p) [Not 24/7]
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0 CUID="1278" tvg-name="TV 38 (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/KDBXLqn.png" group-title="Free IPTV Türkei",TV 38 (360p) [Not 24/7]
+https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
+#EXTINF:0 CUID="1279" tvg-name="TV 41 (720p) [Not 24/7]" tvg-id="tv4.pl" tvg-logo="https://i.imgur.com/6T472LM.png" group-title="Free IPTV Türkei",TV 41 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
+#EXTINF:0 CUID="1280" tvg-name="TV 52 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/k4R5CzO.png" group-title="Free IPTV Türkei",TV 52 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:0 CUID="1281" tvg-name="TV Den (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/Uhg95Ze.png" group-title="Free IPTV Türkei",TV Den (576p) [Not 24/7]
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:0 CUID="1282" tvg-name="TV Em (486p)" tvg-id="tve.pl" tvg-logo="https://i.imgur.com/kKdXoXx.png" group-title="Free IPTV Türkei",TV Em (486p)
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:0 CUID="1283" tvg-name="Kon TV" tvg-id="ontv.pl" tvg-logo="https://logo.iptveditor.com/kontv.png" group-title="Free IPTV Türkei",Kon TV
+https://59cba4d34b678.streamlock.net/canlitv/kontv/playlist.m3u8
+#EXTINF:0 CUID="1284" tvg-name="TVnet" tvg-id="tvnet.tr" tvg-logo="https://i.imgur.com/NTWLhuL.png" group-title="Free IPTV Türkei",TVnet
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:0 CUID="1285" tvg-name="UçanKuş TV (720p)" tvg-id="uçankuştv.tr" tvg-logo="https://i.imgur.com/4j8WrIu.png" group-title="Free IPTV Türkei",UçanKuş TV (720p)
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:0 CUID="1286" tvg-name="Üniversite TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KeauaSh.png" group-title="Free IPTV Türkei",Üniversite TV (720p) [Not 24/7]
+https://5be5d840359c6.streamlock.net/unitv/unitv/playlist.m3u8
+#EXTINF:0 CUID="1287" tvg-name="ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/FjFjdY5.png" group-title="Free IPTV Türkei",ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+#EXTINF:0 CUID="1288" tvg-name="Vizyon 58 TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/tITBc59.png" group-title="Free IPTV Türkei",Vizyon 58 TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:0 CUID="1289" tvg-name="VTV (720p) [Not 24/7]" tvg-id="tvt.pl" tvg-logo="https://i.imgur.com/o26IDy4.png" group-title="Free IPTV Türkei",VTV (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
+#EXTINF:0 CUID="1290" tvg-name="Vuslat TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/5AiUlIJ.png" group-title="Free IPTV Türkei",Vuslat TV (720p) [Not 24/7]
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+#EXTINF:0 CUID="1291" tvg-name="Stingray Naturescape (360p)" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Free IPTV Türkei",Stingray Naturescape (360p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:0 CUID="1292" tvg-name="RTG (480p)" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="Free IPTV Türkei",RTG (480p)
+http://ott-cdn.ucom.am/s80/index.m3u8
+#EXTINF:0 CUID="1294" tvg-name="Pluto TV BabyFirst (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Free IPTV Türkei",Pluto TV BabyFirst (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 CUID="1295" tvg-name="TRT Çocuk (720p)" tvg-id="trtçocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Free IPTV Türkei",TRT Çocuk (720p)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1296" tvg-name="Diyanet TV" tvg-id="diyanettv.tr" tvg-logo="https://logo.iptveditor.com/diyanettv.png" group-title="Free IPTV Türkei",Diyanet TV
+https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
+#EXTINF:0 CUID="1297" tvg-name="NTV Spor" tvg-id="vsportvinter.pl" tvg-logo="https://i.imgur.com/5pvsIsL.png" group-title="Free IPTV Türkei",NTV Spor
+http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:0 CUID="1298" tvg-name="Sports TV (720p) [Geo-blocked]" tvg-id="ctsport.pl" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Free IPTV Türkei",Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:0 CUID="1299" tvg-name="Fox Türkiye (720p)" tvg-id="foxturkiye.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Free IPTV Türkei",Fox Türkiye (720p)
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:0 CUID="1300" tvg-name="CNN Turk" tvg-id="cnnturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="Free IPTV Türkei",CNN Turk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:0 CUID="1301" tvg-name="Haber61 TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/2a2XUKl.png" group-title="Free IPTV Türkei",Haber61 TV (720p) [Not 24/7]
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:0 CUID="1302" tvg-name="Haber Global (720p) [Not 24/7]" tvg-id="haberglobal.tr" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="Free IPTV Türkei",Haber Global (720p) [Not 24/7]
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:0 CUID="1303" tvg-name="Habertürk TV (720p) [Not 24/7]" tvg-id="habertürktv.tr" tvg-logo="https://i.imgur.com/sUFh3Qr.png" group-title="Free IPTV Türkei",Habertürk TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:0 CUID="1304" tvg-name="Life TV (720p) [Not 24/7]" tvg-id="lifetv.tr" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="Free IPTV Türkei",Life TV (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+#EXTINF:0 CUID="1305" tvg-name="ON Medya Haber (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/thvk3Py.png" group-title="Free IPTV Türkei",ON Medya Haber (720p) [Geo-blocked]
+http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8
+#EXTINF:0 CUID="1306" tvg-name="TGRT Haber (360p) [Not 24/7]" tvg-id="tgrthaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="Free IPTV Türkei",TGRT Haber (360p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:0 CUID="1308" tvg-name="TRT Haber (720p)" tvg-id="trthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="Free IPTV Türkei",TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:0 CUID="1309" tvg-name="Bloomberg HT (720p) [Not 24/7]" tvg-id="bloomberg.pl" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Free IPTV Türkei",Bloomberg HT (720p) [Not 24/7]
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.
 
 #EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="TR: 24 Kitchen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2926de716268ca6fdeba45843203b6b7.png" tvg-id2="TV=" group-title="🇹🇷 TR 02 ➾ Food",24 Kitchen
 http://45.143.222.41:8080/dooby1312/b244f7ab/1808
@@ -1657,9 +2299,19 @@ http://45.143.222.41:8080/dooby1312/b244f7ab/29008
 http://45.143.222.41:8080/dooby1312/b244f7ab/297502
 #EXTINF:-1 tvg-id="" tvg-name="DE: XITE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/43156d70f81982317120ff6cc17232fb.png" tvg-id2="TV=" group-title="DE 🇩🇪 ",XITE
 http://45.143.222.41:8080/dooby1312/b244f7ab/281767
-#EXTINF:-1 tvg-id="" tvg-name="NL: 4K | NPO 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ NEDERLAND",4K | NPO 1
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ LifeStyle",ZDF
+http://45.143.222.41:8080/dooby1312/b244f7ab/409
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE: ZDF Info" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ LifeStyle",ZDF Info
+http://45.143.222.41:8080/dooby1312/b244f7ab/2069
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDF Neo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ LifeStyle",ZDF Neo
+http://45.143.222.41:8080/dooby1312/b244f7ab/2070
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sozcu TV HD" tvg-logo="" group-title="TURK",TR: Sozcu tv HD
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NL: 4K | NPO 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",4K | NPO 1
 http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/2995
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="NL: NPO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" tvg-id2="TV=" group-title="DE 🇩🇪 ➾ NEDERLAND",4K | NPO 2
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="NL: NPO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",4K | NPO 2
 http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/2996
 #EXTINF:-1 tvg-id="zdfneo.de" tvg-name="NL: NET 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",Net 5
 http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/3003
