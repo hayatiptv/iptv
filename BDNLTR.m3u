@@ -4,7 +4,7 @@
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/atv-tv-canli.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",ATV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ecanlitv4.etvserver.com:8081/atv.m3u8?tkn=a9JDCfKWdPvow1OFN6Cq4A&tms=1681207984
+http://my-media.ddns.me:52381/kino.de@38789o46/kino@de5145611zt09/8618.ts
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/show-tv-izle.png" tvg-id2="TV=" group-title="01 (ULUSAL STANDART  Dahili Decorder ayarlayın) | TV",SHOW TV HD | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
