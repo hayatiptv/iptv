@@ -23,9 +23,9 @@ to any player with support M3U-playlists works best with VLC
 Welkom op iptv center please before use test it,and then use it
 
 Buy me a caffee please
-http://redirect.viglink.com/?key=71fe2139a887ad501313cd8cce3053c5&subId=7240094&u=http%3A//buymeacoffee.com/SMSK
+https://www.buymeacoffee.com/SMSK
 
-online schopping with Bitcoin Sats
+online schopping webschops with Bitcoin Sats
 https://satsback.com/register/1QEJyGPlg4LN5kwx
 
 Good day
