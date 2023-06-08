@@ -1,4 +1,4 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 14:11 01.06.2023 | #
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 19:32 08.06.2023 | #
 
 #EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Baby TV
 http://gamsgo.cyou:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/634
@@ -12235,15 +12235,7 @@ http://premiumiptvmk.com:8080/kodicologne/48e237edd2/298627
 #EXTINF:-1 tvg-id="" tvg-name="UY: VTV Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3b5039ea5e0d2425aaf266130b1d497b.png" tvg-id2="" group-title="🌍 Uruguay",UY: VTV Plus
 http://premiumiptvmk.com:8080/kodicologne/48e237edd2/8659
 
-#EXTINF:-1 tvg-id="" tvg-name="NL: 4K | NPO 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",4K | NPO 1
-http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/2995
-#EXTINF:-1 tvg-id="" tvg-name="NL: NPO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/693fc2a6d3443e3dea2575c79ae950ac.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",4K | NPO 2
-http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/2996
-#EXTINF:-1 tvg-id="" tvg-name="NL: NET 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",NET 5
-http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/3003
 #EXTINF:-1 tvg-id="" tvg-name="NL: RTL Z" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4b07228245fc7cc5a3a66b293cd8be6f.png" tvg-id2="TV=" group-title="NL 🇩🇪 ➾ NEDERLAND",RTL Z
 http://line.team-tv.link:80/kV3mkGGkNz/EykM2Cnjwm/3006
-#EXTINF:-1 tvg-id="" tvg-name="NL: 4K | SÖZCÜ TV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="NL 🇩🇪 ➾ NEDERLAND",4K | SÖZCÜ TV
-http://tvext.exttv.xyz:8080/shn9918/shn.033333/134843
 #EXTINF:-1 tvg-id="" tvg-name="NL: 4K | SÖZCÜ TV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="NL 🇩🇪 ➾ NEDERLAND",4K | SÖZCÜ TV
 https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
