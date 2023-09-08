@@ -1,8 +1,8 @@
 #EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 08:48 08.09.2023 | #
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-1-izle.png" tvg-id2="" group-title="🇹🇷 .COM/1.M3U ESKİ USUL STANDART ULUSAL TÜRK KANALLARI",TRT 1 HD | ULUSAL
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/trt-1-izle.png" tvg-id2="" group-title="🇹🇷 .COM/1.M3U ESKİ USUL STANDART ULUSAL TÜRK KANALLARI",Sozcu | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ythls.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/atv-tv-canli.png" tvg-id2="" group-title="🇹🇷 .COM/1.M3U ESKİ USUL STANDART ULUSAL TÜRK KANALLARI,ATV HD | ULUSAL
+#EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/atv-tv-canli.png" tvg-id2="" group-title="🇹🇷 .COM/1.M3U ESKİ USUL STANDART ULUSAL TÜRK KANALLARI,Sozcu | ULUSAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.yilmaztv.cc/logo4/show-tv-izle.png" tvg-id2="" group-title="🇹🇷 .COM/1.M3U ESKİ USUL STANDART ULUSAL TÜRK KANALLARI,SHOW TV HD | ULUSAL
