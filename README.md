@@ -26,4 +26,7 @@ https://www.buymeacoffee.com/SMSK
 online schopping webschops with Bitcoin Sats
 https://satsback.com/register/1QEJyGPlg4LN5kwx
 
+Donate Rethereum (RTH) on this address:
+0xc6bAEcDbB246E4d59F69b5e2C8A5F77215d41cFB
+
 Good day
