@@ -1,132 +1,132 @@
 #EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 11:43 12.10.2023 |
 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="1" tvg-name="trt1" tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT 1 🔸 ULUSAL
+#EXTINF:-1 tvg-id="1" tvg-name="trt1" tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT 1  ULUSAL
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="2" tvg-name="atv" tvg-logo="https://m.yilmaztv.cc/logo/atv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 ATV 🔸 ULUSAL
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8	
+#EXTINF:-1 tvg-id="2" tvg-name="atv" tvg-logo="https://m.yilmaztv.cc/logo/atv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", ATV  ULUSAL
+http://51.195.5.44:80/atv/index.m3u8	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="3" tvg-name="showtv" tvg-logo="https://m.yilmaztv.cc/logo/show-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 SHOW TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="3" tvg-name="showtv" tvg-logo="https://m.yilmaztv.cc/logo/show-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", SHOW TV  ULUSAL
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="7" tvg-name="beyaztv" tvg-logo="https://m.yilmaztv.cc/logo/beyaz-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 BEYAZ TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="7" tvg-name="beyaztv" tvg-logo="https://m.yilmaztv.cc/logo/beyaz-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", BEYAZ TV  ULUSAL
 https://ecanlitv3.etvserver.com/beyaztv.m3u8?tkn=M4wcteO4PF3zAUJC0u_DZA&tms=1697117414	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="4" tvg-name="kanald" tvg-logo="https://m.yilmaztv.cc/logo/kanal-d.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 KANAL D 🔸 ULUSAL
+#EXTINF:-1 tvg-id="4" tvg-name="kanald" tvg-logo="https://m.yilmaztv.cc/logo/kanal-d.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", KANAL D  ULUSAL
 https://ecanlitv3.etvserver.com/kanald.m3u8?tkn=M4wcteO4PF3zAUJC0u_DZA&tms=1697117414	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="6" tvg-name="startv" tvg-logo="https://m.yilmaztv.cc/logo/star-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 STAR TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="6" tvg-name="startv" tvg-logo="https://m.yilmaztv.cc/logo/star-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", STAR TV  ULUSAL
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="9" tvg-name="360tv" tvg-logo="https://m.yilmaztv.cc/logo/360-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 360 TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="9" tvg-name="360tv" tvg-logo="https://m.yilmaztv.cc/logo/360-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", 360 TV  ULUSAL
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="5" tvg-name="kanal7" tvg-logo="https://m.yilmaztv.cc/logo/kanal-7.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 KANAL 7 🔸 ULUSAL
+#EXTINF:-1 tvg-id="5" tvg-name="kanal7" tvg-logo="https://m.yilmaztv.cc/logo/kanal-7.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", KANAL 7  ULUSAL
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="10" tvg-name="lalegultv" tvg-logo="https://m.yilmaztv.cc/logo/lalegul-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 LALEGÜL TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="10" tvg-name="lalegultv" tvg-logo="https://m.yilmaztv.cc/logo/lalegul-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", LALEGÜL TV  ULUSAL
 https://ecanlitv3.etvserver.com/lalegultv.m3u8?tkn=M4wcteO4PF3zAUJC0u_DZA&tms=1697117414	
-#EXTINF:-1 tvg-id="66" tvg-name="berattv" tvg-logo="https://m.yilmaztv.cc/logo/berat-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 BERAT TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="66" tvg-name="berattv" tvg-logo="https://m.yilmaztv.cc/logo/berat-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", BERAT TV  ULUSAL
 https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="58" tvg-name="a2tv" tvg-logo="https://m.yilmaztv.cc/logo/a2-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 A2 TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="58" tvg-name="a2tv" tvg-logo="https://m.yilmaztv.cc/logo/a2-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", A2 TV  ULUSAL
 https://ecanlitv3.etvserver.com/a2tv.m3u8?tkn=M4wcteO4PF3zAUJC0u_DZA&tms=1697117414	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="57" tvg-name="teve2" tvg-logo="https://m.yilmaztv.cc/logo/teve-2.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TEVE 2 🔸 ULUSAL
+#EXTINF:-1 tvg-id="57" tvg-name="teve2" tvg-logo="https://m.yilmaztv.cc/logo/teve-2.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TEVE 2  ULUSAL
 https://ecanlitv3.etvserver.com/teve2.m3u8?tkn=M4wcteO4PF3zAUJC0u_DZA&tms=1697117414	
-#EXTINF:-1 tvg-id="11" tvg-name="tv8" tvg-logo="https://m.yilmaztv.cc/logo/tv-8.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TV 8 🔸 ULUSAL
+#EXTINF:-1 tvg-id="11" tvg-name="tv8" tvg-logo="https://m.yilmaztv.cc/logo/tv-8.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TV 8  ULUSAL
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="12" tvg-name="tv85" tvg-logo="https://m.yilmaztv.cc/logo/tv-85.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TV 8.5 🔸 ULUSAL
+#EXTINF:-1 tvg-id="12" tvg-name="tv85" tvg-logo="https://m.yilmaztv.cc/logo/tv-85.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TV 8.5  ULUSAL
 https://ecanlitv1.etvserver.com/tv855.m3u8?tkn=M4wcteO4PF3zAUJC0u_DZA&tms=1697117414	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="15" tvg-name="trtbelgesel" tvg-logo="https://m.yilmaztv.cc/logo/trt-belgesel.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT BELGESEL 🔸 ULUSAL
+#EXTINF:-1 tvg-id="15" tvg-name="trtbelgesel" tvg-logo="https://m.yilmaztv.cc/logo/trt-belgesel.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT BELGESEL  ULUSAL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="56" tvg-name="dmax" tvg-logo="https://m.yilmaztv.cc/logo/d-max.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 D MAX 🔸 ULUSAL
+#EXTINF:-1 tvg-id="56" tvg-name="dmax" tvg-logo="https://m.yilmaztv.cc/logo/d-max.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", D MAX  ULUSAL
 https://ecanlitv3.etvserver.com/dmax.m3u8?tkn=M4wcteO4PF3zAUJC0u_DZA&tms=1697117414	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="8" tvg-name="tlc" tvg-logo="https://m.yilmaztv.cc/logo/tlc.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TLC 🔸 ULUSAL
+#EXTINF:-1 tvg-id="8" tvg-name="tlc" tvg-logo="https://m.yilmaztv.cc/logo/tlc.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TLC  ULUSAL
 https://ecanlitv3.etvserver.com/tlc.m3u8?tkn=M4wcteO4PF3zAUJC0u_DZA&tms=1697117414	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="13" tvg-name="ciftcitv" tvg-logo="https://m.yilmaztv.cc/logo/ciftci-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 ÇİFTCİ TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="13" tvg-name="ciftcitv" tvg-logo="https://m.yilmaztv.cc/logo/ciftci-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", ÇİFTCİ TV  ULUSAL
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="59" tvg-name="tv4" tvg-logo="https://m.yilmaztv.cc/logo/tv-4.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TV 4 🔸 ULUSAL
+#EXTINF:-1 tvg-id="59" tvg-name="tv4" tvg-logo="https://m.yilmaztv.cc/logo/tv-4.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TV 4  ULUSAL
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 	
-#EXTINF:-1 tvg-id="63" tvg-name="teleontv" tvg-logo="https://m.yilmaztv.cc/logo/teleon-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TELEON TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="63" tvg-name="teleontv" tvg-logo="https://m.yilmaztv.cc/logo/teleon-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TELEON TV  ULUSAL
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="30" tvg-name="denizpostasitv" tvg-logo="https://m.yilmaztv.cc/logo/deniz-postasi-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 DENİZ POSTASI TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="30" tvg-name="denizpostasitv" tvg-logo="https://m.yilmaztv.cc/logo/deniz-postasi-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", DENİZ POSTASI TV  ULUSAL
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="31" tvg-name="tv19corum" tvg-logo="https://m.yilmaztv.cc/logo/tv19-corum.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TV19 ÇORUM 🔸 ULUSAL
+#EXTINF:-1 tvg-id="31" tvg-name="tv19corum" tvg-logo="https://m.yilmaztv.cc/logo/tv19-corum.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TV19 ÇORUM  ULUSAL
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="16" tvg-name="trtebatvilkokul" tvg-logo="https://m.yilmaztv.cc/logo/trt-eba-tv-ilkokul.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT EBA TV İLKOKUL 🔸 ULUSAL
+#EXTINF:-1 tvg-id="16" tvg-name="trtebatvilkokul" tvg-logo="https://m.yilmaztv.cc/logo/trt-eba-tv-ilkokul.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT EBA TV İLKOKUL  ULUSAL
 https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="17" tvg-name="trtebatvortaokul" tvg-logo="https://m.yilmaztv.cc/logo/trt-eba-tv-ortaokul.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT EBA TV ORTAOKUL 🔸 ULUSAL
+#EXTINF:-1 tvg-id="17" tvg-name="trtebatvortaokul" tvg-logo="https://m.yilmaztv.cc/logo/trt-eba-tv-ortaokul.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT EBA TV ORTAOKUL  ULUSAL
 https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="18" tvg-name="trtebatvlise" tvg-logo="https://m.yilmaztv.cc/logo/trt-eba-tv-lise.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT EBA TV LİSE 🔸 ULUSAL
+#EXTINF:-1 tvg-id="18" tvg-name="trtebatvlise" tvg-logo="https://m.yilmaztv.cc/logo/trt-eba-tv-lise.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT EBA TV LİSE  ULUSAL
 https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="19" tvg-name="trtmuzik" tvg-logo="https://m.yilmaztv.cc/logo/trt-muzik.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT MUZİK 🔸 ULUSAL
+#EXTINF:-1 tvg-id="19" tvg-name="trtmuzik" tvg-logo="https://m.yilmaztv.cc/logo/trt-muzik.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT MUZİK  ULUSAL
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="20" tvg-name="trtturk" tvg-logo="https://m.yilmaztv.cc/logo/trt-turk.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT TURK 🔸 ULUSAL
+#EXTINF:-1 tvg-id="20" tvg-name="trtturk" tvg-logo="https://m.yilmaztv.cc/logo/trt-turk.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT TURK  ULUSAL
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="24" tvg-name="trtarapca" tvg-logo="https://m.yilmaztv.cc/logo/trt-arapca.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT ARAPÇA 🔸 ULUSAL
+#EXTINF:-1 tvg-id="24" tvg-name="trtarapca" tvg-logo="https://m.yilmaztv.cc/logo/trt-arapca.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT ARAPÇA  ULUSAL
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="25" tvg-name="trtkurdi" tvg-logo="https://m.yilmaztv.cc/logo/trt-kurdi.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT KURDİ 🔸 ULUSAL
+#EXTINF:-1 tvg-id="25" tvg-name="trtkurdi" tvg-logo="https://m.yilmaztv.cc/logo/trt-kurdi.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT KURDİ  ULUSAL
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 	
-#EXTINF:-1 tvg-id="26" tvg-name="diyanettv" tvg-logo="https://m.yilmaztv.cc/logo/diyanet-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 DİYANET TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="26" tvg-name="diyanettv" tvg-logo="https://m.yilmaztv.cc/logo/diyanet-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", DİYANET TV  ULUSAL
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="27" tvg-name="trtworld" tvg-logo="https://m.yilmaztv.cc/logo/trt-world.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT WORLD 🔸 ULUSAL
+#EXTINF:-1 tvg-id="27" tvg-name="trtworld" tvg-logo="https://m.yilmaztv.cc/logo/trt-world.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT WORLD  ULUSAL
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="28" tvg-name="cine5tv" tvg-logo="https://m.yilmaztv.cc/logo/cine5-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 CİNE5 TV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="28" tvg-name="cine5tv" tvg-logo="https://m.yilmaztv.cc/logo/cine5-tv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", CİNE5 TV  ULUSAL
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-#EXTINF:-1 tvg-id="29" tvg-name="tgrteu" tvg-logo="https://m.yilmaztv.cc/logo/tgrt-eu.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TGRT EU 🔸 ULUSAL
+#EXTINF:-1 tvg-id="29" tvg-name="tgrteu" tvg-logo="https://m.yilmaztv.cc/logo/tgrt-eu.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TGRT EU  ULUSAL
 https://ecanlitv3.etvserver.com/tgrteu.m3u8?tkn=M4wcteO4PF3zAUJC0u_DZA&tms=1697117414	
-#EXTINF:-1 tvg-id="87" tvg-name="trt1" tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TRT 1 🔸 ULUSAL
+#EXTINF:-1 tvg-id="87" tvg-name="trt1" tvg-logo="https://m.yilmaztv.cc/logo/trt-1.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TRT 1  ULUSAL
 http://31.42.184.163:2082/live/bestregards/9aDj23nCG84L5/77322.m3u8
 	
-#EXTINF:-1 tvg-id="88" tvg-name="atv" tvg-logo="https://m.yilmaztv.cc/logo/atv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 ATV 🔸 ULUSAL
+#EXTINF:-1 tvg-id="88" tvg-name="atv" tvg-logo="https://m.yilmaztv.cc/logo/atv.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", ATV  ULUSAL
 http://31.42.184.163:2082/live/bestregards/9aDj23nCG84L5/113560.m3u8
 	
-#EXTINF:-1 tvg-id="89" tvg-name="tv8" tvg-logo="https://m.yilmaztv.cc/logo/tv-8.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TV 8 🔸 ULUSAL
+#EXTINF:-1 tvg-id="89" tvg-name="tv8" tvg-logo="https://m.yilmaztv.cc/logo/tv-8.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TV 8  ULUSAL
 http://31.42.184.163:2082/live/bestregards/9aDj23nCG84L5/77485.m3u8
 	
-#EXTINF:-1 tvg-id="90" tvg-name="tv85" tvg-logo="https://m.yilmaztv.cc/logo/tv-85.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL",🔸 TV 8.5 🔸 ULUSAL
+#EXTINF:-1 tvg-id="90" tvg-name="tv85" tvg-logo="https://m.yilmaztv.cc/logo/tv-85.jpg?t=1696715174" tvg-id2="" group-title=".ULUSAL ESKİ USUL", TV 8.5  ULUSAL
 http://31.42.184.163:2082/live/bestregards/9aDj23nCG84L5/77486.m3u8
 	
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
