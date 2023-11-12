@@ -23,6 +23,9 @@ Welkom op iptv center please before use test it,and then use it
 Buy me a caffee please
 https://www.buymeacoffee.com/SMSK
 
+Bir Bardak Kahve icelim sizden 
+https://ko-fi.com/digiseytan
+
 online schopping webschops with Bitcoin Sats
 https://satsback.com/register/1QEJyGPlg4LN5kwx
 
