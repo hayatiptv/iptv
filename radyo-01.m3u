@@ -1,0 +1,1389 @@
+#EXTM3U #RADYOLAR | SON GÜNCELLENME 18:17 09.10.2023 | RADYO
+#EXTINF:-1 tvg-id="1" tvg-name="24arabesk" tvg-logo="https://m.RADYO.cc/logo-radyo/24arabesk.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",24 Arabesk Dijital Radyo
+https://24arabesk.80.yayin.com.tr/stream/1/
+#EXTINF:-1 tvg-id="2" tvg-name="adanafm" tvg-logo="https://m.RADYO.cc/logo-radyo/adana-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Adana FM Adana
+https://host.onlineradyotv.net:2020/stream/adanafm
+#EXTINF:-1 tvg-id="3" tvg-name="hatayakdenizfm" tvg-logo="https://m.RADYO.cc/logo-radyo/hatay-akdeniz-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Akdeniz FM Hatay
+https://www.liveradio.es/http://yayin.netyayin.net:7077/;stream.nsv
+#EXTINF:-1 tvg-id="4" tvg-name="arabeskalemi" tvg-logo="https://m.RADYO.cc/logo-radyo/arabesk-alemi.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Arabesk Alemi Dijital Radyo
+https://www.liveradio.es/http://arabeskalemi.net:9300/stream?icy=http
+#EXTINF:-1 tvg-id="5" tvg-name="arabeskdamarfm" tvg-logo="https://m.RADYO.cc/logo-radyo/arabesk-damar-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Arabesk Damar FM Dijital Radyo
+https://vofile.ru/turkey/arabesk_damar_fm/icecast.audio
+#EXTINF:-1 tvg-id="6" tvg-name="arabeskfm" tvg-logo="https://m.RADYO.cc/logo-radyo/arabesk-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Arabesk FM Dijital Radyo
+https://yayin.arabeskfm.biz:8042/stream?icy=http
+#EXTINF:-1 tvg-id="7" tvg-name="arabeskinsesifm" tvg-logo="https://m.RADYO.cc/logo-radyo/arabeskinsesi-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Arabeskin Sesi FM Dijital Radyo
+https://www.liveradio.es/http://arabeskinsesi.net:9958/;*.mp3?
+#EXTINF:-1 tvg-id="8" tvg-name="arabeskland" tvg-logo="https://m.RADYO.cc/logo-radyo/arabeskland.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Arabeskland Dijital Radyo
+https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="arabeskradyo2" tvg-logo="https://m.RADYO.cc/logo-radyo/arabesk-radyo2.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Arabesk Radyo Dijital Radyo
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 tvg-id="10" tvg-name="arabeskradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/arabesk-radyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Arabesk Radyo Dijital Radyo
+https://dinle.arabeskradyo.biz/stream
+#EXTINF:-1 tvg-id="11" tvg-name="arabeskterkiye" tvg-logo="https://m.RADYO.cc/logo-radyo/arabesk-terkiye.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Arabesk Türkiye İstanbul
+https://vofile.ru/turkey/arabesk_turkiye_dinle/icecast.audio
+#EXTINF:-1 tvg-id="12" tvg-name="armonifm" tvg-logo="https://m.RADYO.cc/logo-radyo/armoni-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Armoni FM Afyonkarahisar
+https://www.liveradio.es/http://radyo.yayindakiler.com:4084/;
+#EXTINF:-1 tvg-id="13" tvg-name="askfm" tvg-logo="https://m.RADYO.cc/logo-radyo/ask-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Aşk FM Ankara
+https://www.liveradio.es/http://yayin.asymedya.com:8020/1
+#EXTINF:-1 tvg-id="14" tvg-name="asyaradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/asya-radyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Asya Radyo Antakya
+https://www.liveradio.es/http://sunucu.radyodinle.com:9850/;stream.nsv
+#EXTINF:-1 tvg-id="15" tvg-name="babaradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/baba-radyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Baba Radyo Kocaeli
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="beskfm" tvg-logo="https://m.RADYO.cc/logo-radyo/besk-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Besk FM Giresun
+https://beskfmn1.80.yayin.com.tr//stream/1/?icy=http
+#EXTINF:-1 tvg-id="17" tvg-name="caglarfm" tvg-logo="https://m.RADYO.cc/logo-radyo/caglar-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Çağlar FM Malatya
+https://sssx.radyosfer.com/canfm/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="18" tvg-name="canradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/can-radyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Çan Radyo Çanakkale
+https://ssl.radyosfer.com:7076/;
+#EXTINF:-1 tvg-id="19" tvg-name="canterkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/canterk-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",CanTürk FM Dijital Radyo
+https://radyo.radyohost.net:2007/;type=mp3
+#EXTINF:-1 tvg-id="20" tvg-name="damarfm" tvg-logo="https://m.RADYO.cc/logo-radyo/damar-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Damar FM Dijital Radyo
+http://yayin.damarfm.com:8080/mp3
+#EXTINF:-1 tvg-id="21" tvg-name="damarturk34" tvg-logo="https://m.RADYO.cc/logo-radyo/damar-turk-34.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Damar Türk FM İstanbul
+https://live.radyositesihazir.com/7000/stream
+#EXTINF:-1 tvg-id="22" tvg-name="damlafm" tvg-logo="https://m.RADYO.cc/logo-radyo/damla-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Damla Radyo İstanbul
+https://www.liveradio.es/http://yayin.rtmp.org:8750/;*.mp3
+#EXTINF:-1 tvg-id="23" tvg-name="efkar" tvg-logo="https://m.RADYO.cc/logo-radyo/efkar.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Efkar Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC008_SO1AAC.aac
+#EXTINF:-1 tvg-id="24" tvg-name="efsane4lu" tvg-logo="https://m.RADYO.cc/logo-radyo/efsane-4lu.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Efsane 4'lü Dijital Radyo
+https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="erzincanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/erzincan-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Erzincan FM Erzincan
+https://radio-streaming.net/turkey/erzincan-fm-105-5/playlist.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="esmefm" tvg-logo="https://m.RADYO.cc/logo-radyo/esme-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Eşme FM Dijital Radyo
+https://vofile.ru/turkey/esme_fm_usak/icecast.audio
+#EXTINF:-1 tvg-id="27" tvg-name="filizfm" tvg-logo="https://m.RADYO.cc/logo-radyo/filiz-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Filiz FM Muş
+https://www.liveradio.es/http://sunucu.radyodinle.com:6746/;stream.nsv
+#EXTINF:-1 tvg-id="28" tvg-name="fistikfm" tvg-logo="https://m.RADYO.cc/logo-radyo/fistik-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Fıstık FM Samsun
+https://yayin5.radyohizmeti.com:10948/stream
+#EXTINF:-1 tvg-id="29" tvg-name="gencarabeskfm" tvg-logo="https://m.RADYO.cc/logo-radyo/genc-arabesk-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Genş Arabesk FM Dijital Radyo
+https://yayin.radyohostu.com:7013/;/gencarabeskfm.mp3
+#EXTINF:-1 tvg-id="30" tvg-name="radiovegas" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-vegas.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Genş Kral FM Gaziantep
+https://anadolu.liderhost.com.tr/8090/;:8090
+#EXTINF:-1 tvg-id="31" tvg-name="harbiradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/harbi-radyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Harbi Radyo Dijital Radyo
+https://radio-streaming.net/turkey/harbi-radyo/playlist.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="hayalfm" tvg-logo="https://m.RADYO.cc/logo-radyo/hayal-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Hayal FM Dijital Radyo
+https://radyo.radyohost.net:10994/stream/1/?icy=http
+#EXTINF:-1 tvg-id="33" tvg-name="igdirfm" tvg-logo="https://m.RADYO.cc/logo-radyo/igdir-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Iğdır FM Erzurum
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4158/stream
+#EXTINF:-1 tvg-id="34" tvg-name="tam90imbatfm" tvg-logo="https://m.RADYO.cc/logo-radyo/tam-90-imbat-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",İmbat FM Kula
+https://vofile.ru/turkey/imbat_fm/icecast.audio
+#EXTINF:-1 tvg-id="35" tvg-name="incitekfm" tvg-logo="https://m.RADYO.cc/logo-radyo/incitek-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",İncitek FM Erzincan
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4204/;
+#EXTINF:-1 tvg-id="36" tvg-name="kalitelifm" tvg-logo="https://m.RADYO.cc/logo-radyo/kalitelifm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",KaliteliFM Dijital Radyo
+https://anadolu.liderhost.com.tr/9312/stream
+#EXTINF:-1 tvg-id="37" tvg-name="karadenizfm" tvg-logo="https://m.RADYO.cc/logo-radyo/karadeniz-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Karadeniz FM İstanbul
+https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="kastamonufm" tvg-logo="https://m.RADYO.cc/logo-radyo/kastamonu-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Kastamonu FM Kastamonu
+https://radio-streaming.net/turkey/kastamonu-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="kilissultanradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/kilis-sultan-radyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Kilis Sultan Radyo Kilis
+https://sslyayin.netyayin.net/7979/stream
+#EXTINF:-1 tvg-id="40" tvg-name="kozanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kozan-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Kozan FM Adana
+https://www.liveradio.es/http://sunucu.radyodinle.com:3401/;
+#EXTINF:-1 tvg-id="41" tvg-name="kralfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kral-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Kral FM Adana
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="kralterkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kralterk-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",KralTürk FM Dijital Radyo
+https://yayin.radyokralturk.com/8032/stream
+#EXTINF:-1 tvg-id="43" tvg-name="megaaskfm" tvg-logo="https://m.RADYO.cc/logo-radyo/mega-ask-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Mega Aşk FM Dijital Radyo
+https://vofile.ru/turkey/mega-ask-fm/icecast.audio
+#EXTINF:-1 tvg-id="44" tvg-name="mersinfm" tvg-logo="https://m.RADYO.cc/logo-radyo/mersin-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Mersin FM Mersin
+https://vofile.ru/turkey/mersin_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="45" tvg-name="ortacafm" tvg-logo="https://m.RADYO.cc/logo-radyo/ortaca-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Ortaca FM Muğla
+https://radio-streaming.net/turkey/ortaca-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="palbesk" tvg-logo="https://m.RADYO.cc/logo-radyo/pal-besk.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Pal Besk Dijital Radyo
+https://radio-streaming.net/turkey/pal-besk-istanbul/playlist.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="parkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/park-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Park FM Aksaray
+https://www.liveradio.es/http://yayin.netradyom.com:8050/PARKFM/;
+#EXTINF:-1 tvg-id="48" tvg-name="polisradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/polis-radyosu.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Polis Radyosu Ağrı
+https://m.egm.gov.tr:8093//
+#EXTINF:-1 tvg-id="49" tvg-name="radyo03" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-03.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo 03 Afyonkarahisar
+https://reshun.ru/turkey/radyo-03-afyon/icecast.audio
+#EXTINF:-1 tvg-id="50" tvg-name="radyo06" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-06.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo 06 Ankara
+https://radio-streaming.net/turkey/radyo-06-ankara/icecast.audio
+#EXTINF:-1 tvg-id="51" tvg-name="radyo20003" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-2000-3.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo2000 İstanbul
+https://vofile.ru/turkey/radyo-2000-3/icecast.audio
+#EXTINF:-1 tvg-id="52" tvg-name="radyo2000fm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo2000fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo 2000 FM Dijital Radyo
+https://www.liveradio.es/http://radyo2000.radyomhd.com:1100/;
+#EXTINF:-1 tvg-id="53" tvg-name="radyo34" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-34.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo 34 İstanbul
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 tvg-id="54" tvg-name="radyo38" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-38.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo 38 Nevşehir
+https://anadolu.liderhost.com.tr/9358/;
+#EXTINF:-1 tvg-id="55" tvg-name="radyo44" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo44.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo 44 Dijital Radyo
+https://radyo44.80.yayin.com.tr/?type=http&nocache=29
+#EXTINF:-1 tvg-id="56" tvg-name="radyo66" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-66.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo 66 Dijital Radyo
+https://ssl194.radyotelekom.com.tr/listen/d3120a7afe2d38d3d69559517e3c7bc1
+#EXTINF:-1 tvg-id="57" tvg-name="radyo71" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-71.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo 71 Kırıkkale
+https://radio-streaming.net/turkey/radyo-71-kirikkale/playlist.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="radyoarabeskmadyo" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-arabesk-madyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Arabesk Dijital Radyo
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 tvg-id="59" tvg-name="ankararadyobanko" tvg-logo="https://m.RADYO.cc/logo-radyo/ankara-radyo-banko.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Banko Ankara
+https://yayin5.radyohizmeti.com:10817/;stream
+#EXTINF:-1 tvg-id="60" tvg-name="radyoburdur" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-burdur.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Burdur Burdur
+https://ssl.radyosfer.com:7090/;/stream?icy=http
+#EXTINF:-1 tvg-id="61" tvg-name="radyocinar" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-cinar.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Çınar İstanbul
+https://sslyayin.netyayin.net:10992/;
+#EXTINF:-1 tvg-id="62" tvg-name="radyodeva" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-deva.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Deva Dijital Radyo
+https://ssl123.ozelip.com:7058/stream
+#EXTINF:-1 tvg-id="63" tvg-name="radyoduygusal" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-duygusal.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Duygusal Dijital Radyo
+https://player.web.tr/listen/20e42cb2835b7e86a72a1e9e0f06d2dd
+#EXTINF:-1 tvg-id="64" tvg-name="radyoender" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ender.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Ender Dijital Radyo
+https://reshun.ru/turkey/radyo-ender-adana/icecast.audio
+#EXTINF:-1 tvg-id="65" tvg-name="radyofm23" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-fm-23.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo FM 23 Elazığ
+https://radio-streaming.net/turkey/radyo-fm-23/playlist.m3u8
+#EXTINF:-1 tvg-id="66" tvg-name="radyofm60tokat" tvg-logo="https://m.RADYO.cc/logo-radyo/radyofm-60-tokat.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",RadyoFm 60 Tokat Dijital Radyo
+https://live.radyositesihazir.com/8016/stream
+#EXTINF:-1 tvg-id="67" tvg-name="radyogun" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gun.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Gün Çorum
+https://www.liveradio.es/http://95.173.162.188:9952/;stream.mp3
+#EXTINF:-1 tvg-id="68" tvg-name="radyogunes" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gunes.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Güneş Bursa
+https://ssl.radyosfer.com:7024/;
+#EXTINF:-1 tvg-id="69" tvg-name="radyohazar" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-hazar.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Hazar Elazığ
+https://radio-streaming.net/turkey/radyo-hazar/playlist.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="radyokaradeniz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-karadeniz.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Karadeniz Dijital Radyo
+https://radyo1.radyo-dinle.tc/8138/stream
+#EXTINF:-1 tvg-id="71" tvg-name="radyomegasite" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-megasite.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Megasite Ankara
+https://ssl.radyosfer.com:7177/;/stream?icy=http
+#EXTINF:-1 tvg-id="72" tvg-name="radyomucizem" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-mucizem.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Mucizem Dijital Radyo
+https://live.radyositesihazir.com/8036/stream
+#EXTINF:-1 tvg-id="73" tvg-name="radyoozden" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ozden.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Özden Nazilli
+https://sssx.radyosfer.com/radyoseker
+#EXTINF:-1 tvg-id="74" tvg-name="radyoseker" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-seker.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Şeker Çerkezköy
+https://ssl.radyosfer.com:7131/;/stream?icy=http
+#EXTINF:-1 tvg-id="75" tvg-name="radyosevimlifm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-sevimli-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Sevimli FM Dijital Radyo
+https://www.liveradio.es/http://yayin2.canliyayin.org:7887/;stream
+#EXTINF:-1 tvg-id="76" tvg-name="radyoseymen" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-seymen.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Seymen İskenderun
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1 tvg-id="77" tvg-name="radiosonix" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-sonix.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Sonix Konya
+https://reshun.ru/turkey/radyo-sonix/icecast.audio
+#EXTINF:-1 tvg-id="78" tvg-name="radyovan" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-van.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Radyo Van Van
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4040/stream?type=http&nocache=1699
+#EXTINF:-1 tvg-id="79" tvg-name="reklamsizradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/reklamsiz-radyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Reklamsız Radyo Dijital Radyo
+https://www.liveradio.es/http://hayatmix.net/;85cBUvRVavVTCNX.mp3/;type=mp3
+#EXTINF:-1 tvg-id="80" tvg-name="renkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/renk-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Renk FM Dijital Radyo
+https://vofile.ru/turkey/renk_fm_istanbul/icecast.audio
+#EXTINF:-1 tvg-id="81" tvg-name="seydisehirfm" tvg-logo="https://m.RADYO.cc/logo-radyo/seydisehir-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Seydişehir FM Konya
+https://ssl.radyosfer.com:7106/;
+#EXTINF:-1 tvg-id="82" tvg-name="sivasfm" tvg-logo="https://m.RADYO.cc/logo-radyo/sivas-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Sivas FM Sivas
+https://www.liveradio.es/http://yayin2.canliyayin.org:8180/;stream.nsv
+#EXTINF:-1 tvg-id="83" tvg-name="stararti" tvg-logo="https://m.RADYO.cc/logo-radyo/star-arti.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Star Artı Dijital Radyo
+https://vofile.ru/turkey/star-arti/icecast.audio
+#EXTINF:-1 tvg-id="84" tvg-name="sultanradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/sultan-radyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Sultan Radyo Kahramanmaraş
+https://radio-streaming.net/turkey/sultan-radyo/playlist.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="sepershowradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/seper-show-radyo.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Süper Show Radyo Antakya
+https://www.liveradio.es/http://yayin.netyayin.net:6065/stream
+#EXTINF:-1 tvg-id="86" tvg-name="surmelifm" tvg-logo="https://m.RADYO.cc/logo-radyo/surmeli-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Sürmeli FM Dijital Radyo
+https://www.liveradio.es/http://surmelifm.kesintisizyayin.com:8590/;
+#EXTINF:-1 tvg-id="87" tvg-name="tiryakifm" tvg-logo="https://m.RADYO.cc/logo-radyo/tiryaki-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Tiryaki FM Konya
+https://www.liveradio.es/http://yayin.turkhosted.com:6056/mp3
+#EXTINF:-1 tvg-id="88" tvg-name="tutkufm" tvg-logo="https://m.RADYO.cc/logo-radyo/tutku-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Tutku FM Samsun
+https://www.liveradio.es/http://sunucu2.radyosfer.com:9378/;
+#EXTINF:-1 tvg-id="89" tvg-name="usakdamarfm" tvg-logo="https://m.RADYO.cc/logo-radyo/usak-damar-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Uşak Damar FM Dijital Radyo
+https://www.liveradio.es/http://178.32.4.127:8358/stream
+#EXTINF:-1 tvg-id="90" tvg-name="yansunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/yansun-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Yansun FM Dijital Radyo
+https://ssl190.ozelip.com/asistan/stream/460533be96b9a29dde5ea142455585e3
+#EXTINF:-1 tvg-id="91" tvg-name="yolarkadasim" tvg-logo="https://m.RADYO.cc/logo-radyo/yol-arkadasim.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Yol Arkadaşım Dijital Radyo
+https://21323.live.streamtheworld.com/EVENT3_SC?/;stream.mp3
+#EXTINF:-1 tvg-id="92" tvg-name="yozgatsorgunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/yozgat-sorgun-fm.webp?t=1696868240" group-title="Arabesk - Fantazi RADYO",Yozgat Sorgun FM Yozgat
+https://radio-streaming.net/turkey/yozgat-sorgun-fm/icecast.audio
+#EXTINF:-1 tvg-id="586" tvg-name="easyland" tvg-logo="https://m.RADYO.cc/logo-radyo/easyland.webp?t=1696868240" group-title="Caz RADYO",Easyland İstanbul
+https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
+#EXTINF:-1 tvg-id="587" tvg-name="iteradyosujazzblues" tvg-logo="https://m.RADYO.cc/logo-radyo/ite-radyosu-jazz-blues.webp?t=1696868240" group-title="Caz RADYO",İTÜ Radyosu Jazz/Blues İstanbul
+https://vofile.ru/turkey/itu_radyosu/icecast.audio
+#EXTINF:-1 tvg-id="588" tvg-name="jazzland" tvg-logo="https://m.RADYO.cc/logo-radyo/jazzland.webp?t=1696868240" group-title="Caz RADYO",Jazzland Dijital Radyo
+https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
+#EXTINF:-1 tvg-id="589" tvg-name="joyjazz" tvg-logo="https://m.RADYO.cc/logo-radyo/joy-jazz.webp?t=1696868240" group-title="Caz RADYO",Joy Jazz Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ128AAC.aac
+#EXTINF:-1 tvg-id="590" tvg-name="mioradio" tvg-logo="https://m.RADYO.cc/logo-radyo/mio-radio.webp?t=1696868240" group-title="Caz RADYO",Mio Radio İstanbul
+https://s2.myradiostream.com/13662/;
+#EXTINF:-1 tvg-id="591" tvg-name="number1jazz" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-jazz.webp?t=1696868240" group-title="Caz RADYO",Number1 Jazz Dijital Radyo
+https://n10101m.mediatriple.net/jazz
+#EXTINF:-1 tvg-id="592" tvg-name="powerjazz" tvg-logo="https://m.RADYO.cc/logo-radyo/power-jazz.webp?t=1696868240" group-title="Caz RADYO",Power Smooth Jazz Dijital Radyo
+https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="593" tvg-name="radyobilkent" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-bilkent.webp?t=1696868240" group-title="Caz RADYO",Radyo Bilkent Ankara
+https://listen.powerapp.com.tr/radyobilkent/mpeg/icecast.audio
+#EXTINF:-1 tvg-id="594" tvg-name="radyoege" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ege.webp?t=1696868240" group-title="Caz RADYO",Radyo Ege İzmir
+https://radio-streaming.net/turkey/radyo-ege-izmir/icecast.audio
+#EXTINF:-1 tvg-id="595" tvg-name="radyoilef" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ilef.webp?t=1696868240" group-title="Caz RADYO",Radyo ilef Ankara
+https://listen.powerapp.com.tr/radyoilef/mpeg/icecast.audio
+#EXTINF:-1 tvg-id="596" tvg-name="radyovesaire" tvg-logo="https://m.RADYO.cc/logo-radyo/radyovesaire.webp?t=1696868240" group-title="Caz RADYO",Radyo Vesaire Dijital Radyo
+https://s2.radio.co/s9c94bdb61/listen
+#EXTINF:-1 tvg-id="597" tvg-name="radyovoyage" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-voyage.webp?t=1696868240" group-title="Caz RADYO",Radyo Voyage İstanbul
+https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="598" tvg-name="slowtime" tvg-logo="https://m.RADYO.cc/logo-radyo/slow-time.webp?t=1696868240" group-title="Caz RADYO",Slow Time İzmir
+https://moondigitaledge.radyotvonline.net/slowtime/playlist.m3u8
+#EXTINF:-1 tvg-id="599" tvg-name="trtradyo3" tvg-logo="https://m.RADYO.cc/logo-radyo/trtradyo-3.webp?t=1696868240" group-title="Caz RADYO",TRT Radyo 3 Karaburun
+https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-id="241" tvg-name="aksarayfm" tvg-logo="https://m.RADYO.cc/logo-radyo/aksaray-fm.webp?t=1696868240" group-title="Karışık RADYO",Aksaray FM Aksaray
+https://ssl.radyosfer.com:7012/;/stream?icy=http
+#EXTINF:-1 tvg-id="242" tvg-name="asyaradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/asya-radyo.webp?t=1696868240" group-title="Karışık RADYO",Asya Radyo Antakya
+https://www.liveradio.es/http://sunucu.radyodinle.com:9850/;stream.nsv type=audio/mp3
+#EXTINF:-1 tvg-id="243" tvg-name="bamtelifm" tvg-logo="https://m.RADYO.cc/logo-radyo/bamtelifm.webp?t=1696868240" group-title="Karışık RADYO",Bamteli FM Dijital Radyo
+https://vofile.ru/turkey/bamteli_fm/icecast.audio
+#EXTINF:-1 tvg-id="244" tvg-name="bilecikfm999" tvg-logo="https://m.RADYO.cc/logo-radyo/bilecik-fm-99-9.webp?t=1696868240" group-title="Karışık RADYO",Bilecik FM Bilecik
+https://radio-streaming.net/turkey/bilecik-fm/icecast.audio
+#EXTINF:-1 tvg-id="245" tvg-name="canradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/can-radyo.webp?t=1696868240" group-title="Karışık RADYO",Çan Radyo Çanakkale
+https://ssl.radyosfer.com:7076/;
+#EXTINF:-1 tvg-id="246" tvg-name="criturkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/cri-turk-fm.webp?t=1696868240" group-title="Karışık RADYO",Cri Türk FM Susurluk
+https://www.guventechnology.com:2020/stream/RadyoCriturk
+#EXTINF:-1 tvg-id="247" tvg-name="danceland" tvg-logo="https://m.RADYO.cc/logo-radyo/danceland.webp?t=1696868240" group-title="Karışık RADYO",Danceland Dijital Radyo
+https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
+#EXTINF:-1 tvg-id="248" tvg-name="demokratfm" tvg-logo="https://m.RADYO.cc/logo-radyo/demokrat-fm.webp?t=1696868240" group-title="Karışık RADYO",Demokrat FM Dijital Radyo
+https://radyo.akyuznet.com.tr/radio/8160/radio.mp3
+#EXTINF:-1 tvg-id="249" tvg-name="doksanlar" tvg-logo="https://m.RADYO.cc/logo-radyo/doksanlar.webp?t=1696868240" group-title="Karışık RADYO",Doksanlar Dijital Radyo
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:-1 tvg-id="250" tvg-name="dostfm" tvg-logo="https://m.RADYO.cc/logo-radyo/dost-fm.webp?t=1696868240" group-title="Karışık RADYO",Dost FM Bursa
+https://www.liveradio.es/http://yayin3.canlitv.com:6360/;
+#EXTINF:-1 tvg-id="251" tvg-name="easyland" tvg-logo="https://m.RADYO.cc/logo-radyo/easyland.webp?t=1696868240" group-title="Karışık RADYO",Easyland İstanbul
+https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
+#EXTINF:-1 tvg-id="252" tvg-name="egefm" tvg-logo="https://m.RADYO.cc/logo-radyo/ege-fm.webp?t=1696868240" group-title="Karışık RADYO",Ege FM Dijital Radyo
+https://radioindia.net/turkey/ege-fm/icecast.audio
+#EXTINF:-1 tvg-id="253" tvg-name="esmefm" tvg-logo="https://m.RADYO.cc/logo-radyo/esme-fm.webp?t=1696868240" group-title="Karışık RADYO",Eşme FM Dijital Radyo
+https://vofile.ru/turkey/esme_fm_usak/icecast.audio
+#EXTINF:-1 tvg-id="254" tvg-name="evrenselfm" tvg-logo="https://m.RADYO.cc/logo-radyo/evrensel-fm.webp?t=1696868240" group-title="Karışık RADYO",Evrensel FM İsparta
+https://vofile.ru/turkey/evrensel_fm/icecast.audio
+#EXTINF:-1 tvg-id="255" tvg-name="fenomenkarisik" tvg-logo="https://m.RADYO.cc/logo-radyo/fenomen-karisik.webp?t=1696868240" group-title="Karışık RADYO",Fenomen Karışık Dijital Radyo
+https://listen.radyofenomen.com/fenomenkarisik/128/icecast.audio
+#EXTINF:-1 tvg-id="256" tvg-name="flashradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/flash-radyo.webp?t=1696868240" group-title="Karışık RADYO",Flash Radyo Eskişehir
+https://radio-streaming.net/turkey/flash-radyo/playlist.m3u8
+#EXTINF:-1 tvg-id="257" tvg-name="geksunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/geksun-fm.webp?t=1696868240" group-title="Karışık RADYO",Göksun FM Göksun
+https://radio-streaming.net/turkey/goksun-fm-98-5/playlist.m3u8
+#EXTINF:-1 tvg-id="258" tvg-name="gezdefm" tvg-logo="https://m.RADYO.cc/logo-radyo/gezde-fm.webp?t=1696868240" group-title="Karışık RADYO",Gözde FM Yalova
+https://gozdefm.80.yayin.com.tr/stream/1/?icy=http
+#EXTINF:-1 tvg-id="259" tvg-name="kapadokyafm" tvg-logo="https://m.RADYO.cc/logo-radyo/kapadokya-fm.webp?t=1696868240" group-title="Karışık RADYO",Kapadokya FM Nevşehir
+https://icecast.netmedya.net/kapadokyafm
+#EXTINF:-1 tvg-id="260" tvg-name="kardelenfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kardelen-fm.webp?t=1696868240" group-title="Karışık RADYO",Kardelen FM Dijital Radyo
+https://radyoserver60.okeylisans.com:14000/2000/;
+#EXTINF:-1 tvg-id="261" tvg-name="kentfmelbistan" tvg-logo="https://m.RADYO.cc/logo-radyo/kent-fm-elbistan.webp?t=1696868240" group-title="Karışık RADYO",Kent FM Elbistan Elbistan
+https://radyo.arkacadde.org/4648/elbistankentfm.mp3
+#EXTINF:-1 tvg-id="262" tvg-name="kilissultanradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/kilis-sultan-radyo.webp?t=1696868240" group-title="Karışık RADYO",Kilis Sultan Radyo Kilis
+https://sslyayin.netyayin.net/7979/stream
+#EXTINF:-1 tvg-id="263" tvg-name="kozanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kozan-fm.webp?t=1696868240" group-title="Karışık RADYO",Kozan FM Adana
+https://www.liveradio.es/http://sunucu.radyodinle.com:3401/;
+#EXTINF:-1 tvg-id="264" tvg-name="lokumfm" tvg-logo="https://m.RADYO.cc/logo-radyo/lokum-fm.webp?t=1696868240" group-title="Karışık RADYO",Lokum FM Adana
+https://radio-streaming.net/turkey/lokum-97-7-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="265" tvg-name="melodifm" tvg-logo="https://m.RADYO.cc/logo-radyo/melodi-fm.webp?t=1696868240" group-title="Karışık RADYO",Melodi FM Kırklareli
+https://ssl.radyosfer.com:7145/;/stream?icy=http
+#EXTINF:-1 tvg-id="266" tvg-name="meskfm" tvg-logo="https://m.RADYO.cc/logo-radyo/mesk-fm.webp?t=1696868240" group-title="Karışık RADYO",Meşk FM Adana
+https://vofile.ru/turkey/mesk_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="267" tvg-name="metropolfm" tvg-logo="https://m.RADYO.cc/logo-radyo/metropol-fm.webp?t=1696868240" group-title="Karışık RADYO",Metropol FM Dijital Radyo
+https://sslyayin.netyayin.net:10958/;
+#EXTINF:-1 tvg-id="268" tvg-name="mixfm" tvg-logo="https://m.RADYO.cc/logo-radyo/mix-fm.webp?t=1696868240" group-title="Karışık RADYO",Mix FM Mersin
+https://vofile.ru/turkey/mix_91_6_fm/icecast.audio
+#EXTINF:-1 tvg-id="269" tvg-name="mezikhabercisi" tvg-logo="https://m.RADYO.cc/logo-radyo/mezik-habercisi.webp?t=1696868240" group-title="Karışık RADYO",Müzik Habercisi Dijital Radyo
+https://vofile.ru/turkey/mezik-habercisi/icecast.audio
+#EXTINF:-1 tvg-id="270" tvg-name="nigdefm" tvg-logo="https://m.RADYO.cc/logo-radyo/nigde-fm.webp?t=1696868240" group-title="Karışık RADYO",Niğde FM Niğde
+https://vofile.ru/turkey/nigde_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="271" tvg-name="number1uskudarturkmusiki" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-uskudar-turk-musiki.webp?t=1696868240" group-title="Karışık RADYO",Number1 Musiki Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e392765b48_1/playlist.m3u8
+#EXTINF:-1 tvg-id="272" tvg-name="ornekradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/ornek-radyo.webp?t=1696868240" group-title="Karışık RADYO",Örnek Radyo Mobolla
+https://ssl.radyosfer.com:7130/;
+#EXTINF:-1 tvg-id="273" tvg-name="ortacafm" tvg-logo="https://m.RADYO.cc/logo-radyo/ortaca-fm.webp?t=1696868240" group-title="Karışık RADYO",Ortaca FM Muğla
+https://radio-streaming.net/turkey/ortaca-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="274" tvg-name="ozfm" tvg-logo="https://m.RADYO.cc/logo-radyo/oz-fm.webp?t=1696868240" group-title="Karışık RADYO",Öz FM Dijital Radyo
+https://vofile.ru/turkey/oz_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="275" tvg-name="palala" tvg-logo="https://m.RADYO.cc/logo-radyo/pal-ala.webp?t=1696868240" group-title="Karışık RADYO",Pal Ala Dijital Radyo
+https://radio-streaming.net/turkey/pal-ala-ankara/playlist.m3u8
+#EXTINF:-1 tvg-id="276" tvg-name="palrabia" tvg-logo="https://m.RADYO.cc/logo-radyo/pal-rabia.webp?t=1696868240" group-title="Karışık RADYO",Pal Rabia Dijital Radyo
+https://radio-streaming.net/turkey/pal-rabia-istanbul/playlist.m3u8
+#EXTINF:-1 tvg-id="277" tvg-name="pinarfm" tvg-logo="https://m.RADYO.cc/logo-radyo/pinar-fm.webp?t=1696868240" group-title="Karışık RADYO",Pınar FM Dijital Radyo
+https://radio-streaming.net/turkey/pinar-fm-sakarya/playlist.m3u8
+#EXTINF:-1 tvg-id="278" tvg-name="polisradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/polis-radyosu.webp?t=1696868240" group-title="Karışık RADYO",Polis Radyosu Ağrı
+https://m.egm.gov.tr:8093//
+#EXTINF:-1 tvg-id="279" tvg-name="pophome" tvg-logo="https://m.RADYO.cc/logo-radyo/pop-home.webp?t=1696868240" group-title="Karışık RADYO",Pop Home Dijital Radyo
+https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="280" tvg-name="powerdance" tvg-logo="https://m.RADYO.cc/logo-radyo/power-dance.webp?t=1696868240" group-title="Karışık RADYO",Power Dance Dijital Radyo
+https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="281" tvg-name="powerturkbestof" tvg-logo="https://m.RADYO.cc/logo-radyo/power-turk-best-of.webp?t=1696868240" group-title="Karışık RADYO",PowerTürk En İyiler Dijital Radyo
+https://listen.powerapp.com.tr/powerturkeniyiler/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="282" tvg-name="radyolife2" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-life2.webp?t=1696868240" group-title="Karışık RADYO",Radio Life Kayseri
+https://yayin2.canliyayin.org:10990/;*.mp3
+#EXTINF:-1 tvg-id="283" tvg-name="radyo03" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-03.webp?t=1696868240" group-title="Karışık RADYO",Radyo 03 Afyonkarahisar
+https://reshun.ru/turkey/radyo-03-afyon/icecast.audio
+#EXTINF:-1 tvg-id="284" tvg-name="radyo16" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-16.webp?t=1696868240" group-title="Karışık RADYO",Radyo 16 Bursa
+https://vofile.ru/turkey/radyo_16_dinle/icecast.audio
+#EXTINF:-1 tvg-id="285" tvg-name="radyo7" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-7.webp?t=1696868240" group-title="Karışık RADYO",Radyo 7 Ardahan
+https://ssl4.radyotvonline.com/radyo7/radyo7_home.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="286" tvg-name="radyo81" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-81.webp?t=1696868240" group-title="Karışık RADYO",Radyo 81 Düzce
+https://www.liveradio.es/http://yayin.turkhosted.com:3030//;?1625655000509
+#EXTINF:-1 tvg-id="287" tvg-name="radyoakdeniz2" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-akdeniz-2.webp?t=1696868240" group-title="Karışık RADYO",Radyo Akdeniz Mersin
+https://yayin.radyoakdeniz.com/9470/stream
+#EXTINF:-1 tvg-id="288" tvg-name="radyoaltinsarkilar" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-altin-sarkilar.webp?t=1696868240" group-title="Karışık RADYO",Radyo Altın Şarkılar Dijital Radyo
+https://moondigitaledge.radyotvonline.net/altinsarkilar/playlist.m3u8
+#EXTINF:-1 tvg-id="289" tvg-name="ankarahavalari" tvg-logo="https://m.RADYO.cc/logo-radyo/ankara-havalari.webp?t=1696868240" group-title="Karışık RADYO",Radyo Ankara Havaları Dijital Radyo
+https://ssl4.radyotvonline.com/radyohome/ankarahavalari.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="290" tvg-name="radyobabylon" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-babylon.webp?t=1696868240" group-title="Karışık RADYO",Radyo Babylon Dijital Radyo
+https://www.liveradio.es/http://46.20.4.54/stream/
+#EXTINF:-1 tvg-id="291" tvg-name="radyobalkan" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-balkan.webp?t=1696868240" group-title="Karışık RADYO",Radyo Balkan Dijital Radyo
+https://vofile.ru/turkey/radyo_balkan/icecast.audio
+#EXTINF:-1 tvg-id="292" tvg-name="radyobasaksehir" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-basaksehir.webp?t=1696868240" group-title="Karışık RADYO",Radyo Başakşehir Dijital Radyo
+https://icecast.netmedya.net/rbasaksehir
+#EXTINF:-1 tvg-id="293" tvg-name="radyobozkurt" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-bozkurt.webp?t=1696868240" group-title="Karışık RADYO",Radyo Bozkurt Dijital Radyo
+https://live.radyo.in/6098/stream
+#EXTINF:-1 tvg-id="294" tvg-name="radyobu" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-bu.webp?t=1696868240" group-title="Karışık RADYO",Radyo Bu Dijital Radyo
+https://radyo.yayindakiler.com/stream/BursaRadyoBU/stream
+#EXTINF:-1 tvg-id="295" tvg-name="radyocanakkale" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-canakkale.webp?t=1696868240" group-title="Karışık RADYO",Radyo Çanakkale Çanakkale
+https://ssl155.ozelip.com/asistan/stream/6825dfe06044de01cd730a0135b71a97
+#EXTINF:-1 tvg-id="297" tvg-name="radyodeniz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-deniz.webp?t=1696868240" group-title="Karışık RADYO",Radyo Deniz Bursa
+https://ssl.radyosfer.com:7019/;
+#EXTINF:-1 tvg-id="298" tvg-name="radyodumlupinar" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-dumlupinar.webp?t=1696868240" group-title="Karışık RADYO",Radyo Dumlupinar Kütahya
+https://ssl.radyosfer.com:7069/;
+#EXTINF:-1 tvg-id="299" tvg-name="radyofirat892" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-firat-89-2.webp?t=1696868240" group-title="Karışık RADYO",Radyo Fırat Elazığ
+https://www.liveradio.es/http://yayin.firatfm.com:3065/;type=mp3
+#EXTINF:-1 tvg-id="300" tvg-name="radyofm23" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-fm-23.webp?t=1696868240" group-title="Karışık RADYO",Radyo FM 23 Elazığ
+https://radio-streaming.net/turkey/radyo-fm-23/playlist.m3u8
+#EXTINF:-1 tvg-id="301" tvg-name="radyofresh" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-fresh.webp?t=1696868240" group-title="Karışık RADYO",Radyo Fresh 99.0 Dijital Radyo
+https://vofile.ru/turkey/radyo_fresh_99_0_dinle/icecast.audio
+#EXTINF:-1 tvg-id="302" tvg-name="radyogold" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gold.webp?t=1696868240" group-title="Karışık RADYO",Radyo Gold Yalova
+https://ssl120.radyotelekom.com.tr/8340/stream/;
+#EXTINF:-1 tvg-id="303" tvg-name="radyogozlem" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gozlem.webp?t=1696868240" group-title="Karışık RADYO",Radyo Gözlem Milas
+https://www.liveradio.es/http://arifozbey.com:8000/radyogozlem.ogg
+#EXTINF:-1 tvg-id="304" tvg-name="radyogunes" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gunes.webp?t=1696868240" group-title="Karışık RADYO",Radyo Güneş Bursa
+https://www.liveradio.es/http://yayin2.canliyayin.org:5024/;stream
+#EXTINF:-1 tvg-id="305" tvg-name="radyoguney" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-guney.webp?t=1696868240" group-title="Karışık RADYO",Radyo Güney Seyhan
+https://www.liveradio.es/http://sunucu2.radyolarburada.com:8250/;stream/1
+#EXTINF:-1 tvg-id="306" tvg-name="radyoktu" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ktu.webp?t=1696868240" group-title="Karışık RADYO",Radyo Ktü Trabzon
+https://radio-streaming.net/turkey/radyo-ktu-trabzon/playlist.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="radyomoda" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-moda.webp?t=1696868240" group-title="Karışık RADYO",Radyo Moda Samsun
+https://yayin.radyomoda.com.tr/80/;stream
+#EXTINF:-1 tvg-id="308" tvg-name="radyomodoko" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-modoko.webp?t=1696868240" group-title="Karışık RADYO",Radyo Modoko Dijital Radyo
+https://sslyayin.radyoyayini.com:7002/stream
+#EXTINF:-1 tvg-id="309" tvg-name="radyoozden" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ozden.webp?t=1696868240" group-title="Karışık RADYO",Radyo Özden Nazilli
+https://radio-streaming.net/turkey/radyo-ozden-nazilli/icecast.audio
+#EXTINF:-1 tvg-id="310" tvg-name="radyorenkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-renk-fm.webp?t=1696868240" group-title="Karışık RADYO",Radyo Renk FM Antakya
+https://reshun.ru/turkey/radyo-renk-fm-antakya/icecast.audio
+#EXTINF:-1 tvg-id="311" tvg-name="radyosampiyon" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-sampiyon.webp?t=1696868240" group-title="Karışık RADYO",Radyo Şampiyon Bursa
+https://radio-streaming.net/turkey/radyo-sampiyon-89-5/playlist.m3u8
+#EXTINF:-1 tvg-id="312" tvg-name="radyoseker" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-seker.webp?t=1696868240" group-title="Karışık RADYO",Radyo Şeker Çerkezköy
+https://ssl.radyosfer.com:7131/;/stream?icy=http
+#EXTINF:-1 tvg-id="313" tvg-name="radyosevimlifm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-sevimli-fm.webp?t=1696868240" group-title="Karışık RADYO",Radyo Sevimli FM Dijital Radyo
+https://www.liveradio.es/http://yayin2.canliyayin.org:7887/;stream
+#EXTINF:-1 tvg-id="314" tvg-name="radyosomafm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-soma-fm.webp?t=1696868240" group-title="Karışık RADYO",Radyo Soma FM Saruhan
+https://vofile.ru/turkey/radyo_soma_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="315" tvg-name="radyotatlises" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-tatlises.webp?t=1696868240" group-title="Karışık RADYO",Radyo Tatlıses Dijital Radyo
+https://sslyayin.radyoyayini.com:7009/;
+#EXTINF:-1 tvg-id="316" tvg-name="radyoturkuvaz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-turkuvaz.webp?t=1696868240" group-title="Karışık RADYO",Radyo Turkuvaz Karaburun
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 tvg-id="317" tvg-name="radyoelke" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-elke.webp?t=1696868240" group-title="Karışık RADYO",Radyo Ülkü Mersin
+https://vofile.ru/turkey/radyo_ulku_mersin/icecast.audio
+#EXTINF:-1 tvg-id="318" tvg-name="radyoulkudinle" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ulku-dinle.webp?t=1696868240" group-title="Karışık RADYO",Radyo Ülkü Konya
+https://www.liveradio.es/http://yayin.yayindakiler.com:4112/;
+#EXTINF:-1 tvg-id="319" tvg-name="radyovoyage" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-voyage.webp?t=1696868240" group-title="Karışık RADYO",Radyo Voyage İstanbul
+https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="320" tvg-name="radyoyalova" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yalova.webp?t=1696868240" group-title="Karışık RADYO",Radyo Yalova Dijital Radyo
+https://studio25.radiolize.com/radio/8200/radio.mp3
+#EXTINF:-1 tvg-id="321" tvg-name="radyoyorem" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yorem.webp?t=1696868240" group-title="Karışık RADYO",Radyo Yörem Bursa
+https://radio-streaming.net/turkey/radyo-yorem-bursa/playlist.m3u8
+#EXTINF:-1 tvg-id="322" tvg-name="radyoyuksel" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yuksel.webp?t=1696868240" group-title="Karışık RADYO",Radyo Yüksel Batman
+https://www.liveradio.es/http://yayin2.canliyayin.org:8232/;stream
+#EXTINF:-1 tvg-id="323" tvg-name="raksfm" tvg-logo="https://m.RADYO.cc/logo-radyo/raks-fm.webp?t=1696868240" group-title="Karışık RADYO",Raks FM Dijital Radyo
+https://radio-streaming.net/turkey/raks-fm-nikomedia/icecast.audio
+#EXTINF:-1 tvg-id="324" tvg-name="seydisehirfm" tvg-logo="https://m.RADYO.cc/logo-radyo/seydisehir-fm.webp?t=1696868240" group-title="Karışık RADYO",Seydişehir FM Konya
+https://ssl.radyosfer.com:7106/;
+#EXTINF:-1 tvg-id="325" tvg-name="stendustriradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/st-endustri-radyo.webp?t=1696868240" group-title="Karışık RADYO",ST Endüstri Radyo Yalova
+https://stream2.rtvtakip.com:7009/;
+#EXTINF:-1 tvg-id="326" tvg-name="tempofm" tvg-logo="https://m.RADYO.cc/logo-radyo/tempo-fm.webp?t=1696868240" group-title="Karışık RADYO",Tempo FM Çorlu
+https://stream2.rtvtakip.com:7016/;stream.mp3
+#EXTINF:-1 tvg-id="327" tvg-name="tutkufm" tvg-logo="https://m.RADYO.cc/logo-radyo/tutku-fm.webp?t=1696868240" group-title="Karışık RADYO",Tutku FM Samsun
+https://www.liveradio.es/http://sunucu2.radyosfer.com:9378/;
+#EXTINF:-1 tvg-id="328" tvg-name="worldhits" tvg-logo="https://m.RADYO.cc/logo-radyo/world-hits.webp?t=1696868240" group-title="Karışık RADYO",World Hits - Radyo Home Dijital Radyo
+https://ssl4.radyotvonline.com/radyohome/worldhit.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="329" tvg-name="yansunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/yansun-fm.webp?t=1696868240" group-title="Karışık RADYO",Yansun FM Dijital Radyo
+https://ssl190.ozelip.com/asistan/stream/460533be96b9a29dde5ea142455585e3
+#EXTINF:-1 tvg-id="330" tvg-name="yozgatfm" tvg-logo="https://m.RADYO.cc/logo-radyo/yozgat-fm.webp?t=1696868240" group-title="Karışık RADYO",Yozgat FM Yozgat
+https://sslyayin.netyayin.net:10921/stream
+#EXTINF:-1 tvg-id="331" tvg-name="zirveturk" tvg-logo="https://m.RADYO.cc/logo-radyo/zirveturk.webp?t=1696868240" group-title="Karışık RADYO",Zirvetürk Dijital Radyo
+https://www.liveradio.es/http://radyozirve.canliyayinda.com/stream/1/
+#EXTINF:-1 tvg-id="647" tvg-name="akrafm" tvg-logo="https://m.RADYO.cc/logo-radyo/akra-fm.webp?t=1696868240" group-title="Konuşan RADYO",Akra FM İstanbul
+https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="648" tvg-name="bestfm" tvg-logo="https://m.RADYO.cc/logo-radyo/best-fm.webp?t=1696868240" group-title="Konuşan RADYO",Best FM Edremit
+https://bestfm.turkhosted.com/;stream.mp3
+#EXTINF:-1 tvg-id="649" tvg-name="birlikfmradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/birlik-fm-radyo.webp?t=1696868240" group-title="Konuşan RADYO",Birlik FM Kayseri
+https://yayin2.canliyayin.org:10979/;
+#EXTINF:-1 tvg-id="650" tvg-name="botanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/botan-fm.webp?t=1696868240" group-title="Konuşan RADYO",Botan FM Siirt
+https://radio-streaming.net/turkey/botan-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="651" tvg-name="cagrifm3" tvg-logo="https://m.RADYO.cc/logo-radyo/cagri-fm3.webp?t=1696868240" group-title="Konuşan RADYO",Cagri FM Diyarbakır
+https://www.liveradio.es/http://yayin1.canliyayin.org:8202/;
+#EXTINF:-1 tvg-id="652" tvg-name="cagrifm" tvg-logo="https://m.RADYO.cc/logo-radyo/cagri-fm.webp?t=1696868240" group-title="Konuşan RADYO",Çağrı FM Çorum
+https://ssl.radyosfer.com:7023/;/stream?icy=http
+#EXTINF:-1 tvg-id="653" tvg-name="cemrefm" tvg-logo="https://m.RADYO.cc/logo-radyo/cemre-fm.webp?t=1696868240" group-title="Konuşan RADYO",Cemre FM Dijital Radyo
+https://www.liveradio.es/http://yayin1.canliyayin.org:8024/;stream.mp3
+#EXTINF:-1 tvg-id="654" tvg-name="cnnturkradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/cnn-turk-radyo.webp?t=1696868240" group-title="Konuşan RADYO",CNN Türk Radyo Gaziantep
+https://radyo.duhnet.tv/ak_dtvh_cnnturk?
+#EXTINF:-1 tvg-id="655" tvg-name="diyanetradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/diyanet-radyo.webp?t=1696868240" group-title="Konuşan RADYO",Diyanet Radyo Polatlı
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="656" tvg-name="dolunayfm" tvg-logo="https://m.RADYO.cc/logo-radyo/dolunay-fm.webp?t=1696868240" group-title="Konuşan RADYO",Dolunay FM İstanbul
+https://www.liveradio.es/http://yayin1.canliyayin.org:8318/;stream
+#EXTINF:-1 tvg-id="657" tvg-name="driveland" tvg-logo="https://m.RADYO.cc/logo-radyo/driveland.webp?t=1696868240" group-title="Konuşan RADYO",Driveland Dijital Radyo
+https://vofile.ru/turkey/driveland/icecast.audio
+#EXTINF:-1 tvg-id="658" tvg-name="enderunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/enderun-fm.webp?t=1696868240" group-title="Konuşan RADYO",Enderun FM Kayseri
+https://www.liveradio.es/http://yayin2.canliyayin.org:7052/;stream.mp3
+#EXTINF:-1 tvg-id="659" tvg-name="radyoertugrulozkok" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ertugrul-ozkok.webp?t=1696868240" group-title="Konuşan RADYO",Ertuğrul Özkok Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8
+#EXTINF:-1 tvg-id="660" tvg-name="hedefradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/hedef-radyo.webp?t=1696868240" group-title="Konuşan RADYO",Hedef Radyo Ankara
+https://radio-streaming.net/turkey/hedef-radyo/playlist.m3u8
+#EXTINF:-1 tvg-id="661" tvg-name="kafaradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/kafa-radyo.webp?t=1696868240" group-title="Konuşan RADYO",Kafa Radyo Gerede
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="662" tvg-name="konyafm" tvg-logo="https://m.RADYO.cc/logo-radyo/konya-fm.webp?t=1696868240" group-title="Konuşan RADYO",Konya FM Konya
+https://vofile.ru/turkey/konya_fm/icecast.audio
+#EXTINF:-1 tvg-id="663" tvg-name="lalegulfm" tvg-logo="https://m.RADYO.cc/logo-radyo/lalegul-fm.webp?t=1696868240" group-title="Konuşan RADYO",Lâlegül FM Edremit
+https://icecast.netmedya.net/lalegulfm
+#EXTINF:-1 tvg-id="664" tvg-name="ligradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/lig-radyo.webp?t=1696868240" group-title="Konuşan RADYO",Lig Radyo Ayvalık
+https://ligradyo.radyotvonline.net/ligradyo
+#EXTINF:-1 tvg-id="665" tvg-name="mercanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/mercan-fm.webp?t=1696868240" group-title="Konuşan RADYO",Mercan FM Eynesil
+https://ip169.ozelip.com:10975/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-id="666" tvg-name="metrofm" tvg-logo="https://m.RADYO.cc/logo-radyo/metro-fm.webp?t=1696868240" group-title="Konuşan RADYO",Metro FM Göcek
+https://www.liveradio.es/http://23553.live.streamtheworld.com/METRO_FM128AAC.aac
+#EXTINF:-1 tvg-id="667" tvg-name="moralfm" tvg-logo="https://m.RADYO.cc/logo-radyo/moral-fm.webp?t=1696868240" group-title="Konuşan RADYO",Moral FM Ankara
+https://radioindia.net/turkey/moral-fm/icecast.audio
+#EXTINF:-1 tvg-id="668" tvg-name="ntvradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/ntv-radyo.webp?t=1696868240" group-title="Konuşan RADYO",NTV Radyo İzmir
+https://ssldyg.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="669" tvg-name="ezelfm" tvg-logo="https://m.RADYO.cc/logo-radyo/ezel-fm.webp?t=1696868240" group-title="Konuşan RADYO",Özel FM İstanbul
+https://ozelfm.80.yayin.com.tr/;stream/1
+#EXTINF:-1 tvg-id="670" tvg-name="ezgerradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/ezger-radyo.webp?t=1696868240" group-title="Konuşan RADYO",Özgür Radyo Ankara
+https://vofile.ru/turkey/ozgur_radyo/icecast.audio
+#EXTINF:-1 tvg-id="671" tvg-name="radyoasyafm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-asya-fm.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Asya FM İstanbul
+https://www.liveradio.es/http://yayin1.yayindakiler.com:3016/;
+#EXTINF:-1 tvg-id="672" tvg-name="radyocallcenter" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-call-center.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Call Center Dijital Radyo
+https://radio-streaming.net/turkey/radyo-call-center/icecast.audio
+#EXTINF:-1 tvg-id="673" tvg-name="radyodenge" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-denge.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Denge Dijital Radyo
+https://www.liveradio.es/http://yayin1.canliyayin.org:8278/;type=mp3
+#EXTINF:-1 tvg-id="674" tvg-name="radyodilara986" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-dilara-98-6.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Dilara İsparta
+https://59cba4d34b678.streamlock.net/radyo/radyo-dilara/playlist.m3u8
+#EXTINF:-1 tvg-id="675" tvg-name="radyodilara" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-dilara.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Dilara Antalya
+https://radio-streaming.net/turkey/radyo-dilara-98-7/playlist.m3u8
+#EXTINF:-1 tvg-id="676" tvg-name="radyodumlupinar" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-dumlupinar.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Dumlupinar Kütahya
+https://ssl.radyosfer.com:7069/;
+#EXTINF:-1 tvg-id="677" tvg-name="enradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/en-radyo.webp?t=1696868240" group-title="Konuşan RADYO",Radyo EN Konya
+https://www.liveradio.es/http://yayin2.canliyayin.org:7222/;
+#EXTINF:-1 tvg-id="678" tvg-name="radyogozlem" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gozlem.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Gözlem Milas
+https://www.liveradio.es/http://arifozbey.com:8000/radyogozlem.ogg
+#EXTINF:-1 tvg-id="679" tvg-name="radyogel" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gel.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Gül Kocaeli
+https://www.liveradio.es/http://yayin2.canliyayin.org:8866/;*.mp3
+#EXTINF:-1 tvg-id="680" tvg-name="radyoihya" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ihya.webp?t=1696868240" group-title="Konuşan RADYO",Radyo İhya Şehitkamil
+https://radyoihy.80.yayin.com.tr/;
+#EXTINF:-1 tvg-id="681" tvg-name="islamiradyonebi" tvg-logo="https://m.RADYO.cc/logo-radyo/islami-radyo-nebi.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Nebi Dijital Radyo
+https://radio-streaming.net/turkey/radyo-nebi/playlist.m3u8
+#EXTINF:-1 tvg-id="682" tvg-name="radyoselam" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-selam.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Selam Diyarbakır
+https://radyodinle.turkhosted.com/ssl/9500
+#EXTINF:-1 tvg-id="683" tvg-name="radyospor" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-spor.webp?t=1696868240" group-title="Konuşan RADYO",Radyospor Denizli
+https://wowza1.radyotvonline.com/saran/radyospor.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="684" tvg-name="radyotaverna" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-taverna.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Taverna Dijital Radyo
+https://vofile.ru/turkey/radyo_taverna/icecast.audio
+#EXTINF:-1 tvg-id="685" tvg-name="radyotrafik" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-trafik.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Trafik Susurluk
+https://vofile.ru/turkey/radyo_trafik_istanbul_dinle/icecast.audio
+#EXTINF:-1 tvg-id="686" tvg-name="radyotulu" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-tulu.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Tulu Antalya
+https://www.liveradio.es/http://yayin2.canliyayin.org:8248/;*.mp3
+#EXTINF:-1 tvg-id="687" tvg-name="radyouniversite" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-universite.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Üniversite Konya
+https://59cba4d34b678.streamlock.net/radyo/radyouniversite/playlist.m3u8
+#EXTINF:-1 tvg-id="688" tvg-name="radyoz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-z.webp?t=1696868240" group-title="Konuşan RADYO",Radyo Z İstanbul
+https://vofile.ru/turkey/radyo_z_dinle/icecast.audio
+#EXTINF:-1 tvg-id="689" tvg-name="ribatfm" tvg-logo="https://m.RADYO.cc/logo-radyo/ribat-fm.webp?t=1696868240" group-title="Konuşan RADYO",Ribat FM Polatlı
+https://www.liveradio.es/http://yayin2.canliyayin.org:7010/;
+#EXTINF:-1 tvg-id="690" tvg-name="rsfmrusyaninsesi" tvg-logo="https://m.RADYO.cc/logo-radyo/rs-fm-rusyanin-sesi.webp?t=1696868240" group-title="Konuşan RADYO",RS FM Manavgat
+https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3
+#EXTINF:-1 tvg-id="691" tvg-name="safakradyo2" tvg-logo="https://m.RADYO.cc/logo-radyo/safak-radyo2.webp?t=1696868240" group-title="Konuşan RADYO",Şafak Radyo Gaziantep
+https://yayin2.canliyayin.org:10970/;stream.mp3
+#EXTINF:-1 tvg-id="692" tvg-name="saklikentfm" tvg-logo="https://m.RADYO.cc/logo-radyo/saklikent-fm.webp?t=1696868240" group-title="Konuşan RADYO",Saklıkent FM Ankara
+https://vofile.ru/turkey/saklikent_fm/icecast.audio
+#EXTINF:-1 tvg-id="693" tvg-name="semerkandradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/semerkand-radyo.webp?t=1696868240" group-title="Konuşan RADYO",Semerkand Radyo Bozdoğan
+https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8
+#EXTINF:-1 tvg-id="694" tvg-name="stendustriradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/st-endustri-radyo.webp?t=1696868240" group-title="Konuşan RADYO",ST Endüstri Radyo Yalova
+https://stream2.rtvtakip.com:7009/;
+#EXTINF:-1 tvg-id="695" tvg-name="tgrtfm" tvg-logo="https://m.RADYO.cc/logo-radyo/tgrt-fm.webp?t=1696868240" group-title="Konuşan RADYO",TGRT FM Bitlis
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="696" tvg-name="umutfm" tvg-logo="https://m.RADYO.cc/logo-radyo/umut-fm.webp?t=1696868240" group-title="Konuşan RADYO",Umut FM Nikomedia
+https://radio-streaming.net/turkey/umut-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="697" tvg-name="acikradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/acik-radyo.webp?t=1696868240" group-title="Konuşan RADYO",Aşık Radyo İstanbul
+https://stream.34bit.net/ar.opus
+#EXTINF:-1 tvg-id="332" tvg-name="90lar" tvg-logo="https://m.RADYO.cc/logo-radyo/90lar.webp?t=1696868240" group-title="Pop RADYO",90'lar Dijital Radyo
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+#EXTINF:-1 tvg-id="333" tvg-name="radyosultan" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-sultan.webp?t=1696868240" group-title="Pop RADYO",Afyon Radyo Sultan Afyonkarahisar
+https://radio-streaming.net/turkey/afyon-radyo-sultan-94-5/playlist.m3u8
+#EXTINF:-1 tvg-id="334" tvg-name="aksarayfm" tvg-logo="https://m.RADYO.cc/logo-radyo/aksaray-fm.webp?t=1696868240" group-title="Pop RADYO",Aksaray FM Aksaray
+https://ssl.radyosfer.com:7012/;/stream?icy=http
+#EXTINF:-1 tvg-id="335" tvg-name="akustikland" tvg-logo="https://m.RADYO.cc/logo-radyo/akustikland.webp?t=1696868240" group-title="Pop RADYO",Akustikland Dijital Radyo
+https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
+#EXTINF:-1 tvg-id="336" tvg-name="alemfm" tvg-logo="https://m.RADYO.cc/logo-radyo/alem-fm.webp?t=1696868240" group-title="Pop RADYO",Alem FM Köyceğiz
+https://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:-1 tvg-id="337" tvg-name="arazaman" tvg-logo="https://m.RADYO.cc/logo-radyo/arazaman.webp?t=1696868240" group-title="Pop RADYO",Arazaman Dijital Radyo
+https://arazaman.stream.laut.fm/arazaman
+#EXTINF:-1 tvg-id="338" tvg-name="armonifm" tvg-logo="https://m.RADYO.cc/logo-radyo/armoni-fm.webp?t=1696868240" group-title="Pop RADYO",Armoni FM Afyonkarahisar
+https://www.liveradio.es/http://radyo.yayindakiler.com:4084/;
+#EXTINF:-1 tvg-id="339" tvg-name="atlantisfm" tvg-logo="https://m.RADYO.cc/logo-radyo/atlantis-fm.webp?t=1696868240" group-title="Pop RADYO",Atlantis FM Ankara
+https://wowza1.radyotvonline.com/shoutcast/atlantisfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="340" tvg-name="balfm" tvg-logo="https://m.RADYO.cc/logo-radyo/bal-fm.webp?t=1696868240" group-title="Pop RADYO",Bal FM Dijital Radyo
+https://www.liveradio.es/http://balfm.kesintisizyayin.com:9966/;
+#EXTINF:-1 tvg-id="341" tvg-name="barisfm" tvg-logo="https://m.RADYO.cc/logo-radyo/baris-fm.webp?t=1696868240" group-title="Pop RADYO",Barış FM Dijital Radyo
+https://vofile.ru/turkey/baris_fm/icecast.audio
+#EXTINF:-1 tvg-id="342" tvg-name="bauradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/bau-radyo.webp?t=1696868240" group-title="Pop RADYO",BAU Radyo Dijital Radyo
+https://ssl120.radyotelekom.com.tr/8106/stream
+#EXTINF:-1 tvg-id="343" tvg-name="beskfm" tvg-logo="https://m.RADYO.cc/logo-radyo/besk-fm.webp?t=1696868240" group-title="Pop RADYO",Besk FM Giresun
+https://beskfmn1.80.yayin.com.tr//stream/1/?icy=http
+#EXTINF:-1 tvg-id="344" tvg-name="bestfm" tvg-logo="https://m.RADYO.cc/logo-radyo/best-fm.webp?t=1696868240" group-title="Pop RADYO",Best FM Edremit
+https://bestfm.turkhosted.com/;stream.mp3
+#EXTINF:-1 tvg-id="345" tvg-name="bestofnumber1" tvg-logo="https://m.RADYO.cc/logo-radyo/best-of-number1.webp?t=1696868240" group-title="Pop RADYO",Best Of Number1 Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8
+#EXTINF:-1 tvg-id="346" tvg-name="bigafm" tvg-logo="https://m.RADYO.cc/logo-radyo/biga-fm.webp?t=1696868240" group-title="Pop RADYO",Biga FM Biga
+https://www.liveradio.es/http://radyo.yayin.com.tr:5896/;stream.mp3
+#EXTINF:-1 tvg-id="347" tvg-name="bursakaradenizfm" tvg-logo="https://m.RADYO.cc/logo-radyo/bursa-karadeniz-fm.webp?t=1696868240" group-title="Pop RADYO",Bursa Karadeniz FM Bursa
+https://ssl.radyosfer.com:7117/;/stream?icy=http
+#EXTINF:-1 tvg-id="348" tvg-name="caglarfm" tvg-logo="https://m.RADYO.cc/logo-radyo/caglar-fm.webp?t=1696868240" group-title="Pop RADYO",Çağlar FM Malatya
+https://www.liveradio.es/http://95.9.6.87:8788/;?type=http&nocache=2
+#EXTINF:-1 tvg-id="349" tvg-name="canradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/can-radyo.webp?t=1696868240" group-title="Pop RADYO",Çan Radyo Çanakkale
+https://ssl.radyosfer.com:7076/;
+#EXTINF:-1 tvg-id="350" tvg-name="canterkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/canterk-fm.webp?t=1696868240" group-title="Pop RADYO",CanTürk FM Dijital Radyo
+https://radyo.radyohost.net:2007/;type=mp3
+#EXTINF:-1 tvg-id="351" tvg-name="cesurfm" tvg-logo="https://m.RADYO.cc/logo-radyo/cesur-fm.webp?t=1696868240" group-title="Pop RADYO",Cesur FM Dijital Radyo
+https://radio-streaming.net/turkey/cesur-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="352" tvg-name="corlufm" tvg-logo="https://m.RADYO.cc/logo-radyo/corlu-fm.webp?t=1696868240" group-title="Pop RADYO",Çorlu FM Çorlu
+https://ssl.radyosfer.com:7102/;/stream?icy=http
+#EXTINF:-1 tvg-id="353" tvg-name="dancefm" tvg-logo="https://m.RADYO.cc/logo-radyo/dance-fm.webp?t=1696868240" group-title="Pop RADYO",Dance FM Nicosia
+https://vofile.ru/turkey/dance_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="354" tvg-name="diva" tvg-logo="https://m.RADYO.cc/logo-radyo/diva.webp?t=1696868240" group-title="Pop RADYO",Diva Dijital Radyo
+https://22673.live.streamtheworld.com/SC015_SO1AAC.aac
+#EXTINF:-1 tvg-id="355" tvg-name="doganfm" tvg-logo="https://m.RADYO.cc/logo-radyo/doganfm.webp?t=1696868240" group-title="Pop RADYO",Doğan FM Akşehir
+https://radio-streaming.net/turkey/dogan-fm-aksehir/playlist.m3u8
+#EXTINF:-1 tvg-id="356" tvg-name="dostfm" tvg-logo="https://m.RADYO.cc/logo-radyo/dost-fm.webp?t=1696868240" group-title="Pop RADYO",Dost FM Bursa
+https://www.liveradio.es/http://yayin3.canlitv.com:6360/;
+#EXTINF:-1 tvg-id="357" tvg-name="driveland" tvg-logo="https://m.RADYO.cc/logo-radyo/driveland.webp?t=1696868240" group-title="Pop RADYO",Driveland Dijital Radyo
+https://vofile.ru/turkey/driveland/icecast.audio
+#EXTINF:-1 tvg-id="358" tvg-name="elazigblueradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/elazig-blue-radyo.webp?t=1696868240" group-title="Pop RADYO",Elazığ Mavi Radyo Elazığ
+https://www.liveradio.es/http://178.32.4.127:8122/stream
+#EXTINF:-1 tvg-id="359" tvg-name="emekradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/emek-radyo.webp?t=1696868240" group-title="Pop RADYO",Emek Radyo Kızıltepe
+https://www.liveradio.es/http://yayin1.radyohizmeti.com:8585/;stream.mp3
+#EXTINF:-1 tvg-id="360" tvg-name="ereglifm" tvg-logo="https://m.RADYO.cc/logo-radyo/eregli-fm.webp?t=1696868240" group-title="Pop RADYO",Ereğli FM Zonguldak
+https://radyo.yayindakiler.com/stream/zonguldakeregli
+#EXTINF:-1 tvg-id="361" tvg-name="radyoertugrulozkok" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ertugrul-ozkok.webp?t=1696868240" group-title="Pop RADYO",Ertuğrul Özkok Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8
+#EXTINF:-1 tvg-id="362" tvg-name="erzincanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/erzincan-fm.webp?t=1696868240" group-title="Pop RADYO",Erzincan FM Erzincan
+https://radio-streaming.net/turkey/erzincan-fm-105-5/playlist.m3u8
+#EXTINF:-1 tvg-id="363" tvg-name="fenomenakustik" tvg-logo="https://m.RADYO.cc/logo-radyo/fenomen-akustik.webp?t=1696868240" group-title="Pop RADYO",Fenomen Akustik Dijital Radyo
+https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio
+#EXTINF:-1 tvg-id="364" tvg-name="fenomenkarisik" tvg-logo="https://m.RADYO.cc/logo-radyo/fenomen-karisik.webp?t=1696868240" group-title="Pop RADYO",Fenomen Karışık Dijital Radyo
+https://listen.radyofenomen.com/fenomenkarisik/128/icecast.audio
+#EXTINF:-1 tvg-id="365" tvg-name="fenomenoriental" tvg-logo="https://m.RADYO.cc/logo-radyo/fenomen-oriental.webp?t=1696868240" group-title="Pop RADYO",Fenomen Oriental Dijital Radyo
+https://listen.radyofenomen.com/fenomenoriental/128/icecast.audio
+#EXTINF:-1 tvg-id="366" tvg-name="fenomenpop" tvg-logo="https://m.RADYO.cc/logo-radyo/fenomen-pop.webp?t=1696868240" group-title="Pop RADYO",Fenomen Pop Dijital Radyo
+https://listen.radyofenomen.com/fenomenpop/128/icecast.audio
+#EXTINF:-1 tvg-id="367" tvg-name="fenomenterk" tvg-logo="https://m.RADYO.cc/logo-radyo/fenomen-terk.webp?t=1696868240" group-title="Pop RADYO",Fenomen Türk Dijital Radyo
+https://listen.radyofenomen.com/fenomenturk/256/icecast.audio
+#EXTINF:-1 tvg-id="368" tvg-name="filizfm" tvg-logo="https://m.RADYO.cc/logo-radyo/filiz-fm.webp?t=1696868240" group-title="Pop RADYO",Filiz FM Muş
+https://www.liveradio.es/http://sunucu.radyodinle.com:6746/;stream.nsv
+#EXTINF:-1 tvg-id="369" tvg-name="fistikfm" tvg-logo="https://m.RADYO.cc/logo-radyo/fistik-fm.webp?t=1696868240" group-title="Pop RADYO",Fıstık FM Samsun
+https://vofile.ru/turkey/fistik_fm/icecast.audio
+#EXTINF:-1 tvg-id="370" tvg-name="flashradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/flash-radyo.webp?t=1696868240" group-title="Pop RADYO",Flash Radyo Eskişehir
+https://radio-streaming.net/turkey/flash-radyo/playlist.m3u8
+#EXTINF:-1 tvg-id="371" tvg-name="garajradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/garaj-radyo.webp?t=1696868240" group-title="Pop RADYO",Garaj Radyo Dijital Radyo
+https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="372" tvg-name="gencvefit" tvg-logo="https://m.RADYO.cc/logo-radyo/genc-ve-fit.webp?t=1696868240" group-title="Pop RADYO",Genş ve Fit Radyo Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC.aac
+#EXTINF:-1 tvg-id="373" tvg-name="giresunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/giresun-fm.webp?t=1696868240" group-title="Pop RADYO",Giresun FM Dijital Radyo
+https://radio-streaming.net/turkey/giresun-102-5-fm-dinle/playlist.m3u8
+#EXTINF:-1 tvg-id="374" tvg-name="goldfm" tvg-logo="https://m.RADYO.cc/logo-radyo/gold-fm.webp?t=1696868240" group-title="Pop RADYO",Gold FM Lüleburgaz
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4252/;/stream?icy=http
+#EXTINF:-1 tvg-id="375" tvg-name="gezdefm" tvg-logo="https://m.RADYO.cc/logo-radyo/gezde-fm.webp?t=1696868240" group-title="Pop RADYO",Gözde FM Yalova
+https://gozdefm.80.yayin.com.tr/stream/1/?icy=http
+#EXTINF:-1 tvg-id="376" tvg-name="greatesthitsofalltime" tvg-logo="https://m.RADYO.cc/logo-radyo/greatest-hits-of-all-time.webp?t=1696868240" group-title="Pop RADYO",Greatest Hits of All Time Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC030_SO1AAC.aac
+#EXTINF:-1 tvg-id="377" tvg-name="gunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/gun-fm.webp?t=1696868240" group-title="Pop RADYO",Gün FM Afyonkarahisar
+https://ssl120.radyotelekom.com.tr/8130/;
+#EXTINF:-1 tvg-id="378" tvg-name="haberradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/haber-radyo.webp?t=1696868240" group-title="Pop RADYO",Haber Radyo Samsun
+https://ssl.radyosfer.com:7042/;/stream?icy=http
+#EXTINF:-1 tvg-id="379" tvg-name="hayatmix" tvg-logo="https://m.RADYO.cc/logo-radyo/hayatmix.webp?t=1696868240" group-title="Pop RADYO",Hayatmix Dijital Radyo
+https://hayatmix.yayin.com.tr/mp3
+#EXTINF:-1 tvg-id="380" tvg-name="highwayoutlet" tvg-logo="https://m.RADYO.cc/logo-radyo/highway-outlet.webp?t=1696868240" group-title="Pop RADYO",Highway Outlet Bolu
+https://www.liveradio.es/http://yayin3.canlitv.com:8090/;stream.mp3
+#EXTINF:-1 tvg-id="381" tvg-name="houslandfm" tvg-logo="https://m.RADYO.cc/logo-radyo/houslandfm.webp?t=1696868240" group-title="Pop RADYO",HouslandFM Dijital Radyo
+https://radyoserver1.okeylisans.com:14000/9480/;
+#EXTINF:-1 tvg-id="382" tvg-name="hurfm" tvg-logo="https://m.RADYO.cc/logo-radyo/hur-fm.webp?t=1696868240" group-title="Pop RADYO",Hür FM İstanbul
+https://22723.live.streamtheworld.com/SC033_SO1AAC.aac
+#EXTINF:-1 tvg-id="383" tvg-name="igdirfm" tvg-logo="https://m.RADYO.cc/logo-radyo/igdir-fm.webp?t=1696868240" group-title="Pop RADYO",Iğdır FM Erzurum
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4158/stream
+#EXTINF:-1 tvg-id="384" tvg-name="istanbulfm" tvg-logo="https://m.RADYO.cc/logo-radyo/istanbul-fm.webp?t=1696868240" group-title="Pop RADYO",İstanbul FM İstanbul
+https://stream2.rtvtakip.com:7000/stream?icy=http
+#EXTINF:-1 tvg-id="385" tvg-name="joyfm" tvg-logo="https://m.RADYO.cc/logo-radyo/joy-fm.webp?t=1696868240" group-title="Pop RADYO",Joy FM İzmir
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FMAAC.aac
+#EXTINF:-1 tvg-id="386" tvg-name="joyturk" tvg-logo="https://m.RADYO.cc/logo-radyo/joy-turk.webp?t=1696868240" group-title="Pop RADYO",Joy Türk Kocaeli
+https://22603.live.streamtheworld.com/JOY_TURKAAC.aac?ttag=vehicle&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=d893fc32-2a0c-4bd3-da48-9c823ec5ff78
+#EXTINF:-1 tvg-id="387" tvg-name="kardelenfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kardelen-fm.webp?t=1696868240" group-title="Pop RADYO",Kardelen FM Dijital Radyo
+https://radyoserver60.okeylisans.com:14000/2000/;
+#EXTINF:-1 tvg-id="388" tvg-name="kayradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/kay-radyo.webp?t=1696868240" group-title="Pop RADYO",Kay Radyo Kayseri
+https://reshun.ru/turkey/kay-radyo/icecast.audio
+#EXTINF:-1 tvg-id="389" tvg-name="kemencefm" tvg-logo="https://m.RADYO.cc/logo-radyo/kemence-fm.webp?t=1696868240" group-title="Pop RADYO",Kemenşe FM Sakarya
+https://radio-streaming.net/turkey/kemence-fm-sakarya/icecast.audio
+#EXTINF:-1 tvg-id="390" tvg-name="kentfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kent-fm.webp?t=1696868240" group-title="Pop RADYO",Kent FM İstanbul
+https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8
+#EXTINF:-1 tvg-id="391" tvg-name="kesanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kesan-fm.webp?t=1696868240" group-title="Pop RADYO",Keşan FM Keşan
+https://radio-streaming.net/turkey/kesan-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="392" tvg-name="keskinfm" tvg-logo="https://m.RADYO.cc/logo-radyo/keskin-fm.webp?t=1696868240" group-title="Pop RADYO",Keskin FM Ankara
+https://radio-streaming.net/turkey/keskin-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="393" tvg-name="keyfpop" tvg-logo="https://m.RADYO.cc/logo-radyo/keyf-pop.webp?t=1696868240" group-title="Pop RADYO",Keyf Pop Dijital Radyo
+https://yayin.radyomadyo.com:8006/stream
+#EXTINF:-1 tvg-id="394" tvg-name="keyfstation" tvg-logo="https://m.RADYO.cc/logo-radyo/keyf-station.webp?t=1696868240" group-title="Pop RADYO",Keyf Station Dijital Radyo
+https://yayin.radyomadyo.com:8002/stream
+#EXTINF:-1 tvg-id="395" tvg-name="kissfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kiss-fm.webp?t=1696868240" group-title="Pop RADYO",Kiss FM Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_TURK128AAC.aac
+#EXTINF:-1 tvg-id="396" tvg-name="kissradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/kiss-radyo.webp?t=1696868240" group-title="Pop RADYO",Kiss Radyo Dijital Radyo
+https://vofile.ru/turkey/kiss_radyo/icecast.audio
+#EXTINF:-1 tvg-id="397" tvg-name="kentfmkirsehir" tvg-logo="https://m.RADYO.cc/logo-radyo/kent-fm-kirsehir.webp?t=1696868240" group-title="Pop RADYO",Kırşehir Kent FM Kırşehir
+https://radyo1.radyo-dinle.tc:7060/yayin
+#EXTINF:-1 tvg-id="398" tvg-name="kolejfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kolej-fm.webp?t=1696868240" group-title="Pop RADYO",Kolej FM Kayseri
+https://ssl.radyosfer.com:7041/;/stream?icy=http
+#EXTINF:-1 tvg-id="399" tvg-name="kordonfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kordon-fm.webp?t=1696868240" group-title="Pop RADYO",Kordon FM Tire
+https://vofile.ru/turkey/kordon_fm/icecast.audio
+#EXTINF:-1 tvg-id="400" tvg-name="kralpopradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/kral-pop-radyo.webp?t=1696868240" group-title="Pop RADYO",Kral Pop Radyo Niğde
+https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:-1 tvg-id="401" tvg-name="kralworldradio" tvg-logo="https://m.RADYO.cc/logo-radyo/kral-world-radio.webp?t=1696868240" group-title="Pop RADYO",Kral World Radio Dijital Radyo
+https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="402" tvg-name="kepefm" tvg-logo="https://m.RADYO.cc/logo-radyo/kepe-fm.webp?t=1696868240" group-title="Pop RADYO",Küpe FM Uzunköprü
+https://icecast.netmedya.net/kupefm
+#EXTINF:-1 tvg-id="403" tvg-name="magicfm" tvg-logo="https://m.RADYO.cc/logo-radyo/magic-fm.webp?t=1696868240" group-title="Pop RADYO",Magic FM Karabük
+https://www.liveradio.es/http://yayin1.yayindakiler.com:3032/stream/1/;
+#EXTINF:-1 tvg-id="404" tvg-name="maxfm" tvg-logo="https://m.RADYO.cc/logo-radyo/max-fm.webp?t=1696868240" group-title="Pop RADYO",Max FM Ankara
+https://vofile.ru/turkey/max_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="405" tvg-name="megafm" tvg-logo="https://m.RADYO.cc/logo-radyo/mega-fm.webp?t=1696868240" group-title="Pop RADYO",Mega FM İzmit
+https://vofile.ru/turkey/mega_fm_izmit_dinle/icecast.audio
+#EXTINF:-1 tvg-id="406" tvg-name="megaradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/mega-radyo.webp?t=1696868240" group-title="Pop RADYO",Mega Radyo Konya
+https://www.liveradio.es/http://radyo.yayin.com.tr:4052/stream
+#EXTINF:-1 tvg-id="407" tvg-name="megrifm" tvg-logo="https://m.RADYO.cc/logo-radyo/megri-fm.webp?t=1696868240" group-title="Pop RADYO",Meğri FM Fethiye
+https://vofile.ru/turkey/megri_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="408" tvg-name="melodifm" tvg-logo="https://m.RADYO.cc/logo-radyo/melodi-fm.webp?t=1696868240" group-title="Pop RADYO",Melodi FM Kırklareli
+https://ssl.radyosfer.com:7145/;/stream?icy=http
+#EXTINF:-1 tvg-id="409" tvg-name="mercanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/mercan-fm.webp?t=1696868240" group-title="Pop RADYO",Mercan FM Eynesil
+https://ip169.ozelip.com:10975/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-id="410" tvg-name="metro80ler" tvg-logo="https://m.RADYO.cc/logo-radyo/metro-80-ler.webp?t=1696868240" group-title="Pop RADYO",Metro 80'ler Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC012_SO1_SC?/;stream.mp3
+#EXTINF:-1 tvg-id="411" tvg-name="metro90lar" tvg-logo="https://m.RADYO.cc/logo-radyo/metro-90-lar.webp?t=1696868240" group-title="Pop RADYO",Metro 90'lar Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC033_SO1_SC?/;stream.mp3
+#EXTINF:-1 tvg-id="412" tvg-name="metrofm" tvg-logo="https://m.RADYO.cc/logo-radyo/metro-fm.webp?t=1696868240" group-title="Pop RADYO",Metro FM Marmaris
+https://www.liveradio.es/http://23553.live.streamtheworld.com/METRO_FM128AAC.aac
+#EXTINF:-1 tvg-id="413" tvg-name="mioradio" tvg-logo="https://m.RADYO.cc/logo-radyo/mio-radio.webp?t=1696868240" group-title="Pop RADYO",Mio Radio İstanbul
+https://s2.myradiostream.com/13662/;
+#EXTINF:-1 tvg-id="414" tvg-name="mezikhabercisi" tvg-logo="https://m.RADYO.cc/logo-radyo/mezik-habercisi.webp?t=1696868240" group-title="Pop RADYO",Müzik Habercisi Dijital Radyo
+https://vofile.ru/turkey/mezik-habercisi/icecast.audio
+#EXTINF:-1 tvg-id="415" tvg-name="noktaradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/nokta-radyo.webp?t=1696868240" group-title="Pop RADYO",Nokta Radyo Dijital Radyo
+https://noktarad.80.yayin.com.tr/;
+#EXTINF:-1 tvg-id="416" tvg-name="nonstopkonya" tvg-logo="https://m.RADYO.cc/logo-radyo/non-stop-konya.webp?t=1696868240" group-title="Pop RADYO",Non Stop Konya Dijital Radyo
+https://vofile.ru/turkey/non-stop-konya-320kbps/icecast.audio
+#EXTINF:-1 tvg-id="417" tvg-name="nrglemar" tvg-logo="https://m.RADYO.cc/logo-radyo/nrg-lemar.webp?t=1696868240" group-title="Pop RADYO",NRG Lemar Dijital Radyo
+https://radio-streaming.net/turkey/nrg-lemar/playlist.m3u8
+#EXTINF:-1 tvg-id="418" tvg-name="nrgmichaeljackson" tvg-logo="https://m.RADYO.cc/logo-radyo/nrg-michael-jackson.webp?t=1696868240" group-title="Pop RADYO",NRG Michael Jackson Dijital Radyo
+https://vofile.ru/turkey/nrg_michael_jackson/icecast.audio
+#EXTINF:-1 tvg-id="419" tvg-name="nrgsezenaksu" tvg-logo="https://m.RADYO.cc/logo-radyo/nrg-sezen-aksu.webp?t=1696868240" group-title="Pop RADYO",NRG Sezen Aksu Dijital Radyo
+https://vofile.ru/turkey/nrg_sezen_aksu/icecast.audio
+#EXTINF:-1 tvg-id="420" tvg-name="nrgturk" tvg-logo="https://m.RADYO.cc/logo-radyo/nrg-turk.webp?t=1696868240" group-title="Pop RADYO",NRG Türk Dijital Radyo
+https://vofile.ru/turkey/nrg_turk_nicosia_dinle/icecast.audio
+#EXTINF:-1 tvg-id="421" tvg-name="ntvradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/ntv-radyo.webp?t=1696868240" group-title="Pop RADYO",NTV Radyo İzmir
+https://ssldyg.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="422" tvg-name="number1fm" tvg-logo="https://m.RADYO.cc/logo-radyo/number-1-fm.webp?t=1696868240" group-title="Pop RADYO",Number 1 FM Marmaris
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:-1 tvg-id="423" tvg-name="number1heart" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-heart.webp?t=1696868240" group-title="Pop RADYO",Number1 Heart Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e367972335_1/playlist.m3u8
+#EXTINF:-1 tvg-id="424" tvg-name="number1office" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-office.webp?t=1696868240" group-title="Pop RADYO",Number1 Office Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e37fbcb763_1/playlist.m3u8
+#EXTINF:-1 tvg-id="425" tvg-name="number1turkajda" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-turk-ajda.webp?t=1696868240" group-title="Pop RADYO",Number1 Türk Ajda Pekkan Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ed520608_1/playlist.m3u8
+#EXTINF:-1 tvg-id="426" tvg-name="number1parti" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-parti.webp?t=1696868240" group-title="Pop RADYO",Number1 Türk Eller Havaya Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3303b3edf_1/playlist.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="number1turkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-turk-fm.webp?t=1696868240" group-title="Pop RADYO",Number1 Türk FM Göcek
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8
+#EXTINF:-1 tvg-id="428" tvg-name="number1world" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-world.webp?t=1696868240" group-title="Pop RADYO",Number1 World Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:-1 tvg-id="429" tvg-name="ortacafm" tvg-logo="https://m.RADYO.cc/logo-radyo/ortaca-fm.webp?t=1696868240" group-title="Pop RADYO",Ortaca FM Muğla
+https://radio-streaming.net/turkey/ortaca-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="430" tvg-name="radyopalfm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-pal-fm.webp?t=1696868240" group-title="Pop RADYO",Pal FM Ankara
+https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
+#EXTINF:-1 tvg-id="431" tvg-name="pallegend" tvg-logo="https://m.RADYO.cc/logo-radyo/pal-legend.webp?t=1696868240" group-title="Pop RADYO",Pal Legend Dijital Radyo
+https://radio-streaming.net/turkey/pal-legend/playlist.m3u8
+#EXTINF:-1 tvg-id="432" tvg-name="radyopalorient" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-pal-orient.webp?t=1696868240" group-title="Pop RADYO",Pal Orient Ankara
+https://ssl4.radyotvonline.com/radyohome/palorienthome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="433" tvg-name="radyopalstation" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-pal-station.webp?t=1696868240" group-title="Pop RADYO",Pal Station Ayvalık
+https://ssl4.radyotvonline.com/radyohome/palstationhome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="434" tvg-name="piramitfm" tvg-logo="https://m.RADYO.cc/logo-radyo/piramit-fm.webp?t=1696868240" group-title="Pop RADYO",Piramit FM Kocaeli
+https://vofile.ru/turkey/piramit_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="435" tvg-name="polisradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/polis-radyosu.webp?t=1696868240" group-title="Pop RADYO",Polis Radyosu Ağrı
+https://m.egm.gov.tr:8093//
+#EXTINF:-1 tvg-id="436" tvg-name="pop90" tvg-logo="https://m.RADYO.cc/logo-radyo/pop-90.webp?t=1696868240" group-title="Pop RADYO",Pop90 Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac
+#EXTINF:-1 tvg-id="437" tvg-name="pophome" tvg-logo="https://m.RADYO.cc/logo-radyo/pop-home.webp?t=1696868240" group-title="Pop RADYO",Pop Home Dijital Radyo
+https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="438" tvg-name="popland" tvg-logo="https://m.RADYO.cc/logo-radyo/popland.webp?t=1696868240" group-title="Pop RADYO",Popland Dijital Radyo
+https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
+#EXTINF:-1 tvg-id="439" tvg-name="powerearth" tvg-logo="https://m.RADYO.cc/logo-radyo/power-earth.webp?t=1696868240" group-title="Pop RADYO",Power Earth Dijital Radyo
+https://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="440" tvg-name="powerfm" tvg-logo="https://m.RADYO.cc/logo-radyo/power-fm.webp?t=1696868240" group-title="Pop RADYO",Power FM Adana
+https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="441" tvg-name="powergold" tvg-logo="https://m.RADYO.cc/logo-radyo/power-gold.webp?t=1696868240" group-title="Pop RADYO",Power Gold Dijital Radyo
+https://listen.powerapp.com.tr/powergold/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="442" tvg-name="powergreece" tvg-logo="https://m.RADYO.cc/logo-radyo/power-greece.webp?t=1696868240" group-title="Pop RADYO",Power Greece Dijital Radyo
+https://listen.powerapp.com.tr/powergreece/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="443" tvg-name="powerplus" tvg-logo="https://m.RADYO.cc/logo-radyo/power-plus.webp?t=1696868240" group-title="Pop RADYO",Power Plus Dijital Radyo
+https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="444" tvg-name="powerpop" tvg-logo="https://m.RADYO.cc/logo-radyo/powerpop.webp?t=1696868240" group-title="Pop RADYO",Power POP Marmaris
+https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="445" tvg-name="powerturk" tvg-logo="https://m.RADYO.cc/logo-radyo/power-turk.webp?t=1696868240" group-title="Pop RADYO",PowerTürk Türkbükü
+https://listen.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="446" tvg-name="powerturkcover" tvg-logo="https://m.RADYO.cc/logo-radyo/power-turk-cover.webp?t=1696868240" group-title="Pop RADYO",PowerTürk Cover Dijital Radyo
+https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="447" tvg-name="powerturkbestof" tvg-logo="https://m.RADYO.cc/logo-radyo/power-turk-best-of.webp?t=1696868240" group-title="Pop RADYO",PowerTürk En İyiler Dijital Radyo
+https://listen.powerapp.com.tr/powerturkeniyiler/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="448" tvg-name="powerturktaptaze" tvg-logo="https://m.RADYO.cc/logo-radyo/power-turk-taptaze.webp?t=1696868240" group-title="Pop RADYO",PowerTürk Taptaze Dijital Radyo
+https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="449" tvg-name="radiocilek74" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-cilek-74.webp?t=1696868240" group-title="Pop RADYO",Radio Cilek 74 Dijital Radyo
+https://radio-streaming.net/turkey/radio-cilek-74/icecast.audio
+#EXTINF:-1 tvg-id="450" tvg-name="radiohalikarnas" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-halikarnas.webp?t=1696868240" group-title="Pop RADYO",Radio Halikarnas Bodrum
+https://www.liveradio.es/http://78.186.65.14:9000/;
+#EXTINF:-1 tvg-id="451" tvg-name="radyolife2" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-life2.webp?t=1696868240" group-title="Pop RADYO",Radio Life Kayseri
+https://yayin2.canliyayin.org:10990/;*.mp3
+#EXTINF:-1 tvg-id="452" tvg-name="radiomood" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-mood.webp?t=1696868240" group-title="Pop RADYO",Radio Mood Dijital Radyo
+https://radioindia.net/turkey/radio-mood/icecast.audio
+#EXTINF:-1 tvg-id="453" tvg-name="radiomydonose" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-mydonose.webp?t=1696868240" group-title="Pop RADYO",Radio Mydonose Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC010_SO1AAC.aac
+#EXTINF:-1 tvg-id="454" tvg-name="radionet" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-net.webp?t=1696868240" group-title="Pop RADYO",Radio Net Ordu
+https://anadolu.liderhost.com.tr:10983/stream.mp3
+#EXTINF:-1 tvg-id="455" tvg-name="radyo11" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-11.webp?t=1696868240" group-title="Pop RADYO",Radyo 11 Konya
+https://radio-streaming.net/turkey/radyo-11-konya/playlist.m3u8
+#EXTINF:-1 tvg-id="456" tvg-name="radyo13" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-13.webp?t=1696868240" group-title="Pop RADYO",Radyo 13 Tatvan
+https://radyo.yayindakiler.com/stream/bitlis13/stream
+#EXTINF:-1 tvg-id="457" tvg-name="radyo16" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-16.webp?t=1696868240" group-title="Pop RADYO",Radyo 16 Bursa
+https://vofile.ru/turkey/radyo_16_dinle/icecast.audio
+#EXTINF:-1 tvg-id="458" tvg-name="radyo1959" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo1959.webp?t=1696868240" group-title="Pop RADYO",Radyo1959 Ankara
+https://vofile.ru/turkey/radyo_1959_dinle/icecast.audio
+#EXTINF:-1 tvg-id="459" tvg-name="radyo2000" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-2000.webp?t=1696868240" group-title="Pop RADYO",Radyo 2000 Osmaniye
+https://sslyayin.netyayin.net:10915/;
+#EXTINF:-1 tvg-id="460" tvg-name="radyo35" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-35.webp?t=1696868240" group-title="Pop RADYO",Radyo 35 İzmir
+https://stream01.radyo35.com.tr/radyo35
+#EXTINF:-1 tvg-id="461" tvg-name="radyo45lik" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-45lik.webp?t=1696868240" group-title="Pop RADYO",Radyo 45'lik İzmir
+https://stream.radyo45lik.com:4545/stream
+#EXTINF:-1 tvg-id="462" tvg-name="radyo49" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-49.webp?t=1696868240" group-title="Pop RADYO",Radyo 49 Muş
+https://radio-streaming.net/turkey/radyo-49-mus/playlist.m3u8
+#EXTINF:-1 tvg-id="463" tvg-name="radyo66" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-66.webp?t=1696868240" group-title="Pop RADYO",Radyo 66 Dijital Radyo
+https://ssl194.radyotelekom.com.tr/listen/d3120a7afe2d38d3d69559517e3c7bc1
+#EXTINF:-1 tvg-id="464" tvg-name="radyo7" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-7.webp?t=1696868240" group-title="Pop RADYO",Radyo 7 Muğla
+https://ssl4.radyotvonline.com/radyo7/radyo7_home.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="465" tvg-name="eskisehirradyoa" tvg-logo="https://m.RADYO.cc/logo-radyo/eskisehir-radyo-a.webp?t=1696868240" group-title="Pop RADYO",Radyo A Eskişehir
+https://listen.powerapp.com.tr/radyoa/mpeg/icecast.audio
+#EXTINF:-1 tvg-id="466" tvg-name="radyoaktif" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-aktif.webp?t=1696868240" group-title="Pop RADYO",Radyo Aktif Bursa
+https://icecast.netmedya.net/radyoaktif
+#EXTINF:-1 tvg-id="467" tvg-name="radyoaltinsarkilar" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-altin-sarkilar.webp?t=1696868240" group-title="Pop RADYO",Radyo Altın Şarkılar Dijital Radyo
+https://moondigitaledge.radyotvonline.net/altinsarkilar/playlist.m3u8
+#EXTINF:-1 tvg-id="468" tvg-name="radyobabylon" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-babylon.webp?t=1696868240" group-title="Pop RADYO",Radyo Babylon Dijital Radyo
+https://www.liveradio.es/http://46.20.4.54/stream/181/
+#EXTINF:-1 tvg-id="469" tvg-name="ankararadyobanko" tvg-logo="https://m.RADYO.cc/logo-radyo/ankara-radyo-banko.webp?t=1696868240" group-title="Pop RADYO",Radyo Banko Ankara
+https://yayin5.radyohizmeti.com:10817/;stream
+#EXTINF:-1 tvg-id="470" tvg-name="radyobaskent" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-baskent.webp?t=1696868240" group-title="Pop RADYO",Radyo Başkent Adana
+https://listen.powerapp.com.tr/radyobaskent/mpeg/icecast.audio
+#EXTINF:-1 tvg-id="471" tvg-name="radyobeyaz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-beyaz.webp?t=1696868240" group-title="Pop RADYO",Radyo Beyaz Ankara
+https://radioindia.net/turkey/radyo-beyaz/icecast.audio
+#EXTINF:-1 tvg-id="472" tvg-name="radyobilkent" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-bilkent.webp?t=1696868240" group-title="Pop RADYO",Radyo Bilkent Ankara
+https://listen.powerapp.com.tr/radyobilkent/mpeg/icecast.audio
+#EXTINF:-1 tvg-id="473" tvg-name="radyoboyko" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-boyko.webp?t=1696868240" group-title="Pop RADYO",Radyo Boyko Dijital Radyo
+https://www.liveradio.es/http://sesle.radyobalkan.com:8050/;
+#EXTINF:-1 tvg-id="474" tvg-name="radyocallcenter" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-call-center.webp?t=1696868240" group-title="Pop RADYO",Radyo Call Center Dijital Radyo
+https://radio-streaming.net/turkey/radyo-call-center/icecast.audio
+#EXTINF:-1 tvg-id="475" tvg-name="radyod" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-d.webp?t=1696868240" group-title="Pop RADYO",Radyo D Kemer
+https://radyo.duhnet.tv/ak_dtvh_radyod
+#EXTINF:-1 tvg-id="476" tvg-name="radyodejavu" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-dejavu.webp?t=1696868240" group-title="Pop RADYO",Radyo Dejavu Dijital Radyo
+https://radyodejavu.80.yayin.com.tr/stream/1/?icy=http
+#EXTINF:-1 tvg-id="478" tvg-name="radyodeniz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-deniz.webp?t=1696868240" group-title="Pop RADYO",Radyo Deniz Bursa
+https://ssl.radyosfer.com:7019/;
+#EXTINF:-1 tvg-id="479" tvg-name="radyodumlupinar" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-dumlupinar.webp?t=1696868240" group-title="Pop RADYO",Radyo Dumlupinar Kütahya
+https://ssl.radyosfer.com:7069/;
+#EXTINF:-1 tvg-id="480" tvg-name="radyoege" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ege.webp?t=1696868240" group-title="Pop RADYO",Radyo Ege İzmir
+https://radio-streaming.net/turkey/radyo-ege-izmir/icecast.audio
+#EXTINF:-1 tvg-id="481" tvg-name="radyoeko" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-eko.webp?t=1696868240" group-title="Pop RADYO",Radyo EKO Bodrum
+https://vofile.ru/turkey/radyo-eko/icecast.audio
+#EXTINF:-1 tvg-id="482" tvg-name="radyoeksen" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-eksen.webp?t=1696868240" group-title="Pop RADYO",Radyo Eksen İstanbul
+https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
+#EXTINF:-1 tvg-id="483" tvg-name="radyoenergy" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-energy.webp?t=1696868240" group-title="Pop RADYO",Radyo Energy Dijital Radyo
+https://trkvz-radyolar.ercdn.net/radyoenergy/playlist.m3u8
+#EXTINF:-1 tvg-id="484" tvg-name="radyoerkan" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-erkan.webp?t=1696868240" group-title="Pop RADYO",Radyo Erkan Adana
+https://reshun.ru/turkey/radyo-erkan/icecast.audio
+#EXTINF:-1 tvg-id="485" tvg-name="radyoextra" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-extra.webp?t=1696868240" group-title="Pop RADYO",Radyo Extra Tokat
+https://radyoext.80.yayin.com.tr/stream?type=http&nocache=32
+#EXTINF:-1 tvg-id="486" tvg-name="radyofenomen" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-fenomen.webp?t=1696868240" group-title="Pop RADYO",Radyo Fenomen Bursa
+https://listen.radyofenomen.com/fenomen/256/icecast.audio
+#EXTINF:-1 tvg-id="487" tvg-name="radyoflas884" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-flas-88-4.webp?t=1696868240" group-title="Pop RADYO",Radyo Flaş Aydın
+https://radyo.yayindakiler.com/stream/aydinflas/stream
+#EXTINF:-1 tvg-id="488" tvg-name="radyoflash" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-flash.webp?t=1696868240" group-title="Pop RADYO",Radyo Flash Giresun
+https://sslyayin.netyayin.net/2384/stream
+#EXTINF:-1 tvg-id="489" tvg-name="radyofm23" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-fm-23.webp?t=1696868240" group-title="Pop RADYO",Radyo FM 23 Elazığ
+https://radio-streaming.net/turkey/radyo-fm-23/playlist.m3u8
+#EXTINF:-1 tvg-id="490" tvg-name="radyofresh" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-fresh.webp?t=1696868240" group-title="Pop RADYO",Radyo Fresh 99.0 Dijital Radyo
+https://vofile.ru/turkey/radyo_fresh_99_0_dinle/icecast.audio
+#EXTINF:-1 tvg-id="491" tvg-name="radyogokceada" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gokceada.webp?t=1696868240" group-title="Pop RADYO",Radyo Gökşeada Dijital Radyo
+https://radio-streaming.net/turkey/radyo-gokceada/icecast.audio
+#EXTINF:-1 tvg-id="492" tvg-name="radyogonul" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gonul.webp?t=1696868240" group-title="Pop RADYO",Radyo Gönül Dijital Radyo
+https://vofile.ru/turkey/radyo-gonul/icecast.audio
+#EXTINF:-1 tvg-id="493" tvg-name="radyogundem" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gundem.webp?t=1696868240" group-title="Pop RADYO",Radyo Gündem Çorlu
+https://icecast.netmedya.net/radyogundem
+#EXTINF:-1 tvg-id="494" tvg-name="radyogunes" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gunes.webp?t=1696868240" group-title="Pop RADYO",Radyo Güneş Bursa
+https://www.liveradio.es/http://yayin2.canliyayin.org:5024/;stream
+#EXTINF:-1 tvg-id="495" tvg-name="radyoguney" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-guney.webp?t=1696868240" group-title="Pop RADYO",Radyo Güney Seyhan
+https://www.liveradio.es/http://sunucu2.radyolarburada.com:8250/;stream/1
+#EXTINF:-1 tvg-id="496" tvg-name="radyohaber" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-haber.webp?t=1696868240" group-title="Pop RADYO",Radyo Haber Dijital Radyo
+https://vofile.ru/turkey/radyo_haber_dinle/icecast.audio
+#EXTINF:-1 tvg-id="497" tvg-name="radyohiras" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-hiras.webp?t=1696868240" group-title="Pop RADYO",Radyo Hiraş Manisa
+https://radyo.wlsrv.com:9082/;
+#EXTINF:-1 tvg-id="498" tvg-name="radyoihotispolis" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ihotispolis.webp?t=1696868240" group-title="Pop RADYO",Radyo Ihotispolis İstanbul
+https://radio-streaming.net/turkey/radyo-ihotispolis/playlist.m3u8
+#EXTINF:-1 tvg-id="499" tvg-name="radyoizmirfm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-izmir-fm.webp?t=1696868240" group-title="Pop RADYO",Radyo İzmir FM Dijital Radyo
+https://usa4.fastcast4u.com/proxy/radyoizmirfm?mp=/mp3stream128
+#EXTINF:-1 tvg-id="500" tvg-name="radyok" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-k.webp?t=1696868240" group-title="Pop RADYO",Radyo K Kırıkkale
+https://radio-streaming.net/turkey/radyo-k-kirikkale/playlist.m3u8
+#EXTINF:-1 tvg-id="501" tvg-name="radyokraldamarfm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-kraldamar-fm.webp?t=1696868240" group-title="Pop RADYO",Radyo Kraldamar FM Dijital Radyo
+https://yayin.damarfm.com:8080/;stream/1
+#EXTINF:-1 tvg-id="502" tvg-name="radyokulep3" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-kulep3.webp?t=1696868240" group-title="Pop RADYO",Radyo Kulüp Samsun
+https://ssl.radyosfer.com:7048/;
+#EXTINF:-1 tvg-id="503" tvg-name="radyokulep2" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-kulep2.webp?t=1696868240" group-title="Pop RADYO",Radyo Kulüp 96.0 Elazığ
+https://radio-streaming.net/turkey/radyo-kulup-96-0/playlist.m3u8
+#EXTINF:-1 tvg-id="504" tvg-name="radyolife" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-life.webp?t=1696868240" group-title="Pop RADYO",Radyo Life İzmit
+https://radio-streaming.net/turkey/radyo-life-izmit/playlist.m3u8
+#EXTINF:-1 tvg-id="505" tvg-name="radyolife3" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-life3.webp?t=1696868240" group-title="Pop RADYO",Radyo Life Adıyaman
+https://reshun.ru/turkey/radyo-life-99-5-adiyaman/icecast.audio
+#EXTINF:-1 tvg-id="506" tvg-name="radyolojik" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-lojik.webp?t=1696868240" group-title="Pop RADYO",Radyo Lojik Afyonkarahisar
+https://vofile.ru/turkey/radyo_lojik/icecast.audio
+#EXTINF:-1 tvg-id="507" tvg-name="radyomayis" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-mayis.webp?t=1696868240" group-title="Pop RADYO",Radyo Mayıs İstanbul
+https://vofile.ru/turkey/radyo-mayis/icecast.audio
+#EXTINF:-1 tvg-id="508" tvg-name="radyomegakocaeli" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-mega-kocaeli.webp?t=1696868240" group-title="Pop RADYO",Radyo Mega Dijital Radyo
+https://player.web.tr/listen/e90136dad85af8d6aaf4a3af912b20d4
+#EXTINF:-1 tvg-id="509" tvg-name="radyomega2" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-mega2.webp?t=1696868240" group-title="Pop RADYO",Radyo Mega İzmir
+https://radio-streaming.net/turkey/radyo-mega-istanbul-101-8/playlist.m3u8
+#EXTINF:-1 tvg-id="510" tvg-name="radyomega" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-mega.webp?t=1696868240" group-title="Pop RADYO",Radyo Mega Nevşehir
+https://ip132.ozelip.com/8050/stream
+#EXTINF:-1 tvg-id="511" tvg-name="radyomer" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-mer.webp?t=1696868240" group-title="Pop RADYO",Radyo Mer Mersin
+https://radio-streaming.net/turkey/radyo-mer/playlist.m3u8
+#EXTINF:-1 tvg-id="512" tvg-name="radyomuzik" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-muzik.webp?t=1696868240" group-title="Pop RADYO",Radyo Müzik Yalova
+https://s12.canli-radyo.biz/stream/68/
+#EXTINF:-1 tvg-id="513" tvg-name="radyonet" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-net.webp?t=1696868240" group-title="Pop RADYO",Radyo Net Dijital Radyo
+https://ssl-radyo.yayin.com.tr:9990/;
+#EXTINF:-1 tvg-id="514" tvg-name="radyonevsehir" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-nevsehir.webp?t=1696868240" group-title="Pop RADYO",Radyo Nevsehir Nevşehir
+https://radio-streaming.net/turkey/radyo-nevsehir-98-1/playlist.m3u8
+#EXTINF:-1 tvg-id="515" tvg-name="radyonikomedya" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-nikomedya.webp?t=1696868240" group-title="Pop RADYO",Radyo Nikomedya Nikomedia
+https://www.liveradio.es/http://yayin.netyayin.net:2631/;
+#EXTINF:-1 tvg-id="516" tvg-name="radyonostaljininsesi" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-nostaljinin-sesi.webp?t=1696868240" group-title="Pop RADYO",Radyo Nostaljinin Sesi Dijital Radyo
+https://vofile.ru/turkey/radyo-nostaljinin-sesi/icecast.audio
+#EXTINF:-1 tvg-id="517" tvg-name="radyoodte" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-odte.webp?t=1696868240" group-title="Pop RADYO",Radyo ODTÜ Ankara
+https://stream.radyoodtu.com.tr/canli;
+#EXTINF:-1 tvg-id="518" tvg-name="radyoozden" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ozden.webp?t=1696868240" group-title="Pop RADYO",Radyo Özden Nazilli
+https://radio-streaming.net/turkey/radyo-ozden-nazilli/icecast.audio
+#EXTINF:-1 tvg-id="519" tvg-name="radyoozgur" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ozgur.webp?t=1696868240" group-title="Pop RADYO",Radyo Özgür Düzce
+https://radio-streaming.net/turkey/radyo-ozgur-dusje/playlist.m3u8
+#EXTINF:-1 tvg-id="520" tvg-name="radyopause" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-pause.webp?t=1696868240" group-title="Pop RADYO",Radyo Pause İzmir
+https://wowza1.radyotvonline.com/shoutcast/radyopause.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="521" tvg-name="radyopegai" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-pegai.webp?t=1696868240" group-title="Pop RADYO",Radyo Pegai Dijital Radyo
+https://ssl.radyosfer.com:7075/;
+#EXTINF:-1 tvg-id="522" tvg-name="radyopop" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-pop.webp?t=1696868240" group-title="Pop RADYO",Radyo Pop Salihli
+https://vofile.ru/turkey/radyo_pop/icecast.audio
+#EXTINF:-1 tvg-id="523" tvg-name="radyoremixodemis" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-remix-odemis.webp?t=1696868240" group-title="Pop RADYO",Radyo Remix Ödemis İzmir
+https://radio-streaming.net/turkey/radyo-remix-odemis/playlist.m3u8
+#EXTINF:-1 tvg-id="524" tvg-name="radyorenkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-renk-fm.webp?t=1696868240" group-title="Pop RADYO",Radyo Renk FM Antakya
+https://reshun.ru/turkey/radyo-renk-fm-antakya/icecast.audio
+#EXTINF:-1 tvg-id="525" tvg-name="radyoritm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ritm.webp?t=1696868240" group-title="Pop RADYO",Radyo Ritm Erzurum
+https://www.liveradio.es/http://radyo.yayin.com.tr:8091/;?icy=http
+#EXTINF:-1 tvg-id="526" tvg-name="radyoromantikterk" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-romantik-terk.webp?t=1696868240" group-title="Pop RADYO",Radyo Romantik Türk İzmir
+https://www.liveradio.es/http://radyo.yayin.com.tr:6042/;type=mp3
+#EXTINF:-1 tvg-id="527" tvg-name="radyos" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-s.webp?t=1696868240" group-title="Pop RADYO",Radyo S 95.6 Bursa
+https://icecast.netmedya.net/radyos
+#EXTINF:-1 tvg-id="528" tvg-name="radyosampiyon" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-sampiyon.webp?t=1696868240" group-title="Pop RADYO",Radyo Şampiyon Bursa
+https://radio-streaming.net/turkey/radyo-sampiyon-89-5/playlist.m3u8
+#EXTINF:-1 tvg-id="529" tvg-name="radyoseseskisehir" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ses-eskisehir.webp?t=1696868240" group-title="Pop RADYO",Radyo Ses Eskişehir Eskişehir
+https://radio-streaming.net/turkey/radyo-ses-eskisehir/playlist.m3u8
+#EXTINF:-1 tvg-id="530" tvg-name="radyosevimlifm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-sevimli-fm.webp?t=1696868240" group-title="Pop RADYO",Radyo Sevimli FM Dijital Radyo
+https://www.liveradio.es/http://yayin2.canliyayin.org:7887/;stream
+#EXTINF:-1 tvg-id="531" tvg-name="radyoseyhan" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-seyhan.webp?t=1696868240" group-title="Pop RADYO",Radyo Seyhan Osmaniye
+https://ssl.radyosfer.com:7128/;/stream?icy=http
+#EXTINF:-1 tvg-id="532" tvg-name="radyosomafm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-soma-fm.webp?t=1696868240" group-title="Pop RADYO",Radyo Soma FM Saruhan
+https://vofile.ru/turkey/radyo_soma_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="533" tvg-name="radiosonix" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-sonix.webp?t=1696868240" group-title="Pop RADYO",Radyo Sonix Konya
+https://reshun.ru/turkey/radyo-sonix/icecast.audio
+#EXTINF:-1 tvg-id="534" tvg-name="radyostop" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-stop.webp?t=1696868240" group-title="Pop RADYO",Radyo Stop Sakarya
+https://radio-streaming.net/turkey/radyo-stop/icecast.audio
+#EXTINF:-1 tvg-id="535" tvg-name="radyotek" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-tek.webp?t=1696868240" group-title="Pop RADYO",Radyo Tek Erzincan
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4202/;stream.mp3
+#EXTINF:-1 tvg-id="536" tvg-name="radyotempo" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-tempo.webp?t=1696868240" group-title="Pop RADYO",Radyo Tempo Saruhan
+https://ssl.radyosfer.com:7112/;/stream?icy=http
+#EXTINF:-1 tvg-id="537" tvg-name="radyoturkiyem" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-turkiyem.webp?t=1696868240" group-title="Pop RADYO",Radyo Türkiyem Ankara
+https://radio-streaming.net/turkey/radyo-turkiyem-92-7/icecast.audio
+#EXTINF:-1 tvg-id="538" tvg-name="radyoturkuvaz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-turkuvaz.webp?t=1696868240" group-title="Pop RADYO",Radyo Turkuvaz Karaburun
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 tvg-id="539" tvg-name="radyouniversite" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-universite.webp?t=1696868240" group-title="Pop RADYO",Radyo Üniversite Konya
+https://59cba4d34b678.streamlock.net/radyo/radyouniversite/playlist.m3u8
+#EXTINF:-1 tvg-id="540" tvg-name="radyovenusbandirma" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-venus-bandirma.webp?t=1696868240" group-title="Pop RADYO",Radyo Venüs Bandırma
+https://radio-streaming.net/turkey/radyo-venus-bandirma/playlist.m3u8
+#EXTINF:-1 tvg-id="541" tvg-name="radyovesaire" tvg-logo="https://m.RADYO.cc/logo-radyo/radyovesaire.webp?t=1696868240" group-title="Pop RADYO",Radyo Vesaire Dijital Radyo
+https://s2.radio.co/s9c94bdb61/listen
+#EXTINF:-1 tvg-id="542" tvg-name="radyoviva" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-viva.webp?t=1696868240" group-title="Pop RADYO",Radyo Viva Silifke
+https://ssl4.radyotvonline.com/radyohome/radyovivahome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="543" tvg-name="radyovizyon" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-vizyon.webp?t=1696868240" group-title="Pop RADYO",Radyo Vizyon Bursa
+https://www.liveradio.es/http://yayin.netradyom.com:9300/;
+#EXTINF:-1 tvg-id="544" tvg-name="radyovokal" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-vokal.webp?t=1696868240" group-title="Pop RADYO",Radyo Vokal Dijital Radyo
+https://ssl4.radyotvonline.com/radyohome/radyovokal.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="545" tvg-name="radyovoyage" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-voyage.webp?t=1696868240" group-title="Pop RADYO",Radyo Voyage İstanbul
+https://ssldyg.radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="546" tvg-name="radyoyakamoz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yakamoz.webp?t=1696868240" group-title="Pop RADYO",Radyo Yakamoz Çukurova
+https://vofile.ru/turkey/radyo_yakamoz_dinle/icecast.audio
+#EXTINF:-1 tvg-id="547" tvg-name="radyoyorem" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yorem.webp?t=1696868240" group-title="Pop RADYO",Radyo Yörem Bursa
+https://radio-streaming.net/turkey/radyo-yorem-bursa/playlist.m3u8
+#EXTINF:-1 tvg-id="548" tvg-name="radyoyekselis" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yekselis.webp?t=1696868240" group-title="Pop RADYO",Radyo Yükseliş Antalya
+https://radio-streaming.net/turkey/radyo-yukselis/playlist.m3u8
+#EXTINF:-1 tvg-id="549" tvg-name="radyoz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-z.webp?t=1696868240" group-title="Pop RADYO",Radyo Z İstanbul
+https://vofile.ru/turkey/radyo_z_dinle/icecast.audio
+#EXTINF:-1 tvg-id="550" tvg-name="raksfm" tvg-logo="https://m.RADYO.cc/logo-radyo/raks-fm.webp?t=1696868240" group-title="Pop RADYO",Raks FM Dijital Radyo
+https://radio-streaming.net/turkey/raks-fm-nikomedia/icecast.audio
+#EXTINF:-1 tvg-id="551" tvg-name="renkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/renk-fm.webp?t=1696868240" group-title="Pop RADYO",Renk FM Dijital Radyo
+https://vofile.ru/turkey/renk_fm_istanbul/icecast.audio
+#EXTINF:-1 tvg-id="552" tvg-name="rsfmrusyaninsesi" tvg-logo="https://m.RADYO.cc/logo-radyo/rs-fm-rusyanin-sesi.webp?t=1696868240" group-title="Pop RADYO",RS FM Manavgat
+https://nfw.ria.ru/flv/audio.aspx?ID=98318704&amp;type=mp3
+#EXTINF:-1 tvg-id="553" tvg-name="safakradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/safak-radyo.webp?t=1696868240" group-title="Pop RADYO",Safak Radyo Kayseri
+https://radioindia.net/turkey/safak-radyo-1005/icecast.audio
+#EXTINF:-1 tvg-id="554" tvg-name="safakradyo2" tvg-logo="https://m.RADYO.cc/logo-radyo/safak-radyo2.webp?t=1696868240" group-title="Pop RADYO",Şafak Radyo Gaziantep
+https://yayin2.canliyayin.org:10970/;stream.mp3
+#EXTINF:-1 tvg-id="555" tvg-name="sakaryaradyomega" tvg-logo="https://m.RADYO.cc/logo-radyo/sakarya-radyo-mega.webp?t=1696868240" group-title="Pop RADYO",Sakarya Radyo Mega Adapazarı
+https://www.liveradio.es/http://sunucu2.radyosfer.com:8012/stream?type=http&nocache=8
+#EXTINF:-1 tvg-id="556" tvg-name="serhatfm" tvg-logo="https://m.RADYO.cc/logo-radyo/serhat-fm.webp?t=1696868240" group-title="Pop RADYO",Serhat FM Kars
+https://www.liveradio.es/http://yayin.serhatfm.com:9150/stream
+#EXTINF:-1 tvg-id="557" tvg-name="showradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/show-radyo.webp?t=1696868240" group-title="Pop RADYO",Show Radyo Silifke
+https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
+#EXTINF:-1 tvg-id="558" tvg-name="sivasfm" tvg-logo="https://m.RADYO.cc/logo-radyo/sivas-fm.webp?t=1696868240" group-title="Pop RADYO",Sivas FM Sivas
+https://www.liveradio.es/http://yayin2.canliyayin.org:8180/;stream.nsv
+#EXTINF:-1 tvg-id="559" tvg-name="slowhome" tvg-logo="https://m.RADYO.cc/logo-radyo/slow-home.webp?t=1696868240" group-title="Pop RADYO",Slow Home Dijital Radyo
+https://ssl4.radyotvonline.com/radyohome/slowhome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="560" tvg-name="slowtime" tvg-logo="https://m.RADYO.cc/logo-radyo/slow-time.webp?t=1696868240" group-title="Pop RADYO",Slow Time İzmir
+https://moondigitaledge.radyotvonline.net/slowtime/playlist.m3u8
+#EXTINF:-1 tvg-id="561" tvg-name="soylufm" tvg-logo="https://m.RADYO.cc/logo-radyo/soylu-fm.webp?t=1696868240" group-title="Pop RADYO",Soylu FM Kırklareli
+https://ssl.radyosfer.com:7144/;/stream?icy=http
+#EXTINF:-1 tvg-id="562" tvg-name="super2" tvg-logo="https://m.RADYO.cc/logo-radyo/super2.webp?t=1696868240" group-title="Pop RADYO",Süper2 Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2128AAC.aac
+#EXTINF:-1 tvg-id="563" tvg-name="superfm" tvg-logo="https://m.RADYO.cc/logo-radyo/super-fm.webp?t=1696868240" group-title="Pop RADYO",Süper FM Ayvalık
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC.aac
+#EXTINF:-1 tvg-id="564" tvg-name="sepershowradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/seper-show-radyo.webp?t=1696868240" group-title="Pop RADYO",Süper Show Radyo Antakya
+https://www.liveradio.es/http://yayin.netyayin.net:6065/stream
+#EXTINF:-1 tvg-id="565" tvg-name="temporadyo" tvg-logo="https://m.RADYO.cc/logo-radyo/tempo-radyo.webp?t=1696868240" group-title="Pop RADYO",Tempo Radyo Eskişehir
+https://vofile.ru/turkey/Tempo_Radyo/icecast.audio
+#EXTINF:-1 tvg-id="566" tvg-name="tgrtfm" tvg-logo="https://m.RADYO.cc/logo-radyo/tgrt-fm.webp?t=1696868240" group-title="Pop RADYO",TGRT FM Bitlis
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="567" tvg-name="tourismfm" tvg-logo="https://m.RADYO.cc/logo-radyo/tourism-fm.webp?t=1696868240" group-title="Pop RADYO",Tourism FM Dijital Radyo
+https://vofile.ru/turkey/tourism_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="568" tvg-name="trtantalyaradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/trt-antalya-radyosu.webp?t=1696868240" group-title="Pop RADYO",TRT Antalya Radyosu Altınyayla
+https://radio-trtantalya.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="569" tvg-name="trtcukurovaradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/trt-cukurova-radyosu.webp?t=1696868240" group-title="Pop RADYO",TRT Çukurova Radyosu Çukurova
+https://radio-trtcukurova.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="570" tvg-name="trterzurumradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/trt-erzurum-radyosu.webp?t=1696868240" group-title="Pop RADYO",TRT Erzurum Radyosu Erzurum
+https://radio-trterzurum.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="571" tvg-name="trtfm" tvg-logo="https://m.RADYO.cc/logo-radyo/trtfm.webp?t=1696868240" group-title="Pop RADYO",TRT FM Sinop
+https://radio-trtfm.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="572" tvg-name="trtgapdiyarbakirradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/trt-gap-diyarbakir-radyosu.webp?t=1696868240" group-title="Pop RADYO",TRT GAP Diyarbakır Radyosu Diyarbakır
+https://radio-trtgap.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-id="573" tvg-name="trtradyo3" tvg-logo="https://m.RADYO.cc/logo-radyo/trtradyo-3.webp?t=1696868240" group-title="Pop RADYO",TRT Radyo 3 Ağrı
+https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-id="574" tvg-name="trtradyokurdi" tvg-logo="https://m.RADYO.cc/logo-radyo/trt-radyo-kurdi.webp?t=1696868240" group-title="Pop RADYO",TRT Radyo Kurdî Bitlis
+https://radio-trtradyo6.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="575" tvg-name="trttrabzonradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/trt-trabzon-radyosu.webp?t=1696868240" group-title="Pop RADYO",TRT Trabzon Radyosu Dijital Radyo
+https://radio-trttrabzon.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-id="576" tvg-name="trttsr" tvg-logo="https://m.RADYO.cc/logo-radyo/trt-tsr.webp?t=1696868240" group-title="Pop RADYO",TRT TSR Dijital Radyo
+https://radio-trttsr.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-id="577" tvg-name="trtturku" tvg-logo="https://m.RADYO.cc/logo-radyo/trt-turku.webp?t=1696868240" group-title="Pop RADYO",TRT Türkü Bingöl
+https://radio-trtturku.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="578" tvg-name="turkland" tvg-logo="https://m.RADYO.cc/logo-radyo/turkland.webp?t=1696868240" group-title="Pop RADYO",Türkland Dijital Radyo
+https://moondigitaledge.radyotvonline.net/turkland/playlist.m3u8
+#EXTINF:-1 tvg-id="579" tvg-name="turkradyodunyasi" tvg-logo="https://m.RADYO.cc/logo-radyo/turk-radyo-dunyasi.webp?t=1696868240" group-title="Pop RADYO",Turk Radyo Dunyasi Dijital Radyo
+https://live.streamlojik.com:8000/trd1.aac
+#EXTINF:-1 tvg-id="580" tvg-name="tutkufm" tvg-logo="https://m.RADYO.cc/logo-radyo/tutku-fm.webp?t=1696868240" group-title="Pop RADYO",Tutku FM Samsun
+https://www.liveradio.es/http://sunucu2.radyosfer.com:9378/;
+#EXTINF:-1 tvg-id="581" tvg-name="virginradiolebanon" tvg-logo="https://m.RADYO.cc/logo-radyo/virgin-radio-lebanon.webp?t=1696868240" group-title="Pop RADYO",Virgin Radio Lebanon Dijital Radyo
+https://stream.zeno.fm/dwxw3p9vea0uv
+#EXTINF:-1 tvg-id="582" tvg-name="virginradio" tvg-logo="https://m.RADYO.cc/logo-radyo/virgin-radio.webp?t=1696868240" group-title="Pop RADYO",Virgin Radio Türkiye Adana
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC.aac
+#EXTINF:-1 tvg-id="583" tvg-name="yansunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/yansun-fm.webp?t=1696868240" group-title="Pop RADYO",Yansun FM Dijital Radyo
+https://ssl190.ozelip.com/asistan/stream/460533be96b9a29dde5ea142455585e3
+#EXTINF:-1 tvg-id="584" tvg-name="yolarkadasim" tvg-logo="https://m.RADYO.cc/logo-radyo/yol-arkadasim.webp?t=1696868240" group-title="Pop RADYO",Yol Arkadaşım Dijital Radyo
+https://21633.live.streamtheworld.com/EVENT3128AAC.aac
+#EXTINF:-1 tvg-id="585" tvg-name="yozgatfm" tvg-logo="https://m.RADYO.cc/logo-radyo/yozgat-fm.webp?t=1696868240" group-title="Pop RADYO",Yozgat FM Yozgat
+https://sslyayin.netyayin.net:10921/stream
+#EXTINF:-1 tvg-id="633" tvg-name="fenomenoriental" tvg-logo="https://m.RADYO.cc/logo-radyo/fenomen-oriental.webp?t=1696868240" group-title="RandB RADYO",Fenomen Oriental Dijital Radyo
+https://listen.radyofenomen.com/fenomenoriental/128/icecast.audio
+#EXTINF:-1 tvg-id="634" tvg-name="fenomenrap" tvg-logo="https://m.RADYO.cc/logo-radyo/fenomen-rap.webp?t=1696868240" group-title="RandB RADYO",Fenomen Rap Dijital Radyo
+https://listen.radyofenomen.com/fenomenrap/128/icecast.audio
+#EXTINF:-1 tvg-id="635" tvg-name="kralworldradio" tvg-logo="https://m.RADYO.cc/logo-radyo/kral-world-radio.webp?t=1696868240" group-title="RandB RADYO",Kral World Radio Dijital Radyo
+https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="636" tvg-name="metrornb" tvg-logo="https://m.RADYO.cc/logo-radyo/metrornb.webp?t=1696868240" group-title="RandB RADYO",Metro R&B Dijital Radyo
+https://22193.live.streamtheworld.com/SC034_SO1_SC?/;stream.mp3
+#EXTINF:-1 tvg-id="637" tvg-name="number1rnb" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-r-n-b.webp?t=1696868240" group-title="RandB RADYO",Number1 R&B Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3aecf0941_1/playlist.m3u8
+#EXTINF:-1 tvg-id="638" tvg-name="palrnb" tvg-logo="https://m.RADYO.cc/logo-radyo/pal-r-n-b.webp?t=1696868240" group-title="RandB RADYO",Pal R&B Dijital Radyo
+https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8
+#EXTINF:-1 tvg-id="639" tvg-name="powerfm" tvg-logo="https://m.RADYO.cc/logo-radyo/power-fm.webp?t=1696868240" group-title="RandB RADYO",Power FM Alanya
+https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="640" tvg-name="powerrnbhiphop" tvg-logo="https://m.RADYO.cc/logo-radyo/power-rnb-hip-hop.webp?t=1696868240" group-title="RandB RADYO",Power R&B Hip Hop Dijital Radyo
+https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="641" tvg-name="radioline" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-line.webp?t=1696868240" group-title="RandB RADYO",Radio Line Dijital Radyo
+https://vofile.ru/turkey/radio_line_dinle/icecast.audio
+#EXTINF:-1 tvg-id="642" tvg-name="radyobilkent" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-bilkent.webp?t=1696868240" group-title="RandB RADYO",Radyo Bilkent Ankara
+https://listen.powerapp.com.tr/radyobilkent/mpeg/icecast.audio
+#EXTINF:-1 tvg-id="643" tvg-name="radyofenomen" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-fenomen.webp?t=1696868240" group-title="RandB RADYO",Radyo Fenomen Eskişehir
+https://listen.radyofenomen.com/fenomen/256/icecast.audio
+#EXTINF:-1 tvg-id="644" tvg-name="slowtime" tvg-logo="https://m.RADYO.cc/logo-radyo/slow-time.webp?t=1696868240" group-title="RandB RADYO",Slow Time İzmir
+https://moondigitaledge.radyotvonline.net/slowtime/playlist.m3u8
+#EXTINF:-1 tvg-id="645" tvg-name="tourismfm" tvg-logo="https://m.RADYO.cc/logo-radyo/tourism-fm.webp?t=1696868240" group-title="RandB RADYO",Tourism FM Dijital Radyo
+https://vofile.ru/turkey/tourism_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="646" tvg-name="xradio" tvg-logo="https://m.RADYO.cc/logo-radyo/x-radio.webp?t=1696868240" group-title="RandB RADYO",X Radio Dijital Radyo
+https://stream.xradio.com.tr:8770/stream
+#EXTINF:-1 tvg-id="600" tvg-name="arazaman" tvg-logo="https://m.RADYO.cc/logo-radyo/arazaman.webp?t=1696868240" group-title="Rock RADYO",Arazaman Dijital Radyo
+https://arazaman.stream.laut.fm/arazaman
+#EXTINF:-1 tvg-id="601" tvg-name="bauradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/bau-radyo.webp?t=1696868240" group-title="Rock RADYO",BAU Radyo Dijital Radyo
+https://ssl120.radyotelekom.com.tr/8106/stream
+#EXTINF:-1 tvg-id="602" tvg-name="bigafm" tvg-logo="https://m.RADYO.cc/logo-radyo/biga-fm.webp?t=1696868240" group-title="Rock RADYO",Biga FM Biga
+https://www.liveradio.es/http://radyo.yayin.com.tr:5896/;stream.mp3
+#EXTINF:-1 tvg-id="603" tvg-name="driveland" tvg-logo="https://m.RADYO.cc/logo-radyo/driveland.webp?t=1696868240" group-title="Rock RADYO",Driveland Dijital Radyo
+https://vofile.ru/turkey/driveland/icecast.audio
+#EXTINF:-1 tvg-id="604" tvg-name="joyturkrock" tvg-logo="https://m.RADYO.cc/logo-radyo/joy-turk-rock.webp?t=1696868240" group-title="Rock RADYO",JoyTurk Rock Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK128AAC.aac
+#EXTINF:-1 tvg-id="605" tvg-name="kralworldradio" tvg-logo="https://m.RADYO.cc/logo-radyo/kral-world-radio.webp?t=1696868240" group-title="Rock RADYO",Kral World Radio Dijital Radyo
+https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="606" tvg-name="maxfm" tvg-logo="https://m.RADYO.cc/logo-radyo/max-fm.webp?t=1696868240" group-title="Rock RADYO",Max FM Ankara
+https://vofile.ru/turkey/max_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="607" tvg-name="metro80ler" tvg-logo="https://m.RADYO.cc/logo-radyo/metro-80-ler.webp?t=1696868240" group-title="Rock RADYO",Metro 80'ler Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC012_SO1_SC?/;stream.mp3
+#EXTINF:-1 tvg-id="608" tvg-name="mioradio" tvg-logo="https://m.RADYO.cc/logo-radyo/mio-radio.webp?t=1696868240" group-title="Rock RADYO",Mio Radio İstanbul
+https://s2.myradiostream.com/13662/;
+#EXTINF:-1 tvg-id="609" tvg-name="number1rock" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-rock.webp?t=1696868240" group-title="Rock RADYO",Number1 Rock Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e39cae8c9c_1/playlist.m3u8
+#EXTINF:-1 tvg-id="610" tvg-name="nr1turkrock" tvg-logo="https://m.RADYO.cc/logo-radyo/nr1-turk-rock.webp?t=1696868240" group-title="Rock RADYO",Number1 Türk Rock Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e39cae8c9c_1/playlist.m3u8
+#EXTINF:-1 tvg-id="611" tvg-name="number1world" tvg-logo="https://m.RADYO.cc/logo-radyo/number1-world.webp?t=1696868240" group-title="Rock RADYO",Number1 World Dijital Radyo
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:-1 tvg-id="612" tvg-name="radioline" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-line.webp?t=1696868240" group-title="Rock RADYO",Radio Line Dijital Radyo
+https://vofile.ru/turkey/radio_line_dinle/icecast.audio
+#EXTINF:-1 tvg-id="613" tvg-name="radiomood" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-mood.webp?t=1696868240" group-title="Rock RADYO",Radio Mood Dijital Radyo
+https://radioindia.net/turkey/radio-mood/icecast.audio
+#EXTINF:-1 tvg-id="614" tvg-name="radyo1959" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo1959.webp?t=1696868240" group-title="Rock RADYO",Radyo1959 Ankara
+https://vofile.ru/turkey/radyo_1959_dinle/icecast.audio
+#EXTINF:-1 tvg-id="615" tvg-name="radyoege" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ege.webp?t=1696868240" group-title="Rock RADYO",Radyo Ege İzmir
+https://radio-streaming.net/turkey/radyo-ege-izmir/icecast.audio
+#EXTINF:-1 tvg-id="616" tvg-name="radyoeksen" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-eksen.webp?t=1696868240" group-title="Rock RADYO",Radyo Eksen İstanbul
+https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
+#EXTINF:-1 tvg-id="617" tvg-name="radyofenomen" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-fenomen.webp?t=1696868240" group-title="Rock RADYO",Radyo Fenomen Antalya
+https://listen.radyofenomen.com/fenomen/256/icecast.audio
+#EXTINF:-1 tvg-id="618" tvg-name="radyolojik" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-lojik.webp?t=1696868240" group-title="Rock RADYO",Radyo Lojik Afyonkarahisar
+https://vofile.ru/turkey/radyo_lojik/icecast.audio
+#EXTINF:-1 tvg-id="619" tvg-name="radyoodte" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-odte.webp?t=1696868240" group-title="Rock RADYO",Radyo ODTÜ Ankara
+https://stream.radyoodtu.com.tr/canli;
+#EXTINF:-1 tvg-id="620" tvg-name="radyoremixodemis" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-remix-odemis.webp?t=1696868240" group-title="Rock RADYO",Radyo Remix Ödemis İzmir
+https://radio-streaming.net/turkey/radyo-remix-odemis/playlist.m3u8
+#EXTINF:-1 tvg-id="621" tvg-name="radyoseyhan" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-seyhan.webp?t=1696868240" group-title="Rock RADYO",Radyo Seyhan Osmaniye
+https://ssl.radyosfer.com:7128/;/stream?icy=http
+#EXTINF:-1 tvg-id="622" tvg-name="radyoturkuvaz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-turkuvaz.webp?t=1696868240" group-title="Rock RADYO",Radyo Turkuvaz Karaburun
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 tvg-id="623" tvg-name="radyovesaire" tvg-logo="https://m.RADYO.cc/logo-radyo/radyovesaire.webp?t=1696868240" group-title="Rock RADYO",Radyo Vesaire Dijital Radyo
+https://s2.radio.co/s9c94bdb61/listen
+#EXTINF:-1 tvg-id="624" tvg-name="radyovizyon" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-vizyon.webp?t=1696868240" group-title="Rock RADYO",Radyo Vizyon Bursa
+https://www.liveradio.es/http://yayin.netradyom.com:9300/;
+#EXTINF:-1 tvg-id="625" tvg-name="radyoyorem" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yorem.webp?t=1696868240" group-title="Rock RADYO",Radyo Yörem Bursa
+https://radio-streaming.net/turkey/radyo-yorem-bursa/playlist.m3u8
+#EXTINF:-1 tvg-id="626" tvg-name="rockfm" tvg-logo="https://m.RADYO.cc/logo-radyo/rock-fm.webp?t=1696868240" group-title="Rock RADYO",Rock FM İstanbul
+https://rockfm.rockfm.com.tr:9450/stream
+#EXTINF:-1 tvg-id="627" tvg-name="rockland" tvg-logo="https://m.RADYO.cc/logo-radyo/rockland.webp?t=1696868240" group-title="Rock RADYO",Rockland Dijital Radyo
+https://moondigitaledge.radyotvonline.net/rockland/playlist.m3u8
+#EXTINF:-1 tvg-id="628" tvg-name="rockstation" tvg-logo="https://m.RADYO.cc/logo-radyo/rock-station.webp?t=1696868240" group-title="Rock RADYO",Rock Station Dijital Radyo
+https://22193.live.streamtheworld.com/SC017_SO1AAC.aac
+#EXTINF:-1 tvg-id="629" tvg-name="slowtime" tvg-logo="https://m.RADYO.cc/logo-radyo/slow-time.webp?t=1696868240" group-title="Rock RADYO",Slow Time İzmir
+https://moondigitaledge.radyotvonline.net/slowtime/playlist.m3u8
+#EXTINF:-1 tvg-id="630" tvg-name="therockradio" tvg-logo="https://m.RADYO.cc/logo-radyo/the-rock-radio.webp?t=1696868240" group-title="Rock RADYO",The Rock Radio Dijital Radyo
+https://moondigitaledge.radyotvonline.net/therockradio/playlist.m3u8
+#EXTINF:-1 tvg-id="631" tvg-name="tourismfm" tvg-logo="https://m.RADYO.cc/logo-radyo/tourism-fm.webp?t=1696868240" group-title="Rock RADYO",Tourism FM Dijital Radyo
+https://vofile.ru/turkey/tourism_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="632" tvg-name="trtradyo3" tvg-logo="https://m.RADYO.cc/logo-radyo/trtradyo-3.webp?t=1696868240" group-title="Rock RADYO",TRT Radyo 3 Karaburun
+https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="hatayakdenizfm" tvg-logo="https://m.RADYO.cc/logo-radyo/hatay-akdeniz-fm.webp?t=1696868240" group-title="Türküler RADYO",Akdeniz FM Hatay
+https://www.liveradio.es/http://yayin.netyayin.net:7077/listen.pls?sid=1
+#EXTINF:-1 tvg-id="94" tvg-name="asrfm" tvg-logo="https://m.RADYO.cc/logo-radyo/asr-fm.webp?t=1696868240" group-title="Türküler RADYO",ASR FM Adıyaman
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4072/;
+#EXTINF:-1 tvg-id="95" tvg-name="asyaradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/asya-radyo.webp?t=1696868240" group-title="Türküler RADYO",Asya Radyo Antakya
+https://www.liveradio.es/http://sunucu.radyodinle.com:9850/;stream.nsv type=audio/mp3
+#EXTINF:-1 tvg-id="96" tvg-name="azelyaradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/azelya-radyo.webp?t=1696868240" group-title="Türküler RADYO",Azelya Radyo Bingöl
+https://radio-streaming.net/turkey/azelya-radyo/playlist.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="babaradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/baba-radyo.webp?t=1696868240" group-title="Türküler RADYO",Baba Radyo Kocaeli
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="barisfm" tvg-logo="https://m.RADYO.cc/logo-radyo/baris-fm.webp?t=1696868240" group-title="Türküler RADYO",Barış FM Dijital Radyo
+https://vofile.ru/turkey/baris_fm/icecast.audio
+#EXTINF:-1 tvg-id="99" tvg-name="batiradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/bati-radyo.webp?t=1696868240" group-title="Türküler RADYO",Batı Radyo İzmir
+https://sslyayin.netyayin.net:10902/;
+#EXTINF:-1 tvg-id="100" tvg-name="bigafm" tvg-logo="https://m.RADYO.cc/logo-radyo/biga-fm.webp?t=1696868240" group-title="Türküler RADYO",Biga FM Biga
+https://www.liveradio.es/http://radyo.yayin.com.tr:5896/;stream.mp3
+#EXTINF:-1 tvg-id="101" tvg-name="bogazliyanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/bogazliyan-fm.webp?t=1696868240" group-title="Türküler RADYO",Bogazliyan FM Boğazlıyan
+https://vofile.ru/turkey/bogazliyan_fm/icecast.audio
+#EXTINF:-1 tvg-id="102" tvg-name="botanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/botan-fm.webp?t=1696868240" group-title="Türküler RADYO",Botan FM Siirt
+https://radio-streaming.net/turkey/botan-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="bursakaradenizfm" tvg-logo="https://m.RADYO.cc/logo-radyo/bursa-karadeniz-fm.webp?t=1696868240" group-title="Türküler RADYO",Bursa Karadeniz FM Bursa
+https://ssl.radyosfer.com:7117/;/stream?icy=http
+#EXTINF:-1 tvg-id="104" tvg-name="caglarfm" tvg-logo="https://m.RADYO.cc/logo-radyo/caglar-fm.webp?t=1696868240" group-title="Türküler RADYO",Çağlar FM Malatya
+https://www.liveradio.es/http://95.9.6.87:8788/;?type=http&nocache=2
+#EXTINF:-1 tvg-id="105" tvg-name="cagrifm3" tvg-logo="https://m.RADYO.cc/logo-radyo/cagri-fm3.webp?t=1696868240" group-title="Türküler RADYO",Cagri FM Diyarbakır
+https://www.liveradio.es/http://yayin1.canliyayin.org:8202/;
+#EXTINF:-1 tvg-id="106" tvg-name="canradyo933" tvg-logo="https://m.RADYO.cc/logo-radyo/can-radyo-93-3.webp?t=1696868240" group-title="Türküler RADYO",Can Radyo İzmir
+https://radioindia.net/turkey/can-radyo-93-3/icecast.audio
+#EXTINF:-1 tvg-id="107" tvg-name="cemradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/cem-radyo.webp?t=1696868240" group-title="Türküler RADYO",Cem Radyo İstanbul
+https://yayin2.canliyayin.org:10924/;
+#EXTINF:-1 tvg-id="108" tvg-name="cemrefm" tvg-logo="https://m.RADYO.cc/logo-radyo/cemre-fm.webp?t=1696868240" group-title="Türküler RADYO",Cemre FM Dijital Radyo
+https://www.liveradio.es/http://yayin1.canliyayin.org:8024/;stream.mp3
+#EXTINF:-1 tvg-id="109" tvg-name="datcaonair" tvg-logo="https://m.RADYO.cc/logo-radyo/datca-onair.webp?t=1696868240" group-title="Türküler RADYO",Datşa OnAir Reşadiye
+https://vofile.ru/turkey/datca_on_air_dinle/icecast.audio
+#EXTINF:-1 tvg-id="110" tvg-name="devamadyo" tvg-logo="https://m.RADYO.cc/logo-radyo/deva-madyo.webp?t=1696868240" group-title="Türküler RADYO",Deva Dijital Radyo
+https://radyopanel.turkwebdizayn.com/8036/stream
+#EXTINF:-1 tvg-id="111" tvg-name="dogan21fm" tvg-logo="https://m.RADYO.cc/logo-radyo/dogan-21-fm.webp?t=1696868240" group-title="Türküler RADYO",Doğan 21 FM Diyarbakır
+https://radyo.yayindakiler.com/stream/diyarbakirdogan21
+#EXTINF:-1 tvg-id="112" tvg-name="doganfm" tvg-logo="https://m.RADYO.cc/logo-radyo/doganfm.webp?t=1696868240" group-title="Türküler RADYO",Doğan FM Akşehir
+https://radio-streaming.net/turkey/dogan-fm-aksehir/playlist.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="dolunayfm" tvg-logo="https://m.RADYO.cc/logo-radyo/dolunay-fm.webp?t=1696868240" group-title="Türküler RADYO",Dolunay FM İstanbul
+https://www.liveradio.es/http://yayin1.canliyayin.org:8318/;stream
+#EXTINF:-1 tvg-id="114" tvg-name="dostradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/dost-radyo.webp?t=1696868240" group-title="Türküler RADYO",Dost Radyo Erzincan
+https://radioindia.net/turkey/dost-radyo/icecast.audio
+#EXTINF:-1 tvg-id="115" tvg-name="egehavalari" tvg-logo="https://m.RADYO.cc/logo-radyo/ege-havalari.webp?t=1696868240" group-title="Türküler RADYO",Ege Havaları Dijital Radyo
+https://ssl4.radyotvonline.com/radyohome/egehavalari.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="emekradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/emek-radyo.webp?t=1696868240" group-title="Türküler RADYO",Emek Radyo Kızıltepe
+https://www.liveradio.es/http://yayin1.radyohizmeti.com:8585/;stream.mp3
+#EXTINF:-1 tvg-id="117" tvg-name="enderunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/enderun-fm.webp?t=1696868240" group-title="Türküler RADYO",Enderun FM Kayseri
+https://www.liveradio.es/http://yayin2.canliyayin.org:7052/;stream.mp3
+#EXTINF:-1 tvg-id="118" tvg-name="esmefm" tvg-logo="https://m.RADYO.cc/logo-radyo/esme-fm.webp?t=1696868240" group-title="Türküler RADYO",Eşme FM Dijital Radyo
+https://vofile.ru/turkey/esme_fm_usak/icecast.audio
+#EXTINF:-1 tvg-id="119" tvg-name="ezgiradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/ezgi-radyo.webp?t=1696868240" group-title="Türküler RADYO",Ezgi Radyo Elazığ
+https://www.liveradio.es/http://sunucu.radyodinle.com:1782/stream/1/dinleradyo.mp3
+#EXTINF:-1 tvg-id="120" tvg-name="fistikfm" tvg-logo="https://m.RADYO.cc/logo-radyo/fistik-fm.webp?t=1696868240" group-title="Türküler RADYO",Fıstık FM Samsun
+https://vofile.ru/turkey/fistik_fm/icecast.audio
+#EXTINF:-1 tvg-id="121" tvg-name="generalfm" tvg-logo="https://m.RADYO.cc/logo-radyo/general-fm.webp?t=1696868240" group-title="Türküler RADYO",General FM Zonguldak
+https://anadolu.liderhost.com.tr:10886/;stream.mp3
+#EXTINF:-1 tvg-id="122" tvg-name="gonulturkuleri" tvg-logo="https://m.RADYO.cc/logo-radyo/gonul-turkuleri.webp?t=1696868240" group-title="Türküler RADYO",Gönül Türküleri Dijital Radyo
+https://22193.live.streamtheworld.com/SC020_SO1AAC.aac
+#EXTINF:-1 tvg-id="123" tvg-name="gozyasifm" tvg-logo="https://m.RADYO.cc/logo-radyo/gozyasi-fm.webp?t=1696868240" group-title="Türküler RADYO",Gözyaşı FM Konya
+https://www.liveradio.es/http://yayin2.canliyayin.org:8700/;
+#EXTINF:-1 tvg-id="124" tvg-name="greekland" tvg-logo="https://m.RADYO.cc/logo-radyo/greekland.webp?t=1696868240" group-title="Türküler RADYO",Greekland Dijital Radyo
+https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
+#EXTINF:-1 tvg-id="125" tvg-name="gunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/gun-fm.webp?t=1696868240" group-title="Türküler RADYO",Gün FM Afyonkarahisar
+https://ssl120.radyotelekom.com.tr/8130/;
+#EXTINF:-1 tvg-id="126" tvg-name="harmanradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/harman-radyo.webp?t=1696868240" group-title="Türküler RADYO",Harman Radyo Ankara
+https://www.liveradio.es/http://37.247.100.101/;
+#EXTINF:-1 tvg-id="127" tvg-name="hayalfm" tvg-logo="https://m.RADYO.cc/logo-radyo/hayal-fm.webp?t=1696868240" group-title="Türküler RADYO",Hayal FM Dijital Radyo
+https://server.radyohost.net:8050//stream/1/?icy=http
+#EXTINF:-1 tvg-id="128" tvg-name="hurfm" tvg-logo="https://m.RADYO.cc/logo-radyo/hur-fm.webp?t=1696868240" group-title="Türküler RADYO",Hür FM İstanbul
+https://ssl.radyosfer.com:7125/;/stream?icy=http
+#EXTINF:-1 tvg-id="129" tvg-name="igdirfm" tvg-logo="https://m.RADYO.cc/logo-radyo/igdir-fm.webp?t=1696868240" group-title="Türküler RADYO",Iğdır FM Erzurum
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4158/stream
+#EXTINF:-1 tvg-id="130" tvg-name="incitekfm" tvg-logo="https://m.RADYO.cc/logo-radyo/incitek-fm.webp?t=1696868240" group-title="Türküler RADYO",İncitek FM Erzincan
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4204/;
+#EXTINF:-1 tvg-id="131" tvg-name="karadenizfm" tvg-logo="https://m.RADYO.cc/logo-radyo/karadeniz-fm.webp?t=1696868240" group-title="Türküler RADYO",Karadeniz FM İstanbul
+https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="karadenizhavalari" tvg-logo="https://m.RADYO.cc/logo-radyo/karadeniz-havalari.webp?t=1696868240" group-title="Türküler RADYO",Karadeniz Havaları Dijital Radyo
+https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="kastamonufm" tvg-logo="https://m.RADYO.cc/logo-radyo/kastamonu-fm.webp?t=1696868240" group-title="Türküler RADYO",Kastamonu FM Kastamonu
+https://radio-streaming.net/turkey/kastamonu-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="134" tvg-name="kervanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kervan-fm.webp?t=1696868240" group-title="Türküler RADYO",Kervan FM Gaziantep
+https://www.liveradio.es/http://yayin2.canliyayin.org:9374/;stream.mp3
+#EXTINF:-1 tvg-id="135" tvg-name="keskinfm" tvg-logo="https://m.RADYO.cc/logo-radyo/keskin-fm.webp?t=1696868240" group-title="Türküler RADYO",Keskin FM Ankara
+https://radio-streaming.net/turkey/keskin-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="136" tvg-name="kirikkalefm" tvg-logo="https://m.RADYO.cc/logo-radyo/kirikkale-fm.webp?t=1696868240" group-title="Türküler RADYO",Kirikkale FM Kırıkkale
+https://www.liveradio.es/http://live.ozfm.com.tr:9914/;stream.nsv
+#EXTINF:-1 tvg-id="137" tvg-name="kirikplaklar" tvg-logo="https://m.RADYO.cc/logo-radyo/kirik-plaklar.webp?t=1696868240" group-title="Türküler RADYO",Kırık Plaklar Dijital Radyo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC
+#EXTINF:-1 tvg-id="138" tvg-name="kozanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kozan-fm.webp?t=1696868240" group-title="Türküler RADYO",Kozan FM Adana
+https://www.liveradio.es/http://sunucu.radyodinle.com:3401/;
+#EXTINF:-1 tvg-id="139" tvg-name="kralfm" tvg-logo="https://m.RADYO.cc/logo-radyo/kral-fm.webp?t=1696868240" group-title="Türküler RADYO",Kral FM Adana
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 tvg-id="140" tvg-name="magicfm" tvg-logo="https://m.RADYO.cc/logo-radyo/magic-fm.webp?t=1696868240" group-title="Türküler RADYO",Magic FM Karabük
+https://www.liveradio.es/http://yayin1.yayindakiler.com:3032/stream/1/;
+#EXTINF:-1 tvg-id="141" tvg-name="mamasfmturkuradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/mamas-fm-turku-radyosu.webp?t=1696868240" group-title="Türküler RADYO",Mamaş FM Dijital Radyo
+https://mamasturku-erdem.radioca.st/stream.mp3
+#EXTINF:-1 tvg-id="142" tvg-name="maviradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/mavi-radyo.webp?t=1696868240" group-title="Türküler RADYO",Mavi Radyo Elazığ
+https://yayin.turkhosted.com/6066/stream
+#EXTINF:-1 tvg-id="143" tvg-name="mazidenbirdemet" tvg-logo="https://m.RADYO.cc/logo-radyo/maziden-bir-demet.webp?t=1696868240" group-title="Türküler RADYO",Maziden Bir Demet Dijital Radyo
+https://ssl4.radyotvonline.com/radyohome/mazidenbirdemet.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="medyafm" tvg-logo="https://m.RADYO.cc/logo-radyo/medya-fm.webp?t=1696868240" group-title="Türküler RADYO",Medya FM İstanbul
+https://vofile.ru/turkey/medya_fm/icecast.audio
+#EXTINF:-1 tvg-id="145" tvg-name="megrifm" tvg-logo="https://m.RADYO.cc/logo-radyo/megri-fm.webp?t=1696868240" group-title="Türküler RADYO",Meğri FM Fethiye
+https://vofile.ru/turkey/megri_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="146" tvg-name="melodiradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/melodi-radyo.webp?t=1696868240" group-title="Türküler RADYO",Melodi Radyo Dijital Radyo
+https://vofile.ru/turkey/melodi_radyo/icecast.audio
+#EXTINF:-1 tvg-id="147" tvg-name="mercanfm" tvg-logo="https://m.RADYO.cc/logo-radyo/mercan-fm.webp?t=1696868240" group-title="Türküler RADYO",Mercan FM Eynesil
+https://ip169.ozelip.com:10975/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-id="148" tvg-name="mezeyyen" tvg-logo="https://m.RADYO.cc/logo-radyo/mezeyyen.webp?t=1696868240" group-title="Türküler RADYO",Müzeyyen Dijital Radyo
+https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="onurradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/onur-radyo.webp?t=1696868240" group-title="Türküler RADYO",Onur Radyo Dijital Radyo
+https://anadolu.liderhost.com.tr/8094/stream
+#EXTINF:-1 tvg-id="150" tvg-name="ornekradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/ornek-radyo.webp?t=1696868240" group-title="Türküler RADYO",Örnek Radyo Mobolla
+https://www.liveradio.es/http://yayin.yayindakiler.com:3006/;stream.nsv
+#EXTINF:-1 tvg-id="151" tvg-name="ortacafm" tvg-logo="https://m.RADYO.cc/logo-radyo/ortaca-fm.webp?t=1696868240" group-title="Türküler RADYO",Ortaca FM Muğla
+https://radio-streaming.net/turkey/ortaca-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="152" tvg-name="ostimradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/ostim-radyo.webp?t=1696868240" group-title="Türküler RADYO",Ostim Radyo Ankara
+https://www.liveradio.es/http://yayin.asymedya.com:8079/1;
+#EXTINF:-1 tvg-id="153" tvg-name="otantik" tvg-logo="https://m.RADYO.cc/logo-radyo/otantik.webp?t=1696868240" group-title="Türküler RADYO",Otantik Dijital Radyo
+https://yayin.radyomadyo.com:8012/stream
+#EXTINF:-1 tvg-id="154" tvg-name="ezgerradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/ezger-radyo.webp?t=1696868240" group-title="Türküler RADYO",Özgür Radyo Ankara
+https://vofile.ru/turkey/ozgur_radyo/icecast.audio
+#EXTINF:-1 tvg-id="155" tvg-name="paldoga" tvg-logo="https://m.RADYO.cc/logo-radyo/pal-doga.webp?t=1696868240" group-title="Türküler RADYO",Pal DOÄžA Dijital Radyo
+https://ssl4.radyotvonline.com/radyohome/paldogahome.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="polisradyosu" tvg-logo="https://m.RADYO.cc/logo-radyo/polis-radyosu.webp?t=1696868240" group-title="Türküler RADYO",Polis Radyosu Ağrı
+https://m.egm.gov.tr:8093//
+#EXTINF:-1 tvg-id="157" tvg-name="radiocilek74" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-cilek-74.webp?t=1696868240" group-title="Türküler RADYO",Radio Cilek 74 Dijital Radyo
+https://radio-streaming.net/turkey/radio-cilek-74/icecast.audio
+#EXTINF:-1 tvg-id="158" tvg-name="radyo03" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-03.webp?t=1696868240" group-title="Türküler RADYO",Radyo 03 Afyonkarahisar
+https://reshun.ru/turkey/radyo-03-afyon/icecast.audio
+#EXTINF:-1 tvg-id="159" tvg-name="radyo06" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-06.webp?t=1696868240" group-title="Türküler RADYO",Radyo 06 Ankara
+https://radio-streaming.net/turkey/radyo-06-ankara/icecast.audio
+#EXTINF:-1 tvg-id="160" tvg-name="radyo13" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-13.webp?t=1696868240" group-title="Türküler RADYO",Radyo 13 Tatvan
+https://radyo.yayindakiler.com/stream/bitlis13/stream
+#EXTINF:-1 tvg-id="161" tvg-name="radyo2000fm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo2000fm.webp?t=1696868240" group-title="Türküler RADYO",Radyo 2000 FM Dijital Radyo
+https://www.liveradio.es/http://radyo2000.radyomhd.com:1100/;
+#EXTINF:-1 tvg-id="162" tvg-name="radyo3hilal" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-3-hilal.webp?t=1696868240" group-title="Türküler RADYO",Radyo 3 HiLAL Dijital Radyo
+https://vofile.ru/turkey/radyo-3-hilal/icecast.audio
+#EXTINF:-1 tvg-id="163" tvg-name="radyo44" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo44.webp?t=1696868240" group-title="Türküler RADYO",Radyo 44 Dijital Radyo
+https://radyo44.80.yayin.com.tr/?type=http&nocache=29
+#EXTINF:-1 tvg-id="164" tvg-name="radyo7" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-7.webp?t=1696868240" group-title="Türküler RADYO",Radyo 7 Ardahan
+https://ssl4.radyotvonline.com/radyo7/radyo7_home.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="165" tvg-name="radyo71" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-71.webp?t=1696868240" group-title="Türküler RADYO",Radyo 71 Kırıkkale
+https://radio-streaming.net/turkey/radyo-71-kirikkale/playlist.m3u8
+#EXTINF:-1 tvg-id="166" tvg-name="radyoakdeniz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-akdeniz.webp?t=1696868240" group-title="Türküler RADYO",Radyo Akdeniz Antalya
+https://yayin.radyoakdeniz.com/9470/stream
+#EXTINF:-1 tvg-id="167" tvg-name="radyoasyafm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-asya-fm.webp?t=1696868240" group-title="Türküler RADYO",Radyo Asya FM İstanbul
+https://www.liveradio.es/http://yayin1.yayindakiler.com:3016/;
+#EXTINF:-1 tvg-id="168" tvg-name="radyoavrasyaterk" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-avrasya-terk.webp?t=1696868240" group-title="Türküler RADYO",Radyo Avrasya Türk Ankara
+https://sslyayin.netyayin.net:10909/stream?icy=http
+#EXTINF:-1 tvg-id="169" tvg-name="ankararadyobanko" tvg-logo="https://m.RADYO.cc/logo-radyo/ankara-radyo-banko.webp?t=1696868240" group-title="Türküler RADYO",Radyo Banko Ankara
+https://yayin5.radyohizmeti.com:10817/;stream
+#EXTINF:-1 tvg-id="170" tvg-name="radyobaskent" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-baskent.webp?t=1696868240" group-title="Türküler RADYO",Radyo Başkent Adana
+https://listen.powerapp.com.tr/radyobaskent/mpeg/icecast.audio
+#EXTINF:-1 tvg-id="171" tvg-name="radyoburdur" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-burdur.webp?t=1696868240" group-title="Türküler RADYO",Radyo Burdur Burdur
+https://ssl.radyosfer.com:7090/;/stream?icy=http
+#EXTINF:-1 tvg-id="172" tvg-name="radyocinar" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-cinar.webp?t=1696868240" group-title="Türküler RADYO",Radyo Çınar İstanbul
+https://sslyayin.netyayin.net:10992/;
+#EXTINF:-1 tvg-id="173" tvg-name="radyodenge" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-denge.webp?t=1696868240" group-title="Türküler RADYO",Radyo Denge Dijital Radyo
+https://www.liveradio.es/http://yayin1.canliyayin.org:8278/;type=mp3
+#EXTINF:-1 tvg-id="175" tvg-name="radyodilara" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-dilara.webp?t=1696868240" group-title="Türküler RADYO",Radyo Dilara Antalya
+https://radio-streaming.net/turkey/radyo-dilara-98-7/playlist.m3u8
+#EXTINF:-1 tvg-id="176" tvg-name="radyodilara986" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-dilara-98-6.webp?t=1696868240" group-title="Türküler RADYO",Radyo Dilara İsparta
+https://59cba4d34b678.streamlock.net/radyo/radyo-dilara/playlist.m3u8
+#EXTINF:-1 tvg-id="177" tvg-name="radyoekin" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ekin.webp?t=1696868240" group-title="Türküler RADYO",Radyo Ekin İstanbul
+https://www.liveradio.es/http://yayin.turkhosted.com:6006/;
+#EXTINF:-1 tvg-id="178" tvg-name="radyoen" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-en.webp?t=1696868240" group-title="Türküler RADYO",Radyo En Bursa
+https://www.liveradio.es/http://yayin.bursafm.com.tr:1055/;
+#EXTINF:-1 tvg-id="179" tvg-name="enradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/en-radyo.webp?t=1696868240" group-title="Türküler RADYO",Radyo EN Konya
+https://www.liveradio.es/http://yayin2.canliyayin.org:7222/;
+#EXTINF:-1 tvg-id="180" tvg-name="radyofm23" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-fm-23.webp?t=1696868240" group-title="Türküler RADYO",Radyo FM 23 Elazığ
+https://radio-streaming.net/turkey/radyo-fm-23/playlist.m3u8
+#EXTINF:-1 tvg-id="181" tvg-name="radyofm60tokat" tvg-logo="https://m.RADYO.cc/logo-radyo/radyofm-60-tokat.webp?t=1696868240" group-title="Türküler RADYO",RadyoFm 60 Tokat Dijital Radyo
+https://live.radyositesihazir.com/8016/stream
+#EXTINF:-1 tvg-id="182" tvg-name="radyogercek935" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gercek-93-5.webp?t=1696868240" group-title="Türküler RADYO",Radyo Gerşek Dijital Radyo
+https://vofile.ru/turkey/radyo_gerÑek_93_5/icecast.audio
+#EXTINF:-1 tvg-id="183" tvg-name="radyogirebi" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-girebi.webp?t=1696868240" group-title="Türküler RADYO",Radyo Girebi Balıkesir
+https://ssl123.ozelip.com/8066/stream
+#EXTINF:-1 tvg-id="184" tvg-name="radyogokcam" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gokcam.webp?t=1696868240" group-title="Türküler RADYO",Radyo Gökşam Dijital Radyo
+https://radio-streaming.net/turkey/radyo-gokcam/playlist.m3u8
+#EXTINF:-1 tvg-id="185" tvg-name="radyogun" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gun.webp?t=1696868240" group-title="Türküler RADYO",Radyo Gün Çorum
+https://reshun.ru/turkey/radyo-gun-corum/icecast.audio
+#EXTINF:-1 tvg-id="186" tvg-name="radyogunes" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-gunes.webp?t=1696868240" group-title="Türküler RADYO",Radyo Güneş Bursa
+https://www.liveradio.es/http://yayin2.canliyayin.org:5024/;stream
+#EXTINF:-1 tvg-id="187" tvg-name="radyoguney" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-guney.webp?t=1696868240" group-title="Türküler RADYO",Radyo Güney Seyhan
+https://www.liveradio.es/http://sunucu2.radyolarburada.com:8250/;stream/1
+#EXTINF:-1 tvg-id="188" tvg-name="radyohaber" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-haber.webp?t=1696868240" group-title="Türküler RADYO",Radyo Haber Dijital Radyo
+https://vofile.ru/turkey/radyo_haber_dinle/icecast.audio
+#EXTINF:-1 tvg-id="189" tvg-name="radyohan" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-han.webp?t=1696868240" group-title="Türküler RADYO",Radyo Han Kayseri
+https://ssl.radyosfer.com:7043/;/stream?icy=http
+#EXTINF:-1 tvg-id="190" tvg-name="radyohazar" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-hazar.webp?t=1696868240" group-title="Türküler RADYO",Radyo Hazar Elazığ
+https://radio-streaming.net/turkey/radyo-hazar/playlist.m3u8
+#EXTINF:-1 tvg-id="191" tvg-name="radyohevi" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-hevi.webp?t=1696868240" group-title="Türküler RADYO",Radyo Hevi Dijital Radyo
+https://anadolu.liderhost.com.tr:10939/;
+#EXTINF:-1 tvg-id="192" tvg-name="radyoimparator" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-imparator.webp?t=1696868240" group-title="Türküler RADYO",Radyo İmparator İstanbul
+https://kralpop.radyotvonline.net/;radyo-dinle.audio?
+#EXTINF:-1 tvg-id="193" tvg-name="radyoizmirfm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-izmir-fm.webp?t=1696868240" group-title="Türküler RADYO",Radyo İzmir FM Dijital Radyo
+https://usa4.fastcast4u.com/proxy/radyoizmirfm?mp=/mp3stream128
+#EXTINF:-1 tvg-id="194" tvg-name="radyokafses" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-kafses.webp?t=1696868240" group-title="Türküler RADYO",Radyo Kafses Yalova
+https://radyo1.radyo-dinle.tc/8072/stream
+#EXTINF:-1 tvg-id="195" tvg-name="radyokentpolatli" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-kent-polatli.webp?t=1696868240" group-title="Türküler RADYO",Radyo Kent Polatli Ankara
+https://www.liveradio.es/http://77.245.151.248:8000/1
+#EXTINF:-1 tvg-id="196" tvg-name="radyokordelya" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-kordelya.webp?t=1696868240" group-title="Türküler RADYO",Radyo Kordelya İzmir
+https://vofile.ru/turkey/radyo_kordelya/icecast.audio
+#EXTINF:-1 tvg-id="197" tvg-name="radyokraldamarfm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-kraldamar-fm.webp?t=1696868240" group-title="Türküler RADYO",Radyo Kraldamar FM Dijital Radyo
+https://yayin.damarfm.com:8080/;stream/1
+#EXTINF:-1 tvg-id="198" tvg-name="radyokulep3" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-kulep3.webp?t=1696868240" group-title="Türküler RADYO",Radyo Kulüp Samsun
+https://ssl.radyosfer.com:7048/;
+#EXTINF:-1 tvg-id="199" tvg-name="radyomegasite" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-megasite.webp?t=1696868240" group-title="Türküler RADYO",Radyo Megasite Ankara
+https://ssl.radyosfer.com:7177/;/stream?icy=http
+#EXTINF:-1 tvg-id="200" tvg-name="radyomucizem" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-mucizem.webp?t=1696868240" group-title="Türküler RADYO",Radyo Mucizem Dijital Radyo
+https://live.radyositesihazir.com/8036/stream
+#EXTINF:-1 tvg-id="201" tvg-name="radyon" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-n.webp?t=1696868240" group-title="Türküler RADYO",Radyo N Aydın
+https://vofile.ru/turkey/radyo_n_105_7_dinle/icecast.audio
+#EXTINF:-1 tvg-id="202" tvg-name="radyonostaljininsesi" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-nostaljinin-sesi.webp?t=1696868240" group-title="Türküler RADYO",Radyo Nostaljinin Sesi Dijital Radyo
+https://vofile.ru/turkey/radyo-nostaljinin-sesi/icecast.audio
+#EXTINF:-1 tvg-id="203" tvg-name="radyoritm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ritm.webp?t=1696868240" group-title="Türküler RADYO",Radyo Ritm Erzurum
+https://www.liveradio.es/http://radyo.yayin.com.tr:8091/;?icy=http
+#EXTINF:-1 tvg-id="204" tvg-name="radyosampiyon" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-sampiyon.webp?t=1696868240" group-title="Türküler RADYO",Radyo Şampiyon Bursa
+https://radio-streaming.net/turkey/radyo-sampiyon-89-5/playlist.m3u8
+#EXTINF:-1 tvg-id="205" tvg-name="radyoseker" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-seker.webp?t=1696868240" group-title="Türküler RADYO",Radyo Şeker Çerkezköy
+https://ssl.radyosfer.com:7131/;/stream?icy=http
+#EXTINF:-1 tvg-id="206" tvg-name="radyoselam" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-selam.webp?t=1696868240" group-title="Türküler RADYO",Radyo Selam Diyarbakır
+https://www.liveradio.es/http://yayin1.canliyayin.org:7066/;stream.nsv
+#EXTINF:-1 tvg-id="207" tvg-name="radyoses" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ses.webp?t=1696868240" group-title="Türküler RADYO",Radyo Ses Ankara
+https://oyunzade.yayin.com.tr/stream?type=https&nocache=8205;
+#EXTINF:-1 tvg-id="208" tvg-name="radyoseymen" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-seymen.webp?t=1696868240" group-title="Türküler RADYO",Radyo Seymen İskenderun
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1 tvg-id="209" tvg-name="radyosomafm" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-soma-fm.webp?t=1696868240" group-title="Türküler RADYO",Radyo Soma FM Saruhan
+https://vofile.ru/turkey/radyo_soma_fm_dinle/icecast.audio
+#EXTINF:-1 tvg-id="210" tvg-name="radiosonix" tvg-logo="https://m.RADYO.cc/logo-radyo/radio-sonix.webp?t=1696868240" group-title="Türküler RADYO",Radyo Sonix Konya
+https://reshun.ru/turkey/radyo-sonix/icecast.audio
+#EXTINF:-1 tvg-id="211" tvg-name="radyotaverna" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-taverna.webp?t=1696868240" group-title="Türküler RADYO",Radyo Taverna Dijital Radyo
+https://vofile.ru/turkey/radyo_taverna/icecast.audio
+#EXTINF:-1 tvg-id="212" tvg-name="radyotulu" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-tulu.webp?t=1696868240" group-title="Türküler RADYO",Radyo Tulu Antalya
+https://www.liveradio.es/http://yayin2.canliyayin.org:8248/;*.mp3
+#EXTINF:-1 tvg-id="213" tvg-name="radyoterk" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-terk.webp?t=1696868240" group-title="Türküler RADYO",Radyo Türk Alaturka Bursa
+https://radyo.yayindakiler.com/stream/bursaturk/stream
+#EXTINF:-1 tvg-id="214" tvg-name="radyoulkudinle" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-ulku-dinle.webp?t=1696868240" group-title="Türküler RADYO",Radyo Ülkü Konya
+https://radyo.yayindakiler.com:4112/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="215" tvg-name="radyoumut" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-umut.webp?t=1696868240" group-title="Türküler RADYO",Radyo Umut Kahramanmaraş
+https://www.liveradio.es/http://yayin.canliyayin.org:8892/;stream.nsv
+#EXTINF:-1 tvg-id="216" tvg-name="radyovadi" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-vadi.webp?t=1696868240" group-title="Türküler RADYO",Radyo Vadi Dijital Radyo
+https://radyovad.80.yayin.com.tr/;
+#EXTINF:-1 tvg-id="217" tvg-name="radyovan" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-van.webp?t=1696868240" group-title="Türküler RADYO",Radyo Van Van
+https://www.liveradio.es/http://yayin2.yayindakiler.com:4040/stream?type=http&nocache=1699
+#EXTINF:-1 tvg-id="218" tvg-name="radyoyesilkaradeniz" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yesil-karadeniz.webp?t=1696868240" group-title="Türküler RADYO",Radyo Yesil Karadeniz Ankara
+https://radio-streaming.net/turkey/radyo-yesil-karadeniz/playlist.m3u8
+#EXTINF:-1 tvg-id="219" tvg-name="radyoyuksel" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yuksel.webp?t=1696868240" group-title="Türküler RADYO",Radyo Yüksel Batman
+https://www.liveradio.es/http://yayin2.canliyayin.org:8232/;stream
+#EXTINF:-1 tvg-id="220" tvg-name="radyoyekselis" tvg-logo="https://m.RADYO.cc/logo-radyo/radyo-yekselis.webp?t=1696868240" group-title="Türküler RADYO",Radyo Yükseliş Antalya
+https://radio-streaming.net/turkey/radyo-yukselis/playlist.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="rahmetfm" tvg-logo="https://m.RADYO.cc/logo-radyo/rahmet-fm.webp?t=1696868240" group-title="Türküler RADYO",Rahmet FM Bursa
+https://radio-streaming.net/turkey/radyo-rahmet/playlist.m3u8
+#EXTINF:-1 tvg-id="222" tvg-name="raksfm" tvg-logo="https://m.RADYO.cc/logo-radyo/raks-fm.webp?t=1696868240" group-title="Türküler RADYO",Raks FM Dijital Radyo
+https://radio-streaming.net/turkey/raks-fm-nikomedia/icecast.audio
+#EXTINF:-1 tvg-id="223" tvg-name="renkfm" tvg-logo="https://m.RADYO.cc/logo-radyo/renk-fm.webp?t=1696868240" group-title="Türküler RADYO",Renk FM Dijital Radyo
+https://vofile.ru/turkey/renk_fm_istanbul/icecast.audio
+#EXTINF:-1 tvg-id="224" tvg-name="ribatfm" tvg-logo="https://m.RADYO.cc/logo-radyo/ribat-fm.webp?t=1696868240" group-title="Türküler RADYO",Ribat FM Günyüzü
+https://www.liveradio.es/http://yayin2.canliyayin.org:7010/;
+#EXTINF:-1 tvg-id="225" tvg-name="safakradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/safak-radyo.webp?t=1696868240" group-title="Türküler RADYO",Safak Radyo Kayseri
+https://radioindia.net/turkey/safak-radyo-1005/icecast.audio
+#EXTINF:-1 tvg-id="226" tvg-name="saklikentfm" tvg-logo="https://m.RADYO.cc/logo-radyo/saklikent-fm.webp?t=1696868240" group-title="Türküler RADYO",Saklıkent FM Ankara
+https://vofile.ru/turkey/saklikent_fm/icecast.audio
+#EXTINF:-1 tvg-id="227" tvg-name="sivasfm" tvg-logo="https://m.RADYO.cc/logo-radyo/sivas-fm.webp?t=1696868240" group-title="Türküler RADYO",Sivas FM Sivas
+https://www.liveradio.es/http://yayin2.canliyayin.org:8180/;stream.nsv
+#EXTINF:-1 tvg-id="228" tvg-name="sultanradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/sultan-radyo.webp?t=1696868240" group-title="Türküler RADYO",Sultan Radyo Kahramanmaraş
+https://radio-streaming.net/turkey/sultan-radyo/playlist.m3u8
+#EXTINF:-1 tvg-id="229" tvg-name="surmelifm" tvg-logo="https://m.RADYO.cc/logo-radyo/surmeli-fm.webp?t=1696868240" group-title="Türküler RADYO",Sürmeli FM Dijital Radyo
+https://www.liveradio.es/http://surmelifm.kesintisizyayin.com:8590/;
+#EXTINF:-1 tvg-id="230" tvg-name="temporadyo" tvg-logo="https://m.RADYO.cc/logo-radyo/tempo-radyo.webp?t=1696868240" group-title="Türküler RADYO",Tempo Radyo Eskişehir
+https://vofile.ru/turkey/Tempo_Radyo/icecast.audio
+#EXTINF:-1 tvg-id="231" tvg-name="tezene" tvg-logo="https://m.RADYO.cc/logo-radyo/tezene.webp?t=1696868240" group-title="Türküler RADYO",TEZENE Dijital Radyo
+https://moondigitaledge.radyotvonline.net/tezene/playlist.m3u8
+#EXTINF:-1 tvg-id="232" tvg-name="turkradyodunyasi" tvg-logo="https://m.RADYO.cc/logo-radyo/turk-radyo-dunyasi.webp?t=1696868240" group-title="Türküler RADYO",Turk Radyo Dunyasi Dijital Radyo
+https://live.streamlojik.com:8000/trd1.aac
+#EXTINF:-1 tvg-id="233" tvg-name="turkulerleturkiye" tvg-logo="https://m.RADYO.cc/logo-radyo/turkulerle-turkiye.webp?t=1696868240" group-title="Türküler RADYO",Türkülerle Türkiye Dijital Radyo
+https://moondigitaledge.radyotvonline.net/turkulerleturkiye/playlist.m3u8
+#EXTINF:-1 tvg-id="234" tvg-name="turkuvazanadolu" tvg-logo="https://m.RADYO.cc/logo-radyo/turkuvaz-anadolu.webp?t=1696868240" group-title="Türküler RADYO",Turkuvaz Anadolu Dijital Radyo
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
+#EXTINF:-1 tvg-id="235" tvg-name="tutkufm" tvg-logo="https://m.RADYO.cc/logo-radyo/tutku-fm.webp?t=1696868240" group-title="Türküler RADYO",Tutku FM Samsun
+https://www.liveradio.es/http://sunucu2.radyosfer.com:9378/;
+#EXTINF:-1 tvg-id="236" tvg-name="uludagfm" tvg-logo="https://m.RADYO.cc/logo-radyo/uludag-fm.webp?t=1696868240" group-title="Türküler RADYO",Uludağ FM Bursa
+https://reshun.ru/turkey/uludag-fm-bursa/icecast.audio
+#EXTINF:-1 tvg-id="237" tvg-name="umutfm" tvg-logo="https://m.RADYO.cc/logo-radyo/umut-fm.webp?t=1696868240" group-title="Türküler RADYO",Umut FM Nikomedia
+https://radio-streaming.net/turkey/umut-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="238" tvg-name="vuslatfm" tvg-logo="https://m.RADYO.cc/logo-radyo/vuslat-fm.webp?t=1696868240" group-title="Türküler RADYO",Vuslat FM Adana
+https://radio-streaming.net/turkey/vuslat-fm/playlist.m3u8
+#EXTINF:-1 tvg-id="239" tvg-name="yenradyo" tvg-logo="https://m.RADYO.cc/logo-radyo/yen-radyo.webp?t=1696868240" group-title="Türküler RADYO",Yön Radyo Susurluk
+https://stream.radyolarburada.com/radio/8020/yonradyo
+#EXTINF:-1 tvg-id="240" tvg-name="yozgatsorgunfm" tvg-logo="https://m.RADYO.cc/logo-radyo/yozgat-sorgun-fm.webp?t=1696868240" group-title="Türküler RADYO",Yozgat Sorgun FM Yozgat
+https://radio-streaming.net/turkey/yozgat-sorgun-fm/icecast.audio
