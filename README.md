@@ -32,4 +32,10 @@ https://satsback.com/register/1QEJyGPlg4LN5kwx
 Donate Rethereum (RTH) on this address:
 0xc6bAEcDbB246E4d59F69b5e2C8A5F77215d41cFB
 
+Donate RXD Please: 
+13QCij4L5aaHbgx6MqugNijtqCLARuWeGv
+
+Donate ZiL: 
+zil15szeu50ed7lnztxec8hjz4rtrdmczvdzh2wmm0
+
 Good day
