@@ -5,6 +5,8 @@ http://trn10.tulix.tv/gt-ahaber/index.m3u8
 http://trn10.tulix.tv/gt-anews/index.m3u8
 #EXTINF:24, A PARA
 http://trn10.tulix.tv/gt-apara/index.m3u8
+#EXTINF:24, A SPOR HD
+https://trn10.tulix.tv/gt-aspor/index.m3u8
 #EXTINF:24, A2TV
 http://trn10.tulix.tv/gt-atva2/index.m3u8
 #EXTINF:24, ATV
@@ -19,12 +21,16 @@ http://trn10.tulix.tv/gt-bloomberght/index.m3u8
 http://trn10.tulix.tv/gt-brt1/index.m3u8
 #EXTINF:24, BRT 2
 http://trn10.tulix.tv/gt-brt2/index.m3u8
+#EXTINF:20, CBC SPORT
+https://trn10.tulix.tv/gt-cbcsport/index.m3u8
 #EXTINF:40, CNN TURK
 http://trn10.tulix.tv/gt-cnnturk/index.m3u8
 #EXTINF:24, DREAM TURK
 http://trn10.tulix.tv/gt-dreamturk/index.m3u8
 #EXTINF:24, EUROSTAR
 http://trn10.tulix.tv/gt-eurostar/index.m3u8
+#EXTINF:24, FB TV HD
+https://trn10.tulix.tv/gt-fbtv/index.m3u8
 #EXTINF:24, FOX
 http://trn10.tulix.tv/gt-foxturktv/index.m3u8
 #EXTINF:24, HALK TV
@@ -35,6 +41,7 @@ http://trn10.tulix.tv/gt-kanal7/index.m3u8
 http://trn10.tulix.tv/gt-kanald/index.m3u8
 #EXTINF:26, MINIKA COCUK
 http://trn10.tulix.tv/gt-minikacocuk/index.m3u8
+#EXTINF:26, Mhttps://trn10.tulix.tv/gt-minikago/index.m3u8
 #EXTINF:24, NTV
 http://trn10.tulix.tv/gt-ntvtv/index.m3u8
 #EXTINF:24, SHOW TV
@@ -65,5 +72,6 @@ http://trn10.tulix.tv/gt-tv8tv/index.m3u8
 http://trn10.tulix.tv/gt-tv8_5/index.m3u8
 #EXTINF:24, TVNET
 http://trn10.tulix.tv/gt-tvnet/index.m3u8
+#EXTINF:24, Thttps://trn10.tulix.tv/gt-tivibuspor1/index.m3u8
 #EXTINF:40, ULKE TV
 http://trn10.tulix.tv/gt-ulketv/index.m3u8
