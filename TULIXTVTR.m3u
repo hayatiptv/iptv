@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:40, A HABER
+http://trn10.tulix.tv/gt-ahaber/index.m3u8
+#EXTINF:24, A NEWS
+http://trn10.tulix.tv/gt-anews/index.m3u8
+#EXTINF:24, A PARA
+http://trn10.tulix.tv/gt-apara/index.m3u8
+#EXTINF:24, A2TV
+http://trn10.tulix.tv/gt-atva2/index.m3u8
+#EXTINF:24, ATV
+http://trn10.tulix.tv/gt-atv-tv/index.m3u8
+#EXTINF:24, ATV AVRUPA
+http://trn10.tulix.tv/gt-atvavrupa/index.m3u8
+#EXTINF:24, BEYAZ TV
+http://trn10.tulix.tv/gt-beyaztv/index.m3u8
+#EXTINF:24, BLOOMBERG HT
+http://trn10.tulix.tv/gt-bloomberght/index.m3u8
+#EXTINF:24, BRT 1
+http://trn10.tulix.tv/gt-brt1/index.m3u8
+#EXTINF:24, BRT 2
+http://trn10.tulix.tv/gt-brt2/index.m3u8
+#EXTINF:40, CNN TURK
+http://trn10.tulix.tv/gt-cnnturk/index.m3u8
+#EXTINF:24, DREAM TURK
+http://trn10.tulix.tv/gt-dreamturk/index.m3u8
+#EXTINF:24, EUROSTAR
+http://trn10.tulix.tv/gt-eurostar/index.m3u8
+#EXTINF:24, FOX
+http://trn10.tulix.tv/gt-foxturktv/index.m3u8
+#EXTINF:24, HALK TV
+http://trn10.tulix.tv/gt-halktv/index.m3u8
+#EXTINF:40, KANAL 7
+http://trn10.tulix.tv/gt-kanal7/index.m3u8
+#EXTINF:24, KANAL D
+http://trn10.tulix.tv/gt-kanald/index.m3u8
+#EXTINF:26, MINIKA COCUK
+http://trn10.tulix.tv/gt-minikacocuk/index.m3u8
+#EXTINF:24, NTV
+http://trn10.tulix.tv/gt-ntvtv/index.m3u8
+#EXTINF:24, SHOW TV
+http://trn10.tulix.tv/gt-show-tv/index.m3u8
+#EXTINF:24, STAR TV
+http://trn10.tulix.tv/gt-startv/index.m3u8
+#EXTINF:24, TRT 1
+http://trn10.tulix.tv/gt-trt1eu/index.m3u8
+#EXTINF:19, TRT 4K
+http://trn10.tulix.tv/gt-trt4k/index.m3u8
+#EXTINF:24, TRT AVAZ
+http://trn10.tulix.tv/gt-trtavaz/index.m3u8
+#EXTINF:24, TRT COCUK
+http://trn10.tulix.tv/gt-trtcocuk/index.m3u8
+#EXTINF:40, TRT DIYANET
+http://trn10.tulix.tv/gt-trtdiyanet/index.m3u8
+#EXTINF:24, TRT MUZIK
+http://trn10.tulix.tv/gt-trtmusic/index.m3u8
+#EXTINF:24, TRT SPOR
+http://trn10.tulix.tv/gt-trtspor1/index.m3u8
+#EXTINF:40, TRT SPOR YILDIZ
+http://trn10.tulix.tv/gt-trtspor2/index.m3u8
+#EXTINF:40, TV 100
+http://trn10.tulix.tv/gt-tv100/index.m3u8
+#EXTINF:24, TV 8
+http://trn10.tulix.tv/gt-tv8tv/index.m3u8
+#EXTINF:40, TV 8.5
+http://trn10.tulix.tv/gt-tv8_5/index.m3u8
+#EXTINF:24, TVNET
+http://trn10.tulix.tv/gt-tvnet/index.m3u8
+#EXTINF:40, ULKE TV
+http://trn10.tulix.tv/gt-ulketv/index.m3u8
