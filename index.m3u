@@ -725,7 +725,7 @@ http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/teleon.m3u8
 #EXTINF:1 tvg-id="" group-title="DiÄŸer-EÄŸlence",Tivi 191
 http://stream.tvcdn.net/diger-eglence/tivi-191.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="DiÄŸer-EÄŸlence",Tivi Türk
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="DiÄŸer-EÄŸlence",Tivi TÃ¼rk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 #EXTINF:1 tvg-id="" group-title="DiÄŸer-EÄŸlence",TV 70
 http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
