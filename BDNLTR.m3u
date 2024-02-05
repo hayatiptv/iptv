@@ -1,4 +1,4 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 15:52 04.02.2024 | TV 
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 17:52 05.02.2024 | TV 
 
 #EXTINF:1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
@@ -866,8 +866,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 #EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="ULUSAL",CINE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="ULUSAL",CINE1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="" tvg-logo="https://i.ibb.co/zh
 #EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-name="TELEON" tvg-id="" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" group-title="ULUSAL",TELEON
