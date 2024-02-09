@@ -26,10 +26,10 @@ https://www.buymeacoffee.com/SMSK
 Bir Bardak Kahve icelim sizden 
 https://ko-fi.com/digiseytan
 
-online schopping webschops with Bitcoin Sats
+online schopping webschops with Free Bitcoin Sats
 https://satsback.com/register/1QEJyGPlg4LN5kwx
 
-Donate RTH: 0xc6bAEcDbB246E4d59F69b5e2C8A5F77215d41cFB
+Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM
 
 Donate RXD: 13QCij4L5aaHbgx6MqugNijtqCLARuWeGv
 
