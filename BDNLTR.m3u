@@ -6,8 +6,8 @@ http://stream.tvcdn.net/ulusal/trt-1.m3u8
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
-#EXTINF:1 tvg-id="Fox.tr" tvg-logo="http://assets.tvcdn.net/8eb0d399-57c3-460f-99fd-609e9652d8aa.png" group-title="Ulusal",Fox TV
-http://stream.tvcdn.net/ulusal/fox-tv.m3u8
+#EXTINF:1 tvg-id="NOW.tr" tvg-logo="http://assets.tvcdn.net/8eb0d399-57c3-460f-99fd-609e9652d8aa.png" group-title="Ulusal",NOW TV
+https://www.kool.to/play/2646525296/index.m3u8
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV
