@@ -1,4 +1,4 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 11:52 19.02.2024 | TV 
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 17:52 19.02.2024 | TV 
 
 #EXTINF:1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
@@ -1143,6 +1143,13 @@ https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3159514476&
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=484070209&type=M3U8_AUTO_1080&fid=699978217970364&sign=c60348ad496ee47cadf8e55a2e31fc07bfc55152&timestamp=1705785403&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 #EXTINF:-1 tvg-name="Konuşanlar S04 E21" tvg-id="" tvg-logo="https://i.ibb.co/r55cF2v/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E21
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=219441782&type=M3U8_AUTO_1080&fid=299613819310064&sign=2f2e297f22e4d9ea6aed2a85b5051ac941b36f03&timestamp=1706389926&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283B7EA6B8DABB3F372AB55E285B744C0E9A4DE5776F005582F9EA167E723245EF0F30520AB1FE77FE29ABAADC704AF32E&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E22" tvg-id="" tvg-logo="https://i.ibb.co/r55cF2v/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E22
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3199434850&type=M3U8_AUTO_1080&fid=381570443618777&sign=aa6b77c9189c46dc21d58b858f9c736312040dda&timestamp=1706894202&jsToken=4B5C8F65C9532AB2C42381E57C6A2F284CA212046FD7835C454341A6143BD45C5FCF7D2C17A66602BCDC3D82F11238D15E921825CD192DE77FFABE19D5868915&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E23" tvg-id="" tvg-logo="https://i.ibb.co/r55cF2v/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E23
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3817963776&type=M3U8_AUTO_1080&fid=451234866637079&sign=c14301836d02b55ab471a8971dd0ab9b3a110d0c&timestamp=1707858406&jsToken=4B5C8F65C9532AB2C42381E57C6A2F280B4E6CC0A5EAF78263F34E650E0FC939FE23FCB9424B5513589B63B0EC5E17FE79C828BC12E6D2F56EF451DFAA673C0B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+#EXTINF:-1 tvg-name="Konuşanlar S04 E24" tvg-id="" tvg-logo="https://i.ibb.co/r55cF2v/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E24
+https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3693462191&type=M3U8_AUTO_1080&fid=715409221367141&sign=eada1528111d92caa0559234e4ae8e1c91467946&timestamp=1708158254&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2823A2C22E6815F71A8FBDA35FAFD7BCFF8EEFF4BC2BC51FE6642D70A9F1D966594A76410840A6CF0AA8D85E71EBE583A0&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
+
 
 #EXTINF:-1 tvg-id="596" tvg-name="yerli" tvg-logo="https://www.themoviedb.org/t/p/w1280/4GRz51gD041srd8c0ws90eAdn3z.jpg" tvg-id2="=" group-title=" FİLM YERLİ",Days of Fire， Love and Anarchy  2023 • 1s 15dk • 7.4 • Belgesel， Mubi， Yerli
 https://tv.yilmaztv.com/dizipal/film.php?HLS=https://dizipal732.com/days-of-fire-love-and-anarchy?596
