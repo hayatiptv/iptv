@@ -1,4 +1,4 @@
-#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 17:52 20.02.2024 | TV 
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 20:52 20.02.2024 | TV 
 
 #EXTINF:1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
@@ -1947,7 +1947,6 @@ http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="Diğer-Eğlence",Zeki & Metin 
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 
-#EXTM3U
 #EXTINF:-1,24 TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/24tv.m3u8
 #EXTINF:-1,ABB TV - YOUTUBE
