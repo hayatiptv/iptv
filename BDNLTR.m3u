@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml" | SON GÜNCELLENME 18:52 23.03.2024 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml" | SON GÜNCELLENME 17:59 23.03.2024 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
 
 #EXTINF:1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
@@ -1532,7 +1532,7 @@ https://www.kool.to/play/1382769634/index.m3u8
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1471268469&type=M3U8_AUTO_1080&fid=751266844063025&sign=9d2e902e677ed6b550a9e62138d1e564f49a3426&timestamp=1705774655&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 #EXTINF:1 tvg-name="Konuşanlar S04 E02" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E02
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3919552587&type=M3U8_AUTO_1080&fid=588394640707038&sign=5c16725ad20dc1e41456d6786c29b1daa056e911&timestamp=1705774182&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-name="Konuşanlar S04 E03" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="MUZIK",Konuşanlar S04 E03
+#EXTINF:1 tvg-name="Konuşanlar S04 E03" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E03
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3614733653&type=M3U8_AUTO_1080&fid=1056598732275138&sign=d701b1fb009734b84496f45108d3a47d2426e01e&timestamp=1705783801&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 #EXTINF:1 tvg-name="Konuşanlar S04 E04" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E04
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3325710656&type=M3U8_AUTO_1080&fid=777990062168709&sign=e9338ac08a0b7e56d40f7b15d25fc9c6120cacab&timestamp=1705783893&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
@@ -1568,8 +1568,6 @@ https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=328849865&t
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3159514476&type=M3U8_AUTO_1080&fid=780280474552555&sign=dd07f8eae36534cd5c741c51ec61bcb387742db8&timestamp=1706391227&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283B7EA6B8DABB3F372AB55E285B744C0E9A4DE5776F005582F9EA167E723245EF0F30520AB1FE77FE29ABAADC704AF32E&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 #EXTINF:1 tvg-name="Konuşanlar S04 E20" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E20
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=484070209&type=M3U8_AUTO_1080&fid=699978217970364&sign=c60348ad496ee47cadf8e55a2e31fc07bfc55152&timestamp=1705785403&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:1 tvg-name="Konuşanlar S04 E21" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E21
-https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=219441782&type=M3U8_AUTO_1080&fid=299613819310064&sign=2f2e297f22e4d9ea6aed2a85b5051ac941b36f03&timestamp=1706389926&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283B7EA6B8DABB3F372AB55E285B744C0E9A4DE5776F005582F9EA167E723245EF0F30520AB1FE77FE29ABAADC704AF32E&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 
 #EXTINF:1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
