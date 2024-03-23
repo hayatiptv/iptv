@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml" | SON GÜNCELLENME 17:52 23.03.2024 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
+#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml" | SON GÜNCELLENME 18:52 23.03.2024 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
 
 #EXTINF:1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
@@ -931,644 +931,644 @@ http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="Diğer-Eğlence",Zeki & Metin 
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
+#EXTINF:1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt1.png" group-title="ULUSAL",TRT 1
 https://d1u68oyra9spme.cloudfront.net/master_4.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
+#EXTINF:1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
+#EXTINF:1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
 https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
+#EXTINF:1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
+#EXTINF:1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
 http://gineu8.bozztv.com/gin-trn09/gin-atvv/index.m3u8
-#EXTINF:-1 tvg-name="STAR TV" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV
+#EXTINF:1 tvg-name="STAR TV" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
+#EXTINF:1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
+#EXTINF:1 tvg-name="FOX" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_540p1250000kbps/index.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
+#EXTINF:1 tvg-name="FOX" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live_1080p3500000kbps/index.m3u8
-#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="ULUSAL",SOZCU TV
+#EXTINF:1 tvg-name="SÖZCÜ TV" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="ULUSAL",SOZCU TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
+#EXTINF:1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
+#EXTINF:1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="ULUSAL",ATV AVRUPA
+#EXTINF:1 tvg-name="ATV AVRUPA" tvg-id="" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="ULUSAL",ATV AVRUPA
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
-#EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="ULUSAL",SHOW TURK
+#EXTINF:1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="ULUSAL",SHOW TURK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="ULUSAL",EUROSTAR
+#EXTINF:1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="ULUSAL",EUROSTAR
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
-#EXTINF:-1 tvg-name="TV8 International" tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="ULUSAL",TV 8 INT
+#EXTINF:1 tvg-name="TV8 International" tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="ULUSAL",TV 8 INT
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL",TRT 2
+#EXTINF:1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="SHOW MAX" tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="ULUSAL",SHOW MAX
+#EXTINF:1 tvg-name="SHOW MAX" tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="ULUSAL",SHOW MAX
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
-#EXTINF:-1 tvg-name="TRT Turk" tvg-id="TRTTurk.tr" tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png" group-title="ULUSAL",TRT TURK
+#EXTINF:1 tvg-name="TRT Turk" tvg-id="TRTTurk.tr" tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png" group-title="ULUSAL",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
+#EXTINF:1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
+#EXTINF:1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="ULUSAL",KANAL 7 AVRUPA
+#EXTINF:1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="ULUSAL",KANAL 7 AVRUPA
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/kanal7eu.m3u8
-#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV
+#EXTINF:1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
+#EXTINF:1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="A2TV" tvg-id="A2TV.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2
+#EXTINF:1 tvg-name="A2TV" tvg-id="A2TV.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2
 http://50.7.218.122:8080/a2hd/index.m3u8
-#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
+#EXTINF:1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV 4
+#EXTINF:1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-name="WOMAN LIFE" tvg-id="" tvg-logo="https://i.ibb.co/wJm7sfQ/woman-life.png" group-title="ULUSAL",WOMAN LIFE
+#EXTINF:1 tvg-name="WOMAN LIFE" tvg-id="" tvg-logo="https://i.ibb.co/wJm7sfQ/woman-life.png" group-title="ULUSAL",WOMAN LIFE
 https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
-#EXTINF:-1 tvg-name="WOMAN TV" tvg-id="WomanTV.tr" tvg-logo="https://i.ibb.co/bHTjDyk/woman-tv.png" group-title="ULUSAL",WOMAN TV
+#EXTINF:1 tvg-name="WOMAN TV" tvg-id="WomanTV.tr" tvg-logo="https://i.ibb.co/bHTjDyk/woman-tv.png" group-title="ULUSAL",WOMAN TV
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 tvg-name="TGRT EU" tvg-id="TGRTEU.tr" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png" group-title="ULUSAL",TGRT EU
+#EXTINF:1 tvg-name="TGRT EU" tvg-id="TGRTEU.tr" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png" group-title="ULUSAL",TGRT EU
 https://bozztv.com/inim03/live1/tgrteu/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="ULUSAL",TIVI 6
+#EXTINF:1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="ULUSAL",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="ULUSAL",BIR TV
+#EXTINF:1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="ULUSAL",BIR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
-#EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="ULUSAL",CINE5 TV
+#EXTINF:1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="ULUSAL",CINE5 TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="ULUSAL",CINE1
+#EXTINF:1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="ULUSAL",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV
+#EXTINF:1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 tvg-name="TELEON" tvg-id="" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" group-title="ULUSAL",TELEON
+#EXTINF:1 tvg-name="TELEON" tvg-id="" tvg-logo="https://i.ibb.co/TTyVfbP/teleon.png" group-title="ULUSAL",TELEON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
+#EXTINF:1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-3-spor.png" group-title="SPOR",TRT 3 SPOR
+#EXTINF:1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-3-spor.png" group-title="SPOR",TRT 3 SPOR
 https://bozztv.com/inim03/live1/trtspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
+#EXTINF:1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
-#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR",TV 8.5
+#EXTINF:1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-name="A SPOR" tvg-id="ASpor.tr" tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="SPOR",A SPOR
+#EXTINF:1 tvg-name="A SPOR" tvg-id="ASpor.tr" tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="SPOR",A SPOR
 https://github.com/rideordie16/YouTube/raw/main/spor/aspor.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
+#EXTINF:1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/R3q43dk/sportstv.png" group-title="SPOR",SPORTS TV
+#EXTINF:1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/R3q43dk/sportstv.png" group-title="SPOR",SPORTS TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="SPOR",FB TV
+#EXTINF:1 tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="SPOR",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SPOR",GS TV HD
+#EXTINF:1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SPOR",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV
+#EXTINF:1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV
 http://tjktv.ercdn.net/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI
+#EXTINF:1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI
 https://tjktv-live.tjk.org/tjktv2_1080p.m3u8
-#EXTINF:-1 tvg-name="TAY TV" tvg-id="TAYTV.tr" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="SPOR",TAY TV
+#EXTINF:1 tvg-name="TAY TV" tvg-id="TAYTV.tr" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="SPOR",TAY TV
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/taytv.m3u8
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
+#EXTINF:1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
+#EXTINF:1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
+#EXTINF:1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
+#EXTINF:1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
 http://canli.haber365.com.tr/tr/tgrtbelgesel/index.m3u8
-#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
+#EXTINF:1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
+#EXTINF:1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
+#EXTINF:1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-name="A HABER" tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="HABER",A HABER
+#EXTINF:1 tvg-name="A HABER" tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="HABER",A HABER
 https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
-#EXTINF:-1 tvg-name="A PARA HD" tvg-id="APara.tr" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="HABER",A PARA HD
+#EXTINF:1 tvg-name="A PARA HD" tvg-id="APara.tr" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="HABER",A PARA HD
 https://github.com/rideordie16/YouTube/raw/main/haber/apara.m3u8
-#EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
+#EXTINF:1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
-#EXTINF:-1 tvg-name="SÖZCÜ TV HD" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="HABER",SOZCU TV
+#EXTINF:1 tvg-name="SÖZCÜ TV HD" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="HABER",SOZCU TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
+#EXTINF:1 tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="HABER",HABER GLOBAL
+#EXTINF:1 tvg-name="HABER GLOBAL" tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="HABER",HABER GLOBAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-id="BloombergHT.tr" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" group-title="HABER",BLOOMBERG HT
+#EXTINF:1 tvg-name="BLOOMBERG HT" tvg-id="BloombergHT.tr" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" group-title="HABER",BLOOMBERG HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="Haberturk TV" tvg-id="HaberturkTV.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABERTURK
+#EXTINF:1 tvg-name="Haberturk TV" tvg-id="HaberturkTV.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABERTURK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="24 TV" tvg-id="40" tvg-id="24TV.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="HABER",24
+#EXTINF:1 tvg-name="24 TV" tvg-id="40" tvg-id="24TV.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="HABER",24
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
-#EXTINF:-1 tvg-name="ULUSAL KANAL" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
+#EXTINF:1 tvg-name="ULUSAL KANAL" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://pull1-poc.blutv.com/live/Z9N2GCPN/Z9N2GCPN_720p.m3u8
-#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
+#EXTINF:1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TELE 1" tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="HABER",TELE 1
+#EXTINF:1 tvg-name="TELE 1" tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="HABER",TELE 1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="KRT" tvg-id="KRT.tr" tvg-logo="https://i.ibb.co/F8WT2QK/krt.png" group-title="HABER",KRT
+#EXTINF:1 tvg-name="KRT" tvg-id="KRT.tr" tvg-logo="https://i.ibb.co/F8WT2QK/krt.png" group-title="HABER",KRT
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://krtdvr.blutv.com/blutv_krt_live_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TVNET" tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TVNET
+#EXTINF:1 tvg-name="TVNET" tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-name="EKOTURK" tvg-id="Ekoturk.tr" tvg-logo="https://i.ibb.co/F4csSTY/ekoturk.png" group-title="HABER",EKOTURK
+#EXTINF:1 tvg-name="EKOTURK" tvg-id="Ekoturk.tr" tvg-logo="https://i.ibb.co/F4csSTY/ekoturk.png" group-title="HABER",EKOTURK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://ekoturk.blutv.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="Akit TV" tvg-id="AkitTV.tr" tvg-logo="https://i.ibb.co/MBwzD2b/akit-tv.png" group-title="HABER",AKIT TV
+#EXTINF:1 tvg-name="Akit TV" tvg-id="AkitTV.tr" tvg-logo="https://i.ibb.co/MBwzD2b/akit-tv.png" group-title="HABER",AKIT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:-1 tvg-name="BENGUTURK TV" tvg-id="BenguturkTV.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="HABER",BENGU TURK
+#EXTINF:1 tvg-name="BENGUTURK TV" tvg-id="BenguturkTV.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="HABER",BENGU TURK
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
-#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
+#EXTINF:1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
 https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?app=web
-#EXTINF:-1 tvg-name="TURKHABER" tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="HABER",TURKHABER
+#EXTINF:1 tvg-name="TURKHABER" tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="HABER",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Flash TV" tvg-id="FlashTV.tr" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="HABER",FLASH HABER
+#EXTINF:1 tvg-name="Flash TV" tvg-id="FlashTV.tr" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="HABER",FLASH HABER
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:-1 tvg-name="Number 1 TV" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="MUZIK",NR1
+#EXTINF:1 tvg-name="Number 1 TV" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="MUZIK",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 tvg-name="MILYON TV" tvg-id="" tvg-logo="https://i.ibb.co/sQRhqCs/milyon-tv.png" group-title="MUZIK",MILYON TV
+#EXTINF:1 tvg-name="MILYON TV" tvg-id="" tvg-logo="https://i.ibb.co/sQRhqCs/milyon-tv.png" group-title="MUZIK",MILYON TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-#EXTINF:-1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" group-title="MUZIK",KRAL POP
+#EXTINF:1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" group-title="MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 tvg-name="TATLISES TV" tvg-id="Tatlıses.Tv.tr" tvg-logo="https://i.ibb.co/yRy9zwt/tatlises-tv.png" group-title="MUZIK",TATLISES TV
+#EXTINF:1 tvg-name="TATLISES TV" tvg-id="Tatlıses.Tv.tr" tvg-logo="https://i.ibb.co/yRy9zwt/tatlises-tv.png" group-title="MUZIK",TATLISES TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
-#EXTINF:-1 tvg-name="Number 1 Ask" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title="MUZIK",NR1 ASK
+#EXTINF:1 tvg-name="Number 1 Ask" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title="MUZIK",NR1 ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 Damar" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/2yCF7ms/nr1-damar.png" group-title="MUZIK",NR1 DAMAR
+#EXTINF:1 tvg-name="Number 1 Damar" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/2yCF7ms/nr1-damar.png" group-title="MUZIK",NR1 DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="MUZIK",NR1 DANCE
+#EXTINF:1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="MUZIK",NR1 DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="NR1 FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="MUZIK",NR1 FASHION ONE
+#EXTINF:1 tvg-name="NR1 FASHION ONE" tvg-id="" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="MUZIK",NR1 FASHION ONE
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT Muzik" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="MUZIK",TRT MUZIK
+#EXTINF:1 tvg-name="TRT Muzik" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="MUZIK",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Dream Turk" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
+#EXTINF:1 tvg-name="Dream Turk" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="PowerTurk TV" tvg-id="PowerTurkTV.tr" tvg-logo="https://i.ibb.co/xXcBD2C/powerturk.png" group-title="MUZIK",POWER TURK
+#EXTINF:1 tvg-name="PowerTurk TV" tvg-id="PowerTurkTV.tr" tvg-logo="https://i.ibb.co/xXcBD2C/powerturk.png" group-title="MUZIK",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
-#EXTINF:-1 tvg-name="Power TV" tvg-id="PowerTV.tr" tvg-logo="https://i.ibb.co/JrXDQJy/power-tv.png" group-title="MUZIK",POWER TV
+#EXTINF:1 tvg-name="Power TV" tvg-id="PowerTV.tr" tvg-logo="https://i.ibb.co/JrXDQJy/power-tv.png" group-title="MUZIK",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-id="" tvg-logo="https://i.ibb.co/F5K5xs9/powerturk-taptaze.png" group-title="MUZIK",POWER TURK TAPTAZE
+#EXTINF:1 tvg-name="POWER TURK TAPTAZE" tvg-id="" tvg-logo="https://i.ibb.co/F5K5xs9/powerturk-taptaze.png" group-title="MUZIK",POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER DANCE" tvg-id="" tvg-logo="https://i.ibb.co/5hwZ7xw/power-dance.png" group-title="MUZIK",POWER DANCE
+#EXTINF:1 tvg-name="POWER DANCE" tvg-id="" tvg-logo="https://i.ibb.co/5hwZ7xw/power-dance.png" group-title="MUZIK",POWER DANCE
 https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER LOVE" tvg-id="" tvg-logo="https://i.ibb.co/bJL1VnX/power-love.png" group-title="MUZIK",POWER LOVE
+#EXTINF:1 tvg-name="POWER LOVE" tvg-id="" tvg-logo="https://i.ibb.co/bJL1VnX/power-love.png" group-title="MUZIK",POWER LOVE
 https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER TURK AKUSTIK" tvg-id="" tvg-logo="https://i.ibb.co/XFY7dCW/powerturk-akustik.png" group-title="MUZIK",POWER TURK AKUSTIK
+#EXTINF:1 tvg-name="POWER TURK AKUSTIK" tvg-id="" tvg-logo="https://i.ibb.co/XFY7dCW/powerturk-akustik.png" group-title="MUZIK",POWER TURK AKUSTIK
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-id="" tvg-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="MUZIK",POWER TURK SLOW
+#EXTINF:1 tvg-name="POWER TURK SLOW" tvg-id="" tvg-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="MUZIK",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
 
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO 1
+#EXTINF:1 group-title="Hollanda (VPN)",NPO 1
 https://www.kool.to/play/3077259557/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO 2
+#EXTINF:1 group-title="Hollanda (VPN)",NPO 2
 https://www.kool.to/play/4039850997/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",VERONICA DISNEY XD
+#EXTINF:1 group-title="Hollanda (VPN)",VERONICA DISNEY XD
 https://www.kool.to/play/3459002173/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NET 5
+#EXTINF:1 group-title="Hollanda (VPN)",NET 5
 https://www.kool.to/play/325652638/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FOX
+#EXTINF:1 group-title="Hollanda (VPN)",FOX
 https://www.kool.to/play/3315168764/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTL Z
+#EXTINF:1 group-title="Hollanda (VPN)",RTL Z
 https://www.kool.to/play/2799673979/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTL
+#EXTINF:1 group-title="Hollanda (VPN)",RTL
 https://www.kool.to/play/2860060219/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTL 4
+#EXTINF:1 group-title="Hollanda (VPN)",RTL 4
 https://www.kool.to/play/2161994583/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTL 5
+#EXTINF:1 group-title="Hollanda (VPN)",RTL 5
 https://www.kool.to/play/3183297255/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",SBS 6
+#EXTINF:1 group-title="Hollanda (VPN)",SBS 6
 https://www.kool.to/play/3324311807/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTL 7
+#EXTINF:1 group-title="Hollanda (VPN)",RTL 7
 https://www.kool.to/play/3346862471/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTL 8
+#EXTINF:1 group-title="Hollanda (VPN)",RTL 8
 https://www.kool.to/play/1160611414/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",SBS 9
+#EXTINF:1 group-title="Hollanda (VPN)",SBS 9
 https://www.kool.to/play/1148481326/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TLC
+#EXTINF:1 group-title="Hollanda (VPN)",TLC
 https://www.kool.to/play/2759601190/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO SPORT VOETBAL
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO SPORT VOETBAL
 https://www.kool.to/play/1641521608/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FILM 1 FAMILY
+#EXTINF:1 group-title="Hollanda (VPN)",FILM 1 FAMILY
 https://www.kool.to/play/445334418/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO TENNIS
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO TENNIS
 https://www.kool.to/play/3328780368/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ESPN 2
+#EXTINF:1 group-title="Hollanda (VPN)",ESPN 2
 https://www.kool.to/play/848647999/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO SELECT
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO SELECT
 https://www.kool.to/play/1999413208/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ESPN
+#EXTINF:1 group-title="Hollanda (VPN)",ESPN
 https://www.kool.to/play/3733471920/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ESPN 1
+#EXTINF:1 group-title="Hollanda (VPN)",ESPN 1
 https://www.kool.to/play/1966419439/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO POLITIEK
+#EXTINF:1 group-title="Hollanda (VPN)",NPO POLITIEK
 https://www.kool.to/play/3872734583/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO VOETBAL
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO VOETBAL
 https://www.kool.to/play/3589279782/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ESPN 4
+#EXTINF:1 group-title="Hollanda (VPN)",ESPN 4
 https://www.kool.to/play/666915741/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO SPORT
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO SPORT
 https://www.kool.to/play/878128488/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO SPORT SELECT
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO SPORT SELECT
 https://www.kool.to/play/893339635/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO SPORT EXTRA 2
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO SPORT EXTRA 2
 https://www.kool.to/play/1523015402/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ESPN 3
+#EXTINF:1 group-title="Hollanda (VPN)",ESPN 3
 https://www.kool.to/play/2514521997/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FILM 1 PREMIERE
+#EXTINF:1 group-title="Hollanda (VPN)",FILM 1 PREMIERE
 https://www.kool.to/play/2787037513/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO SPORT DOCU
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO SPORT DOCU
 https://www.kool.to/play/2858922161/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO SPORT RACING
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO SPORT RACING
 https://www.kool.to/play/38796181/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",LOVE NATURE
+#EXTINF:1 group-title="Hollanda (VPN)",LOVE NATURE
 https://www.kool.to/play/3153560353/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO SPORT EXTRA
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO SPORT EXTRA
 https://www.kool.to/play/1356365890/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",LOE TV
+#EXTINF:1 group-title="Hollanda (VPN)",LOE TV
 https://www.kool.to/play/229812799/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",MEER TV
+#EXTINF:1 group-title="Hollanda (VPN)",MEER TV
 https://www.kool.to/play/589945285/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",L1
+#EXTINF:1 group-title="Hollanda (VPN)",L1
 https://www.kool.to/play/848077982/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",SLAM! TV
+#EXTINF:1 group-title="Hollanda (VPN)",SLAM! TV
 https://www.kool.to/play/935444810/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FILM 1 ACTION
+#EXTINF:1 group-title="Hollanda (VPN)",FILM 1 ACTION
 https://www.kool.to/play/3774964561/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DISCOVERY CHANNEL
+#EXTINF:1 group-title="Hollanda (VPN)",DISCOVERY CHANNEL
 https://www.kool.to/play/1774945551/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FILM 1 DRAMA
+#EXTINF:1 group-title="Hollanda (VPN)",FILM 1 DRAMA
 https://www.kool.to/play/166715605/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FOX SPORTS 2
+#EXTINF:1 group-title="Hollanda (VPN)",FOX SPORTS 2
 https://www.kool.to/play/475677041/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO RACING
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO RACING
 https://www.kool.to/play/1079780286/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO DOCU
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO DOCU
 https://www.kool.to/play/3381623190/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",192 TV
+#EXTINF:1 group-title="Hollanda (VPN)",192 TV
 https://www.kool.to/play/724141761/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ICONCERTS
+#EXTINF:1 group-title="Hollanda (VPN)",ICONCERTS
 https://www.kool.to/play/1064840072/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FOX SPORTS 1
+#EXTINF:1 group-title="Hollanda (VPN)",FOX SPORTS 1
 https://www.kool.to/play/1543125921/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",100%
+#EXTINF:1 group-title="Hollanda (VPN)",100%
 https://www.kool.to/play/2866463396/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",CRIME+ INVESTIGATION
+#EXTINF:1 group-title="Hollanda (VPN)",CRIME+ INVESTIGATION
 https://www.kool.to/play/3554900028/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",100% NL TV
+#EXTINF:1 group-title="Hollanda (VPN)",100% NL TV
 https://www.kool.to/play/742692413/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FOX SPORTS 4
+#EXTINF:1 group-title="Hollanda (VPN)",FOX SPORTS 4
 https://www.kool.to/play/2468000977/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",MTV 90S
+#EXTINF:1 group-title="Hollanda (VPN)",MTV 90S
 https://www.kool.to/play/968802411/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",BBC FIRST
+#EXTINF:1 group-title="Hollanda (VPN)",BBC FIRST
 https://www.kool.to/play/1941453562/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",AT 5
+#EXTINF:1 group-title="Hollanda (VPN)",AT 5
 https://www.kool.to/play/440774363/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",HISTORY CHANNEL
+#EXTINF:1 group-title="Hollanda (VPN)",HISTORY CHANNEL
 https://www.kool.to/play/1082058813/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TOMMY TELESHOPPING
+#EXTINF:1 group-title="Hollanda (VPN)",TOMMY TELESHOPPING
 https://www.kool.to/play/2971141556/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NAT GEO
+#EXTINF:1 group-title="Hollanda (VPN)",NAT GEO
 https://www.kool.to/play/4224231020/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",COMEDY CENTRAL
+#EXTINF:1 group-title="Hollanda (VPN)",COMEDY CENTRAL
 https://www.kool.to/play/4160444055/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",CARTOON NETWORK
+#EXTINF:1 group-title="Hollanda (VPN)",CARTOON NETWORK
 https://www.kool.to/play/3541038309/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ANIMAL PLANET
+#EXTINF:1 group-title="Hollanda (VPN)",ANIMAL PLANET
 https://www.kool.to/play/193942182/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",INVESTIGATION DISCOVERY
+#EXTINF:1 group-title="Hollanda (VPN)",INVESTIGATION DISCOVERY
 https://www.kool.to/play/3833654381/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",EUROSPORT 1
+#EXTINF:1 group-title="Hollanda (VPN)",EUROSPORT 1
 https://www.kool.to/play/2239651295/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",EX SPORT
+#EXTINF:1 group-title="Hollanda (VPN)",EX SPORT
 https://www.kool.to/play/561108429/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO 3
+#EXTINF:1 group-title="Hollanda (VPN)",NPO 3
 https://www.kool.to/play/3450540613/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DISCOVERY ID
+#EXTINF:1 group-title="Hollanda (VPN)",DISCOVERY ID
 https://www.kool.to/play/2892518384/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FASHION TV
+#EXTINF:1 group-title="Hollanda (VPN)",FASHION TV
 https://www.kool.to/play/2024043514/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FASHIONTV
+#EXTINF:1 group-title="Hollanda (VPN)",FASHIONTV
 https://www.kool.to/play/1983140327/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",24 KITCHEN
+#EXTINF:1 group-title="Hollanda (VPN)",24 KITCHEN
 https://www.kool.to/play/2558450802/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO GOLF
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO GOLF
 https://www.kool.to/play/2050068020/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DISNEY XD
+#EXTINF:1 group-title="Hollanda (VPN)",DISNEY XD
 https://www.kool.to/play/2960450206/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",MTV 24 MUSIC
+#EXTINF:1 group-title="Hollanda (VPN)",MTV 24 MUSIC
 https://www.kool.to/play/805340686/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",BVN
+#EXTINF:1 group-title="Hollanda (VPN)",BVN
 https://www.kool.to/play/4205797534/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTL LOUNGE
+#EXTINF:1 group-title="Hollanda (VPN)",RTL LOUNGE
 https://www.kool.to/play/2222627922/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NAT GEO WILD
+#EXTINF:1 group-title="Hollanda (VPN)",NAT GEO WILD
 https://www.kool.to/play/3802143762/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTL TELEKIDS
+#EXTINF:1 group-title="Hollanda (VPN)",RTL TELEKIDS
 https://www.kool.to/play/1745300503/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",HBO 2
+#EXTINF:1 group-title="Hollanda (VPN)",HBO 2
 https://www.kool.to/play/3176100905/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",E! ENTERTAINMENT
+#EXTINF:1 group-title="Hollanda (VPN)",E! ENTERTAINMENT
 https://www.kool.to/play/1811978093/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV OOST
+#EXTINF:1 group-title="Hollanda (VPN)",TV OOST
 https://www.kool.to/play/3514476197/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FOX CHANNEL
+#EXTINF:1 group-title="Hollanda (VPN)",FOX CHANNEL
 https://www.kool.to/play/3383155812/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FOX SPORTS 3
+#EXTINF:1 group-title="Hollanda (VPN)",FOX SPORTS 3
 https://www.kool.to/play/557476033/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OUT
+#EXTINF:1 group-title="Hollanda (VPN)",OUT
 https://www.kool.to/play/1682958645/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NICK TOONS
+#EXTINF:1 group-title="Hollanda (VPN)",NICK TOONS
 https://www.kool.to/play/1553618005/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DANCE TRIPPIN
+#EXTINF:1 group-title="Hollanda (VPN)",DANCE TRIPPIN
 https://www.kool.to/play/374072808/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",EUROSPORT 2
+#EXTINF:1 group-title="Hollanda (VPN)",EUROSPORT 2
 https://www.kool.to/play/3269338895/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",HBO 3
+#EXTINF:1 group-title="Hollanda (VPN)",HBO 3
 https://www.kool.to/play/2150587801/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",USTAD
+#EXTINF:1 group-title="Hollanda (VPN)",USTAD
 https://www.kool.to/play/2150818078/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",E!
+#EXTINF:1 group-title="Hollanda (VPN)",E!
 https://www.kool.to/play/1969447636/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",BBC ENTERTAINMENT
+#EXTINF:1 group-title="Hollanda (VPN)",BBC ENTERTAINMENT
 https://www.kool.to/play/3477137200/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DISCOVERY SCIENCE
+#EXTINF:1 group-title="Hollanda (VPN)",DISCOVERY SCIENCE
 https://www.kool.to/play/36078865/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",SLAM
+#EXTINF:1 group-title="Hollanda (VPN)",SLAM
 https://www.kool.to/play/2061516245/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",CRIME &AMP; INVESTIGATION
+#EXTINF:1 group-title="Hollanda (VPN)",CRIME &AMP; INVESTIGATION
 https://www.kool.to/play/497915554/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",COMEDY CENTRAL EXTRA
+#EXTINF:1 group-title="Hollanda (VPN)",COMEDY CENTRAL EXTRA
 https://www.kool.to/play/2080064811/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV RIJNSTREEK TV
+#EXTINF:1 group-title="Hollanda (VPN)",RTV RIJNSTREEK TV
 https://www.kool.to/play/1411238220/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",FAMILY 7
+#EXTINF:1 group-title="Hollanda (VPN)",FAMILY 7
 https://www.kool.to/play/1894447778/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO EXTRA 1
+#EXTINF:1 group-title="Hollanda (VPN)",NPO EXTRA 1
 https://www.kool.to/play/941850920/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP HULST TV
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP HULST TV
 https://www.kool.to/play/4209208301/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DANCE TELEVISION
+#EXTINF:1 group-title="Hollanda (VPN)",DANCE TELEVISION
 https://www.kool.to/play/3770323996/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OPEN ROTTERDAM
+#EXTINF:1 group-title="Hollanda (VPN)",OPEN ROTTERDAM
 https://www.kool.to/play/2378030316/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",BABY TV
+#EXTINF:1 group-title="Hollanda (VPN)",BABY TV
 https://www.kool.to/play/1987892045/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",XITE
+#EXTINF:1 group-title="Hollanda (VPN)",XITE
 https://www.kool.to/play/383375053/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",MTV LIVE
+#EXTINF:1 group-title="Hollanda (VPN)",MTV LIVE
 https://www.kool.to/play/2446054977/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP GELDERLAND
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP GELDERLAND
 https://www.kool.to/play/3832746492/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP TILBURG
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP TILBURG
 https://www.kool.to/play/343944752/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",GO TV
+#EXTINF:1 group-title="Hollanda (VPN)",GO TV
 https://www.kool.to/play/2014055551/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",EXTREME SPORTS CHANNEL
+#EXTINF:1 group-title="Hollanda (VPN)",EXTREME SPORTS CHANNEL
 https://www.kool.to/play/2245712105/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TRAVEL CHANNEL
+#EXTINF:1 group-title="Hollanda (VPN)",TRAVEL CHANNEL
 https://www.kool.to/play/122697195/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZUIDWEST TV
+#EXTINF:1 group-title="Hollanda (VPN)",ZUIDWEST TV
 https://www.kool.to/play/3918212356/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DISNEY CHANNEL
+#EXTINF:1 group-title="Hollanda (VPN)",DISNEY CHANNEL
 https://www.kool.to/play/1983150494/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",HORSE & COUNTRY
+#EXTINF:1 group-title="Hollanda (VPN)",HORSE & COUNTRY
 https://www.kool.to/play/2740594068/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DEN HAAG FM
+#EXTINF:1 group-title="Hollanda (VPN)",DEN HAAG FM
 https://www.kool.to/play/1841696310/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV MAASTRICHT HD
+#EXTINF:1 group-title="Hollanda (VPN)",RTV MAASTRICHT HD
 https://www.kool.to/play/3934149989/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NICKELODEON
+#EXTINF:1 group-title="Hollanda (VPN)",NICKELODEON
 https://www.kool.to/play/2514682805/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DJAZZ TV
+#EXTINF:1 group-title="Hollanda (VPN)",DJAZZ TV
 https://www.kool.to/play/2658118916/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO NIEUWS
+#EXTINF:1 group-title="Hollanda (VPN)",NPO NIEUWS
 https://www.kool.to/play/382080674/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",BOOMERANG
+#EXTINF:1 group-title="Hollanda (VPN)",BOOMERANG
 https://www.kool.to/play/1391703549/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",MTV HITS
+#EXTINF:1 group-title="Hollanda (VPN)",MTV HITS
 https://www.kool.to/play/3085507474/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",CBS REALITY
+#EXTINF:1 group-title="Hollanda (VPN)",CBS REALITY
 https://www.kool.to/play/3617377683/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",STINGRAY LITE TV
+#EXTINF:1 group-title="Hollanda (VPN)",STINGRAY LITE TV
 https://www.kool.to/play/2599615196/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",CARTOONITO
+#EXTINF:1 group-title="Hollanda (VPN)",CARTOONITO
 https://www.kool.to/play/1453925552/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV ORANJE
+#EXTINF:1 group-title="Hollanda (VPN)",TV ORANJE
 https://www.kool.to/play/2054171049/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",HISTORY
+#EXTINF:1 group-title="Hollanda (VPN)",HISTORY
 https://www.kool.to/play/2013327285/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",QMUSIC
+#EXTINF:1 group-title="Hollanda (VPN)",QMUSIC
 https://www.kool.to/play/1197963979/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",INSIGHT
+#EXTINF:1 group-title="Hollanda (VPN)",INSIGHT
 https://www.kool.to/play/3588138205/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DISCOVERY WORLD
+#EXTINF:1 group-title="Hollanda (VPN)",DISCOVERY WORLD
 https://www.kool.to/play/581495394/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",DUCK TV
+#EXTINF:1 group-title="Hollanda (VPN)",DUCK TV
 https://www.kool.to/play/1864643874/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV 538
+#EXTINF:1 group-title="Hollanda (VPN)",TV 538
 https://www.kool.to/play/2813752433/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",L1 TV LIMBURG
+#EXTINF:1 group-title="Hollanda (VPN)",L1 TV LIMBURG
 https://www.kool.to/play/351444740/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",MTV
+#EXTINF:1 group-title="Hollanda (VPN)",MTV
 https://www.kool.to/play/297758015/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO EXTRA 2
+#EXTINF:1 group-title="Hollanda (VPN)",NPO EXTRA 2
 https://www.kool.to/play/2139356152/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO ZAPPELIN EXTRA/HUMOR
+#EXTINF:1 group-title="Hollanda (VPN)",NPO ZAPPELIN EXTRA/HUMOR
 https://www.kool.to/play/547230358/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ONS TV
+#EXTINF:1 group-title="Hollanda (VPN)",ONS TV
 https://www.kool.to/play/3510619345/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",IDEAAL TV
+#EXTINF:1 group-title="Hollanda (VPN)",IDEAAL TV
 https://www.kool.to/play/2641315011/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ORTS
+#EXTINF:1 group-title="Hollanda (VPN)",ORTS
 https://www.kool.to/play/3940435177/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV 7
+#EXTINF:1 group-title="Hollanda (VPN)",RTV 7
 https://www.kool.to/play/3230492497/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP BRABANT
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP BRABANT
 https://www.kool.to/play/39840361/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NICKMUSIC
+#EXTINF:1 group-title="Hollanda (VPN)",NICKMUSIC
 https://www.kool.to/play/3458991082/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NICK JUNIOR
+#EXTINF:1 group-title="Hollanda (VPN)",NICK JUNIOR
 https://www.kool.to/play/433427972/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP FLEVOLAND TV
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP FLEVOLAND TV
 https://www.kool.to/play/1038779411/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",STINGRAY DJAZZ
+#EXTINF:1 group-title="Hollanda (VPN)",STINGRAY DJAZZ
 https://www.kool.to/play/236338011/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP BRABANT TV
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP BRABANT TV
 https://www.kool.to/play/2636879060/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",MEZZO
+#EXTINF:1 group-title="Hollanda (VPN)",MEZZO
 https://www.kool.to/play/2807968921/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",JIN TV
+#EXTINF:1 group-title="Hollanda (VPN)",JIN TV
 https://www.kool.to/play/786218916/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",SPIKE
+#EXTINF:1 group-title="Hollanda (VPN)",SPIKE
 https://www.kool.to/play/587980281/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",REGIO TV NIEUWS
+#EXTINF:1 group-title="Hollanda (VPN)",REGIO TV NIEUWS
 https://www.kool.to/play/2582266342/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",STREEK TV
+#EXTINF:1 group-title="Hollanda (VPN)",STREEK TV
 https://www.kool.to/play/3324002532/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP FLEVOLAND
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP FLEVOLAND
 https://www.kool.to/play/3249630181/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",JIMJAM
+#EXTINF:1 group-title="Hollanda (VPN)",JIMJAM
 https://www.kool.to/play/3418267223/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ONS
+#EXTINF:1 group-title="Hollanda (VPN)",ONS
 https://www.kool.to/play/3968717467/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NICK JR
+#EXTINF:1 group-title="Hollanda (VPN)",NICK JR
 https://www.kool.to/play/2315839040/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO ZAPP
+#EXTINF:1 group-title="Hollanda (VPN)",NPO ZAPP
 https://www.kool.to/play/595475468/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",ZIGGO SPORT GOLF
+#EXTINF:1 group-title="Hollanda (VPN)",ZIGGO SPORT GOLF
 https://www.kool.to/play/4076792021/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV NOORDOOST FRIESLAND
+#EXTINF:1 group-title="Hollanda (VPN)",RTV NOORDOOST FRIESLAND
 https://www.kool.to/play/1412721793/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV UTRECHT
+#EXTINF:1 group-title="Hollanda (VPN)",RTV UTRECHT
 https://www.kool.to/play/3942354472/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV NOORD
+#EXTINF:1 group-title="Hollanda (VPN)",TV NOORD
 https://www.kool.to/play/627384898/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",VECHTDAL TV
+#EXTINF:1 group-title="Hollanda (VPN)",VECHTDAL TV
 https://www.kool.to/play/2932989565/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP WEST
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP WEST
 https://www.kool.to/play/657349666/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV NOF 1
+#EXTINF:1 group-title="Hollanda (VPN)",RTV NOF 1
 https://www.kool.to/play/3380160677/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",SALTO BRASA MUSIC
+#EXTINF:1 group-title="Hollanda (VPN)",SALTO BRASA MUSIC
 https://www.kool.to/play/1983864776/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",PEBBLE TV
+#EXTINF:1 group-title="Hollanda (VPN)",PEBBLE TV
 https://www.kool.to/play/1590759024/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTL ZWEE
+#EXTINF:1 group-title="Hollanda (VPN)",RTL ZWEE
 https://www.kool.to/play/2392291038/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV PURMEREND
+#EXTINF:1 group-title="Hollanda (VPN)",RTV PURMEREND
 https://www.kool.to/play/2438507160/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP P&M TV
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP P&M TV
 https://www.kool.to/play/467494147/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV ELLEF
+#EXTINF:1 group-title="Hollanda (VPN)",TV ELLEF
 https://www.kool.to/play/2084880546/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",SAMEN1 TV
+#EXTINF:1 group-title="Hollanda (VPN)",SAMEN1 TV
 https://www.kool.to/play/3494967680/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV SLINGELAND
+#EXTINF:1 group-title="Hollanda (VPN)",RTV SLINGELAND
 https://www.kool.to/play/859987072/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NPO 2 EXTRA
+#EXTINF:1 group-title="Hollanda (VPN)",NPO 2 EXTRA
 https://www.kool.to/play/3224677886/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NICKTOONS
+#EXTINF:1 group-title="Hollanda (VPN)",NICKTOONS
 https://www.kool.to/play/4272917411/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV DORDRECHT
+#EXTINF:1 group-title="Hollanda (VPN)",RTV DORDRECHT
 https://www.kool.to/play/2489982636/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV MAASTRICHT
+#EXTINF:1 group-title="Hollanda (VPN)",RTV MAASTRICHT
 https://www.kool.to/play/3621246113/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",WOS TV
+#EXTINF:1 group-title="Hollanda (VPN)",WOS TV
 https://www.kool.to/play/1747511436/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV RIJMOND
+#EXTINF:1 group-title="Hollanda (VPN)",TV RIJMOND
 https://www.kool.to/play/671776589/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV GELDERLAND
+#EXTINF:1 group-title="Hollanda (VPN)",TV GELDERLAND
 https://www.kool.to/play/1151907630/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP FRYSLAN TV
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP FRYSLAN TV
 https://www.kool.to/play/651686468/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",NICK MUSIC
+#EXTINF:1 group-title="Hollanda (VPN)",NICK MUSIC
 https://www.kool.to/play/1813634076/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV NOORD EXTRA
+#EXTINF:1 group-title="Hollanda (VPN)",RTV NOORD EXTRA
 https://www.kool.to/play/3718242363/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV DRENTHE
+#EXTINF:1 group-title="Hollanda (VPN)",RTV DRENTHE
 https://www.kool.to/play/3803171576/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OUT TV
+#EXTINF:1 group-title="Hollanda (VPN)",OUT TV
 https://www.kool.to/play/1870325862/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV NOORD
+#EXTINF:1 group-title="Hollanda (VPN)",RTV NOORD
 https://www.kool.to/play/1824282129/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV RIJNMOND
+#EXTINF:1 group-title="Hollanda (VPN)",TV RIJNMOND
 https://www.kool.to/play/3837356661/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP BRABANT RADIO
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP BRABANT RADIO
 https://www.kool.to/play/23057657/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV ARNHEM
+#EXTINF:1 group-title="Hollanda (VPN)",RTV ARNHEM
 https://www.kool.to/play/4120724948/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV WEST
+#EXTINF:1 group-title="Hollanda (VPN)",TV WEST
 https://www.kool.to/play/739900638/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROP FRYSLÂN TV
+#EXTINF:1 group-title="Hollanda (VPN)",OMROP FRYSLÂN TV
 https://www.kool.to/play/2736790532/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TRAVELXP
+#EXTINF:1 group-title="Hollanda (VPN)",TRAVELXP
 https://www.kool.to/play/676514454/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP ZEELAND
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP ZEELAND
 https://www.kool.to/play/4221469130/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP ZEELAND TV
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP ZEELAND TV
 https://www.kool.to/play/746534750/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",HBO
+#EXTINF:1 group-title="Hollanda (VPN)",HBO
 https://www.kool.to/play/4227356397/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RADIO 350
+#EXTINF:1 group-title="Hollanda (VPN)",RADIO 350
 https://www.kool.to/play/1211171769/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",SALTO 2
+#EXTINF:1 group-title="Hollanda (VPN)",SALTO 2
 https://www.kool.to/play/1030851576/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",OMROEP FRYSLAN
+#EXTINF:1 group-title="Hollanda (VPN)",OMROEP FRYSLAN
 https://www.kool.to/play/2942178305/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",VIAPLAY F1
+#EXTINF:1 group-title="Hollanda (VPN)",VIAPLAY F1
 https://www.kool.to/play/2375739967/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RADIO VOS FM
+#EXTINF:1 group-title="Hollanda (VPN)",RADIO VOS FM
 https://www.kool.to/play/2132705316/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",XON
+#EXTINF:1 group-title="Hollanda (VPN)",XON
 https://www.kool.to/play/500756557/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV CONNECT TV
+#EXTINF:1 group-title="Hollanda (VPN)",RTV CONNECT TV
 https://www.kool.to/play/3519005898/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",TV VALKENBURG
+#EXTINF:1 group-title="Hollanda (VPN)",TV VALKENBURG
 https://www.kool.to/play/319772638/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",SALTO 1
+#EXTINF:1 group-title="Hollanda (VPN)",SALTO 1
 https://www.kool.to/play/2060579112/index.m3u8
-#EXTINF:-1 group-title="Hollanda (VPN)",RTV AMSTELVEEN
+#EXTINF:1 group-title="Hollanda (VPN)",RTV AMSTELVEEN
 https://www.kool.to/play/1382769634/index.m3u8
 
-#EXTINF:-1 tvg-name="Konuşanlar S04 E01" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E01
+#EXTINF:1 tvg-name="Konuşanlar S04 E01" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E01
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1471268469&type=M3U8_AUTO_1080&fid=751266844063025&sign=9d2e902e677ed6b550a9e62138d1e564f49a3426&timestamp=1705774655&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E02" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E02
+#EXTINF:1 tvg-name="Konuşanlar S04 E02" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E02
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3919552587&type=M3U8_AUTO_1080&fid=588394640707038&sign=5c16725ad20dc1e41456d6786c29b1daa056e911&timestamp=1705774182&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E03" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="MUZIK",Konuşanlar S04 E03
+#EXTINF:1 tvg-name="Konuşanlar S04 E03" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="MUZIK",Konuşanlar S04 E03
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3614733653&type=M3U8_AUTO_1080&fid=1056598732275138&sign=d701b1fb009734b84496f45108d3a47d2426e01e&timestamp=1705783801&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E04" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E04
+#EXTINF:1 tvg-name="Konuşanlar S04 E04" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E04
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3325710656&type=M3U8_AUTO_1080&fid=777990062168709&sign=e9338ac08a0b7e56d40f7b15d25fc9c6120cacab&timestamp=1705783893&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E05" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E05
+#EXTINF:1 tvg-name="Konuşanlar S04 E05" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E05
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1592747934&type=M3U8_AUTO_1080&fid=325381662797105&sign=39fc05d86cef1942b5a5e12e957a7381e57393a2&timestamp=1705784009&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E06" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E06
+#EXTINF:1 tvg-name="Konuşanlar S04 E06" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E06
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3978730202&type=M3U8_AUTO_1080&fid=67338793856212&sign=ad96c5abf61a6fe6cd9258ecd0c44d4ef4545b36&timestamp=1705784135&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E07" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E07
+#EXTINF:1 tvg-name="Konuşanlar S04 E07" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E07
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=490107767&type=M3U8_AUTO_1080&fid=406279574187884&sign=2db813f7ebbbe1039ecfeb6f026fcfe741e6a77b&timestamp=1705784644&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E08" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E08
+#EXTINF:1 tvg-name="Konuşanlar S04 E08" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E08
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2959473649&type=M3U8_AUTO_1080&fid=865218785367389&sign=6ff7f6646fc66a8282d3d3fa990c9981219eea64&timestamp=1705784773&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E09" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E09
+#EXTINF:1 tvg-name="Konuşanlar S04 E09" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E09
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=693341146&type=M3U8_AUTO_1080&fid=979053591005831&sign=6fb3eeb4f6388161b2207f9140604b93cae78003&timestamp=1705784939&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E10" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E10
+#EXTINF:1 tvg-name="Konuşanlar S04 E10" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E10
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=160631463&type=M3U8_AUTO_1080&fid=199134936567106&sign=88f9d131b34bf7b116a0e1fdf6e2f39df72ab775&timestamp=1705785064&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E11" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E11
+#EXTINF:1 tvg-name="Konuşanlar S04 E11" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E11
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3302523523&type=M3U8_AUTO_1080&fid=666920015112773&sign=6764826bc6d797f1dcf177526a5c8add3eefd315&timestamp=1705785169&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E12" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E12
+#EXTINF:1 tvg-name="Konuşanlar S04 E12" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E12
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2594149209&type=M3U8_AUTO_1080&fid=1001351250506154&sign=02d5265295063120d5557f92a28d46622dca27d4&timestamp=1705785256&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E13" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E13
+#EXTINF:1 tvg-name="Konuşanlar S04 E13" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E13
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=1075793569&type=M3U8_AUTO_1080&fid=815368836251773&sign=8f5a98dbca75b9236ff10a6f766b03dfd2caa96a&timestamp=1705599962&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E14" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E14
+#EXTINF:1 tvg-name="Konuşanlar S04 E14" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E14
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3566911913&type=M3U8_AUTO_1080&fid=184090517090837&sign=b55c9342029cef6f4062a1c9d9f31801a6e23714&timestamp=1705599919&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E15" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E15
+#EXTINF:1 tvg-name="Konuşanlar S04 E15" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E15
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=488309651&type=M3U8_AUTO_1080&fid=739429632835976&sign=f365fea13267f34dca882ad79b3ac2cd13388f06&timestamp=1705599874&jsToken=4B5C8F65C9532AB2C42381E57C6A2F2800752CFDF023163ED288D43B837A2116CA1277330649BA4EBF1B7FF600A5B3843E4514FDDAD7279D58F3279DBFC72C44&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E16" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E16
+#EXTINF:1 tvg-name="Konuşanlar S04 E16" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E16
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=178693071&type=M3U8_AUTO_1080&fid=613361682774985&sign=f2d50ee6b65043341c0c22ad2d77a2a68590b845&timestamp=1705582792&jsToken=DF7F8D0591E248AE2B7BEF21F9B84819010F53007BBA0AF20819556C58AE5444260404DF8DF9F739C89595AF247C4E985B8724C1BF2AC8D1C28DB8648E4057D10D9B7497DB5C9D44667F58C7512EFEC541233901A1E9FA44C6AA88A517BBBF7F&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E17" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E17
+#EXTINF:1 tvg-name="Konuşanlar S04 E17" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E17
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=2175910318&type=M3U8_AUTO_1080&fid=839643931012060&sign=09e31fbc3817271969c0320c2a4b92708284721b&timestamp=1705789754&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E18" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E18
+#EXTINF:1 tvg-name="Konuşanlar S04 E18" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E18
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=328849865&type=M3U8_AUTO_1080&fid=737716449775285&sign=e16a8200ae3f5d65adfa825193b3624977f729ad&timestamp=1705789799&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E19" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E19
+#EXTINF:1 tvg-name="Konuşanlar S04 E19" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E19
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=3159514476&type=M3U8_AUTO_1080&fid=780280474552555&sign=dd07f8eae36534cd5c741c51ec61bcb387742db8&timestamp=1706391227&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283B7EA6B8DABB3F372AB55E285B744C0E9A4DE5776F005582F9EA167E723245EF0F30520AB1FE77FE29ABAADC704AF32E&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E20" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E20
+#EXTINF:1 tvg-name="Konuşanlar S04 E20" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E20
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=484070209&type=M3U8_AUTO_1080&fid=699978217970364&sign=c60348ad496ee47cadf8e55a2e31fc07bfc55152&timestamp=1705785403&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283428572E1E8FC24F68A6CD97D582BA3E60DB7D58A585A9B6C558258969C6820C340C4ED0911211491BD6B10C034F312B&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
-#EXTINF:-1 tvg-name="Konuşanlar S04 E21" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E21
+#EXTINF:1 tvg-name="Konuşanlar S04 E21" tvg-id="" tvg-logo="https://i.ibb.co/P60zPn3/pslow.png" group-title="Konuşanlar",Konuşanlar S04 E21
 https://terabox.com/share/extstreaming.m3u8?uk=4399953663563&shareid=219441782&type=M3U8_AUTO_1080&fid=299613819310064&sign=2f2e297f22e4d9ea6aed2a85b5051ac941b36f03&timestamp=1706389926&jsToken=4B5C8F65C9532AB2C42381E57C6A2F283B7EA6B8DABB3F372AB55E285B744C0E9A4DE5776F005582F9EA167E723245EF0F30520AB1FE77FE29ABAADC704AF32E&esl=1&isplayer=1&ehps=1&clienttype=0&app_id=250528&web=1&channel=dubox
 
 #EXTINF:1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
@@ -2368,168 +2368,167 @@ http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="Diğer-Eğlence",Zeki & Metin 
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 
-#EXTINF:-1,24 TV - YOUTUBE
+#EXTINF:1,24 TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/24tv.m3u8
-#EXTINF:-1,ABB TV - YOUTUBE
+#EXTINF:1,ABB TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/abbtv.m3u8
-#EXTINF:-1,A HABER - YOUTUBE
+#EXTINF:1,A HABER - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ahaber.m3u8
-#EXTINF:-1,ALEV ALEV - YOUTUBE
+#EXTINF:1,ALEV ALEV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/alevalev.m3u8
-#EXTINF:-1,ANNE DİZİSİ - YOUTUBE
+#EXTINF:1,ANNE DİZİSİ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/anne.m3u8
-#EXTINF:-1,A PARA - YOUTUBE
+#EXTINF:1,A PARA - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/apara.m3u8
-#EXTINF:-1,ARIZA DİZİSİ - YOUTUBE
+#EXTINF:1,ARIZA DİZİSİ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ariza.m3u8
-#EXTINF:-1,ARZU FİLM (ŞABAN TV) - YOUTUBE
+#EXTINF:1,ARZU FİLM (ŞABAN TV) - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/arzufilm.m3u8
-#EXTINF:-1,AVLU DİZİSİ - YOUTUBE
+#EXTINF:1,AVLU DİZİSİ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/avlu.m3u8
-#EXTINF:-1,BEHZAT Ç. - YOUTUBE
+#EXTINF:1,BEHZAT Ç. - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/behzatc.m3u8
-#EXTINF:-1,BEIN SPORTS HABER - YOUTUBE
+#EXTINF:1,BEIN SPORTS HABER - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/beinsportshaber.m3u8
-#EXTINF:-1,BENGÜTÜRK - YOUTUBE
+#EXTINF:1,BENGÜTÜRK - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/benguturk.m3u8
-#EXTINF:-1,BFZ TÜRK - TWITCH
+#EXTINF:1,BFZ TÜRK - TWITCH
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/bfzturk.m3u8
-#EXTINF:-1,BUSINESS CHANNEL TÜRK - YOUTUBE
+#EXTINF:1,BUSINESS CHANNEL TÜRK - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/businesschannelturk.m3u8
-#EXTINF:-1,BYHORSES TV - YOUTUBE
+#EXTINF:1,BYHORSES TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/byhorsestv.m3u8
-#EXTINF:-1,CENNET MAHALLESİ - YOUTUBE
+#EXTINF:1,CENNET MAHALLESİ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/cennetmahallesi.m3u8
-#EXTINF:-1,ÇOK GÜZEL HAREKETLER BUNLAR - YOUTUBE
+#EXTINF:1,ÇOK GÜZEL HAREKETLER BUNLAR - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/cghb.m3u8
-#EXTINF:-1,ÇİLEK KOKUSU - YOUTUBE
+#EXTINF:1,ÇİLEK KOKUSU - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/cilekkokusu.m3u8
-#EXTINF:-1,CNN TÜRK - YOUTUBE
+#EXTINF:1,CNN TÜRK - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/cnnturk.m3u8
-#EXTINF:-1,DENİZ RADYO TV - TWITCH
+#EXTINF:1,DENİZ RADYO TV - TWITCH
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/denizradyotv.m3u8
-#EXTINF:-1,DİLA HANIM - YOUTUBE
+#EXTINF:1,DİLA HANIM - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/dilahanim.m3u8
-#EXTINF:-1,DİYANET ÇOCUK - YOUTUBE
+#EXTINF:1,DİYANET ÇOCUK - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/diyanetcocuk.m3u8
-#EXTINF:-1,DİYANET TV - YOUTUBE
+#EXTINF:1,DİYANET TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/diyanettv.m3u8
-#EXTINF:-1,EKOTÜRK - YOUTUBE
+#EXTINF:1,EKOTÜRK - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ekoturk.m3u8
-#EXTINF:-1,EMRET KOMUTANIM - YOUTUBE
+#EXTINF:1,EMRET KOMUTANIM - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/emretkomutanim.m3u8
-#EXTINF:-1,EURO STAR - EUROSTAR.COM.TR
+#EXTINF:1,EURO STAR - EUROSTAR.COM.TR
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/eurostar.m3u8
-#EXTINF:-1,FAZİLET HANIM - YOUTUBE
+#EXTINF:1,FAZİLET HANIM - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/fazilethanim.m3u8
-#EXTINF:-1,FB TV - DAILYMOTION
+#EXTINF:1,FB TV - DAILYMOTION
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/fbtv.m3u8
-#EXTINF:-1,FİLM ATÖLYESİ - YOUTUBE
+#EXTINF:1,FİLM ATÖLYESİ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/filmatolyesi.m3u8
-#EXTINF:-1,FM TV - YOUTUBE
+#EXTINF:1,FM TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/fmtv.m3u8
-#EXTINF:-1,GÜLDÜR GÜLDÜR - YOUTUBE
+#EXTINF:1,GÜLDÜR GÜLDÜR - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/guldurguldur.m3u8
-#EXTINF:-1,GÜLŞAH FİLM (ŞABAN TV) - YOUTUBE
+#EXTINF:1,GÜLŞAH FİLM (ŞABAN TV) - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/gulsahfilm.m3u8
-#EXTINF:-1,HABER AJANS PRESS - TWITCH
+#EXTINF:1,HABER AJANS PRESS - TWITCH
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/haberajanspress.m3u8
-#EXTINF:-1,HABER GLOBAL - YOUTUBE
+#EXTINF:1,HABER GLOBAL - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/haberglobal.m3u8
-#EXTINF:-1,HABERTÜRK - YOUTUBE
+#EXTINF:1,HABERTÜRK - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/haberturk.m3u8
-#EXTINF:-1,HANIM KÖYLÜ - YOUTUBE
+#EXTINF:1,HANIM KÖYLÜ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/hanimkoylu.m3u8
-#EXTINF:-1,HAYAT BAZEN TATLIDIR - YOUTUBE
+#EXTINF:1,HAYAT BAZEN TATLIDIR - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/hayatbazentatlidir.m3u8
-#EXTINF:-1,HÜR TÜRK TV - TWITCH
+#EXTINF:1,HÜR TÜRK TV - TWITCH
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/hurturktv.m3u8
-#EXTINF:-1,HZ YUSUF DİZİSİ - YOUTUBE
+#EXTINF:1,HZ YUSUF DİZİSİ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/hzyusuf.m3u8
-#EXTINF:-1,JET SOSYETE - YOUTUBE
+#EXTINF:1,JET SOSYETE - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/jetsosyete.m3u8
-#EXTINF:-1,KALBİMİN SULTANI - YOUTUBE
+#EXTINF:1,KALBİMİN SULTANI - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kalbiminsultani.m3u8
-#EXTINF:-1,KANAL 5 - YOUTUBE
+#EXTINF:1,KANAL 5 - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kanal5.m3u8
-#EXTINF:-1,KANAL 7 AVRUPA - DAILYMOTION
+#EXTINF:1,KANAL 7 AVRUPA - DAILYMOTION
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kanal7avrupa.m3u8
-#EXTINF:-1,KARADENİZ AKUSTİK - YOUTUBE
+#EXTINF:1,KARADENİZ AKUSTİK - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/karadenizakustik.m3u8
-#EXTINF:-1,KEMAL SUNAL FİLMLERİ - YOUTUBE
+#EXTINF:1,KEMAL SUNAL FİLMLERİ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kemalsunalfilmleri.m3u8
-#EXTINF:-1,KİRALIK AŞK - YOUTUBE
+#EXTINF:1,KİRALIK AŞK - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kiralikask.m3u8
-#EXTINF:-1,KRT TV - YOUTUBE
+#EXTINF:1,KRT TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/krttv.m3u8
-#EXTINF:-1,KURTLAR VADİSİ - YOUTUBE
+#EXTINF:1,KURTLAR VADİSİ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kurtlarvadisi.m3u8
-#EXTINF:-1,KURT SEYİT VE ŞURA - YOUTUBE
+#EXTINF:1,KURT SEYİT VE ŞURA - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kurtseyitvesura.m3u8
-#EXTINF:-1,KUZEY TV - TWITCH
+#EXTINF:1,KUZEY TV - TWITCH
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kuzeytv.m3u8
-#EXTINF:-1,KUZEY YILDIZI - YOUTUBE
+#EXTINF:1,KUZEY YILDIZI - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kuzeyyildizi.m3u8
-#EXTINF:-1,LİDER HABER - YOUTUBE
+#EXTINF:1,LİDER HABER - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/liderhaber.m3u8
-#EXTINF:-1,MİLLİ PİYANGO TV - YOUTUBE
+#EXTINF:1,MİLLİ PİYANGO TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/millipiyangotv.m3u8
-#EXTINF:-1,MPL TV - YOUTUBE
+#EXTINF:1,MPL TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/mpltv.m3u8
-#EXTINF:-1,MURAT FİLM (MALKOÇOĞLU) - YOUTUBE
+#EXTINF:1,MURAT FİLM (MALKOÇOĞLU) - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/muratfilm.m3u8
-#EXTINF:-1,NTV - YOUTUBE
+#EXTINF:1,NTV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ntv.m3u8
-#EXTINF:-1,NUR TV - YOUTUBE
+#EXTINF:1,NUR TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/nurtv.m3u8
-#EXTINF:-1,RAMO - YOUTUBE
+#EXTINF:1,RAMO - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ramo.m3u8
-#EXTINF:-1,SAFA TV - TWITCH
+#EXTINF:1,SAFA TV - TWITCH
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/safatv.m3u8
-#EXTINF:-1,SEMERKAND TV - YOUTUBE
+#EXTINF:1,SEMERKAND TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/semerkandtv.m3u8
-#EXTINF:-1,SERHAT TV - TWITCH
+#EXTINF:1,SERHAT TV - TWITCH
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/serhattv.m3u8
-#EXTINF:-1,SHOW MAX - SHOMWAX.COM.TR
+#EXTINF:1,SHOW MAX - SHOMWAX.COM.TR
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
-#EXTINF:-1,SHOW TÜRK - SHOWTURK.COM.TR
+#EXTINF:1,SHOW TÜRK - SHOWTURK.COM.TR
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showturk.m3u8
-#EXTINF:-1,SİHİRLİ ANNEM - YOUTUBE
+#EXTINF:1,SİHİRLİ ANNEM - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/sihirliannem.m3u8
-#EXTINF:-1,ŞİRİNLER - YOUTUBE
+#EXTINF:1,ŞİRİNLER - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/sirinler.m3u8
-#EXTINF:-1,SÖZCÜ TV - YOUTUBE
+#EXTINF:1,SÖZCÜ TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/sozcutv.m3u8
-#EXTINF:-1,TELE 1 - YOUTUBE
+#EXTINF:1,TELE 1 - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/tele1.m3u8
-#EXTINF:-1,TGRT HABER - YOUTUBE
+#EXTINF:1,TGRT HABER - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/tgrthaber.m3u8
-#EXTINF:-1,TRABZON TV - TWITCH
+#EXTINF:1,TRABZON TV - TWITCH
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/trabzontv.m3u8
-#EXTINF:-1,TRT HABER - YOUTUBE
+#EXTINF:1,TRT HABER - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/trthaber.m3u8
-#EXTINF:-1,TÜRK FİLMLERİ TV (ZEKİ & METİN) - YOUTUBE
+#EXTINF:1,TÜRK FİLMLERİ TV (ZEKİ & METİN) - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/turkfilmleritv.m3u8
-#EXTINF:-1,TV100 - YOUTUBE
+#EXTINF:1,TV100 - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/tv100.m3u8
-#EXTINF:-1,TVNET - YOUTUBE
+#EXTINF:1,TVNET - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/tvnet.m3u8
-#EXTINF:-1,ÜLKE TV - DAILYMOTION
+#EXTINF:1,ÜLKE TV - DAILYMOTION
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ulketv.m3u8
-#EXTINF:-1,ULUSAL KANAL - YOUTUBE
+#EXTINF:1,ULUSAL KANAL - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ulusalkanal.m3u8
-#EXTINF:-1,VAV TV - YOUTUBE
+#EXTINF:1,VAV TV - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/vavtv.m3u8
-#EXTINF:-1,YENİ GELİN - YOUTUBE
+#EXTINF:1,YENİ GELİN - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/yenigelin.m3u8
-#EXTINF:-1,ZEMHERİ - YOUTUBE
+#EXTINF:1,ZEMHERİ - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/zemheri.m3u8
-# EKLEMELER - 04.02.2024
-#EXTINF:-1,STAR TV - YOUTUBE - YURT DIŞI
+#EXTINF:1,STAR TV - YOUTUBE - YURT DIŞI
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/startv.m3u8
-#EXTINF:-1,EARTH TV THE WORLD LIVE ORIGINAL - YOUTUBE
+#EXTINF:1,EARTH TV THE WORLD LIVE ORIGINAL - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/earthtv_original.m3u8
-#EXTINF:-1,EARTH TV THE WORLD LIVE SHOWCASE - YOUTUBE
+#EXTINF:1,EARTH TV THE WORLD LIVE SHOWCASE - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/earthtv_showcase.m3u8
-#EXTINF:-1,EARTH TV WHITE HOUSE - YOUTUBE
+#EXTINF:1,EARTH TV WHITE HOUSE - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/earthtv_whouse.m3u8
