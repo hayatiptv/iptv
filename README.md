@@ -21,7 +21,7 @@ to any player with support M3U-playlists works best with VLC
 Welkom op iptv center please before use test it,and then use it
 
 Buy me a caffee please
-https://www.buymeacoffee.com/SMSK
+https://ko-fi.com/digiseytan
 
 Bir Bardak Kahve icelim sizden 
 https://ko-fi.com/digiseytan
