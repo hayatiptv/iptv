@@ -462,27 +462,27 @@ https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
 #EXTINF:-1,BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 Yedek="http://89.187.191.41/TRT-1-HD-TR/video.m3u8" Yedek2="http://89.34.226.39:8080/live/test_acct/ohbo1veifa4AhD/507.ts" Yedek3="https://tv-trt1.medya.trt.com.tr/master_1080.m3u8" Yedek4="http://95.174.71.114/TR-TRT1/index.m3u8" Yedek5="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1643" Yedek6="https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web" Yedek7="http://185.234.111.229:8000/play/a00c" Yedek8="https://live-cdn-65984.varplaycdn.cfd/trt1/index.m3u8" Yedek9="http://194.76.0.61:8070/live/test_acct/ohbo1veifa4AhD/507.ts" tvg-id="TRT1 HD.tr" Yedek10="https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Ulusal",TRT1
+#EXTINF:-1 Yedek="http://89.187.191.41/TRT-1-HD-TR/video.m3u8" Yedek2="http://89.34.226.39:8080/live/test_acct/ohbo1veifa4AhD/507.ts" Yedek3="https://tv-trt1.medya.trt.com.tr/master_1080.m3u8" Yedek4="http://95.174.71.114/TR-TRT1/index.m3u8" Yedek5="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1643" Yedek6="https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web" Yedek7="http://185.234.111.229:8000/play/a00c" Yedek8="https://live-cdn-65984.varplaycdn.cfd/trt1/index.m3u8" Yedek9="http://194.76.0.61:8070/live/test_acct/ohbo1veifa4AhD/507.ts" tvg-id="TRT1 HD.tr" Yedek10="https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="ULUSAL",TRT1
 https://live-cdn-65984.varplaycdn.cfd/trt1/index.m3u8
-#EXTINF:-1 Yedek="https://helga.iptv2022.com/sh/kanal_d/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3" Yedek2="http://89.187.191.41/Kanal-D-HD-TR/video.m3u8" Yedek3="https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8" Yedek4="https://x.canlitvapp.com/kanald/index.m3u8" Yedek5="http://live.admuspeh.my/8817/index.m3u8?token=4gPHp5ZVYqDAR4oz" Yedek6="http://78.128.125.60:9981/play/a01h/index.m3u8" Yedek7="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/2304/index.m3u8" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="Ulusal",KANAL D
+#EXTINF:-1 Yedek="https://helga.iptv2022.com/sh/kanal_d/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3" Yedek2="http://89.187.191.41/Kanal-D-HD-TR/video.m3u8" Yedek3="https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8" Yedek4="https://x.canlitvapp.com/kanald/index.m3u8" Yedek5="http://live.admuspeh.my/8817/index.m3u8?token=4gPHp5ZVYqDAR4oz" Yedek6="http://78.128.125.60:9981/play/a01h/index.m3u8" Yedek7="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/2304/index.m3u8" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
 http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-atv-tv/tracks-v1a1/mono.m3u8" Yedek2="http://89.187.191.41/ATV-HD-TR/video.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8" Yedek4="https://x.canlitvapp.com/aytv/index.m3u8" Yedek5="https://217.30.11.74/e/160.m3u8" Yedek6="http://162.212.179.34/gin-trn09/gin-atvv/playlist.m3u8" Yedek7="http://95.174.71.114/TR-ATV/index.m3u8" Yedek8="https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8" tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Ulusal",ATV
+#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-atv-tv/tracks-v1a1/mono.m3u8" Yedek2="http://89.187.191.41/ATV-HD-TR/video.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8" Yedek4="https://x.canlitvapp.com/aytv/index.m3u8" Yedek5="https://217.30.11.74/e/160.m3u8" Yedek6="http://162.212.179.34/gin-trn09/gin-atvv/playlist.m3u8" Yedek7="http://95.174.71.114/TR-ATV/index.m3u8" Yedek8="https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8" tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 Yedek="https://dogus-live.daioncdn.net/startv/startv_720p.m3u8" Yedek2="https://x.canlitvapp.com/star/index.m3u8" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8" Yedek4="https://canlitvulusal.xyz/live/star/index.m3u8" Yedek5="https://cdntv.online/high/ynemik5cl9/1738.m3u8" Yedek6="https://live-cdn-65984.varplaycdn.cfd/startv/index.m3u8" Yedek7="http://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=kHQaIEAZEHZweXXprYwFlQ&e=1739826399" Yedek8="http://95.174.71.114/TR-STAR/index.m3u8" tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="Ulusal",STAR TV
+#EXTINF:-1 Yedek="https://dogus-live.daioncdn.net/startv/startv_720p.m3u8" Yedek2="https://x.canlitvapp.com/star/index.m3u8" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8" Yedek4="https://canlitvulusal.xyz/live/star/index.m3u8" Yedek5="https://cdntv.online/high/ynemik5cl9/1738.m3u8" Yedek6="https://live-cdn-65984.varplaycdn.cfd/startv/index.m3u8" Yedek7="http://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=kHQaIEAZEHZweXXprYwFlQ&e=1739826399" Yedek8="http://95.174.71.114/TR-STAR/index.m3u8" tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV
 https://live-cdn-65984.varplaycdn.cfd/startv/index.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-show-tv/tracks-v1a1/mono.m3u8" Yedek2="https://metvmetv.tiiny.io/?id=3317405854&e=.m3u8" Yedek3="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8" Yedek4="https://canlitvulusal.xyz/live/showtv/index.m3u8" Yedek5="https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8" Yedek6="https://live-cdn-65984.varplaycdn.cfd/showtv/index.m3u8" Yedek7="https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8" Yedek8="http://95.174.71.114/TR-SHOW/index.m3u8" tvg-id="SHOW TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Ulusal",SHOW TV
+#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-show-tv/tracks-v1a1/mono.m3u8" Yedek2="https://metvmetv.tiiny.io/?id=3317405854&e=.m3u8" Yedek3="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8" Yedek4="https://canlitvulusal.xyz/live/showtv/index.m3u8" Yedek5="https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8" Yedek6="https://live-cdn-65984.varplaycdn.cfd/showtv/index.m3u8" Yedek7="https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8" Yedek8="http://95.174.71.114/TR-SHOW/index.m3u8" tvg-id="SHOW TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="ULUSAL",SHOW TV
 https://live-cdn-65984.varplaycdn.cfd/showtv/index.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8" Yedek2="https://x.canlitvapp.com/fox/index.m3u8" Yedek3="http://raalbatros.serv00.net/Gledai.php?ID=foxtv" Yedek4="https://tv.prectv5.sbs/live/foxtv.m3u8" Yedek5="http://66.160.192.241/foxturk/index.m3u8" Yedek6="https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8" Yedek7="https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1739787502&st=ryWMF1rS3xrXYjK40VPUeg" Yedek8="http://116.202.238.88/FOXTV_TR/index.m3u8" Yedek9="https://live-cdn-65984.varplaycdn.cfd/nowtv/index.m3u8" tvg-id="NOW.tr" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" group-title="Ulusal",NOW
+#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8" Yedek2="https://x.canlitvapp.com/fox/index.m3u8" Yedek3="http://raalbatros.serv00.net/Gledai.php?ID=foxtv" Yedek4="https://tv.prectv5.sbs/live/foxtv.m3u8" Yedek5="http://66.160.192.241/foxturk/index.m3u8" Yedek6="https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8" Yedek7="https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1739787502&st=ryWMF1rS3xrXYjK40VPUeg" Yedek8="http://116.202.238.88/FOXTV_TR/index.m3u8" Yedek9="https://live-cdn-65984.varplaycdn.cfd/nowtv/index.m3u8" tvg-id="NOW.tr" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" group-title="ULUSAL",NOW
 https://live-cdn-65984.varplaycdn.cfd/nowtv/index.m3u8
-#EXTINF:-1 Yedek="https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1632" Yedek3="" tvg-id="BEYAZ TV HD.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/Beyaz_TV_TR_logo_v2.png?1734094253" group-title="Ulusal",BEYAZ TV
+#EXTINF:-1 Yedek="https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1632" Yedek3="" tvg-id="BEYAZ TV HD.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/Beyaz_TV_TR_logo_v2.png?1734094253" group-title="ULUSAL",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 Yedek="https://x.canlitvapp.com/kanal8/index.m3u8" Yedek2="https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8" Yedek3="http://89.187.191.41/TV8-HD-TR/video.m3u8" Yedek4="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1633" Yedek5="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8" Yedek6="https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Ulusal",TV 8
+#EXTINF:-1 Yedek="https://x.canlitvapp.com/kanal8/index.m3u8" Yedek2="https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8" Yedek3="http://89.187.191.41/TV8-HD-TR/video.m3u8" Yedek4="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1633" Yedek5="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8" Yedek6="https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
 http://89.187.191.41/TV8-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",KANAL 7
+#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="ULUSAL",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 Yedek="https://demiroren-live.daioncdn.net/teve2/teve2.m3u8" Yedek2="" Yedek3="" tvg-id="TEVE2 HD.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Ulusal",TEVE 2
+#EXTINF:-1 Yedek="https://demiroren-live.daioncdn.net/teve2/teve2.m3u8" Yedek2="" Yedek3="" tvg-id="TEVE2 HD.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 Yedek="https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8" Yedek2="" Yedek3="" tvg-id="360 HD.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="Ulusal",360 TV
+#EXTINF:-1 Yedek="https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8" Yedek2="" Yedek3="" tvg-id="360 HD.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-ntvtv/index.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1640" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8" Yedek4="http://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=nqhIEolIuSAlXxw8Kxeorg&e=1742485578" Yedek5="https://canlitvulusal.xyz/live/ntv/index.m3u8" tvg-id="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="Haber",NTV
 https://canlitvulusal.xyz/live/ntv/index.m3u8
@@ -548,12 +548,12 @@ https://bs.arectv33.sbs/static/bs1.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
 
 #EXTINF:-1 tvg-name="Tv8" group-title="CanliTV", Tv8
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv8canli-hd-izle
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 
-#EXTINF:-1 tvg-name="Fox Tv" group-title="CanliTV", Fox Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/foxtv-canli-hd-izle
+#EXTINF:-1 tvg-name="Fox Tv" group-title="CanliTV", NOW Tv
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 
@@ -687,7 +687,7 @@ https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv100
 #EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 
-#EXTINF:-1 tvg-name="Ulusal Kanal" group-title="CanliTV", Ulusal Kanal
+#EXTINF:-1 tvg-name="ULUSAL Kanal" group-title="CanliTV", ULUSAL Kanal
 https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ulusal-kanal
 #EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
@@ -1297,43 +1297,6 @@ https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/karabuk-b
 #EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 
-#EXTINF:-1 tvg-name="NPO 1" group-title="YABANCITV",NPO 1
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/12.ts
-#EXTINF:-1 tvg-name="NPO 2" group-title="YABANCITV",NPO 2
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8087/20.ts
-#EXTINF:-1 tvg-name="NPO ZAPPELEN" group-title="YABANCITV",NPO ZAPPELEN
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8087/24.ts
-#EXTINF:-1 tvg-name="RTL 4" group-title="YABANCITV",RTL 4
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8087/28.ts
-#EXTINF:-1 tvg-name="Z SELECT" group-title="YABANCITV",Z SELECT
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/0.ts
-#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="YABANCITV",EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/8.ts
-#EXTINF:-1 tvg-name="ESPN" group-title="YABANCITV",ESPN
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/4.ts
-#EXTINF:-1 tvg-name="EURONEWS" group-title="YABANCITV",EURONEWS
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4000/euronews.ts
-#EXTINF:-1 tvg-name="CNBC" group-title="YABANCITV",CNBC
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4000/cnbc.ts
-#EXTINF:-1 tvg-name="BBCNEWS" group-title="YABANCITV",BBCNEWS
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4000/bbcnews.ts
-#EXTINF:-1 tvg-name="DW HD" group-title="YABANCITV",DW HD
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4001/dw_hd.ts
-#EXTINF:-1 tvg-name="TRT WORLD" group-title="YABANCITV",TRT WORLD
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4002/trtworld.ts
-
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
@@ -1469,7 +1432,7 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-name="24 TV" tvg-id="40" tvg-id="24TV.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="HABER",24
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
-#EXTINF:-1 tvg-name="Ulusal 1" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
+#EXTINF:-1 tvg-name="ULUSAL 1" tvg-id="ULUSALKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
 https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
@@ -1530,13 +1493,133 @@ https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltu
 #EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-id="" tvg-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="MUZIK",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
 
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="Çocuk&Eğitim",Zarok TV Kürtçe
+#EXTINF:-1 tvg-name="TR: TRT 4K" group-title="ULUSAL",TR: TRT 4K
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
+#EXTINF:-1 tvg-name="TR: TRT1 HD" group-title="ULUSAL",TR: TRT1 HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839
+#EXTINF:-1 tvg-name="TR: TRT 1" group-title="ULUSAL",TR: TRT 1
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48840
+#EXTINF:-1 tvg-name="TR: TRT2 HD" group-title="ULUSAL",TR: TRT2 HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
+#EXTINF:-1 tvg-name="TR: TRT TURK HD" group-title="ULUSAL",TR: TRT TURK HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48842
+#EXTINF:-1 tvg-name="TR: TRT TURK" group-title="ULUSAL",TR: TRT TURK
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48843
+#EXTINF:-1 tvg-name="TR: ATV HD" group-title="ULUSAL",TR: ATV HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
+#EXTINF:-1 tvg-name="TR: ATV" group-title="ULUSAL",TR: ATV
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48847
+#EXTINF:-1 tvg-name="TR: SHOW HD" group-title="ULUSAL",TR: SHOW HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
+#EXTINF:-1 tvg-name="TR: SHOW TV" group-title="ULUSAL",TR: SHOW TV
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
+#EXTINF:-1 tvg-name="TR: SHOW Turk HD" group-title="ULUSAL",TR: SHOW Turk HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
+#EXTINF:-1 tvg-name="TR: STAR TV HD" group-title="ULUSAL",TR: STAR TV HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
+#EXTINF:-1 tvg-name="TR: STAR TV" group-title="ULUSAL",TR: STAR TV
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48852
+#EXTINF:-1 tvg-name="TR: EUROSTAR SD" group-title="ULUSAL",TR: EUROSTAR SD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853
+#EXTINF:-1 tvg-name="TR: Kanal D HD" group-title="ULUSAL",TR: Kanal D HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
+#EXTINF:-1 tvg-name="TR: KANAL D" group-title="ULUSAL",TR: KANAL D
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48855
+#EXTINF:-1 tvg-name="TR: EURO D HD" group-title="ULUSAL",TR: EURO D HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856
+#EXTINF:-1 tvg-name="TR: EURO D" group-title="ULUSAL",TR: EURO D
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48857
+#EXTINF:-1 tvg-name="TR: NOW TV HD" group-title="ULUSAL",TR: NOW TV HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
+#EXTINF:-1 tvg-name="TR: TV 8 HD" group-title="ULUSAL",TR: TV 8 HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
+#EXTINF:-1 tvg-name="TR: TV 8 SD" group-title="ULUSAL",TR: TV 8 SD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48860
+#EXTINF:-1 tvg-name="TR: TV 8 INT" group-title="ULUSAL",TR: TV 8 INT
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
+#EXTINF:-1 tvg-name="TR: TV 8.5 HD" group-title="ULUSAL",TR: TV 8.5 HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
+#EXTINF:-1 tvg-name="TR: KANAL 7 HD" group-title="ULUSAL",TR: KANAL 7 HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48863
+#EXTINF:-1 tvg-name="TR: TV8 5" group-title="ULUSAL",TR: TV8 5
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864
+#EXTINF:-1 tvg-name="TR: KANAL 7" group-title="ULUSAL",TR: KANAL 7
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48865
+#EXTINF:-1 tvg-name="TR: KANAL 7 AVRUPA" group-title="ULUSAL",TR: KANAL 7 AVRUPA
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48866
+#EXTINF:-1 tvg-name="TR: SHOW MAX HD" group-title="ULUSAL",TR: SHOW MAX HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
+#EXTINF:-1 tvg-name="TR: SHOW MAX" group-title="ULUSAL",TR: SHOW MAX
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868
+#EXTINF:-1 tvg-name="TR: TGRT EU" group-title="ULUSAL",TR: TGRT EU
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48869
+#EXTINF:-1 tvg-name="TR: TEVE2 HD" group-title="ULUSAL",TR: TEVE2 HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
+#EXTINF:-1 tvg-name="TR: Teve 2" group-title="ULUSAL",TR: Teve 2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48871
+#EXTINF:-1 tvg-name="TR: TLC" group-title="ULUSAL",TR: TLC
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
+#EXTINF:-1 tvg-name="TR: A2 TV HD" group-title="ULUSAL",TR: A2 TV HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
+#EXTINF:-1 tvg-name="TR: A2" group-title="ULUSAL",TR: A2
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48874
+#EXTINF:-1 tvg-name="TR: FX HD" group-title="ULUSAL",TR: FX HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
+#EXTINF:-1 tvg-name="TR: 360 TV HD" group-title="ULUSAL",TR: 360 TV HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
+#EXTINF:-1 tvg-name="TR: BLOOMBERGHT HD" group-title="ULUSAL",TR: BLOOMBERGHT HD
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+#EXTINF:-1 tvg-name="TR: TV 100" group-title="ULUSAL",TR: TV 100
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
+#EXTINF:-1 tvg-name="TR: HALK TV" group-title="ULUSAL",TR: HALK TV
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
+
+#EXTINF:1 tvg-id="Zarok TV Kürtçe" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="Çocuk",Zarok TV Kürtçe
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="XXX: Penthouse Gold HD" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse Gold HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992
-
 #EXTINF:-1 tvg-name="XXX: Penthouse Reality TV HD" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse Reality TV HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993
@@ -1610,124 +1693,39 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017
 
-#EXTINF:-1 tvg-name="TR: TRT 4K" group-title="ULUSAL YAYINLAR",TR: TRT 4K
+#EXTINF:-1 tvg-name="NPO 1" group-title="YABANCITV",NPO 1
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-#EXTINF:-1 tvg-name="TR: TRT1 HD" group-title="ULUSAL YAYINLAR",TR: TRT1 HD
+http://62.131.195.211:8086/12.ts
+#EXTINF:-1 tvg-name="NPO 2" group-title="YABANCITV",NPO 2
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839
-#EXTINF:-1 tvg-name="TR: TRT 1" group-title="ULUSAL YAYINLAR",TR: TRT 1
+http://62.131.195.211:8087/20.ts
+#EXTINF:-1 tvg-name="NPO ZAPPELEN" group-title="YABANCITV",NPO ZAPPELEN
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48840
-#EXTINF:-1 tvg-name="TR: TRT2 HD" group-title="ULUSAL YAYINLAR",TR: TRT2 HD
+http://62.131.195.211:8087/24.ts
+#EXTINF:-1 tvg-name="RTL 4" group-title="YABANCITV",RTL 4
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
-#EXTINF:-1 tvg-name="TR: TRT TURK HD" group-title="ULUSAL YAYINLAR",TR: TRT TURK HD
+http://62.131.195.211:8087/28.ts
+#EXTINF:-1 tvg-name="Z SELECT" group-title="YABANCITV",Z SELECT
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48842
-#EXTINF:-1 tvg-name="TR: TRT TURK" group-title="ULUSAL YAYINLAR",TR: TRT TURK
+http://62.131.195.211:8086/0.ts
+#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="YABANCITV",EUROSPORT 1
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48843
-#EXTINF:-1 tvg-name="TR: ATV HD" group-title="ULUSAL YAYINLAR",TR: ATV HD
+http://62.131.195.211:8086/8.ts
+#EXTINF:-1 tvg-name="ESPN" group-title="YABANCITV",ESPN
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
-#EXTINF:-1 tvg-name="TR: ATV" group-title="ULUSAL YAYINLAR",TR: ATV
+http://62.131.195.211:8086/4.ts
+#EXTINF:-1 tvg-name="EURONEWS" group-title="YABANCITV",EURONEWS
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48847
-#EXTINF:-1 tvg-name="TR: SHOW HD" group-title="ULUSAL YAYINLAR",TR: SHOW HD
+http://46.47.113.35:4000/euronews.ts
+#EXTINF:-1 tvg-name="CNBC" group-title="YABANCITV",CNBC
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
-#EXTINF:-1 tvg-name="TR: SHOW TV" group-title="ULUSAL YAYINLAR",TR: SHOW TV
+http://46.47.113.35:4000/cnbc.ts
+#EXTINF:-1 tvg-name="BBCNEWS" group-title="YABANCITV",BBCNEWS
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
-#EXTINF:-1 tvg-name="TR: SHOW Turk HD" group-title="ULUSAL YAYINLAR",TR: SHOW Turk HD
+http://46.47.113.35:4000/bbcnews.ts
+#EXTINF:-1 tvg-name="DW HD" group-title="YABANCITV",DW HD
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
-#EXTINF:-1 tvg-name="TR: STAR TV HD" group-title="ULUSAL YAYINLAR",TR: STAR TV HD
+http://46.47.113.35:4001/dw_hd.ts
+#EXTINF:-1 tvg-name="TRT WORLD" group-title="YABANCITV",TRT WORLD
 #EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
-#EXTINF:-1 tvg-name="TR: STAR TV" group-title="ULUSAL YAYINLAR",TR: STAR TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48852
-#EXTINF:-1 tvg-name="TR: EUROSTAR SD" group-title="ULUSAL YAYINLAR",TR: EUROSTAR SD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853
-#EXTINF:-1 tvg-name="TR: Kanal D HD" group-title="ULUSAL YAYINLAR",TR: Kanal D HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
-#EXTINF:-1 tvg-name="TR: KANAL D" group-title="ULUSAL YAYINLAR",TR: KANAL D
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48855
-#EXTINF:-1 tvg-name="TR: EURO D HD" group-title="ULUSAL YAYINLAR",TR: EURO D HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856
-#EXTINF:-1 tvg-name="TR: EURO D" group-title="ULUSAL YAYINLAR",TR: EURO D
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48857
-#EXTINF:-1 tvg-name="TR: NOW TV HD" group-title="ULUSAL YAYINLAR",TR: NOW TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
-#EXTINF:-1 tvg-name="TR: TV 8 HD" group-title="ULUSAL YAYINLAR",TR: TV 8 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
-#EXTINF:-1 tvg-name="TR: TV 8 SD" group-title="ULUSAL YAYINLAR",TR: TV 8 SD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48860
-#EXTINF:-1 tvg-name="TR: TV 8 INT" group-title="ULUSAL YAYINLAR",TR: TV 8 INT
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
-#EXTINF:-1 tvg-name="TR: TV 8.5 HD" group-title="ULUSAL YAYINLAR",TR: TV 8.5 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
-#EXTINF:-1 tvg-name="TR: KANAL 7 HD" group-title="ULUSAL YAYINLAR",TR: KANAL 7 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48863
-#EXTINF:-1 tvg-name="TR: TV8 5" group-title="ULUSAL YAYINLAR",TR: TV8 5
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864
-#EXTINF:-1 tvg-name="TR: KANAL 7" group-title="ULUSAL YAYINLAR",TR: KANAL 7
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48865
-#EXTINF:-1 tvg-name="TR: KANAL 7 AVRUPA" group-title="ULUSAL YAYINLAR",TR: KANAL 7 AVRUPA
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48866
-#EXTINF:-1 tvg-name="TR: SHOW MAX HD" group-title="ULUSAL YAYINLAR",TR: SHOW MAX HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
-#EXTINF:-1 tvg-name="TR: SHOW MAX" group-title="ULUSAL YAYINLAR",TR: SHOW MAX
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868
-#EXTINF:-1 tvg-name="TR: TGRT EU" group-title="ULUSAL YAYINLAR",TR: TGRT EU
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48869
-#EXTINF:-1 tvg-name="TR: TEVE2 HD" group-title="ULUSAL YAYINLAR",TR: TEVE2 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
-#EXTINF:-1 tvg-name="TR: Teve 2" group-title="ULUSAL YAYINLAR",TR: Teve 2
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48871
-#EXTINF:-1 tvg-name="TR: TLC" group-title="ULUSAL YAYINLAR",TR: TLC
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
-#EXTINF:-1 tvg-name="TR: A2 TV HD" group-title="ULUSAL YAYINLAR",TR: A2 TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
-#EXTINF:-1 tvg-name="TR: A2" group-title="ULUSAL YAYINLAR",TR: A2
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48874
-#EXTINF:-1 tvg-name="TR: FX HD" group-title="ULUSAL YAYINLAR",TR: FX HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
-#EXTINF:-1 tvg-name="TR: 360 TV HD" group-title="ULUSAL YAYINLAR",TR: 360 TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
-#EXTINF:-1 tvg-name="TR: BLOOMBERGHT HD" group-title="ULUSAL YAYINLAR",TR: BLOOMBERGHT HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
-#EXTINF:-1 tvg-name="TR: TV 100" group-title="ULUSAL YAYINLAR",TR: TV 100
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
-#EXTINF:-1 tvg-name="TR: HALK TV" group-title="ULUSAL YAYINLAR",TR: HALK TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
-
+http://46.47.113.35:4002/trtworld.ts
