@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TURK HD+ LINE",TRT1
 http://95.174.71.114/TR-TRT1/index.m3u8
 
-#EXTINF:-1 tvg-name="11. TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",11. TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Sinema",Tabii
