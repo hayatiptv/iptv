@@ -1,4 +1,4 @@
-# Turkey , Germany , Netherland _IPTV
+# Turkey , Germany , Netherland _IPTV  donate please a cup coffee  https://ko-fi.com/digiseytan
 iPTV live TV ,Her Dilde IPTV Canli TV,Wereldwijd iPTV live TV,Canli canli izle
 
 Collection of 1000+ free IPTV channels from Turkey , Germany ,Netherland .
