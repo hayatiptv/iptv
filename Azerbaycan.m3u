@@ -5,15 +5,15 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-name="ARBGUNES.az" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="AZADTV.az" group-title="AZERBAYCAN YAYINLAR",Azad TV
+#EXTINF:-1 tvg-name="AZADTV.az" group-title="AZERBAYCAN YAYINLAR",Azad Azərbaycan TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="AZERBAYCAN YAYINLAR",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-name="BAKUTV.az" group-title="AZERBAYCAN YAYINLAR",Baku TV (720p)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="AZERBAYCAN YAYINLAR",CBC Sport [Geo-blocked]
+#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="AZERBAYCAN YAYINLAR",CBC_Sport_HD_tv_(1)
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV
+#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV HD 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 tvg-name="ELTV.az" group-title="AZERBAYCAN YAYINLAR",EL TV (260p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
@@ -23,46 +23,46 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
 #EXTINF:-1 tvg-name="MEDENIYETTV.az" group-title="AZERBAYCAN YAYINLAR",Medeniyyet TV (406p)
 https://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:-1 tvg-name="MTV.az" group-title="AZERBAYCAN YAYINLAR",MTV TV
+#EXTINF:-1 tvg-name="MTV.az" group-title="AZERBAYCAN YAYINLAR",MTV Azərbaycan TV HD 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
-#EXTINF:-1 tvg-name="SPACETV.az" group-title="AZERBAYCAN YAYINLAR",Space TV
+#EXTINF:-1 tvg-name="SPACETV.az" group-title="AZERBAYCAN YAYINLAR",Space TV HD (1)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-name="VIPTV.az" group-title="AZERBAYCAN YAYINLAR",VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 tvg-name="XEZERTV.az" group-title="AZERBAYCAN YAYINLAR",Xezer TV
+#EXTINF:-1 tvg-name="XEZERTV.az" group-title="AZERBAYCAN YAYINLAR",Xezer TV_SD 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-name="APATV.az" group-title="AZERBAYCAN YAYINLAR",APA Tv
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
-#EXTINF:-1 tvg-name="ABC" group-title="AZERBAYCAN YAYINLAR",CBC
+#EXTINF:-1 tvg-name="ABC" group-title="AZERBAYCAN YAYINLAR",CBC HD 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2196/index&extension=m3u8
 #EXTINF:-1 tvg-name="ARB24HD" group-title="AZERBAYCAN YAYINLAR",ARB 24 HD
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2188/index&extension=m3u8
-#EXTINF:-1 tvg-name="IDMAN" group-title="AZERBAYCAN YAYINLAR",Idman
+#EXTINF:-1 tvg-name="IDMAN" group-title="AZERBAYCAN YAYINLAR",Idman TV HD 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2198/index&extension=m3u8
-#EXTINF:-1 tvg-name="SPACETV" group-title="AZERBAYCAN YAYINLAR",Space TV
+#EXTINF:-1 tvg-name="SPACETV" group-title="AZERBAYCAN YAYINLAR",Space TV HD 1
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2190/index&extension=m3u8
-#EXTINF:-1 tvg-name="AZADTV" group-title="AZERBAYCAN YAYINLAR",Azad TV
+#EXTINF:-1 tvg-name="AZADTV" group-title="AZERBAYCAN YAYINLAR",Azad Azərbaycan HD 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2200/index&extension=m3u8
-#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV AZ
+#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya_TV 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2192/index&extension=m3u8
-#EXTINF:-1 tvg-name="CBC.az" group-title="AZERBAYCAN YAYINLAR",CBC AZ
+#EXTINF:-1 tvg-name="CBC.az" group-title="AZERBAYCAN YAYINLAR",CBC Azerbaijan HD 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/1050/index&extension=m3u8
-#EXTINF:-1 tvg-name="ICTiMAiTV" group-title="AZERBAYCAN YAYINLAR",Ictimai TV
+#EXTINF:-1 tvg-name="ICTiMAiTV" group-title="AZERBAYCAN YAYINLAR",Ictimai HD 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2195/index&extension=m3u8
 #EXTINF:-1 tvg-name="ARBTV HD" group-title="AZERBAYCAN YAYINLAR",ARB TV HD
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2187/index&extension=m3u8
-#EXTINF:-1 tvg-name="MEDENiYYET" group-title="AZERBAYCAN YAYINLAR",Medeniyyet
+#EXTINF:-1 tvg-name="MEDENiYYET" group-title="AZERBAYCAN YAYINLAR",Mədəniyyət TV HD 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2197/index&extension=m3u8
 #EXTINF:-1 tvg-name="ARB GUNESHD" group-title="AZERBAYCAN YAYINLAR",ARB Gunes HD
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2189/index&extension=m3u8
-#EXTINF:-1 tvg-name="XAZARTV" group-title="AZERBAYCAN YAYINLAR",Xazar TV
+#EXTINF:-1 tvg-name="XAZARTV" group-title="AZERBAYCAN YAYINLAR",Xazar TV HD 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2199/index&extension=m3u8
-#EXTINF:-1 tvg-name="AZTV" group-title="AZERBAYCAN YAYINLAR",AzTV
+#EXTINF:-1 tvg-name="AZTV" group-title="AZERBAYCAN YAYINLAR",AzTV_SD 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/966/index&extension=m3u8
-#EXTINF:-1 tvg-name="CBC SPORT" group-title="AZERBAYCAN YAYINLAR",CBC Sport
+#EXTINF:-1 tvg-name="CBC SPORT" group-title="AZERBAYCAN YAYINLAR",CBC_SPORT_HD_tv 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2193/index&extension=m3u8
-#EXTINF:-1 tvg-name="MUZ TV.az" group-title="AZERBAYCAN YAYINLAR",Muz TV AZ
+#EXTINF:-1 tvg-name="MUZ TV.az" group-title="AZERBAYCAN YAYINLAR",Muz TV AZERBAİJAN 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2191/index.m3u8
 #EXTINF:-1 tvg-name="ARBTVHD" group-title="AZERBAYCAN YAYINLAR",ARB TV HD
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2187/index.m3u8
@@ -78,40 +78,41 @@ http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16052/index.m3u8
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16047/index.m3u8
 #EXTINF:-1 tvg-name="MCJ Shopping AZ" group-title="AZERBAYCAN YAYINLAR",MCJ Shopping AZ
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16046/index.m3u8
-#EXTINF:-1 tvg-name="TV HD AZ" group-title="AZERBAYCAN YAYINLAR",ATV HD AZ
+#EXTINF:-1 tvg-name="TV HD AZ" group-title="AZERBAYCAN YAYINLAR",ATV AZƏRBAYCAN HD AZ
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16045/index.m3u8
-#EXTINF:-1 tvg-name="Idman HD AZ" group-title="AZERBAYCAN YAYINLAR",Idman HD AZ
+#EXTINF:-1 tvg-name="Idman HD AZ" group-title="AZERBAYCAN YAYINLAR",Idman Azərbaycan HD AZ
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16044/index.m3u8
 #EXTINF:-1 tvg-name="KATV1 AZ" group-title="AZERBAYCAN YAYINLAR",KATV1 AZ
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/16042/index.m3u8
 #EXTINF:-1 tvg-name="ARB 24 HD" group-title="AZERBAYCAN YAYINLAR",ARB 24 HD
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2188/index.m3u8
-#EXTINF:-1 tvg-name="ARB Gunes HD" group-title="AZERBAYCAN YAYINLAR",ARB Gunes HD
+#EXTINF:-1 tvg-name="ARB Gunes HD" group-title="AZERBAYCAN YAYINLAR",ARB Gunesh HD
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2189/index.m3u8
-#EXTINF:-1 tvg-name="Space TV" group-title="AZERBAYCAN YAYINLAR",Space TV
+#EXTINF:-1 tvg-name="Space TV" group-title="AZERBAYCAN YAYINLAR",Space HD 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2190/index.m3u8
 #EXTINF:-1 tvg-name="Dunya TV AZ" group-title="AZERBAYCAN YAYINLAR",Dunya TV AZ
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2192/index.m3u8
-#EXTINF:-1 tvg-name="CBC Sport" group-title="AZERBAYCAN YAYINLAR",CBC Sport
+#EXTINF:-1 tvg-name="CBC Sport" group-title="AZERBAYCAN YAYINLAR",CBC_AZƏRBAYCAN_HD 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2193/index.m3u8
-#EXTINF:-1 tvg-name="Ictimai TV" group-title="AZERBAYCAN YAYINLAR",Ictimai TV
+#EXTINF:-1 tvg-name="Ictimai TV" group-title="AZERBAYCAN YAYINLAR",Ictimai TV HD 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2195/index.m3u8
-#EXTINF:-1 tvg-name="CBC" group-title="AZERBAYCAN YAYINLAR",CBC
+#EXTINF:-1 tvg-name="CBC" group-title="AZERBAYCAN YAYINLAR",CBC TV HD 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2196/index.m3u8
-#EXTINF:-1 tvg-name="Medeniyyet" group-title="AZERBAYCAN YAYINLAR",Medeniyyet
+#EXTINF:-1 tvg-name="Medeniyyet" group-title="AZERBAYCAN YAYINLAR",Medeniyyet_TV
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2197/index.m3u8
-#EXTINF:-1 tvg-name="Idman" group-title="AZERBAYCAN YAYINLAR",Idman
+#EXTINF:-1 tvg-name="Idman" group-title="AZERBAYCAN YAYINLAR",Idman Azerbaijan HD 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2198/index.m3u8
-#EXTINF:-1 tvg-name="azar TV" group-title="AZERBAYCAN YAYINLAR",Xazar TV
+#EXTINF:-1 tvg-name="azar TV" group-title="AZERBAYCAN YAYINLAR",XƏZƏR TV
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2199/index.m3u8
-#EXTINF:-1 tvg-name="Azad TV" group-title="AZERBAYCAN YAYINLAR",Azad TV
+#EXTINF:-1 tvg-name="Azad TV" group-title="AZERBAYCAN YAYINLAR",Azad Azərbaycan TV HD 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2200/index.m3u8
-#EXTINF:-1 tvg-name="AzTV" group-title="AZERBAYCAN YAYINLAR",AzTV
+#EXTINF:-1 tvg-name="AzTV" group-title="AZERBAYCAN YAYINLAR",AzTV Azerbaijan 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/966/index.m3u8
-#EXTINF:-1 tvg-name="CBC AZ" group-title="AZERBAYCAN YAYINLAR",CBC AZ
+#EXTINF:-1 tvg-name="CBC AZ" group-title="AZERBAYCAN YAYINLAR",CBC Azerbaijan TV HD 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/1050/index.m3u8
 #EXTINF:-1 tvg-name="AL ZAHRA TV" group-title="AZERBAYCAN YAYINLAR",AL ZAHRA TV
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-name="EL TV" group-title="AZERBAYCAN YAYINLAR",EL TV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+
 
