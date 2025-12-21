@@ -36,3 +36,5 @@ Donate RXD: 13QCij4L5aaHbgx6MqugNijtqCLARuWeGv
 Donate ZiL: zil15szeu50ed7lnztxec8hjz4rtrdmczvdzh2wmm0
 
 Good day
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4Q0B7R)
