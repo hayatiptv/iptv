@@ -1,8 +1,12 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 27.06.2025 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="ARBGUNES.az" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
-#EXTINF:-1 tvg-name="Arb.az" group-title="AZERBAYCAN YAYINLAR",ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-name="Arb.az" group-title="AZERBAYCAN YAYINLAR",ARB HD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+
+http://85.132.81.184:8080/arb/live/news index.m3u8  ARB24 SD
+
 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-name="AZADTV.az" group-title="AZERBAYCAN YAYINLAR",Azad Azərbaycan TV
@@ -384,6 +388,7 @@ http://live.al-zahratv.com/live/playlist.m3u8
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="AlvinChannelTV.az" group-title="AZERBAYCAN YAYINLAR",Alvin Channel TV (360p) [Not 24/7]
+
 
 
 
