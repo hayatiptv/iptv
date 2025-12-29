@@ -50,7 +50,7 @@ http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2192/index&extension=m3u8
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/1050/index&extension=m3u8
 #EXTINF:-1 tvg-name="ICTiMAiTV" group-title="AZERBAYCAN YAYINLAR",Ictimai TV
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2195/index&extension=m3u8
-#EXTINF:-1 tvg-name="ARBTV HD" group-title="AZERBAYCAN YAYINLAR",ARB TV HD
+#EXTINF:-1 tvg-name="ARBTV HD" group-title="AZERBAYCAN YAYINLAR",ARB TV HD (1080p)
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2187/index&extension=m3u8
 #EXTINF:-1 tvg-name="MEDENiYYET" group-title="AZERBAYCAN YAYINLAR",Medeniyyet
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2197/index&extension=m3u8
@@ -60,7 +60,7 @@ http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2189/index&extension=m3u8
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2199/index&extension=m3u8
 #EXTINF:-1 tvg-name="AZTV" group-title="AZERBAYCAN YAYINLAR",AzTV
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/966/index&extension=m3u8
-#EXTINF:-1 tvg-name="CBC SPORT" group-title="AZERBAYCAN YAYINLAR",CBC Sport
+#EXTINF:-1 tvg-name="CBC SPORT" group-title="AZERBAYCAN YAYINLAR",CBC Sport (720p)
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2193/index&extension=m3u8
 #EXTINF:-1 tvg-name="MUZ TV.az" group-title="AZERBAYCAN YAYINLAR",Muz TV AZ
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2191/index.m3u8
@@ -114,4 +114,6 @@ http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/1050/index.m3u8
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-name="EL TV" group-title="AZERBAYCAN YAYINLAR",EL TV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8:, Hadi TV Azeri and Russian (720p)
+
 
