@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 27.06.2025 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
-#EXTINF:-1 tvg-name="AlvinChannelTV.az" group-title="AZERBAYCAN YAYINLAR",Alvin Channel TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-name="AlvinChannelTV.az" group-title="gerinal" ,Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-name="Arb.az" group-title="AZERBAYCAN YAYINLAR",ARB
+#EXTINF:-1 tvg-name="Arb.az" group-title=" gerinal" ,ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
+#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="keds" ,ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="AZADTV.az" group-title="AZERBAYCAN YAYINLAR",Azad TV
+#EXTINF:-1 tvg-name="AZADTV.az" group-title="gerinal" ,Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:-1 tvg-name="AzstarTV.az" group-title="AZERBAYCAN YAYINLAR",Azstar TV
+#EXTINF:-1 tvg-name="AzstarTV.az" group-title=" gerinal",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-name="BAKUTV.az" group-title="AZERBAYCAN YAYINLAR",Baku TV (720p)
+#EXTINF:-1 tvg-name="BAKUTV.az" group-title=" news'',Baku TV (720p)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1 tvg-name="CBCSPORT.az" group-title="AZERBAYCAN YAYINLAR",CBC Sport [Geo-blocked]
+#EXTINF:-1 tvg-name="CBCSPORT.az" Sports",CBC Sport [Geo-blocked]
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-name="DUNYATV.az" group-title="AZERBAYCAN YAYINLAR",Dunya TV
+#EXTINF:-1 tvg-name="DUNYATV.az" group-title=" gerinal",Dunya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1 tvg-name="ELTV.az" group-title="AZERBAYCAN YAYINLAR",EL TV (260p) [Not 24/7]
+#EXTINF:-1 tvg-name="ELTV.az" group-title="gerinal",EL TV (260p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-name="KANALSTV.az" group-title="AZERBAYCAN YAYINLAR",Kanal S TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
@@ -114,4 +114,5 @@ http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/1050/index.m3u8
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-name="EL TV" group-title="AZERBAYCAN YAYINLAR",EL TV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+
 
