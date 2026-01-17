@@ -1,16 +1,12 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 17.01.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
 
 #EXTINF:-1 tvg-name="AlvinChannelTV.az" group-title="AZERBAYCAN YAYINLAR",Alvin Channel TV (360p) [Not 24/7]
-#EXTINF:-1 tvg-name="AlvinChannel ''Gerenal",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Arb.az" group-title="AZERBAYCAN YAYINLAR",ARB
-#EXTINF:-1 tvg-name="Arb.az" group-title="Gerenal",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-name="ARBGUNES.az" group-title="AZERBAYCAN YAYINLAR",ARB Gunes
-#EXTINF:-1 tvg-name="ARBGUNES.az" group-title="kids",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-name="AZADTV.az" group-title="AZERBAYCAN YAYINLAR",Azad TV
-#EXTINF:-1 tvg-name="AZADTV.az" group-title= "Gerenal",Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 tvg-name="AzstarTV.az" group-title="AZERBAYCAN YAYINLAR",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
@@ -119,3 +115,7 @@ http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/1050/index.m3u8
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-name="EL TV" group-title="AZERBAYCAN YAYINLAR",EL TV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:-1 tvg-name="ELTV.az" group-title="AZERBAYCAN YAYINLAR",EL TV (260p) [Not 24/7]
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Hadi TV Azeri and Russian" group-title="AZERBAYCAN YAYINLAR",Hadi TV Azeri and Russian (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
