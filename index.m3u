@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 20.01.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 22.01.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TURK HD+ LINE",TRT1
 http://95.174.71.114/TR-TRT1/index.m3u8
@@ -1026,43 +1026,29 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998
 #EXTINF:-1 tvg-name="XXX: Dorcel TV HD" group-title="MALUM YAYINLAR EROTiK",XXX: Dorcel TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999
 #EXTINF:-1 tvg-name="XXX: Erox HD" group-title="MALUM YAYINLAR EROTiK",XXX: Erox HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001
 #EXTINF:-1 tvg-name="XXX: Eroxxx HD" group-title="MALUM YAYINLAR EROTiK",XXX: Eroxxx HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002
 #EXTINF:-1 tvg-name="XXX: Evil Angel HD" group-title="MALUM YAYINLAR EROTiK",XXX: Evil Angel HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49003
 #EXTINF:-1 tvg-name="XXX: Extasy" group-title="MALUM YAYINLAR EROTiK",XXX: Extasy
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49004
 #EXTINF:-1 tvg-name="XXX: Fantazzy TV" group-title="MALUM YAYINLAR EROTiK",XXX: Fantazzy TV
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49005
 #EXTINF:-1 tvg-name="XXX: Hustler" group-title="MALUM YAYINLAR EROTiK",XXX: Hustler
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49006
 #EXTINF:-1 tvg-name="XXX: Hustler HD" group-title="MALUM YAYINLAR EROTiK",XXX: Hustler HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49007
 #EXTINF:-1 tvg-name="XXX: Playboy TV HD" group-title="MALUM YAYINLAR EROTiK",XXX: Playboy TV HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49008
 #EXTINF:-1 tvg-name="XXX: Pure Babes" group-title="MALUM YAYINLAR EROTiK",XXX: Private TV HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49009
 #EXTINF:-1 tvg-name="Penthouse Gold HD" group-title="MALUM YAYINLAR EROTiK",XXX: Pure Babes
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010
 #EXTINF:-1 tvg-name="XXX: Reality Kings" group-title="MALUM YAYINLAR EROTiK",XXX: Reality Kings
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011
 #EXTINF:-1 tvg-name="XXX: Redlight HD" group-title="MALUM YAYINLAR EROTiK",XXX: Redlight HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49012
-#EXTINF:-1 tvg-name="XXX: Vivid Red HD" group-title="MALUM YAYINLAR EROTiK",XXX: Vivid Red HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49013
 #EXTINF:-1 tvg-name="XXX: Super One" group-title="MALUM YAYINLAR EROTiK",XXX: Super One
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014
 #EXTINF:-1 tvg-name="XXX: XY plus" group-title="MALUM YAYINLAR EROTiK",XXX: XY plus
