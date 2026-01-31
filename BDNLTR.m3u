@@ -1,99 +1,66 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 26.01.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
-
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 31.01.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TURK HD+ LINE",TRT1
 http://95.174.71.114/TR-TRT1/index.m3u8
-
 #EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-
 #EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Sinema",Tabii
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-
 #EXTINF:-1 tvg-name="Halk TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="TURK HD+ LINE",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="TURK HD+ LINE",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="SHOW TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png" group-title="TURK HD+ LINE",SHOW TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/shturk.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="TURK HD+ LINE",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="TURK HD+ LINE",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TEVE2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve2-tr.png" group-title="TURK HD+ LINE",TEVE2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TV100" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="TURK HD+ LINE",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="AKIT TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png" group-title="TURK HD+ LINE",AKIT TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="TURK HD+ LINE",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="HALK TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="TURK HD+ LINE",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png" group-title="TURK HD+ LINE",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TGRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png" group-title="TURK HD+ LINE",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="HABERTURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="TURK HD+ LINE",HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/24-tr.png" group-title="TURK HD+ LINE",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="DOST TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dost-tv-tr.png" group-title="TURK HD+ LINE",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="DIYANET TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png" group-title="TURK HD+ LINE",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="A SPOR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png" group-title="TURK HD+ LINE",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="SPORTS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sports-tv-tr.png" group-title="TURK HD+ LINE",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT EBA ORTAKUL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/eba-tv-ortaokul-tr.png" group-title="TURK HD+ LINE",TRT EBA ORTAKUL
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="TURK HD+ LINE",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="TURK HD+ LINE",TRT COCUK DIYANET
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT AVAZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png" group-title="TURK HD+ LINE",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT KURDI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png" group-title="TURK HD+ LINE",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT ARABI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-arabi-tr.png" group-title="TURK HD+ LINE",TRT ARABI
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT WORLD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png" group-title="TURK HD+ LINE",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png" group-title="TURK HD+ LINE",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
@@ -494,7 +461,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="Zarok TV" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/vOMV90y25YDRtvUVCbkoAvQ_5rGZsMAxQkegh-R5xQdUi0g-YRcuQno1yuw3v-CB1A=w240-h480-rw" group-title="Çocuk",Zarok TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://zindikirmancki.zaroktv.com.tr/hls/stream.m3u8
-
 #EXTINF:1 tvg-id="Zarok TV Kürtçe" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="Çocuk",Zarok TV Kürtçe
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
@@ -1057,6 +1023,68 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016
 #EXTINF:-1 tvg-name="XXX: XY mix" group-title="MALUM YAYINLAR EROTiK",XXX: XY mix
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017
+#EXTINF:-1 tvg-name="XXX: EROTIEK 2" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10351
+#EXTINF:-1 tvg-name="XXX: EROTIEK 3" group-title="MALUM YAYINLAR EROTiK",XXX:EROTIEK 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10350
+#EXTINF:-1 tvg-name="XXX: EROTIEK 4" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 4
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10349
+#EXTINF:-1 tvg-name="XXX: EROTIEK 5" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 5
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10348
+#EXTINF:-1 tvg-name="XXX: EROTIEK 8" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 8
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10345
+#EXTINF:-1 tvg-name="XXX: EROTIEK 9" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 9
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10344
+#EXTINF:-1 tvg-name="XXX: EROTIEK 10" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 10
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10343
+#EXTINF:-1 tvg-name="XXX: EROTIEK 11" group-title="MALUM YAYINLAR EROTiK",XXX:EROTIEK 11
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10342
+#EXTINF:-1 tvg-name="XXX: EROTIEK 12" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 12
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10341
+#EXTINF:-1 tvg-name="XXX: EROTIEK 13" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 13
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10340
+#EXTINF:-1 tvg-name="XXX: EROTIEK 14" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 14
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10339
+#EXTINF:-1 tvg-name="XXX: EROTIEK 15" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 15
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10338
+#EXTINF:-1 tvg-name="XXX: EROTIEK 18" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 18
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42178
+#EXTINF:-1 tvg-name="XXX: EROTIEK 19" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 19
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42179
+#EXTINF:-1 tvg-name="XXX: EROTIEK 20" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 20
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42180
+##EXTINF:-1 tvg-name="XXX: EROTIEK 22" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 22
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42182
+#EXTINF:-1 tvg-name="XXX: EROTIEK 25" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 25
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42185
+#EXTINF:-1 tvg-name="XXX: EROTIEK 26" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 26
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42186
+#EXTINF:-1 tvg-name="XXX: EROTIEK 28" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 28
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42188
+#EXTINF:-1 tvg-name="XXX: EROTIEK 29" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 29
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42189
+#EXTINF:-1 tvg-name="XXX: EROTIEK 32" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 32
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42192
+#EXTINF:-1 tvg-name="XXX: EROTIEK 33" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 33
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42193
+#EXTINF:-1 tvg-name="XXX: EROTIEK 36" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 36
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42196
+#EXTINF:-1 tvg-name="XXX: EROTIEK 39" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 39
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42199
+#EXTINF:-1 tvg-name="XXX: EROTIEK 42" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 42
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42202
+#EXTINF:-1 tvg-name="XXX: EROTIEK 43" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 43
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42203
+#EXTINF:-1 tvg-name="XXX: EROTIEK 45" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 45
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42205
+#EXTINF:-1 tvg-name="XXX: EROTIEK 46" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 46
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42206
+#EXTINF:-1 tvg-name="XXX: EROTIEK 47" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 47
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42207
+#EXTINF:-1 tvg-name="XXX: EROTIEK 48" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 48
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42208
+#EXTINF:-1 tvg-name="XXX: EROTIEK 49" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 49
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42209
 
 #EXTINF:0,TR: TRT 1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/623
@@ -1639,67 +1667,5 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:0,NL: Eurosport 2 FHD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14897
 
-#EXTINF:-1 tvg-name="XXX: EROTIEK 2" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 2
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10351
-#EXTINF:-1 tvg-name="XXX: EROTIEK 3" group-title="MALUM YAYINLAR EROTiK",XXX:EROTIEK 3
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10350
-#EXTINF:-1 tvg-name="XXX: EROTIEK 4" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 4
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10349
-#EXTINF:-1 tvg-name="XXX: EROTIEK 5" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 5
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10348
-#EXTINF:-1 tvg-name="XXX: EROTIEK 8" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 8
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10345
-#EXTINF:-1 tvg-name="XXX: EROTIEK 9" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 9
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10344
-#EXTINF:-1 tvg-name="XXX: EROTIEK 10" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 10
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10343
-#EXTINF:-1 tvg-name="XXX: EROTIEK 11" group-title="MALUM YAYINLAR EROTiK",XXX:EROTIEK 11
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10342
-#EXTINF:-1 tvg-name="XXX: EROTIEK 12" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 12
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10341
-#EXTINF:-1 tvg-name="XXX: EROTIEK 13" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 13
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10340
-#EXTINF:-1 tvg-name="XXX: EROTIEK 14" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 14
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10339
-#EXTINF:-1 tvg-name="XXX: EROTIEK 15" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 15
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10338
-#EXTINF:-1 tvg-name="XXX: EROTIEK 18" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 18
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42178
-#EXTINF:-1 tvg-name="XXX: EROTIEK 19" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 19
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42179
-#EXTINF:-1 tvg-name="XXX: EROTIEK 20" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 20
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42180
-##EXTINF:-1 tvg-name="XXX: EROTIEK 22" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 22
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42182
-#EXTINF:-1 tvg-name="XXX: EROTIEK 25" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 25
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42185
-#EXTINF:-1 tvg-name="XXX: EROTIEK 26" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 26
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42186
-#EXTINF:-1 tvg-name="XXX: EROTIEK 28" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 28
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42188
-#EXTINF:-1 tvg-name="XXX: EROTIEK 29" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 29
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42189
-#EXTINF:-1 tvg-name="XXX: EROTIEK 32" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 32
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42192
-#EXTINF:-1 tvg-name="XXX: EROTIEK 33" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 33
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42193
-#EXTINF:-1 tvg-name="XXX: EROTIEK 36" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 36
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42196
-#EXTINF:-1 tvg-name="XXX: EROTIEK 39" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 39
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42199
-#EXTINF:-1 tvg-name="XXX: EROTIEK 42" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 42
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42202
-#EXTINF:-1 tvg-name="XXX: EROTIEK 43" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 43
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42203
-#EXTINF:-1 tvg-name="XXX: EROTIEK 45" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 45
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42205
-#EXTINF:-1 tvg-name="XXX: EROTIEK 46" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 46
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42206
-#EXTINF:-1 tvg-name="XXX: EROTIEK 47" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 47
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42207
-#EXTINF:-1 tvg-name="XXX: EROTIEK 48" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 48
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42208
-#EXTINF:-1 tvg-name="XXX: EROTIEK 49" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 49
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42209
 
 
