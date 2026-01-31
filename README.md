@@ -4,6 +4,9 @@ iPTV live TV ,Her Dilde IPTV Canli TV,Wereldwijd iPTV live TV,Canli canli izle
 
 Collection of 1000+ free IPTV channels from Turkey , Germany ,Netherland .
 
+To open the playlist in Browse here webbrowser with iptv player Apk android cihazlarda kullanilir ve Smart TV lerde : https://browsehere.net/tr/ super iptv player icerisinde 
+indir burdan : https://dosya.co/gdjbdl85v3kk/browsehere-net-app-release.apk.html
+
 To open the playlist in VLC player you just need click File - > Open Network... and in the window that opens, insert a link to the playlist itself:
 
 - 1: https://tinyurl.com/TVCANLI 
