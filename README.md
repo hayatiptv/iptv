@@ -13,9 +13,9 @@ To open the playlist in VLC player you just need click File - > Open Network... 
 
 - 2: https://bit.ly/2GnzhJy
 
-VLC + Kodi simple iptv International 
+Playlist same als index with XXX channels
 
-- 1: https://tinyurl.com/4e3ya93p 
+- 1: https://tinyurl.com/4e3ya93p  with XXX channels
 
 - 2: http://tinyurl.com/TVCANLIEPG  --->> EPG Listesi Link
 
