@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 31.01.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 01.03.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TURK HD+ LINE",TRT1
-http://95.174.71.114/TR-TRT1/index.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Sinema",Tabii
@@ -10,11 +10,11 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="TURK HD+ LINE",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
+https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="TURK HD+ LINE",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SHOW TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png" group-title="TURK HD+ LINE",SHOW TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/shturk.m3u8
+https://goldvod.org/live/hpgdiscoo/123456/6.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="TURK HD+ LINE",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="TURK HD+ LINE",360
@@ -771,25 +771,14 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Da Vinci.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  group-title="Belgesel", Davinci Learning
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
 
-https://goldvod.org/live/hpgdiscoo/123456/260.m3u8
-#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt1_D9T.png" group-title="|TR| ULUSAL",TRT 1 HD
-https://goldvod.org/live/hpgdiscoo/123456/1.m3u8
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/KANALD.png" group-title="|TR| ULUSAL",KANAL D FHD
-https://goldvod.org/live/hpgdiscoo/123456/5.m3u8
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/KANALD.png" group-title="|TR| ULUSAL",KANAL D HD
 https://goldvod.org/live/hpgdiscoo/123456/262.m3u8
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV FHD" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" group-title="|TR| ULUSAL",ATV FHD
 https://goldvod.org/live/hpgdiscoo/123456/263.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" group-title="|TR| ULUSAL",ATV HD
-https://goldvod.org/live/hpgdiscoo/123456/2.m3u8
-#EXTINF:-1 tvg-id="STARTV.tr" tvg-name="STAR TV FHD" tvg-logo="https://hizlitv.org/kanallar/star-tv.png" group-title="|TR| ULUSAL",STAR TV FHD
-https://goldvod.org/live/hpgdiscoo/123456/151.m3u8
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="STAR TV HD" tvg-logo="https://hizlitv.org/kanallar/star-tv.png" group-title="|TR| ULUSAL",STAR TV HD
 https://goldvod.org/live/hpgdiscoo/123456/264.m3u8
 #EXTINF:-1 tvg-id="now.tr" tvg-name="NOW TV FHD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/now_turk_3T9.png" group-title="|TR| ULUSAL",NOW TV FHD
 https://goldvod.org/live/hpgdiscoo/123456/265.m3u8
-#EXTINF:-1 tvg-id="now.tr" tvg-name="NOW TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/now_turk_3T9.png" group-title="|TR| ULUSAL",NOW TV HD
-https://goldvod.org/live/hpgdiscoo/123456/3.m3u8
 #EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV FHD (O)" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png" group-title="|TR| ULUSAL",SHOW TV FHD (O)
 https://goldvod.org/live/hpgdiscoo/123456/478.m3u8
 #EXTINF:-1 tvg-id="show.tr" tvg-name="SHOW TV 4K" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png" group-title="|TR| ULUSAL",SHOW TV 4K
@@ -972,6 +961,123 @@ https://goldvod.org/live/hpgdiscoo/123456/189.m3u8
 https://goldvod.org/live/hpgdiscoo/123456/190.m3u8
 #EXTINF:-1 tvg-id="kabetv.tr" tvg-name="KabeTV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kabe_tv_PVy.png" group-title="|TR| DİNİ KANALLAR",KabeTV
 https://goldvod.org/live/hpgdiscoo/123456/191.m3u8
+
+#EXTINF:3702,TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:60,TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:40,ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:2630,KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:60,360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:60,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:2700,TV100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:1800,AKIT TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:2660,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:2700,HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:60,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:2690,HABERTURK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:60,24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:60,DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:120,DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:2690,A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:1600,SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:60,TRT EBA ORTAKUL
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:43200,TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:60,TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:60,TRT ARABI
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:60,TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:60,TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:3228,TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:40,ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:60,EURO D HD SS
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:43200,TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:60,TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:28,KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:2660,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:60,TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:60,360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:60,TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:24,TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:19,BIR TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+#EXTINF:24,LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:31,FB TV
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:6,TJK TV
+https://tjktv-live.tjk.org/tjktv_1080p.m3u8
+#EXTINF:43200,TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:60,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:60,NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:60,HALK TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
+#EXTINF:60,HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+#EXTINF:60,TV 100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+#EXTINF:30,TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:1800,AKIT TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:60,BENGU TURK
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+#EXTINF:24,TGRT HABER HD
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:16,TURKHABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:30,NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+#EXTINF:29,KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop
+#EXTINF:29,NR1 ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:30,NR1 DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:30,NR1 DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:60,TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:60,DREAM TURK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:33,POWER TURK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="XXX: Penthouse Gold HD" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse Gold HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992
