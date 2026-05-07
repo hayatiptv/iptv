@@ -2,7 +2,7 @@
 iPTV live TV ,Her Dilde IPTV Canli TV,Wereldwijd iPTV live TV,Canli canli izle 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4Q0B7R)
 
-Collection of 1000+ free IPTV channels from Turkey , Germany ,Netherland .
+KANAL EKLENMESiNi iSTERSENiZ LÜTFEN LINKLERi GÖNDERiN EKLEYELiM ,Collection of 1000+ free IPTV channels from Turkey , Germany ,Netherland .
 
 To open the playlist in Browse here webbrowser with iptv player Apk android cihazlarda kullanilir ve Smart TV lerde : https://browsehere.net/tr/ super iptv player icerisinde 
 indir burdan : https://dosya.co/gdjbdl85v3kk/browsehere-net-app-release.apk.html
