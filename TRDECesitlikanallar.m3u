@@ -1,12 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 15.06.2025 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
-#EXTINF:-1,TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1,ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1,STAR TV
-https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1,SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml" | SON GÜNCELLENME 25.06.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
 #EXTINF:-1,KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1,KANAL 7
@@ -17,34 +9,14 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1,TEVE 2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1,TV 8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1,TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1,TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1,DMAX TV
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1,NTV
-https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:-1,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,HABERGLOBAL
-http://trn03.tulix.tv/gt-haberglobal/tracks-v1a1/mono.m3u8
-#EXTINF:-1,HABERTÜRK
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1,TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1,A HABER
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
-#EXTINF:-1,AKiT TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1,ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1,TV100
@@ -53,36 +25,20 @@ https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1,TELE1
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:-1,TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1,24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1,A PARA
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 #EXTINF:-1,BENGÜ TÜRK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1,EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:-1,TV5
-https://tv5-live.ercdn.net/tv5/tv5.m3u8
-#EXTINF:-1,FLASH HABER
-https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
 #EXTINF:-1,TH TURK HABER TV
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1,HABER 61
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:-1,A2
-https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1,EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,SHOW TÜRK
-https://canlitvulusal.xyz/live/showturk/index.m3u8
-#EXTINF:-1,SHOW MAX
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1,KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1,TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT AVAZ
@@ -91,10 +47,6 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KRAL POP TV FHD
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1,KRAL POP TV
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1,TATLISES TV
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 #EXTINF:-1,DREAM TURK
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,NR 1 TURK
@@ -115,44 +67,16 @@ https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1,POWER DANCE
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1,POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
 #EXTINF:-1,SLOW KARADENIZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1,ASPOR
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1,HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1,TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT SPOR YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1,FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1,SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1,MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:-1,GZT TV
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1,TYT TÜRK
-https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
-#EXTINF:-1,TGRT EU
-https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
-#EXTINF:-1,TGRT BELGESEL
-https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
-#EXTINF:-1,ONS TV
-https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
-#EXTINF:-1,CİNE 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1,CİNE 5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1,CİNE 6
-https://canli.cine6tv.com.tr:3614/stream/play.m3u8
-#EXTINF:-1,CİNEMAX 6
-https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 #EXTINF:-1,TiViTURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,DENiZ POSTASI TV
@@ -161,18 +85,10 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1,DİZİ TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1,SUPERTURK TV
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1,SUPERTURK MAX
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-#EXTINF:-1,ViYANA TV
-http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1,DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1,DiYANET TV
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1,GONCA TV
-https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
 #EXTINF:-1,LALEGUL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1,SEMERKAND TV
@@ -181,16 +97,10 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/playlist.m3u8
 #EXTINF:-1,REHBER TV
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KUDUS TV
-https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
 #EXTINF:-1,KANAL ON 4 TV
 https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
 #EXTINF:-1,AL ZAHRA TURK TV
 https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1,HADİ TV
-https://live.ishiacloud.com/hls/37166b77-128d-425c-91bf-8195071c217d_720p.m3u8
-#EXTINF:-1,İLK TV
-https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/playlist.m3u8
 #EXTINF:-1,MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1,MUKABELE TV
@@ -201,40 +111,12 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT DİYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,BRT 2 KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
-#EXTINF:-1,MİNİKA GO
-https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
-#EXTINF:-1,MİNİKA ÇOÇUK
-https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1,CARTOONNETWORK BLUTV
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1,TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
-#EXTINF:-1,BRT 1 KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
-#EXTINF:-1,KIBRIS ADA
-https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/chunklist_w2073141101.m3u8
-#EXTINF:-1,KTV  KIBRIS
-https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
-#EXTINF:-1,KUZEY KIBRIS
-https://kuzeykibris.tv/m3u8/kktv.m3u8
-#EXTINF:-1,KIBRIS GENÇ TV
-https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/chunklist_w248136165.m3u8
-#EXTINF:-1,KANAL T
-https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist.m3u8
-#EXTINF:-1,SİM TV
-https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklis.m3u8
-#EXTINF:-1,TV 2020
-https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/chunklist.m3u8
-#EXTINF:-1,AGRO TV
-https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 #EXTINF:-1,AKSU TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1,ANADOLUNET TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1,ANGARA TV
-https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
 #EXTINF:-1,ARAS TV
 https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8
 #EXTINF:-1,BİR TV
@@ -245,28 +127,16 @@ https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1,BURSA LiNE TV
 https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
-#EXTINF:-1,BURSA ON6 TV
-https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
 #EXTINF:-1,CAY TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:-1,ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF:-1,DEHA TV
-https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
 #EXTINF:-1,DERiN TV
 https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
 #EXTINF:-1,DİM TV
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
-#EXTINF:-1,EDİRNE TV
-https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
-#EXTINF:-1,EDESSA TV
-https://tv170.radyotelekom.com.tr:21764/edessatv/edessatv/chunklist.m3u8
-#EXTINF:-1,EDiRNE TV
-https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1,ERCİYES TV
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
-#EXTINF:-1,ERCiS TV
-https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
 #EXTINF:-1,ER TV
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:-1,ES TV
@@ -275,10 +145,6 @@ https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 #EXTINF:-1,ETV MANiSA
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
-#EXTINF:-1,FRT TV
-https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
-#EXTINF:-1,FORTUNA TV
-https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1,GRT GAZİANTEP TV
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
 #EXTINF:-1,GUNEYDOGU TV
@@ -299,8 +165,6 @@ https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 #EXTINF:-1,KANAL 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:-1,KANAL 13
-https://medya.kesintisizyayin.com:3423/stream/play.m3u8
 #EXTINF:-1,KANAL 15
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1,KANAL 19
@@ -309,8 +173,6 @@ https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
 #EXTINF:-1,KANAL 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
-#EXTINF:-1,KANAL 28
-https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 #EXTINF:-1,KANAL 32
 https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
 #EXTINF:-1,KANAL 33
@@ -319,32 +181,16 @@ https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:-1,KANAL 56
-https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
 #EXTINF:-1,KANAL 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
-#EXTINF:-1,KANAL 68
-https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
-#EXTINF:-1,KANAL ADA
-http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum
 #EXTINF:-1,KANAL AVRUPA
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
-#EXTINF:-1,KANAL B
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
-#EXTINF:-1,KANAL S
-https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8
-#EXTINF:-1,KANAL V
-https://waw1.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
-#EXTINF:-1,KANAL Z
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1,KANAL PLUS
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 #EXTINF:-1,KANAL URFA
 https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 #EXTINF:-1,KANAL FIRAT
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-#EXTINF:-1,KAY TV
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
 #EXTINF:-1,KOCAELİ TV
 https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1,KTV KONYA
@@ -359,72 +205,36 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum
 #EXTINF:-1,MUGLA TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-#EXTINF:-1,NORA TV
-https://live.artidijitalmedya.com/artidijital_noratv/noratv/chunks.m3u8
 #EXTINF:-1,OLAY TURK
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1,SUN TV
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:-1,TARIM TV
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1,TEMPO TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1,TiVi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1,TOKAT WEB TV
-https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
 #EXTINF:-1,TON TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:-1,TRAKYA TÜRK TV
-https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
-#EXTINF:-1,TÜRK KLİNİKLERİ TV
-http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
-#EXTINF:-1,TV 25
-https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
-#EXTINF:-1,TV 41
-https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:-1,TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:-1,TV 52
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
 #EXTINF:-1,TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?md5=qb_9l3erQIDqZMjbKfALzA&expires=1651666386
-#EXTINF:-1,TV A
-https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
 #EXTINF:-1,UR FANATiK TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1,TOKAT TV
 https://cdn-tokattv.yayin.com.tr/tokattv/tokattv/chunklist.m3u8
-#EXTINF:-1,URFA HABER TV
-https://ruhatv.ozelip.com:3483/stream/play.m3u8
 #EXTINF:-1,VAN GOLU TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
-#EXTINF:-1,VRT
-https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
-#EXTINF:-1,VTV TÜRK
-https://ip252.ozelip.com:22524/marstv/marstv/chunklist.m3u8
 #EXTINF:-1,VUSLAT TV
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
-#EXTINF:-1,WOMAN TV
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1,WORLDTÜRK
-https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 #EXTINF:-1,RIZE TURK HD
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1,PAZARCIK TV
-https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1,ORDU BEL TV
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
-#EXTINF:-1,YOZGAT BLD TV
-https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 #EXTINF:-1,FiNEST TV
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:-1,DAMAR TV
-https://tvsms.club/tv.php?kanal=damar&file=.m3u8
-#EXTINF:-1,ARABESK TV
-https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
-#EXTINF:-1,SILA TV
-https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
 #EXTINF:-1,ZEYNO TV
 https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
 #EXTINF:-1,DOST TV
@@ -437,8 +247,6 @@ https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
 #EXTINF:-1,ARMA TV
 https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
-#EXTINF:-1,GENC SMS TV
-https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
 #EXTINF:-1,TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT KURDi
@@ -447,926 +255,30 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,SAGLIK CHANEL
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,5 OCAK TV
-https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1939638168.m3u8
-#EXTINF:-1,ALANYA ATV
-https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TAŞ TV
-http://palatv34.ozelip.com:22372/tastv/tastv/chunklist.m3u8
 #EXTINF:-1,HÜR TV
 https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AYZ
-http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8
 #EXTINF:-1,BELEMTÜRK
 https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
 #EXTINF:-1,BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 Yedek="http://89.187.191.41/TRT-1-HD-TR/video.m3u8" Yedek2="http://89.34.226.39:8080/live/test_acct/ohbo1veifa4AhD/507.ts" Yedek3="https://tv-trt1.medya.trt.com.tr/master_1080.m3u8" Yedek4="http://95.174.71.114/TR-TRT1/index.m3u8" Yedek5="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1643" Yedek6="https://trt.daioncdn.net/trt-1/master_1080p.m3u8?app=web" Yedek7="http://185.234.111.229:8000/play/a00c" Yedek8="https://217.30.11.74/e/200.m3u8" Yedek9="http://194.76.0.61:8070/live/test_acct/ohbo1veifa4AhD/507.ts" tvg-id="TRT1 HD.tr" Yedek10="https://helga.iptv2022.com/sh/trt_1/tracks-v4a1/mono.m3u8?filter.tracks=a1v1v2v3v4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="Ulusal",TRT1
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:-1 Yedek="https://helga.iptv2022.com/sh/kanal_d/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3" Yedek2="http://89.187.191.41/Kanal-D-HD-TR/video.m3u8" Yedek3="https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8" Yedek4="https://x.canlitvapp.com/kanald/index.m3u8" Yedek5="http://live.admuspeh.my/8817/index.m3u8?token=4gPHp5ZVYqDAR4oz" Yedek6="http://78.128.125.60:9981/play/a01h/index.m3u8" Yedek7="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/2304/index.m3u8" tvg-id="KANAL D HD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="Ulusal",KANAL D
-http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-atv-tv/tracks-v1a1/mono.m3u8" Yedek2="http://89.187.191.41/ATV-HD-TR/video.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8" Yedek4="https://x.canlitvapp.com/aytv/index.m3u8" Yedek5="https://217.30.11.74/e/160.m3u8" Yedek6="http://162.212.179.34/gin-trn09/gin-atvv/playlist.m3u8" Yedek7="http://95.174.71.114/TR-ATV/index.m3u8" Yedek8="https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8" tvg-id="ATV HD.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Ulusal",ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 Yedek="https://dogus-live.daioncdn.net/startv/startv_720p.m3u8" Yedek2="https://x.canlitvapp.com/star/index.m3u8" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8" Yedek4="https://canlitvulusal.xyz/live/star/index.m3u8" Yedek5="https://cdntv.online/high/ynemik5cl9/1738.m3u8" Yedek6="http://162.212.179.34/gin-trn09/gin-startv/playlist.m3u8" Yedek7="http://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=kHQaIEAZEHZweXXprYwFlQ&e=1739826399" Yedek8="http://95.174.71.114/TR-STAR/index.m3u8" tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="Ulusal",STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-show-tv/tracks-v1a1/mono.m3u8" Yedek2="https://metvmetv.tiiny.io/?id=3317405854&e=.m3u8" Yedek3="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8" Yedek4="https://canlitvulusal.xyz/live/showtv/index.m3u8" Yedek5="https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8" Yedek6="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1634" Yedek7="https://bloomberght-live.daioncdn.net/showtv/showtv_1080p.m3u8" Yedek8="http://95.174.71.114/TR-SHOW/index.m3u8" tvg-id="SHOW TV HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Ulusal",SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-foxturktv/tracks-v1a1/mono.m3u8" Yedek2="https://x.canlitvapp.com/fox/index.m3u8" Yedek3="http://raalbatros.serv00.net/Gledai.php?ID=foxtv" Yedek4="https://tv.prectv5.sbs/live/foxtv.m3u8" Yedek5="http://66.160.192.241/foxturk/index.m3u8" Yedek6="https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8" Yedek7="https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1739787502&st=ryWMF1rS3xrXYjK40VPUeg" Yedek8="http://116.202.238.88/FOXTV_TR/index.m3u8" tvg-id="NOW.tr" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png" group-title="Ulusal",NOW
-http://66.160.192.241/foxturk/index.m3u8
 #EXTINF:-1 Yedek="https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1632" Yedek3="" tvg-id="BEYAZ TV HD.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/Beyaz_TV_TR_logo_v2.png?1734094253" group-title="Ulusal",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 Yedek="https://x.canlitvapp.com/kanal8/index.m3u8" Yedek2="https://trn03.tulix.tv/gt-tv8-tv/tracks-v1a1/mono.m3u8" Yedek3="http://89.187.191.41/TV8-HD-TR/video.m3u8" Yedek4="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1633" Yedek5="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8" Yedek6="https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="Ulusal",TV 8
-http://89.187.191.41/TV8-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png" group-title="Ulusal",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 Yedek="https://demiroren-live.daioncdn.net/teve2/teve2.m3u8" Yedek2="" Yedek3="" tvg-id="TEVE2 HD.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Ulusal",TEVE 2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 Yedek="https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8" Yedek2="" Yedek3="" tvg-id="360 HD.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="Ulusal",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-ntvtv/index.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1640" Yedek3="https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8" Yedek4="http://mn-nl.mncdn.com/dogusdyg_ntv/live_1080p3000000kbps/index.m3u8?st=nqhIEolIuSAlXxw8Kxeorg&e=1742485578" Yedek5="https://canlitvulusal.xyz/live/ntv/index.m3u8" tvg-id="NTV HD.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="Haber",NTV
-https://canlitvulusal.xyz/live/ntv/index.m3u8
 #EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-haberturk/index.m3u8" Yedek2="https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8" Yedek3="" tvg-id="HABERTÜRK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png" group-title="Haber",HABER TURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-cnnturk/index.m3u8" Yedek2="https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8" Yedek3="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1642" Yedek4="http://78.128.125.60:9981/play/a01f/index.m3u8" tvg-id="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="Haber",CNN TURK
-https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
 #EXTINF:-1 Yedek="https://tv-trthaber.medya.trt.com.tr/master_720.m3u8" Yedek2="http://89.36.94.225:80/956bassem/BHrMOpKtyb/1636" Yedek3="" tvg-id="TRT HABER HD.tr" tvg-logo="https://logowik.com/content/uploads/images/trt-haber5539.jpg" group-title="Haber",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 Yedek="https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8" Yedek2="https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8" Yedek3="" tvg-id="24 HD.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="Haber",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-tvnet/index.m3u8" Yedek2="" Yedek3="" tvg-id="TVNET HD.tr" tvg-logo="https://wa-piri-tvnet-v2.azurewebsites.net/dist/img/index-image.jpg" group-title="Haber",TV NET
-https://trn03.tulix.tv/gt-tvnet/index.m3u8
 #EXTINF:-1 Yedek="https://canli.tgrthaber.com/tgrt.m3u8" Yedek2="" Yedek3="" tvg-id="TGRT HABER HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="Haber",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-trt4k/index.m3u8" Yedek2="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/4001/index.m3u8" Yedek3="http://108.181.123.99:8070/live/test_acct/ohbo1veifa4AhD/1810.ts" Yedek4="http://176.65.146.123:6001/play/a027/index.m3u8" tvg-id="TRT 4K.tr" tvg-logo="https://icdn.ensonhaber.com/crop/1060x795/resimler/diger/kok/2021/06/16/IMG20210616050051.jpg" group-title="Sinema",TRT 4K
-http://176.65.146.123:6001/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="Sinema",TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
-#EXTINF:-1 Yedek="http://65.21.85.175:8000/play/a01v/index.m3u8?token=livetv" Yedek2="http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/1789.ts" Yedek3="http://mehmetaslan.serv00.net/Rokr/Live?ID=2761385166b4a8fac1b549" tvg-id="SİNEMA TV 1001 HD.tr" tvg-logo="https://i.pinimg.com/280x280_RS/08/ad/75/08ad75c00ad9f441558601b75260adb4.jpg" group-title="Sinema",SINEMA 1001
-https://tv1.arectv30.sbs/live/sinema1001.m3u8
-#EXTINF:-1 Yedek2="https://tv.arectv13.sbs/live/sinemaaksiyon2.m3u8" tvg-id="SİNEMA AKSİYON 2 HD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="Sinema",SINEMA AKSIYON 2
-https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8
-#EXTINF:-1 Yedek="http://65.21.85.175:8000/play/a01z/index.m3u8?token=livetv" Yedek2="https://tv.arectv13.sbs/live/sinemakomedi.m3u8" Yedek3="http://31.222.206.98/8851/tracks-v1a1/mono.ts.m3u8?token=test" tvg-id="SİNEMA KOMEDİ HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="Sinema",SINEMA KOMEDI
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-#EXTINF:-1 Yedek="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6744/index.m3u8" Yedek2="http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6744/index.m3u8" Yedek3="https://tv.prectv5.sbs/live/bspremier1.m3u8" tvg-id="beIN Box Office 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png?20161102065722" group-title="Sinema",BEIN BOX OFFICE 1
-https://tv.prectv5.sbs/live/bspremier1.m3u8
-#EXTINF:-1 Yedek="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6745/index.m3u8" Yedek2="http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6745/index.m3u8" Yedek3="https://tv.prectv5.sbs/live/bsstars.m3u8" tvg-id="beIN Box Office2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png?20161102065722" group-title="Sinema",BEIN BOX OFFICE 2
-https://tv.prectv5.sbs/live/bsstars.m3u8
-#EXTINF:-1 Yedek="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6743/index.m3u8" Yedek2="http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6743/index.m3u8" Yedek3="https://tv.prectv5.sbs/live/box3.m3u8" tvg-id="beIN Box Office3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png?20161102065722" group-title="Sinema",BEIN BOX OFFICE 3
-https://tv.prectv5.sbs/live/box3.m3u8
-#EXTINF:-1 Yedek="http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" Yedek2="http://185.234.111.229:8000/play/a00b" Yedek3="https://trn03.tulix.tv/gt-trtcocuk/index.m3u8" Yedek4="https://helga.iptv2022.com/sh/trt_cocuk/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4" tvg-id="TRT ÇOCUK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_çocuk_logo.png" group-title="Çocuk",TRT COCUK
-https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
-#EXTINF:-1 Yedek="http://stream.tvcdn.net/eglence/a2.m3u8" Yedek2="https://x.canlitvapp.com/a2/index.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8" Yedek4="http://89.187.191.41/A2-HD-TR/video.m3u8" Yedek5="https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8" tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Belgesel",A2
-http://89.187.191.41/A2-HD-TR/video.m3u8
-#EXTINF:-1 Yedek="https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8" Yedek2="https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8" Yedek3="" tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&usqp=CAU" group-title="Belgesel",TRT BELGESEL
-https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8
-#EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Belgesel",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 Yedek="https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8" Yedek2="" Yedek3="" tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="Belgesel",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 Yedek="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6866/index.m3u8" Yedek2="https://tv.arectv13.sbs/live/natgeowild.m3u8" Yedek3="http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481294&extension=ts&play_token=iIClKojl2I" Yedek4="https://217.30.11.74/e/502.m3u8" tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Belgesel",NAT GEO WILD
-http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481294&extension=ts&play_token=iIClKojl2I
-#EXTINF:-1 Yedek="http://185.234.111.229:8000/play/a00e" Yedek2="https://helga.iptv2022.com/sh/trt_spor/tracks-v3a1/mono.m3u8?filter.tracks=a1v1v2v3v4" Yedek3="https://taraftariumtr2.site/proxy.php?url=https://k0.b4c8d3e9f1a2b7c5d81.cfd/yayintrtspor.m3u8" Yedek4="http://31.222.206.98/8827/tracks-v1a1/mono.ts.m3u8?token=test" Yedek5="https://trn03.tulix.tv/gt-trtspor1/index.m3u8" Yedek6="http://176.65.146.123:6001/play/a01k/index.m3u8" tvg-id="TRT SPOR HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNu1KowYW0Ywy_-lMPzCvLGBMUaNIUAUIcwGGX1iLjHzhRclixpxWjf4lLG9QeYDPg754&usqp=CAU" group-title="Spor",TRT SPOR
-http://176.65.146.123:6001/play/a01k/index.m3u8
-#EXTINF:-1 Yedek="https://tv.arectv3.xyz/live/tv85.m3u8" Yedek2="https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8" Yedek3="http://31.222.206.98/8814/tracks-v1a1/mono.ts.m3u8?token=test" Yedek4="https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/profile_0/chunklist.m3u8" tvg-id="TV8,5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Spor",TV 8.5
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 Yedek="https://x.canlitvapp.com/aspor/index.m3u8" Yedek2="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8" Yedek3="https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8" Yedek4="http://50.7.144.122:1935/livetv/aspor.stream/sec-f5-v1-a1.m3u8" Yedek5="http://78.128.125.60:9981/play/a018/index.m3u8" Yedek6="https://217.30.11.74/e/158.m3u8" Yedek7="https://trkvz-live.daioncdn.net/aspor/aspor.m3u8" tvg-id="A SPOR HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="Spor",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 Yedek="https://tgn.bozztv.com/dvrfl05/gin-trtspor2/playlist.m3u8" Yedek2="https://217.30.11.74/e/350.m3u8" Yedek3="http://176.65.146.123:6001/play/a02g/index.m3u8" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://tv.kolaytv.org/trt-spor-yildiz.png" group-title="Spor",TRT SPOR YILDIZ
-http://176.65.146.123:6001/play/a02g/index.m3u8
-#EXTINF:-1 Yedek="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6825/index.m3u8" Yedek2="https://v.arectv13.sbs/static/ss1.m3u8" Yedek3="https://v.arectv11.sbs/static/ss1.m3u8" Yedek4="https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/607/index.m3u8" Yedek5="http://mehmetaslan.serv00.net/Rokr/Live?ID=2123273598b4a8fac1b549" Yedek6="https://live.arectv11.sbs/static/ss1.m3u8" Yedek7="http://31.222.206.98/8854/tracks-v1a1/mono.ts.m3u8?token=test" Yedek8="https://217.30.11.74/e/3030.m3u8" tvg-id="S SPORT.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor",SSPORT
-https://217.30.11.74/e/3030.m3u8
-#EXTINF:-1 Logo="" Yedek="https://metvmetvmetv7.serv00.net/vavame.php?id=1234604880&e=.m3u8" Yedek2="https://217.30.11.74/e/3031.m3u8" Yedek3="https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/608/index.m3u8" Yedek4="https://v.arectv13.sbs/static/ss2.m3u8" Yedek5="https://v.arectv11.sbs/static/ss2.m3u8" tvg-id="S.Sport2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor",SSPORT 2
-https://217.30.11.74/e/3031.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1
-http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1
-http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
-#EXTINF:-1 Yedek1="https://217.30.11.74/e/6570.m3u8" Yedek2="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1 (Mac zamanı)
-http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
-
-#EXTINF:-1 tvg-name="Tv8" group-title="CanliTV", Tv8
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv8-canliizle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Fox Tv" group-title="CanliTV", Fox Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/foxtvcanlihd-izle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kanal 7" group-title="CanliTV", Kanal 7
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-7-canli-yayin-izle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Now TV" group-title="CanliTV", Now TV
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/nowtvcanli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="ATV" group-title="CanliTV", ATV
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/atvcanli-yayin
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT 1" group-title="CanliTV", TRT 1
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trt1-canli-hd-izle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kanal D" group-title="CanliTV", Kanal D
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanald-canli-izle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Star Tv" group-title="CanliTV", Star Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/startvcanli-yayin
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Show Tv" group-title="CanliTV", Show Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/showtv-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Beyaz Tv" group-title="CanliTV", Beyaz Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/beyaz-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Flash Haber" group-title="CanliTV", Flash Haber
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/flash-haber-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Spor" group-title="CanliTV", TRT Spor
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtsporcanli-hd
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="A Spor" group-title="CanliTV", A Spor
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/aspor-canli-hd
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Bein Sports Haber" group-title="CanliTV", Bein Sports Haber
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/beinsports-haber
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TJK Tv" group-title="CanliTV", TJK Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tjktvcanli-yayin
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" group-title="CanliTV", TRT Spor Yıldız
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtsporyildiz-canlii
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Sözcü Tv" group-title="CanliTV", Sözcü Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sozcu-tv-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Haber" group-title="CanliTV", TRT Haber
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trthaber-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="NTV" group-title="CanliTV", NTV
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ntvcanli-hd
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Halk Tv" group-title="CanliTV", Halk Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/halk-tv-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="A Haber" group-title="CanliTV", A Haber
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/a-haber-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Habertürk Tv" group-title="CanliTV", Habertürk Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/haberturk-canli-hd
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="CNN Türk" group-title="CanliTV", CNN Türk
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cnnturk-canli-izle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Haber Global" group-title="CanliTV", Haber Global
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/haber-global
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Tele1" group-title="CanliTV", Tele1
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tele1-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kanal 24" group-title="CanliTV", Kanal 24
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-24-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TGRT Haber" group-title="CanliTV", TGRT Haber
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tgrthaber-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TV100" group-title="CanliTV", TV100
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv100
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Ulusal Kanal" group-title="CanliTV", Ulusal Kanal
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ulusal-kanal
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Bloomberg HT" group-title="CanliTV", Bloomberg HT
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bloomberg-ht-canli-hd-izle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="EkoTürk Tv" group-title="CanliTV", EkoTürk Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ekoturk-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="KRT Tv" group-title="CanliTV", KRT Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/krt-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Meclis Tv" group-title="CanliTV", Meclis Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/meclis-tv-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Şaban Tv" group-title="CanliTV", Şaban Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/saban-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Teve2" group-title="CanliTV", Teve2
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/teve2-canli-izle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Tv8,5" group-title="CanliTV", Tv8,5
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv85canli-hd
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Tv 360" group-title="CanliTV", Tv 360
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv-360
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Tv8 İnt" group-title="CanliTV", Tv8 İnt
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv8intcanli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="A2 Tv" group-title="CanliTV", A2 Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/a2-tv-canli-kesintisiz
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Euro Star" group-title="CanliTV", Euro Star
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eurostar-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Euro D" group-title="CanliTV", Euro D
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eurod-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="ATV Avrupa" group-title="CanliTV", ATV Avrupa
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/atv-avrupa-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="D Max" group-title="CanliTV", D Max
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/d-max-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TLC Tv" group-title="CanliTV", TLC Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tlctv-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="CBC Sport" group-title="CanliTV", CBC Sport
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cbcsportcanli-hd
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="İdman Tv" group-title="CanliTV", İdman Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/idmantvcanli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="İctimai Tv" group-title="CanliTV", İctimai Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ictimai-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="CanliTV", Cartoon Network
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cartoon-network
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Minika Çocuk" group-title="CanliTV", Minika Çocuk
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/minika-cocuk-16
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Minika Go" group-title="CanliTV", Minika Go
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/minika-go-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Çocuk" group-title="CanliTV", TRT Çocuk
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtcocuk-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="GS Tv" group-title="CanliTV", GS Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/gs-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="FB Tv" group-title="CanliTV", FB Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/fb-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Belgesel" group-title="CanliTV", TRT Belgesel
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtbelgesel-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Sports Tv" group-title="CanliTV", Sports Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sports-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Cem Tv" group-title="CanliTV", Cem Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cem-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TV42" group-title="CanliTV", TV42
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv42
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Bengütürk Tv" group-title="CanliTV", Bengütürk Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/benguturk-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Akıllı Tv" group-title="CanliTV", Akıllı Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/akilli-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Milli Piyango TV" group-title="CanliTV", Milli Piyango TV
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/milli-piyango-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="İbb Tv" group-title="CanliTV", İbb Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ibb-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Eba Tv İlkokul" group-title="CanliTV", TRT Eba Tv İlkokul
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eba-tv-ilkokul
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Eba Tv Ortaokul" group-title="CanliTV", TRT Eba Tv Ortaokul
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eba-tv-ortaokul
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Eba Tv Lise" group-title="CanliTV", TRT Eba Tv Lise
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eba-tv-lise
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Meltem Tv" group-title="CanliTV", Meltem Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/meltem-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Disney Channel" group-title="CanliTV", Disney Channel
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/disneychannelcanli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TGRT EU" group-title="CanliTV", TGRT EU
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tgrt-eu
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TGRT Belgesel" group-title="CanliTV", TGRT Belgesel
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tgrt-belgesel
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kon Tv" group-title="CanliTV", Kon Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kon-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Ülke Tv" group-title="CanliTV", Ülke Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ulke-tv-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Olay Tv" group-title="CanliTV", Olay Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/olay-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Ses Tv" group-title="CanliTV", Ses Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ses-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Az Tv" group-title="CanliTV", Az Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/az-tv-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kral Tv" group-title="CanliTV", Kral Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kral-tv-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kral Pop Tv" group-title="CanliTV", Kral Pop Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kral-pop-tv-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Vatan Tv" group-title="CanliTV", Vatan Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/vatan-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Müzik" group-title="CanliTV", TRT Müzik
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtmuzik-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Dream Türk" group-title="CanliTV", Dream Türk
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/dreamturk-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Bizimev Tv" group-title="CanliTV", Bizimev Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bizimev-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="A Para" group-title="CanliTV", A Para
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/a-para-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Power Türk Tv" group-title="CanliTV", Power Türk Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/power-turk-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Köy Tv" group-title="CanliTV", Köy Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/koy-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Number One Tv" group-title="CanliTV", Number One Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/number-one-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Power Tv" group-title="CanliTV", Power Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/power-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Xezer Tv" group-title="CanliTV", Xezer Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/xezer-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Tek Rumeli Tv" group-title="CanliTV", Tek Rumeli Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tek-rumeli-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Number One Türk Tv" group-title="CanliTV", Number One Türk Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/number-one-turk-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Yaban Tv" group-title="CanliTV", Yaban Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/yaban-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Slow Karadeniz Tv" group-title="CanliTV", Slow Karadeniz Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/slow-karadeniz-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Semerkand Tv" group-title="CanliTV", Semerkand Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/semerkand-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Planet Türk" group-title="CanliTV", Planet Türk
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/planet-turk
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Show Türk" group-title="CanliTV", Show Türk
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/show-turk-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Edirne Tv" group-title="CanliTV", Edirne Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/edirne-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Fil Tv" group-title="CanliTV", Fil Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/fil-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Beşiktaş Tv" group-title="CanliTV", Beşiktaş Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/besiktas-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Planet Çocuk" group-title="CanliTV", Planet Çocuk
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/planet-cocuk
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Arapça" group-title="CanliTV", TRT Arapça
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtarapca-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Bursaspor Tv" group-title="CanliTV", Bursaspor Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bursaspor-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="CanliTV", Tivibu Spor
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tivibusporcanli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Tay TV" group-title="CanliTV", Tay TV
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tjktvcanli-yayin
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Türkmen Sport" group-title="CanliTV", Türkmen Sport
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/turkmen-sport
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Rüdaw Tv" group-title="CanliTV", Rüdaw Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/rudaw-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Kürdi" group-title="CanliTV", TRT Kürdi
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtkurdi-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="ATV Azad Tv" group-title="CanliTV", ATV Azad Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/atv-azad-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kanal B" group-title="CanliTV", Kanal B
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-b-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Türk" group-title="CanliTV", TRT Türk
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtturk-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TVNET" group-title="CanliTV", TVNET
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tvnet
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Dost Tv" group-title="CanliTV", Dost Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/dost-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Tv4" group-title="CanliTV", Tv4
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv4
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT World" group-title="CanliTV", TRT World
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtworldcanli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT Avaz" group-title="CanliTV", TRT Avaz
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtavaz-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Diyanet Tv" group-title="CanliTV", Diyanet Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/diyanet-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Uçankuş Tv" group-title="CanliTV", Uçankuş Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ucankus-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kocaeli Tv" group-title="CanliTV", Kocaeli Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kocaeli-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Show Max" group-title="CanliTV", Show Max
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/show-max-canli
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Space Tv" group-title="CanliTV", Space Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/space-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Akit Tv" group-title="CanliTV", Akit Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/akit-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Medine Tv" group-title="CanliTV", Medine Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/medine-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Ekin Tv" group-title="CanliTV", Ekin Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ekin-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TvEM" group-title="CanliTV", TvEM
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tvem
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Damla Tv" group-title="CanliTV", Damla Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/damla-tv-hd-izle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Halk Tv Euro" group-title="CanliTV", Halk Tv Euro
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/halk-tv-euro-3
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Av Tv" group-title="CanliTV", Av Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/av-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Hilal Tv" group-title="CanliTV", Hilal Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/hilal-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="FRM Tv HD" group-title="CanliTV", FRM Tv HD
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/frm-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Muz Tv" group-title="CanliTV", Muz Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/muz-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kanal V" group-title="CanliTV", Kanal V
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-v
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Sony Mutfak" group-title="CanliTV", Sony Mutfak
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sony-mutfak
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kidz Animez" group-title="CanliTV", Kidz Animez
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kidz-animez
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Medeniyet Tv" group-title="CanliTV", Medeniyet Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/medeniyet-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kaçkar Tv" group-title="CanliTV", Kaçkar Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kackar-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Düğün Tv" group-title="CanliTV", Düğün Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/dugun-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Bursa Tv" group-title="CanliTV", Bursa Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bursa-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Sony Channel Türkiye" group-title="CanliTV", Sony Channel Türkiye
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sony-channel-turkiye
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Lider Tv" group-title="CanliTV", Lider Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/lider-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Milyon Tv" group-title="CanliTV", Milyon Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/milyon-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TRT 2" group-title="CanliTV", TRT 2
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trt2canlihd
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Gaziantep Olay Tv" group-title="CanliTV", Gaziantep Olay Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/gaziantep-olay-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="1 TV Georgia" group-title="CanliTV", 1 TV Georgia
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/1-tv-georgia
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kanal 26" group-title="CanliTV", Kanal 26
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal26
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kanal 3" group-title="CanliTV", Kanal 3
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-3
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Kanal 68" group-title="CanliTV", Kanal 68
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-68
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Lalegül TV" group-title="CanliTV", Lalegül TV
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/lalegul-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Yat Tv" group-title="CanliTV", Yat Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/yat-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Bereket Tv" group-title="CanliTV", Bereket Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bereket-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Bereket Hayvancılık Tv" group-title="CanliTV", Bereket Hayvancılık Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bereket-hayvancilik-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Roman Tv" group-title="CanliTV", Roman Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/roman-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="TV1" group-title="CanliTV", TV1
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv1-izle
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="Tv52" group-title="CanliTV", Tv52
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv-52
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:-1 tvg-name="BRT Tv" group-title="CanliTV", BRT Tv
-https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/karabuk-brt-tv
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-
-#EXTINF:0,NPO 1
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/12.ts
-#EXTINF:0,NPO 2
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8087/20.ts
-#EXTINF:0,NPO ZAPPELEN
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8087/24.ts
-#EXTINF:0,RTL 4
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8087/28.ts
-#EXTINF:0,Z SELECT
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/0.ts
-#EXTINF:0,EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/8.ts
-#EXTINF:0,ESPN
-#EXTVLCOPT:network-caching=1000
-http://62.131.195.211:8086/4.ts
-#EXTINF:0,EEURONEWS
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4000/euronews.ts
-#EXTINF:0,CNBC
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4000/cnbc.ts
-#EXTINF:0,BBCNEWS
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4000/bbcnews.ts
-#EXTINF:0,DW HD
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4001/dw_hd.ts
-#EXTINF:0,TRT WORLD
-#EXTVLCOPT:network-caching=1000
-http://46.47.113.35:4002/trtworld.ts
-
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
-
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
-http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 tvg-name="STAR TV" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
-https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="ULUSAL",CNBC-E
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="ULUSAL",ATV AVRUPA
-https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="SHOW TURK" tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/rtCJSqm/show-turk.png" group-title="ULUSAL",SHOW TURK
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
-#EXTINF:-1 tvg-name="EUROSTAR" tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="ULUSAL",EUROSTAR
-https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8
-#EXTINF:-1 tvg-name="TV8 International" tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="ULUSAL",TV 8 INT
-https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="SHOW MAX" tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="ULUSAL",SHOW MAX
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 #EXTINF:-1 tvg-name="TRT Turk" tvg-id="TRTTurk.tr" tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png" group-title="ULUSAL",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
@@ -1380,127 +292,34 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="A2 HD" tvg-id="A2TV.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2
-https://c.fulltvizle.com/a2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-name="WOMAN TV" tvg-id="WomanTV.tr" tvg-logo="https://i.ibb.co/bHTjDyk/woman-tv.png" group-title="ULUSAL",WOMAN TV
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 tvg-name="TGRT EU" tvg-id="TGRTEU.tr" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png" group-title="ULUSAL",TGRT EU
-https://tgn.bozztv.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Tivi 6" tvg-id="Tivi6.tr" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="ULUSAL",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="BIR TV" tvg-id="" tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png" group-title="ULUSAL",BIR TV
-https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="CINE5 TV" tvg-id="" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="ULUSAL",CINE5 TV
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="ULUSAL",CINE1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-##EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/GFP51yN/trt-3-spor.png" group-title="SPOR",TRT 3 SPOR
-##http://162.212.179.32/gin-dvrfl05/gin-trtspor3/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
-https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR",TV 8.5
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-name="A SPOR" tvg-id="ASpor.tr" tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="SPOR",A SPOR
-https://c.fulltvizle.com/aspor/index.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SportsTV.tr" tvg-logo="https://i.ibb.co/R3q43dk/sportstv.png" group-title="SPOR",SPORTS TV
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="FB TV" tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="SPOR",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="GS TV HD" tvg-id="GSTV.tr" tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SPOR",GS TV HD
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV
-https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV YURT DISI
-https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
-##EXTINF:-1 tvg-name="TAY TV" tvg-id="TAYTV.tr" tvg-logo="https://i.ibb.co/J3Pb4qv/tay-tv.png" group-title="SPOR",TAY TV
-##https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/taytv.m3u8
-
-
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
-https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-name="A HABER" tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="HABER",A HABER
-https://c.fulltvizle.com/ahaber/index.m3u8
-#EXTINF:-1 tvg-name="A PARA HD" tvg-id="APara.tr" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="HABER",A PARA HD
-http://185.234.111.229:8000/play/a01l
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
-#EXTINF:-1 tvg-name="SÖZCÜ TV HD" tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="HABER",SOZCU TV
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
-#EXTINF:-1 tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="HABER",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
-#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-id="BloombergHT.tr" tvg-logo="https://i.ibb.co/PTNvZkD/bloomberg-ht.png" group-title="HABER",BLOOMBERG HT
-https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-name="Haberturk TV" tvg-id="HaberturkTV.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABERTURK
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
-#EXTINF:-1 tvg-name="24 TV" tvg-id="40" tvg-id="24TV.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="HABER",24
-https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
-#EXTINF:-1 tvg-name="Ulusal 1" tvg-id="UlusalKanal.tr" tvg-logo="https://i.ibb.co/vvZss13/ulusal-tv.png" group-title="HABER",ULUSAL TV
-https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
-#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
-https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
-#EXTINF:-1 tvg-name="TELE 1" tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="HABER",TELE 1
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-name="KRT" tvg-id="KRT.tr" tvg-logo="https://i.ibb.co/F8WT2QK/krt.png" group-title="HABER",KRT
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://krtdvr.blutv.com/blutv_krt_live_dvr/live_720p4350000kbps/index.m3u8
-#EXTINF:-1 tvg-name="TVNET" tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-name="EKOTURK" tvg-id="Ekoturk.tr" tvg-logo="https://i.ibb.co/F4csSTY/ekoturk.png" group-title="HABER",EKOTURK
-https://ythls.kekikakademi.org/youtube/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
-#EXTINF:-1 tvg-name="Akit TV" tvg-id="AkitTV.tr" tvg-logo="https://i.ibb.co/MBwzD2b/akit-tv.png" group-title="HABER",AKIT TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 tvg-name="BENGUTURK TV" tvg-id="BenguturkTV.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="HABER",BENGU TURK
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-name="TURKHABER" tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="HABER",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Flash TV" tvg-id="FlashTV.tr" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="HABER",FLASH HABER
-https://ythls.kekikakademi.org/youtube/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8
-
-
 #EXTINF:-1 tvg-name="Number 1 TV" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="MUZIK",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
-#EXTINF:-1 tvg-name="MILYON TV" tvg-id="" tvg-logo="https://i.ibb.co/sQRhqCs/milyon-tv.png" group-title="MUZIK",MILYON TV
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" group-title="MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 tvg-name="TATLISES TV" tvg-id="Tatlıses.Tv.tr" tvg-logo="https://i.ibb.co/yRy9zwt/tatlises-tv.png" group-title="MUZIK",TATLISES TV
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 #EXTINF:-1 tvg-name="Number 1 Ask" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title="MUZIK",NR1 ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Number 1 Damar" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/2yCF7ms/nr1-damar.png" group-title="MUZIK",NR1 DAMAR
@@ -1513,223 +332,7 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Dream Turk" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="PowerTurk TV" tvg-id="PowerTurkTV.tr" tvg-logo="https://i.ibb.co/xXcBD2C/powerturk.png" group-title="MUZIK",POWER TURK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
-#EXTINF:-1 tvg-name="Power TV" tvg-id="PowerTV.tr" tvg-logo="https://i.ibb.co/JrXDQJy/power-tv.png" group-title="MUZIK",POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
 #EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-id="" tvg-logo="https://i.ibb.co/F5K5xs9/powerturk-taptaze.png" group-title="MUZIK",POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER DANCE" tvg-id="" tvg-logo="https://i.ibb.co/5hwZ7xw/power-dance.png" group-title="MUZIK",POWER DANCE
-https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER LOVE" tvg-id="" tvg-logo="https://i.ibb.co/bJL1VnX/power-love.png" group-title="MUZIK",POWER LOVE
-https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER TURK AKUSTIK" tvg-id="" tvg-logo="https://i.ibb.co/XFY7dCW/powerturk-akustik.png" group-title="MUZIK",POWER TURK AKUSTIK
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-id="" tvg-logo="https://i.ibb.co/R4pcKqK/powerturk-slow.png" group-title="MUZIK",POWER TURK SLOW
-https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
-
-
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="Çocuk&Eğitim",Zarok TV Kürtçe
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="MALUM YAYINLAR ",EROTiK
-#EXTINF:0,XXX: Penthouse Gold HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992
-#EXTINF:0,XXX| Penthouse Reality TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993
-#EXTINF:0,XXX: Babes TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994
-#EXTINF:0,XXX: BangU
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995
-#EXTINF:0,XXX: Barely Legal
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48996
-#EXTINF:0,XXX: Blue Hustler
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997
-#EXTINF:0,XXX: Brazzers TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998
-#EXTINF:0,XXX: Dorcel TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999
-#EXTINF:0,XXX: Dorcel XXX TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49000
-#EXTINF:0,XXX: Erox HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001
-#EXTINF:0,XXX: Eroxxx HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002
-#EXTINF:0,XXX: Evil Angel HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49003
-#EXTINF:0,XXX: Extasy
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49004
-#EXTINF:0,XXX: Fantazzy TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49005
-#EXTINF:0,XXX: Hustler
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49006
-#EXTINF:0,XXX: Hustler HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49007
-#EXTINF:0,XXX: Playboy TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49008
-#EXTINF:0,XXX: Private TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49009
-#EXTINF:0,XXX: Pure Babes
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010
-#EXTINF:0,XXX: Reality Kings
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011
-#EXTINF:0,XXX: Redlight HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49012
-#EXTINF:0,XXX: Vivid Red HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49013
-#EXTINF:0,XXX: Super One
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014
-#EXTINF:0,XXX: XY plus
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015
-#EXTINF:0,XXX: XY max
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016
-#EXTINF:0,XXX: XY mix
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017
-
-#EXTINF:0,TRT 4K
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-#EXTINF:0,TR: TRT1 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839
-#EXTINF:0,TR: TRT 1
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48840
-#EXTINF:0,TR: TRT2 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
-#EXTINF:0,TR: TRT TURK HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48842
-#EXTINF:0,TR: TRT TURK
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48843
-#EXTINF:0,TR: ATV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
-#EXTINF:0,TR: ATV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48847
-#EXTINF:0,TR: SHOW HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
-#EXTINF:0,TR: SHOW TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
-#EXTINF:0,TR: SHOW Turk HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
-#EXTINF:0,TR: STAR TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
-#EXTINF:0,TR: STAR TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48852
-#EXTINF:0,TR: EUROSTAR SD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853
-#EXTINF:0,TR: Kanal D HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
-#EXTINF:0,TR: KANAL D
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48855
-#EXTINF:0,TR: EURO D HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856
-#EXTINF:0,TR: EURO D
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48857
-#EXTINF:0,TR: NOW TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
-#EXTINF:0,TR: TV 8 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
-#EXTINF:0,TR: TV 8 SD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48860
-#EXTINF:0,TR: TV 8 INT
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
-#EXTINF:0,TR: TV 8.5 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
-#EXTINF:0,TR: KANAL 7 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48863
-#EXTINF:0,TR: TV8 5
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864
-#EXTINF:0,TR: KANAL 7
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48865
-#EXTINF:0,TR: KANAL 7 AVRUPA
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48866
-#EXTINF:0,TR: SHOW MAX HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
-#EXTINF:0,TR: SHOW MAX
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868
-#EXTINF:0,TR: TGRT EU
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48869
-#EXTINF:0,TR: TEVE2 HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
-#EXTINF:0,TR: Teve 2
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48871
-#EXTINF:0,TR: TLC
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
-#EXTINF:0,TR: A2 TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
-#EXTINF:0,TR: A2
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48874
-#EXTINF:0,TR: FX HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
-#EXTINF:0,TR: 360 TV HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
-#EXTINF:0,TR: BLOOMBERGHT HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
-#EXTINF:0,TR: TV 100
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
-#EXTINF:0,TR: HALK TV
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
-
