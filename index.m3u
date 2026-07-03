@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" url-tvg="https://streams.uzunmuhalefet.com/epg/tr.xml" | SON GÜNCELLENME 25.06.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"| SON GÜNCELLENME 04.07.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
 #EXTINF:3702,TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="STAR TV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="ULUSAL", STAR TV HD
