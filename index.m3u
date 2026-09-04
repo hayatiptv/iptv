@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml"| SON GÜNCELLENME 04.09.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan
 #EXTINF:-1 tvg-id="TRT1"  group-title="ULUSAL",TRT1
-http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT 4K.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&s" group-title="ULUSAL",TRT 4K
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
 #EXTINF:-1 tvg-id="NOW TV"  group-title="ULUSAL",NOW TV
