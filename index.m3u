@@ -918,3 +918,5 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT ARABI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-arabi.png" tvg-country="TR" tvg-language="ara" group-title="GLOBAL",TRT ARABI HD
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-name="Alabbassia TV" tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" tvg-country="IQ" tvg-language="ara" group-title="RELIGIOUS",Alabbassia TV (1080p)
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
